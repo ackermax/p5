@@ -8,7 +8,7 @@ session-number: 56 - Jaak
 # Session 56 - Jaak — 2026-05-18
 
 > **In-game date:** 
-> **Location:** [[]]
+> **Location:** [[Waterdeep]]
 
 ## Recap (One Paragraph)
 

@@ -210,12 +210,12 @@
 
 ## 📁 Folder Map
 
-| Folder | Contents |
-|---|---|
-| `01-Sessions` | One note per session |
-| `02-Party` | PC notes |
-| `03-NPCs` | Every named NPC |
-| `04-Locations` | Cities, dungeons, regions |
-| `05-Quests` | Active and completed quests |
-| `06-Lore` | Factions, the Ordening, items, world stuff |
-| `99-Templates` | Note templates |
+| Folder         | Contents                                   |
+| -------------- | ------------------------------------------ |
+| `01-Sessions`  | One note per session                       |
+| `02-Party`     | PC notes                                   |
+| `03-NPCs`      | Every named NPC                            |
+| `04-Locations` | Cities, dungeons, regions                  |
+| `05-Quests`    | Active and completed quests                |
+| `06-Lore`      | Factions, the Ordening, items, world stuff |
+| `99-Templates` | Note templates                             |

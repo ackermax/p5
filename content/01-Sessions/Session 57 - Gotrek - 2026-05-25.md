@@ -8,7 +8,7 @@ session-number: 57 - Gotrek
 # Session 57 - Gotrek — 2026-05-25
 
 > **In-game date:** 
-> **Location:** [[]]
+> **Location:** [[Waterdeep]]
 
 ## Recap (One Paragraph)
 
