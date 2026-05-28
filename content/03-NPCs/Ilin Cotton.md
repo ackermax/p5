@@ -10,7 +10,7 @@ faction: Harpers
 > **Race:** Halfling
 > **Role / Instrument:** Keytarist — "the only keytar player anyone had ever seen"
 > **Affiliation:** **[[Harpers]]** (confirmed session 56)
-> **Status:** **Alive and active as of a few weeks ago** — was at [[Tavern Misty Beard]] looking for [[Rulf Cloudfang]] and [[Malkyn Serpentwind]]; has since **departed for [[Other Locations|Yartar]]** to chase a [[Cult of Cyric|Cult of C]] lead (per Malkyn, session 57)
+> **Status:** **Alive and active as of a few weeks ago** — was at [[Tavern Misty Beard]] looking for [[Rulf Cloudfang]] and [[Malkyn Serpentwind]]; has since **departed for [[Yartar]]** to chase a [[Cult of Cyric|Cult of C]] lead (per Malkyn, session 57)
 > **Disposition:** Ally
 
 ## Major Revelation (Session 56)
@@ -30,7 +30,7 @@ We found his trail at the **[[Tavern Misty Beard]]**, talking to [[Malkyn Serpen
 
 - **Ilin was here a few weeks ago.** He was **looking for [[Rulf Cloudfang]]** — to deal with him over the cult.
 - He is **alive** and **not in cult captivity** as of that visit.
-- He left Waterdeep heading **to [[Other Locations|Yartar]]** — there is a cult lead there.
+- He left Waterdeep heading **to [[Yartar]]** — there is a cult lead there.
 - He is **looking for [[Harpers]]** (so the discovery/contact-lost period did happen, but he is now trying to re-establish contact, not in hiding from us).
 - He frames the cult's current work as **"end of the world stuff."**
 
@@ -73,7 +73,7 @@ That night, when it was time to perform, **Ilin was nowhere to be found**. He ha
 - ~~Was he captured by the cult?~~ — **no, he extracted himself and kept investigating**
 - What's the "**problem with his legs**" — injury from his investigation?
 - Were he and [[Estelle Moonglow Platinum]] (also a Harper) in contact?
-- **What's the [[Other Locations|Yartar]] lead specifically?** — a cell? a person? the location of the "end of the world" event?
+- **What's the [[Yartar]] lead specifically?** — a cell? a person? the location of the "end of the world" event?
 
 ## Why It Matters Now
 

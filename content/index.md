@@ -26,6 +26,6 @@ title: The Adventures of the Phandalin Five
 - **[[The Waterdeep Ultimate Brawl]]** — registered; event imminent in [[Waterdeep]]
 - **[[The Shanker Job]]** — recover [[Thomas]]'s locket from the sewers (gate to his alliance)
 - **[[Reckoning With The Cult Of Cyric]]** — Estelle and Jaak's old enemy, very much resurfacing
-- **[[Find Ilin Cotton]]** — alive, ahead of us, headed for [[Other Locations|Yartar]]
+- **[[Find Ilin Cotton]]** — alive, ahead of us, headed for [[Yartar]]
 
 See [[Home]] for the full thread list.

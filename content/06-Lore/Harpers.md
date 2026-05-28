@@ -22,7 +22,7 @@ tags: [lore, faction, ally]
 
 ## Strongholds & Concentrations
 
-- **[[Other Locations|Yartar]]** — Harper stronghold
+- **[[Yartar]]** — Harper stronghold
 - **[[Waterdeep]]** — many Harpers; **Tribourgh** is named; **Harpers Den entrance is on the coastal side of the city**
 - **Baldur's Gate** — Jaheira and others
 

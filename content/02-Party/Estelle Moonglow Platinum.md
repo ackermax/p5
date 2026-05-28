@@ -49,7 +49,7 @@ In her late teens she discovered that **money had been anonymously sent to the m
 
 - **Harp pin** + **Harp bow** ([[Harpers]] iconography)
 - **2 green vials** — needs identification by an herbalist or alchemist
-- **5 cursed seeds** — taken from [[Sevembra]] before she could plant them in [[Goldenfields]]. The seeds would have seemed to work at first, then killed all crops. **Sold to Sevembra by [[Lamin]]** of [[Other Locations|Yartar]]. See [[The Cursed Seeds]].
+- **5 cursed seeds** — taken from [[Sevembra]] before she could plant them in [[Goldenfields]]. The seeds would have seemed to work at first, then killed all crops. **Sold to Sevembra by [[Lamin]]** of [[Yartar]]. See [[The Cursed Seeds]].
 - **Necromancer's journal** (Death Knight ritual) found in [[Kryptgarden Forest]] — *Cult of Cyric origin* per the party's read. See [[The Death Knight Ritual]].
 
 ## Personal Arc Threads

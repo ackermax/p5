@@ -15,7 +15,7 @@ status: partial
 
 ## Source
 
-[[Lamin]] — vendor of exotic flora out of [[Other Locations|Yartar]] — **sold the seeds to Sevembra**.
+[[Lamin]] — vendor of exotic flora out of [[Yartar]] — **sold the seeds to Sevembra**.
 
 ### Lamin's Profile
 - Wears fedora and a coat; high charisma; a bit shady

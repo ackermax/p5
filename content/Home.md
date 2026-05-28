@@ -7,6 +7,10 @@
 > **Party:** [[The Phandalin Five]]
 > **Source of Truth:** This vault. **Source Notes:** [[Original Notes - Raw Archive (Through Session 55)]] (Gotrek's & Jaak's voices, preserved)
 
+## 📖 Previously, in Waterdeep — [[Session 57 - Var - 2026-05-25|Session 57]] (2026-05-25)
+
+The party tracked [[Ilin Cotton]] to the [[Tavern Misty Beard]] and met its boss, [[Malkyn Serpentwind]] — [[Jaak Greye|Jaak]]'s old bandmate, now wheelchair-bound and coughing (the doctors blame "trauma" — Jaak isn't buying it). Malkyn confirmed Ilin is ahead of us, heading to **[[Yartar]]** on a [[Cult of Cyric|Cult of C]] "end of the world" lead, and hinted **[[Rulf Cloudfang|Rulf]] is a puppet** ("had no choice"). Back at [[Blackstaff Academy]], the party tested **speed / jump / flight runes** for [[Harrick Stonequill]] — each PC walked away with one — and collected the first Ulfgardian relic, a statue of **[[Stronmaus]]**, as payment. [[Drizzt Do'Urden|Drizzt]] then guided them into the sewers to meet [[Thomas]], who offered alliance in exchange for recovering a locket the [[Shankers]] stole; [[Stabio]] is now leading the party through Shanker territory. The session ended after clearing the first wave of ratmen and giant crocs — multiple paths into the hideout still unexplored ([[The Shanker Job]]).
+
 ## 🔥 Active Threads
 
 ### Main Spine — Cosmic
@@ -37,7 +41,7 @@
 
 ### Personal Arcs
 - **[[Find Gotreks Brother]] / Stop Kayalithica** — [[Gotrek Runehammer]] — *escalated session 56*: brother [[Eldrin]] alive in hiding; **[[Thane Kayalithica]] is trying to destroy the dream world**; return to the [[Cradle of the Stonegiants]]
-- **[[Find Ilin Cotton]]** — [[Jaak Greye]] — *updated session 57*: **alive, ahead of us, headed to [[Other Locations|Yartar]]** on a Cult-of-C lead. Also: **fix [[Malkyn Serpentwind]]'s legs.**
+- **[[Find Ilin Cotton]]** — [[Jaak Greye]] — *updated session 57*: **alive, ahead of us, headed to [[Yartar]]** on a Cult-of-C lead. Also: **fix [[Malkyn Serpentwind]]'s legs.**
 - **[[Find Rulf Cloudfang]]** — last seen Neverwinter; high-value capture
 - **[[Estelles True Identity]]** — mother, benefactor, "Moonglow Platinum"
 - **[[Jaaks Celestial War]]** — kidnapped for his ascension-blood; recovering memories of celestial war
@@ -58,7 +62,7 @@
 - **Who recently kidnapped [[Jaak Greye]]?** — they want godhood through his blood
 - **[[The Beliard Mystery|Who runs the face-eaters?]]** — the unsigned note's recipient
 - **Who pulls [[Rulf Cloudfang|Rulf]]'s strings?** — S57: Rulf told Malkyn he "had no choice"; **Rulf may be a puppet** of someone higher in the cult
-- **What's the [[Other Locations|Yartar]] cult lead?** — what [[Ilin Cotton]] is chasing; possibly the "end of the world stuff" venue
+- **What's the [[Yartar]] cult lead?** — what [[Ilin Cotton]] is chasing; possibly the "end of the world stuff" venue
 - **[[Lords Alliance|Lord's Alliance compromise]]** — "bad people high up?"
 - **[[Doom of the Desert]]** — why is she hunting [[Zephyros]]?
 - **What is [[Countess Sansuri]] on the verge of?** — "power beyond our reach is stirring"
@@ -162,7 +166,8 @@
 - [[Blackstaff Academy]] — Vajra's school; Harrick's rune workshop in the basement
 - [[Corellon's Crown]] — Harper-recommended potion shop, Waterdeep
 - [[Cradle of the Stonegiants]] — Gotrek's origin; staging ground vs Kayalithica
-- [[Other Locations]] — Daggerford, Nightstone, Beliard, Triboar, Womford, Red Larch, Yartar, Everlund, Silverymoon, Kryptgarden Forest, Iriaebor, Candlekeep, Neverwinter, Conyberry, Wyvern Tor, Ardeep, Astoria, Moonshay Isles, Elturel, the Maelstrom...
+- [[Yartar]] — Harper stronghold; [[Ilin Cotton]]'s current destination on a [[Cult of Cyric|Cult of C]] lead
+- [[Other Locations]] — Daggerford, Nightstone, Beliard, Triboar, Womford, Red Larch, Everlund, Silverymoon, Kryptgarden Forest, Iriaebor, Candlekeep, Neverwinter, Conyberry, Wyvern Tor, Ardeep, Astoria, Moonshay Isles, Elturel, the Maelstrom...
 
 ## 📚 Lore & Reference
 

@@ -42,4 +42,4 @@ Rulf is the **highest-value capture target** in the entire Cult of Cyric arc. **
 
 ## Cross-Reference
 
-[[Ilin Cotton]] is also hunting Rulf — and is now in [[Other Locations|Yartar]] chasing a related cult lead. If we reach Yartar, expect to either meet Ilin or pick up his trail toward Rulf.
+[[Ilin Cotton]] is also hunting Rulf — and is now in [[Yartar]] chasing a related cult lead. If we reach Yartar, expect to either meet Ilin or pick up his trail toward Rulf.

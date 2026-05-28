@@ -63,7 +63,7 @@ tags: [lore, items, index]
 
 ## Locations Of Wealth / Trade
 
-- **Golden Goose** in [[Other Locations|Yartar]] — *not* a gambling den; refined; needs **special invitation** to enter
+- **Golden Goose** in [[Yartar]] — *not* a gambling den; refined; needs **special invitation** to enter
 - **The Gambling Den** in [[Waterdeep]] — 2 blocks right, 2 blocks left from somewhere. "Gold pays, luck pays more."
 - **Animal fights** in [[Waterdeep]] — **Camilla** (woman) and **Hoberts** (man) work there
 - **Steam and Steel** alley — smiths in Waterdeep

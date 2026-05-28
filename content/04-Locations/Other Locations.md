@@ -59,9 +59,7 @@ Shorter location notes. Promote any of these to their own file when content grow
 - See [[Goldenfields]] for the full file
 
 ### Yartar
-- **[[Harpers]] stronghold**
-- **Lamin** is based out of here ([[The Cursed Seeds]])
-- **The Golden Goose** — refined gambling house, **needs special invitation**
+- See [[Yartar]] for the full file
 
 ### Womford
 - *Was* a merchant hub

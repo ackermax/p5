@@ -278,7 +278,7 @@ On decent terms with [[Halia Thorton]].
 **Shrine of luck** - town center - pray - **Lady Tymora**
 [[Sister Garaele]] - Shrine of luck attendant
 
-[[Harpers]] - secretive organization - Sister Garaele is member - stronghold in [[Other Locations|Yartar]]
+[[Harpers]] - secretive organization - Sister Garaele is member - stronghold in [[Yartar]]
 
 [X] [[Quest For The Spellbook|Quest to find powerful artifact, a spellbook, legend of bogentle]], most powerful spellcaster.
 Find [[Agatha]] who lives north of [[Other Locations|Conyberry]]. Go to Agatha and get information about the spellbook, ask her if she has it or where it might be. Daran knows her. **Eladrin** is what Agatha is, she is not an elf, From fey wilds. Arrogant. She was killed near Conyberry, haunts the area.
@@ -510,7 +510,7 @@ She gave us a **scroll of dimension door**, 500 ft teleport, can bring someone w
 
 [[Aerglas]] left goldenfields 30 years ago. Unnatural amount of time. Very powerful druid.
 
-**[[Lamin]]**, [[Other Locations|Yartar]] (Vendor of Exotic Flora who sold Mysterious Seeds to Sevembra). Had a wagon full of things inside. Lamin wears fedora, and a coat, was a bit shady. High charisma. Wagon was red and white, a symbol with a black dove. - Rode through [[Other Locations|Beliard]], passed through. Harbalist bought stuff from him. Some guys at Watchful Knight. And a guy at the farm. Father of the stableboy Clinch bought something. Came from Goldenfields, heading to Everlund.
+**[[Lamin]]**, [[Yartar]] (Vendor of Exotic Flora who sold Mysterious Seeds to Sevembra). Had a wagon full of things inside. Lamin wears fedora, and a coat, was a bit shady. High charisma. Wagon was red and white, a symbol with a black dove. - Rode through [[Other Locations|Beliard]], passed through. Harbalist bought stuff from him. Some guys at Watchful Knight. And a guy at the farm. Father of the stableboy Clinch bought something. Came from Goldenfields, heading to Everlund.
 
 [ ] figure out what Lamin was up to when he sold the seeds to Sevembra.
 

@@ -15,7 +15,7 @@ Find **[[Ilin Cotton]]** — the halfling keytarist who took in Jaak as a child,
 
 ## Current Lead (Session 57 — Updated)
 
-- **Headed to [[Other Locations|Yartar]]** chasing a [[Cult of Cyric|Cult of C]] lead (per [[Malkyn Serpentwind]] at [[Tavern Misty Beard]])
+- **Headed to [[Yartar]]** chasing a [[Cult of Cyric|Cult of C]] lead (per [[Malkyn Serpentwind]] at [[Tavern Misty Beard]])
 - **Was at the Misty Beard a few weeks ago**, looking for [[Rulf Cloudfang]] and Malkyn
 - **Alive, mobile, actively investigating** — not in cult captivity
 - Frames the cult's current work as **"end of the world stuff"**
@@ -44,7 +44,7 @@ Find **[[Ilin Cotton]]** — the halfling keytarist who took in Jaak as a child,
 
 ## Leads
 
-- ⭐ **[[Other Locations|Yartar]]** — current destination per [[Malkyn Serpentwind]]. Catch up to him there.
+- ⭐ **[[Yartar]]** — current destination per [[Malkyn Serpentwind]]. Catch up to him there.
 - The [[Harpers]] themselves — they have his last reports; he is also looking for them, so a meet in Yartar via a Harper cell is plausible
 - [[Malkyn Serpentwind]] — saw him most recently; may know which contact in Yartar
 - Other former [[The Traveling Wilmelons|Wilmelons]]: [[Anastas Glorybluff]] (knew Rulf's cult dealings)
@@ -60,5 +60,5 @@ Find **[[Ilin Cotton]]** — the halfling keytarist who took in Jaak as a child,
 
 - ✅ Visit [[Tavern Misty Beard]] (session 57)
 - ✅ Confirm he is alive and free (session 57)
-- ⬜ **Travel to / send word to [[Other Locations|Yartar]]** to catch him
+- ⬜ **Travel to / send word to [[Yartar]]** to catch him
 - ⬜ Coordinate with [[Harpers]] — share that he's alive and trying to reconnect

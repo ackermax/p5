@@ -55,7 +55,7 @@ Our earlier intel said **Elturel/Alturel completely disappeared, sunk into Avern
 
 ### Yartar Booming — The Golden Goose Draws Crowds
 
-> The city of [[Other Locations|Yartar]] continues to grow in wealth and popularity thanks in part to the mysterious gambling hall known as **the Golden Goose**. Known for its luxurious games and extravagant prizes, the Golden Goose has become a destination for nobles, merchants, and thrill-seekers alike. However, **entry is strictly by invitation**, making the establishment one of the most exclusive attractions in the North.
+> The city of [[Yartar]] continues to grow in wealth and popularity thanks in part to the mysterious gambling hall known as **the Golden Goose**. Known for its luxurious games and extravagant prizes, the Golden Goose has become a destination for nobles, merchants, and thrill-seekers alike. However, **entry is strictly by invitation**, making the establishment one of the most exclusive attractions in the North.
 
 Confirms the invitation-only nature of the **Golden Goose** in Yartar. The illustration shows it as a **massive multi-deck ship** (or ship-shaped building) — visually it reads like a ship, not a building. **The "5,000 gp ticket" we'd heard about elsewhere may be the invitation cost.**
 

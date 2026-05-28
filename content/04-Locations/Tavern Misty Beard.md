@@ -32,7 +32,7 @@ The Misty Beard is the **junction point** between the cult-side hunt (Ilin / Rul
 
 ### Confirmed Through Here (Session 57)
 
-- **[[Ilin Cotton]]** — was here a few weeks ago; left for **[[Other Locations|Yartar]]** chasing a [[Cult of Cyric|Cult of C]] lead
+- **[[Ilin Cotton]]** — was here a few weeks ago; left for **[[Yartar]]** chasing a [[Cult of Cyric|Cult of C]] lead
 - **[[Rulf Cloudfang]]** — was here ~6 months ago in a black cloak, eager to talk to Malkyn, worried he was being watched
 - **[[Malkyn Serpentwind]]** — the boss; in a wheelchair, coughing; doctors call it "trauma" (Jaak suspects a cover story)
 

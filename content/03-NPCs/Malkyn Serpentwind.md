@@ -23,7 +23,7 @@ location: Waterdeep
 
 ## What He Told Us (Session 57)
 
-- **[[Ilin Cotton]] was here a few weeks ago** — has since left for [[Other Locations|Yartar]] to chase a [[Cult of Cyric|Cult of C]] lead
+- **[[Ilin Cotton]] was here a few weeks ago** — has since left for [[Yartar]] to chase a [[Cult of Cyric|Cult of C]] lead
 - **[[Rulf Cloudfang]] stopped by about half a year ago** — in a black cloak, shady, searching for someone, **concerned that someone was watching him**
 - Rulf was looking for **Ilin**; Ilin was at the Misty Beard looking for **Rulf** — they kept missing each other
 - **Knows about the abduction of children.** Rulf told him he **"had no choice"** and **"didn't know what was at stake."** Malkyn's read: **Rulf is a puppet.**

@@ -45,7 +45,7 @@ This doesn't make him less dangerous, and doesn't change that he beats people an
 
 ## Open Questions
 
-- ~~What happened to [[Ilin Cotton]]?~~ — Ilin is alive; they were hunting *each other* (Ilin now ahead, in [[Other Locations|Yartar]])
+- ~~What happened to [[Ilin Cotton]]?~~ — Ilin is alive; they were hunting *each other* (Ilin now ahead, in [[Yartar]])
 - **What is the leverage holding Rulf?** (per Malkyn's "puppet" read)
 - What is Rulf's relationship to the cult leader specifically?
 - How many of the Wilmelons are still loyal to him?

@@ -70,7 +70,7 @@ Crime syndicate. **Attacked Nightstone**, now dominates **Womford**. Sworn enemi
 Retired adventuring band. "Not decent people" per Harper assessment. Built ties to the [[Black Network|Zhentarim]]. **[[Skeemo Wierdbottle]] is a former member.** Other members and current activity unknown.
 
 ### Lion Shield Merchant Empire
-A merchant empire with an outpost in [[Phandalin]] (lion on a shield emblem). **Powerful.** Leader in [[Other Locations|Yartar]]. **Jack** travels with their goods. Status: **unclear — we're not enemies but they're listed alongside threats**.
+A merchant empire with an outpost in [[Phandalin]] (lion on a shield emblem). **Powerful.** Leader in [[Yartar]]. **Jack** travels with their goods. Status: **unclear — we're not enemies but they're listed alongside threats**.
 
 ### Flying Snakes / Zhentarim Front
 "Bad groups" — almost certainly Zhentarim cover identities.

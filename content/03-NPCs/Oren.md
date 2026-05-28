@@ -27,5 +27,5 @@ location: Goldenfields (last known)
 ## Why He Matters
 
 - **Best lead on [[Ilin Cotton]]'s whereabouts in [[Waterdeep]]**
-- The "games" hint: maybe the **Gambling Den** ("gold pays, luck pays more") or the **Golden Goose** in [[Other Locations|Yartar]]?
+- The "games" hint: maybe the **Gambling Den** ("gold pays, luck pays more") or the **Golden Goose** in [[Yartar]]?
 - **Misty Beard tavern** is the specific lead — Oren or someone he knows pointed there
