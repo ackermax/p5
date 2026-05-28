@@ -29,7 +29,3 @@ title: The Adventures of the Phandalin Five
 - **[[Find Ilin Cotton]]** — alive, ahead of us, headed for [[Other Locations|Yartar]]
 
 See [[Home]] for the full thread list.
-
-## About
-
-The vault is the source of truth — **player-side notes only, no spoilers from outside the game**. New here? [[README - Start Here]] covers the folder layout and how a session note gets written.

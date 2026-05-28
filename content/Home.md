@@ -219,9 +219,3 @@
 | `05-Quests` | Active and completed quests |
 | `06-Lore` | Factions, the Ordening, items, world stuff |
 | `99-Templates` | Note templates |
-
-## 🆘 How To Use This Vault
-
-See [[README - Start Here]] for setup, plugin recommendations, sync options, and the per-session workflow.
-
-The one rule: **type `[[brackets]]` around every name as you write**. That's the whole magic.
