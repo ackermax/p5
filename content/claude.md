@@ -44,7 +44,11 @@ Wait for an answer before proceeding on the ambiguous item. Keep working on unre
 The standing weekly task:
 1. Scan for new files since last update
 2. Read new session entries and propagate facts to the files they touch — `Home.md` threads, NPC `Current Tasks` / `Open Threads` sections, location cross-references, faction notes
-3. **Refresh the "Previously, in …" recap at the top of `Home.md`** — replace it with a 4–6 sentence condensed recap of the *most recent* session. The section lives directly under the Source-of-Truth blockquote and immediately above `🔥 Active Threads`; the heading takes the form `## 📖 Previously, in <location> — [[Session NN - <PC> - YYYY-MM-DD|Session NN]] (YYYY-MM-DD)`. Always **replace** the previous recap rather than appending — only the latest session belongs there. Wiki-link the NPCs, places, factions, and quest threads referenced, and bias toward the facts the party would want to remember at the start of next session (live leads, cliffhangers, new items, new alliances). This step is **mandatory on every vault update**, not optional — do it without being asked.
+3. **Refresh the "Previously, in …" recap on both `Home.md` AND `index.md`** — replace it with a 4–6 sentence condensed recap of the *most recent* session. The **same recap block goes in both files** and must be kept in sync.
+   - In `Home.md`: the section lives directly under the Source-of-Truth blockquote and immediately above `🔥 Active Threads`.
+   - In `index.md`: the section lives directly under the `## Start Here` block and immediately above `## The Party`.
+   - The heading takes the form `## 📖 Previously, in <location> — [[Session NN - <PC> - YYYY-MM-DD|Session NN]] (YYYY-MM-DD)`.
+   - Always **replace** the previous recap rather than appending — only the latest session belongs there. Wiki-link the NPCs, places, factions, and quest threads referenced, and bias toward the facts the party would want to remember at the start of next session (live leads, cliffhangers, new items, new alliances). This step is **mandatory on every vault update**, not optional — do it without being asked.
 4. Format-check new files against the vault's existing conventions (frontmatter, headings, wiki-links)
 5. Surface a list of questions for anything ambiguous before finalizing
 

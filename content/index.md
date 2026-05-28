@@ -12,6 +12,10 @@ title: The Adventures of the Phandalin Five
 - **[[The Phandalin Five]]** — the party
 - **Latest session (57, 2026-05-25):** [[Session 57 - Var - 2026-05-25|Var]] · [[Session 57 - Jaak - 2026-05-25|Jaak]] · [[Session 57 - Gotrek - 2026-05-25|Gotrek]]
 
+## 📖 Previously, in Waterdeep — [[Session 57 - Var - 2026-05-25|Session 57]] (2026-05-25)
+
+The party tracked [[Ilin Cotton]] to the [[Tavern Misty Beard]] and met its boss, [[Malkyn Serpentwind]] — [[Jaak Greye|Jaak]]'s old bandmate, now wheelchair-bound and coughing (the doctors blame "trauma" — Jaak isn't buying it). Malkyn confirmed Ilin is ahead of us, heading to **[[Yartar]]** on a [[Cult of Cyric|Cult of C]] "end of the world" lead, and hinted **[[Rulf Cloudfang|Rulf]] is a puppet** ("had no choice"). Back at [[Blackstaff Academy]], the party tested **speed / jump / flight runes** for [[Harrick Stonequill]] — each PC walked away with one — and collected the first Ulfgardian relic, a statue of **[[Stronmaus]]**, as payment. [[Drizzt Do'Urden|Drizzt]] then guided them into the sewers to meet [[Thomas]], who offered alliance in exchange for recovering a locket the [[Shankers]] stole; [[Stabio]] is now leading the party through Shanker territory. The session ended after clearing the first wave of ratmen and giant crocs — multiple paths into the hideout still unexplored ([[The Shanker Job]]).
+
 ## The Party
 
 - [[Var Borgal]] — Human Aberrant Mind Sorcerer
