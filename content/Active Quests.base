@@ -1,0 +1,19 @@
+filters:
+  and:
+    - file.inFolder("05-Quests")
+    - status == "active"
+properties:
+  status:
+    displayName: Status
+  giver:
+    displayName: Given by
+  location:
+    displayName: Location
+views:
+  - type: table
+    name: Active Quests
+    order:
+      - file.name
+      - giver
+      - location
+      - status
