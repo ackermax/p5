@@ -13,7 +13,7 @@ region: Waterdeep
 
 ## Description
 
-A potion shop in [[Waterdeep]] — the [[Harpers]] recommended it to us as a trustworthy alternative to [[Skeemo Wierdbottle]]'s shop.
+A potion shop in [[Waterdeep]] — the [[Harpers]] recommended it to us as a trustworthy alternative to [[Skeemo Weirdbottle]]'s shop.
 
 ## Naming
 
@@ -22,11 +22,11 @@ Named for **Corellon Larethian** — patron god of the elves, one of the most po
 ## What We Did Here
 
 - Stopped in to **sell some potions** (and possibly buy some)
-- Compare-and-contrast against Wierdbottle Concoctions
+- Compare-and-contrast against Weirdbottle Concoctions
 
 ## Why It Matters
 
 - **Harper-recommended** = vouched alternative supply
-- **Our backup vendor** for anything we'd otherwise have to source from [[Skeemo Wierdbottle|Skeemo]]
+- **Our backup vendor** for anything we'd otherwise have to source from [[Skeemo Weirdbottle|Skeemo]]
 - Possibly a **safe drop point** if we need to leave a message for Harpers in Waterdeep
-- Could be where we eventually try to **identify [[Estelle Moonglow Platinum]]'s green vials**, alongside Wierdbottle's
+- Could be where we eventually try to **identify [[Estelle Moonglow Platinum]]'s green vials**, alongside Weirdbottle's

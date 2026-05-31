@@ -26,7 +26,7 @@ Confirmed in [[Session 56 - Jaak - 2026-05-18|session 56]]:
 
 ## The Wanted Poster
 
-[[Estelle Moonglow Platinum]] recovered a wanted poster from [[Skeemo Wierdbottle]]'s back room. Cardon is **hunting [[Var Borgal]] specifically**:
+[[Estelle Moonglow Platinum]] recovered a wanted poster from [[Skeemo Weirdbottle]]'s back room. Cardon is **hunting [[Var Borgal]] specifically**:
 
 ![[Var Wanted Poster.png]]
 
@@ -54,7 +54,7 @@ Confirmed in [[Session 56 - Jaak - 2026-05-18|session 56]]:
 ## What This Tells Us
 
 - **Cardon wants Var alive** — wants intel ("where he sleeps. Who he speaks to. What he's afraid of") — capture, not kill
-- **The wanted poster ended up at [[Skeemo Wierdbottle|Skeemo's]] shop** — Cardon is networking with the [[Black Network|Zhentarim]]-adjacent underworld in Waterdeep
+- **The wanted poster ended up at [[Skeemo Weirdbottle|Skeemo's]] shop** — Cardon is networking with the [[Black Network|Zhentarim]]-adjacent underworld in Waterdeep
 - **He knows Var may use aliases** — sophisticated, expects deception
 - **He's an outsider here** — uses informants rather than personal recognition
 - "**Council of the Underworld**" is a new faction — Cardon is *meeting with* them, not running them

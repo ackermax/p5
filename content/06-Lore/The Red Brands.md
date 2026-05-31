@@ -25,7 +25,7 @@ tags: [lore, faction, completed, antagonist]
 
 ## Outcome
 
-Defeated and dispersed. Glasstaff (Iarno Albrek) was *the* missing person [[Psildor Halwinter]] had been sent to find. Tresendar Manor cleared. **[[Mirna]]** was rescued from the manor — she's from [[Thundertree]], looking for an heirloom (alchemist's house, plague).
+Defeated and dispersed. Glasstaff (Iarno Albrek) was *the* missing person [[Sildar Hallwinter]] had been sent to find. Tresendar Manor cleared. **[[Mirna]]** was rescued from the manor — she's from [[Thundertree]], looking for an heirloom (alchemist's house, plague).
 
 ## Loose Ends
 

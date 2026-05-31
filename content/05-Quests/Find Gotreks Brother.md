@@ -32,7 +32,7 @@ Locate [[Gotrek Runehammer]]'s brother. Last lead was that he was searching for 
 
 ## Working The Lead
 
-- **[[Psildor Halwinter]] was gathering info** — open thread, but now overtaken by Eldrin's direct contact
+- **[[Sildar Hallwinter]] was gathering info** — open thread, but now overtaken by Eldrin's direct contact
 - [[Gotrek Runehammer]]'s **runes** reference [[Skoraeus Stonebones]] and the [[Stone Giant Factions|Dreamwalker]] symbol
 - [[Harrick Stonequill]] remains the best-positioned scholar for understanding Kayalithica's "vile" plan — *how* destroys a realm?
 - **[[Skoraeus Stonebones]] is a demigod, son of Amand, not on this plane.** Those who represent his will are called **Danes**.

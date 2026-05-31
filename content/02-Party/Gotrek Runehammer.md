@@ -84,7 +84,7 @@ This makes [[Thane Kayalithica]] one of the campaign's headline threats — peer
 ## Key Contacts For Gotrek's Arc
 
 - [[Harrick Stonequill]] — giant-lore specialist, makes the runes glow
-- [[Psildor Halwinter]] — researching the brother
+- [[Sildar Hallwinter]] — researching the brother
 - [[Skoraeus Stonebones]] — referenced in the runes
 - [[Stonadar]] — stone giant from one of the two factions
 - [[Harshnag]] — frost giant ally; speaks Giant natively with Gotrek

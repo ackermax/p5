@@ -7,12 +7,12 @@ location: Daggerford / Northfurrows Inn
 # Yamir
 
 > **Profession:** Merchant out of **Calimshan**
-> **Status:** **Betrayed by [[Lady Morin Daggerford]]** — current state unknown
+> **Status:** **Betrayed by [[Lady Morwen Daggerford]]** — current state unknown
 > **Disposition:** Was friendly to the party
 
 ## What He Was
 
-A Calimshan merchant looking to expand his trade circle. Done business with [[Lady Morin Daggerford]] and **Nobles from Baldur's Gate**. Was in [[Other Locations|Daggerford]] for a few days, staying at the **Northfurrows Inn** in [[Goldenfields]].
+A Calimshan merchant looking to expand his trade circle. Done business with [[Lady Morwen Daggerford]] and **Nobles from Baldur's Gate**. Was in [[Other Locations|Daggerford]] for a few days, staying at the **Northfurrows Inn** in [[Goldenfields]].
 
 ## The Betrayal
 

@@ -10,7 +10,7 @@ aliases: [Lords Alliance]
 ## Structure (As We Know It)
 
 - **Cloaks** — public-facing branch; [[Redknife]] is named as a contact
-- **Verdants** — the "branch" or "outpost" structure. [[Psildor Halwinter]] was of the Griffin Army, a Verdant unit
+- **Verdants** — the "branch" or "outpost" structure. [[Sildar Hallwinter]] was of the Griffin Army, a Verdant unit
 - **Griffin Army / Griffin Riders** — winged cavalry; **[[Thogard]]** leads them; specialty: fighting traps and large-scale aerial ops
 - **Order of the Gilded Eye** — broke away from the Order of the Gauntlet but allied
 - **[[Other Locations|Order of the Gauntlet]]** — paladin/cleric branch, criticized for being "too straightforward"
@@ -18,10 +18,10 @@ aliases: [Lords Alliance]
 ## Key Members We've Met
 
 - **[[Laeral Silverhand]]** — Open Lord of Waterdeep
-- **[[Psildor Halwinter]]** — Sheriff of Phandalin, retired Griffin Army
+- **[[Sildar Hallwinter]]** — Sheriff of Phandalin, retired Griffin Army
 - **[[Thogard]]** — Leader of the Gryphon Riders
 - **Commander Hawkwinter** — Waterdeep military
-- **[[Lady Morin Daggerford]]** — Duchess of Daggerford (also Force Grey)
+- **[[Lady Morwen Daggerford]]** — Duchess of Daggerford (also Force Grey)
 
 ## Current State
 

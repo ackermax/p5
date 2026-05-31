@@ -8,11 +8,11 @@ region: Sword Coast
 
 > **Type:** Town
 > **Region:** Sword Coast
-> **Sheriff:** [[Psildor Halwinter]]
+> **Sheriff:** [[Sildar Hallwinter]]
 
 ## Notable NPCs
 
-- [[Psildor Halwinter]] — Sheriff; retired Knight of the Griffin Army ([[Lords Alliance|Lord's Alliance]])
+- [[Sildar Hallwinter]] — Sheriff; retired Knight of the Griffin Army ([[Lords Alliance|Lord's Alliance]])
 - [[Gundren Rockseeker]] — building his manor here
 - [[Halia Thorton]] — Miners Exchange owner; **only one not intimidated by the Red Brands**
 - [[Sister Garaele]] — Shrine of Luck attendant; openly a [[Harpers|Harper]]

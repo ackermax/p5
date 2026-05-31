@@ -31,7 +31,7 @@ Quick-reference page for NPCs we've met but don't have detailed notes on yet. Pr
 
 ## Daggerford / Nightstone
 
-- **Chamberlain Gregor** — Lady Morin Daggerford's chief-of-staff; well-regarded
+- **Chamberlain Gregor** — Lady Morwen Daggerford's chief-of-staff; well-regarded
 - **Velrosa Nandar** — Lady of [[Other Locations|Nightstone]]; **died in the attack**
 - **Roderick** — captain of the guard at Nightstone
 - **Goblin in cloth shop** — has the seal of Daggerford
@@ -88,8 +88,8 @@ Quick-reference page for NPCs we've met but don't have detailed notes on yet. Pr
 ## Wilmelons & The Cult Cell
 
 - See [[The Traveling Wilmelons]] for the full troupe
-- **Amen Voss** — gnome with whitish-purple hair; **sold "Kiki the abomination" to Barnaby Baxter**. Unknown what Kiki is.
-- **Barnaby Baxter** — purchaser of Kiki
+- **Amen Voss** — gnome with whitish-purple hair; **sold "Kiki the abomination" to [[Barnaby Baxter]]**. Unknown what Kiki is.
+- **Barnaby Baxter** — *see [[Barnaby Baxter]]* — the Leonin **Ringmaster** of the [[The Exquisites Investigation|Circus of New Beginnings]] (the same person we freed, formerly logged as "Barnabus"); buying Kiki fits a circus act
 
 ## Servants Of Bahamut (False)
 
@@ -120,5 +120,5 @@ See [[Ulfgardian Mounds]] for full context.
 - See [[Stonadar]], [[Harshnag]], [[Hekaton]], [[Guh]], [[Memnor]] for the main players.
 - **Gurt** — frost giant defeated by humans; once one of the strongest giants ever
 - **Uthgar (Ulfguard)** — ulfgardian hero who slew Gurt; became god of strength
-- **Duke Zalto / Zalto** — **King of the Fire Giants** ("Duke Zalto") — tyrannical; kept orcs as slaves; we got the **rod (points to [[Vonindod]])** and **adamantine ring** from his territory at Nightstone
+- **Duke Zalto / Zalto** — **King of the Fire Giants** ("Duke Zalto") — tyrannical; kept orcs as slaves; **rebuilding [[Vonindod]]**. *(Note: the **rod** and **adamantine ring** were once logged as taken from Zalto's people at Nightstone — per DM correction the rod came from the giants hunting Vonindod parts and the ring from the Fire Giants at [[Other Locations|Triboar]]; see [[Items and References]].)*
 - **Battle Ragers** — 3 dwarves in spiky armor at the **Stagger Horn Flagon** — warriors of note

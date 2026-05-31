@@ -18,7 +18,7 @@ aliases:
 
 ## Strategic Implications
 
-- **An enemy's enemy.** Xanathar fights the Zhentarim; we are positioned against the Zhentarim through the [[Harpers]] and through the [[Skeemo Wierdbottle|Skeemo]] investigation.
+- **An enemy's enemy.** Xanathar fights the Zhentarim; we are positioned against the Zhentarim through the [[Harpers]] and through the [[Skeemo Weirdbottle|Skeemo]] investigation.
 - That does **not** make Xanathar an ally. Two criminal organizations carving up territory often produces an environment that hurts everyone caught between them.
 - Worth knowing they're present and active when planning sewer routes / underground meetings.
 

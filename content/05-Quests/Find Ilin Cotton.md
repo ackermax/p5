@@ -40,7 +40,7 @@ Find **[[Ilin Cotton]]** — the halfling keytarist who took in Jaak as a child,
 - **Captured by the cult** — being held somewhere connected to the [[The Circle]]'s operations in Waterdeep
 - **In hiding** in Waterdeep — alive but cannot expose himself
 - **Killed by the cult** after the discovery
-- **Subject of Enhanced Torpor** — possibly *he* was the previous target who "resisted," prompting the cult to commission [[Skeemo Wierdbottle]] for an improved dose
+- **Subject of Enhanced Torpor** — possibly *he* was the previous target who "resisted," prompting the cult to commission [[Skeemo Weirdbottle]] for an improved dose
 
 ## Leads
 

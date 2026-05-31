@@ -4,19 +4,25 @@ status: active
 location: Daggerford
 race: Human
 faction: Force Grey
+aliases:
+  - Lady Morin Daggerford
+  - Morin Daggerford
+  - Lady Morin
 ---
 
-# Lady Morin Daggerford
+# Lady Morwen Daggerford
 
 > **Title:** Duchess of [[Other Locations|Daggerford]]
 > **Affiliation:** **[[Force Grey]]** member
 > **Disposition:** **Mixed — she betrayed [[Yamir]]**, and is the current holder of [[Jaak Greye]]'s **spider staff**
 
+> **Name note:** The DM has confirmed her name is **Morwen** (2026-05-29); earlier vault notes rendered it "Morin," which was a mishearing. The old spelling is kept as an alias so older links still resolve.
+
 ## Profile
 
 A tough woman who built [[Other Locations|Daggerford]] into "the jewel of the Sword Coast." Force Grey member — fighter type.
 
-Her **Chamberlain Gregor** is a kind-of chief-of-staff; the guard considers him a decent fair man. Lady Morin relies heavily on him.
+Her **Chamberlain Gregor** is a kind-of chief-of-staff; the guard considers him a decent fair man. Lady Morwen relies heavily on him.
 
 ## Active Conflicts With The Party
 

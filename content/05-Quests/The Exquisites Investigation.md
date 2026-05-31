@@ -5,9 +5,9 @@ status: partially resolved
 
 # The Exquisites Investigation
 
-> **Status:** Partially resolved — circus dismantled in Waterdeep; rebranded under freed Ringmaster [[Barnabus]]; the broader face-eater operation continues
+> **Status:** Partially resolved — circus dismantled in Waterdeep; rebranded under freed Ringmaster [[Barnaby Baxter]]; the broader face-eater operation continues
 > **Original Ringmaster (impostor):** Vander
-> **Current Ringmaster (real):** [[Barnabus]] — freed from underground captivity
+> **Current Ringmaster (real):** [[Barnaby Baxter]] — freed from underground captivity
 > **New name:** **The Circus of New Beginnings**
 
 ## What We Found In Waterdeep
@@ -17,8 +17,8 @@ status: partially resolved
 - **Children were stored underground**
 - **All the real circus people were trapped underground** — the "performers" we saw were wearing their faces
 - Confirmed the working theory: **face-stealers / doppelgangers**
-- ✅ **Prisoners freed**, including the real **[[Barnabus]]** — the rightful Ringmaster
-- ✅ The rebranded **Circus of New Beginnings** is rebuilding under Barnabus; he is **competing alongside us** in [[The Waterdeep Ultimate Brawl]]
+- ✅ **Prisoners freed**, including the real **[[Barnaby Baxter]]** — the rightful Ringmaster
+- ✅ The rebranded **Circus of New Beginnings** is rebuilding under Barnaby Baxter; he is **competing alongside us** in [[The Waterdeep Ultimate Brawl]]
 
 ## What's Still Out There
 

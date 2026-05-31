@@ -25,7 +25,7 @@ draft: true
 `[[double brackets]]`. Type them around any name and Obsidian links to (or creates) a note for it. As you write a session recap, do this for every NPC, place, item, and quest. Over a few sessions you'll have a network of interconnected notes you can navigate by clicking, search, or visualize in the Graph View (`Ctrl/Cmd+G`).
 
 Example, written naturally during a session:
-> We met [[Psildor Halwinter]] at [[Stonehill Inn]] in [[Phandalin]]. He's looking for [[Gundren Rockseeker]] and offered us 50gp to find him.
+> We met [[Sildar Hallwinter]] at [[Stonehill Inn]] in [[Phandalin]]. He's looking for [[Gundren Rockseeker]] and offered us 50gp to find him.
 
 That's four wiki-pages worth of structure, written like a sentence.
 

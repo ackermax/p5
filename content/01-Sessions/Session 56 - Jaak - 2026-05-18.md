@@ -16,7 +16,7 @@ session-number: 56 - Jaak
 
 ## Key Events
 
-[ ] Meet with [[Skeemo Wierdbottle]] in two days to sell potion of Longevity. We are agreed to not sell Oil of Etherealness to Skeemo even though he offered 3k Gold for it (50% more than it typically sells for, he appeared highly motivated to acquire it.)
+[ ] Meet with [[Skeemo Weirdbottle]] in two days to sell potion of Longevity. We are agreed to not sell Oil of Etherealness to Skeemo even though he offered 3k Gold for it (50% more than it typically sells for, he appeared highly motivated to acquire it.)
 
 [[Cardon Malefic]] arrived from distant land to meet with people of Waterdeep. Cardon is powerful, need to keep an eye on him. Var needs to learn as much as possible. Information is power. He needs to be active.
 

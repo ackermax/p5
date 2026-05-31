@@ -46,7 +46,7 @@ The look on Cardon's face said it all. Var gathered what he could and stole away
 ## Personal Arc Threads
 
 - **The cloaked glowing man** — appeared the night Var's family died, appeared again to awaken Var's powers. Same person? What does he want?
-- **[[Cardon Malefic]] and the inquisition** — Var fled them, but they're presumably still after him. He was meant to lead them; instead he became their first target. As of [[Session 56 - Var - 2026-05-18]], **a wanted poster from Cardon was recovered from [[Skeemo Wierdbottle]]'s shop** — Cardon is now actively hunting Var on the Sword Coast, working with the **"Council of the Underworld."** Cardon wants Var **alive**.
+- **[[Cardon Malefic]] and the inquisition** — Var fled them, but they're presumably still after him. He was meant to lead them; instead he became their first target. As of [[Session 56 - Var - 2026-05-18]], **a wanted poster from Cardon was recovered from [[Skeemo Weirdbottle]]'s shop** — Cardon is now actively hunting Var on the Sword Coast, working with the **"Council of the Underworld."** Cardon wants Var **alive**.
 - **Self-loathing over the awakening** — Var's flaw is real: he hates magic users, including himself. Roleplay tension every time he casts a spell.
 - **Plays politics on the side** — Var had a **private conversation with [[Halia Thorton]]** in [[Phandalin]] and claims he convinced her to use a "merchants guild coin." What this coin actually is and what it represents is worth tracking — Var may have committed the party to something.
 - **New alias: "The Shadow's Heir"** — picked up in Waterdeep. Provenance unclear; how widely it's known is unclear. Worth tracking.

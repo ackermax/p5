@@ -32,4 +32,4 @@ tags: [lore, faction, mystery, var-arc]
 
 - ⬜ Identify members
 - ⬜ Find out where they meet
-- ⬜ Determine if **[[Skeemo Wierdbottle]]** is connected (his shop hosted both the cult letter and the Cardon wanted poster — he's plugged into multiple lines)
+- ⬜ Determine if **[[Skeemo Weirdbottle]]** is connected (his shop hosted both the cult letter and the Cardon wanted poster — he's plugged into multiple lines)

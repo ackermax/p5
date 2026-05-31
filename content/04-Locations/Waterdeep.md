@@ -40,8 +40,8 @@ See [[Force Grey]].
 - **Tribourgh** — Harper concentration
 - **Harpers Den** — entrance is on the **coastal side** of Waterdeep
 - **[[Tavern Misty Beard]]** — [[Ilin Cotton]]'s last known location (active investigation)
-- **[[Corellon's Crown]]** — Harper-recommended potion shop; alternative to Wierdbottle's
-- **Wierdbottle Concoctions** — [[Skeemo Wierdbottle]]'s shop; suspected Zhentarim asset, confirmed Cult of Cyric supplier
+- **[[Corellon's Crown]]** — Harper-recommended potion shop; alternative to Weirdbottle's
+- **Weirdbottle Concoctions** — [[Skeemo Weirdbottle]]'s shop; suspected Zhentarim asset, confirmed Cult of Cyric supplier
 - **Bank of Waterdeep** — letter of credit cashable here
 - **Force Grey** base of operations
 - **Sewers** — [[Thomas]]'s network; also **Xanathar's Guild** territory (powerful guild fighting the [[Black Network]] — both live in the sewers)
@@ -58,7 +58,7 @@ See [[Force Grey]].
 ## Ongoing Threads
 
 ### Active In Waterdeep
-- ⬜ **Investigate [[Skeemo Wierdbottle]]** — Harper assignment; recover evidence of his Zhentarim ties; **active**
+- ⬜ **Investigate [[Skeemo Weirdbottle]]** — Harper assignment; recover evidence of his Zhentarim ties; **active**
 - ⬜ **Find [[Ilin Cotton]]** — start at [[Tavern Misty Beard]]; blonde, skinny, leg problems; was Harper investigating Cult of C
 - ⬜ **Investigate [[Cardon Malefic]]** — Harper-flagged; meeting with the Council of the Underworld in Waterdeep
 - ⬜ **Meet [[Drizzt Do'Urden]] at 10 PM sharp** — he'll take us to [[Thomas]]
@@ -74,7 +74,7 @@ See [[Force Grey]].
 - ✅ Met Volo at the Yawning Portal
 - ✅ Andressa fortune teller — identified as doppelganger; got fortunes told
 - ✅ Met Tarm Nephew at the gambling den
-- ✅ [[The Exquisites Investigation|The Exquisites circus]] dismantled here — kidnapped children freed; [[Barnabus]] (the real Ringmaster) recovered
+- ✅ [[The Exquisites Investigation|The Exquisites circus]] dismantled here — kidnapped children freed; [[Barnaby Baxter]] (the real Ringmaster) recovered
 - ✅ Fistfight with Order of the Kraken at Bloody Fist — concluded peacefully
 - ✅ **Rescued [[King]] from the gambling den** — Wazoo's "FOUND!" ad → Bloody Fist → Kraken intel → gambling den
 - ✅ Declined Gregory Strongwood's scummy quest

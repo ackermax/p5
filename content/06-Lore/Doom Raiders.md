@@ -13,7 +13,7 @@ aliases:
 - **Retired** — no longer adventuring together
 - **Members were "not decent people"** — per Harper assessment
 - **Created ties to the [[Black Network|Zhentarim]]** during or after their adventuring career
-- **[[Skeemo Wierdbottle]] is a former member** — currently runs Wierdbottle Concoctions in [[Waterdeep]]
+- **[[Skeemo Weirdbottle]] is a former member** — currently runs Weirdbottle Concoctions in [[Waterdeep]]
 - **The [[Harpers]] are watching them** — believe they are still operating quietly, especially Skeemo
 
 ## Why They Matter

@@ -9,10 +9,10 @@ tags: [lore, faction, index]
 ## Allied / Friendly
 
 ### [[Lords Alliance|Lord's Alliance]]
-**Cloaks / Verdants** — the public-facing branch ([[Psildor Halwinter]] is one). Psildor and [[Thogard]] are key contacts. Sir Joseph belongs to them. They have **given us the [[Northern Beaches Frost Giants]] quest** and are working with [[Force Grey]] on the [[Find Hekaton|Ordening]]. Notes warn: **bad people high up?**
+**Cloaks / Verdants** — the public-facing branch ([[Sildar Hallwinter]] is one). Sildar and [[Thogard]] are key contacts. Sir Joseph belongs to them. They have **given us the [[Northern Beaches Frost Giants]] quest** and are working with [[Force Grey]] on the [[Find Hekaton|Ordening]]. Notes warn: **bad people high up?**
 
 ### [[Force Grey]]
-Elite [[Waterdeep]] adventuring company. [[Harshnag]], [[Thomas]], [[Lady Morin Daggerford]], [[Interitus]], and Marlis are members.
+Elite [[Waterdeep]] adventuring company. [[Harshnag]], [[Thomas]], [[Lady Morwen Daggerford]], [[Interitus]], and Marlis are members.
 
 ### [[Harpers]]
 Secretive anti-tyranny organization. **[[Estelle Moonglow Platinum]] and [[Jaak Greye]] carry Harper pins.** [[Sister Garaele]] is openly a member; [[Krowen Valharrow]] likely allied; [[Laeral Silverhand]] reportedly connected.
@@ -35,7 +35,7 @@ Detectives we worked with on the [[Kryptgarden Forest]] gold thief case. Found t
 ## Neutral / Conditional
 
 ### [[The Exquisites Investigation|The Exquisites]] / Circus of New Beginnings
-**Originally a face-eater operation** dismantled in [[Waterdeep]]. The real Ringmaster **[[Barnabus]]** was a prisoner; we freed him. The **Circus of New Beginnings** is now the real circus, rebuilding. Barnabus is competing with us at the Brawl. The **broader face-eater operation continues** — see [[The Beliard Mystery]].
+**Originally a face-eater operation** dismantled in [[Waterdeep]]. The real Ringmaster **[[Barnaby Baxter]]** was a prisoner; we freed him. The **Circus of New Beginnings** is now the real circus, rebuilding. Barnaby Baxter is competing with us at the Brawl. The **broader face-eater operation continues** — see [[The Beliard Mystery]].
 
 ### [[The Traveling Wilmelons]]
 [[Jaak Greye]]'s former troupe. Led by **[[Rulf Cloudfang]]**, allied with [[Cult of Cyric]]. [[Anastas Glorybluff]] (defected) and [[Malkyn Serpentwind]] (broken) are surviving members the party can work with.
@@ -46,7 +46,7 @@ Detectives we worked with on the [[Kryptgarden Forest]] gold thief case. Found t
 ## Hostile — Active Threats
 
 ### [[Cult of Cyric]]
-Estelle and Jaak's enemy. Mother monastery still active. Ran [[The Death Knight Ritual]] (we stopped one cell). Likely the [[The Cult in Helms Hold|Helm's Hold cult]]. Operates an inner body called **[[The Circle]]** (confirmed session 56) — commissioning [[Skeemo Wierdbottle]] for Enhanced Torpor.
+Estelle and Jaak's enemy. Mother monastery still active. Ran [[The Death Knight Ritual]] (we stopped one cell). Likely the [[The Cult in Helms Hold|Helm's Hold cult]]. Operates an inner body called **[[The Circle]]** (confirmed session 56) — commissioning [[Skeemo Weirdbottle]] for Enhanced Torpor.
 
 ### [[The Circle]]
 **Inner ranks of the [[Cult of Cyric]].** Referenced in the recovered cult letter ("The Circle turns... the Circle will remember"). Specific members and meeting place unknown.
@@ -58,7 +58,7 @@ Hidden, well-resourced, "preparing something grand." **[[Tiamat]] active again, 
 Elemental Evil cult, going around looking for allies. Active on the Sword Coast.
 
 ### [[Black Network]] (Zhentarim)
-Crime syndicate. **Attacked Nightstone**, now dominates **Womford**. Sworn enemies of the [[Harpers]]. **May have bad people inside the [[Lords Alliance|Lord's Alliance]]**. **[[Skeemo Wierdbottle]] is a suspected asset.**
+Crime syndicate. **Attacked Nightstone**, now dominates **Womford**. Sworn enemies of the [[Harpers]]. **May have bad people inside the [[Lords Alliance|Lord's Alliance]]**. **[[Skeemo Weirdbottle]] is a suspected asset.**
 
 ### [[Xanathars Guild|Xanathar's Guild]]
 **Powerful [[Waterdeep]] guild** living in the sewers. **Fighting against the [[Black Network|Zhentarim]].** Status: not our ally, but not our enemy yet.
@@ -67,7 +67,7 @@ Crime syndicate. **Attacked Nightstone**, now dominates **Womford**. Sworn enemi
 **Unknown faction in [[Waterdeep]]** — what [[Cardon Malefic]] is meeting with since arriving. Faction nature, members, and home base all unknown.
 
 ### [[Doom Raiders]]
-Retired adventuring band. "Not decent people" per Harper assessment. Built ties to the [[Black Network|Zhentarim]]. **[[Skeemo Wierdbottle]] is a former member.** Other members and current activity unknown.
+Retired adventuring band. "Not decent people" per Harper assessment. Built ties to the [[Black Network|Zhentarim]]. **[[Skeemo Weirdbottle]] is a former member.** Other members and current activity unknown.
 
 ### Lion Shield Merchant Empire
 A merchant empire with an outpost in [[Phandalin]] (lion on a shield emblem). **Powerful.** Leader in [[Yartar]]. **Jack** travels with their goods. Status: **unclear — we're not enemies but they're listed alongside threats**.
@@ -106,7 +106,7 @@ See [[The Ordening]] and [[Stone Giant Factions]].
 See [[Stone Giant Factions]] — **Rockspeakers / Stoneshapers** vs **Dreamwalkers / Dreamweavers**. **[[Thane Kayalithica]]** (Stoneshaper) is currently trying to **destroy the dream world** to bring Dreamweavers under her command.
 
 ### Fire Giants
-Led by **Duke Zalto** (a.k.a. Salto). **Rebuilding [[Vonindod]].** Kept orcs as slaves; we recovered the **rod** and **adamantine ring** at Nightstone.
+Led by **Duke Zalto** (a.k.a. Salto). **Rebuilding [[Vonindod]].** Kept orcs as slaves. We recovered the **Rod of Vornindod** (from the giants hunting Vonindod parts) and the **adamantine ring** (from the Fire Giants at [[Other Locations|Triboar]]) — *sourcing corrected per DM 2026-05-29; previously logged as Zalto's loot at Nightstone.*
 
 ### Hill Giants
 **[[Guh]]** at **[[Grudd Haug]]** is gathering an army. Eats and eats to "grow large enough to touch the sky." [[Ogg]] is the friendly outlier.

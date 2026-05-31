@@ -25,7 +25,7 @@ This reframes the relic quest: relics aren't tools we keep; they're **sacrifices
 - [[Harshnag]] and [[Force Grey]] are allied — and Force Grey is *actively* working on this
 - [[Klauth]] has gifted us the airship [[Ignitamis]] (needs repair)
 - [[The Second Sundering|We are in the age of mortals]] — multiple cosmic hierarchies are loosening; the Ordening's collapse may be part of a broader pattern
-- **The rod from Duke Zalto points to [[Vonindod]]** — the fire giants are rebuilding the colossus (this is a parallel front)
+- **The Rod of Vornindod points to [[Vonindod]]** — the fire giants are rebuilding the colossus (this is a parallel front). *(The rod was taken from the giants hunting Vonindod parts, not from Zalto directly — corrected per DM 2026-05-29.)*
 - **[[Countess Sansuri]] is on the verge of grasping "power beyond our reach"** — possibly trying to seize what Hekaton's absence makes available
 
 ## Possible Leads

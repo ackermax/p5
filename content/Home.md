@@ -21,9 +21,9 @@ The party tracked [[Ilin Cotton]] to the [[Tavern Misty Beard]] and met its boss
 - **[[Harshnags Hunt]]** — alliance with Harshnag on the Ordening problem; meeting again in three months, after he visits [[Krowen Valharrow]]. **Gated on [[Thomas]] alliance** → [[The Shanker Job]]
 
 ### ⏰ Time-Sensitive — Waterdeep (This Week)
-- **[[The Waterdeep Ultimate Brawl]]** — ✅ **registered**; event imminent. Lineup: party + [[Barnabus]] in the Monster Arena, [[Gotrek Runehammer|Gotrek]] and [[Sir Joseph Gordon Die Hard|Joseph]] in singles.
+- **[[The Waterdeep Ultimate Brawl]]** — ✅ **registered**; event imminent. Lineup: party + [[Barnaby Baxter]] in the Monster Arena, [[Gotrek Runehammer|Gotrek]] and [[Sir Joseph Gordon Die Hard|Joseph]] in singles.
 - **[[The Shanker Job]]** — *in progress* (S57). Recover [[Thomas]]'s locket from the Shankers. **Gate to Thomas's alliance + the Harshnag conversation.** Stabio guiding us; first encounter cleared.
-- **[[Skeemo Wierdbottle]] investigation** — Harper-assigned; recovered cult letter + Cardon wanted poster; ongoing
+- **[[Skeemo Weirdbottle]] investigation** — Harper-assigned; recovered cult letter + Cardon wanted poster; ongoing
 - **[[Cardon Malefic]] is in Waterdeep** — meeting with the [[Council of the Underworld]]; Harpers want eyes on him. *Candidate ask once Thomas is allied.*
 - **Standing offer:** [[Harrick Stonequill]] has more runes (incl. explosive) if we return to Blackstaff Academy
 
@@ -35,7 +35,7 @@ The party tracked [[Ilin Cotton]] to the [[Tavern Misty Beard]] and met its boss
 
 ### Investigations
 - **[[The Beliard Mystery]]** — face-eaters operating in Beliard
-- **[[The Exquisites Investigation]]** — circus dismantled, [[Barnabus]] freed; broader operation continues
+- **[[The Exquisites Investigation]]** — circus dismantled, [[Barnaby Baxter]] freed; broader operation continues
 - **[[The Cursed Seeds]]** — Lamin and the black-dove wagon
 - **[[Quest For The Spellbook]]** — find Tsernoth in Iriaebor
 
@@ -87,12 +87,12 @@ The party tracked [[Ilin Cotton]] to the [[Tavern Misty Beard]] and met its boss
 - [[Harshnag]] — frost giant, Force Grey, fighting the Ordening problem
 - [[Klauth]] — ancient red dragon, airship patron
 - [[Interitus]] — werewolf, Force Grey, Gray Wolves wolf-guardian
-- [[Psildor Halwinter]] — Sheriff of Phandalin, researching Gotrek's brother
+- [[Sildar Hallwinter]] — Sheriff of Phandalin, researching Gotrek's brother
 - [[Gundren Rockseeker]] — dwarf, employer
 - [[Thomas]] — kobold info broker, Force Grey
 - [[Eldrin]] — Gotrek's brother (in hiding, contacts via dreamrealm)
 - [[Drizzt Do'Urden]] — legendary drow ranger, introduced us to Thomas
-- [[Barnabus]] — freed Ringmaster of the Circus of New Beginnings; competing alongside us in the Brawl
+- [[Barnaby Baxter]] — freed Ringmaster of the Circus of New Beginnings; competing alongside us in the Brawl
 - [[King]] — golden retriever; very good boy
 - [[Matey]] — Var's tressym
 
@@ -130,9 +130,9 @@ The party tracked [[Ilin Cotton]] to the [[Tavern Misty Beard]] and met its boss
 - [[Cardon Malefic]] — Var's former lord; **now active in Waterdeep**, hunting Var via wanted poster
 - [[Rulf Cloudfang]] — half-elf fiddler, Jaak/Estelle's hunter
 - The Cult of Cyric leader (name unknown)
-- [[Lady Morin Daggerford]] — betrayed Yamir; holds Jaak's spider staff; mixed loyalty
+- [[Lady Morwen Daggerford]] — betrayed Yamir; holds Jaak's spider staff; mixed loyalty
 - [[Yamir]] — merchant, betrayed by Daggerford, status unknown
-- [[Skeemo Wierdbottle]] — Doom Raiders alumnus; cult supplier; Harper target
+- [[Skeemo Weirdbottle]] — Doom Raiders alumnus; cult supplier; Harper target
 
 ### Antagonists — Cosmic
 - [[Countess Sansuri]] — cloud giant, Mistress of the Ninefold Veil
@@ -167,7 +167,7 @@ The party tracked [[Ilin Cotton]] to the [[Tavern Misty Beard]] and met its boss
 - [[Corellon's Crown]] — Harper-recommended potion shop, Waterdeep
 - [[Cradle of the Stonegiants]] — Gotrek's origin; staging ground vs Kayalithica
 - [[Yartar]] — Harper stronghold; [[Ilin Cotton]]'s current destination on a [[Cult of Cyric|Cult of C]] lead
-- [[Other Locations]] — Daggerford, Nightstone, Beliard, Triboar, Womford, Red Larch, Everlund, Silverymoon, Kryptgarden Forest, Iriaebor, Candlekeep, Neverwinter, Conyberry, Wyvern Tor, Ardeep, Astoria, Moonshay Isles, Elturel, the Maelstrom...
+- [[Other Locations]] — Daggerford, Nightstone, Beliard, Triboar, Womford, Red Larch, Everlund, Silverymoon, Kryptgarden Forest, Iriaebor, Candlekeep, Neverwinter, Conyberry, Wyvern Tor, Ardeep, Ostoria, Moonshay Isles, Elturel, the Maelstrom...
 
 ## 📚 Lore & Reference
 
@@ -204,7 +204,7 @@ The party tracked [[Ilin Cotton]] to the [[Tavern Misty Beard]] and met its boss
 ### Source Documents (DM-Provided)
 - [[The Waterdeep Wazoo Issue 496]] — newspaper, special edition "Rumblings in the North"
 - The arena pamphlet (full text on [[The Waterdeep Ultimate Brawl]])
-- Cult of C letter recovered from Skeemo (full text on [[Skeemo Wierdbottle]])
+- Cult of C letter recovered from Skeemo (full text on [[Skeemo Weirdbottle]])
 - Cardon Malefic wanted poster (full text on [[Cardon Malefic]])
 
 ## 📜 Sessions

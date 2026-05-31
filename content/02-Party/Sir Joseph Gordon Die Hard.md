@@ -33,7 +33,7 @@ level: 8
 - **Shield Master** for protection — Interception, Shield Master, Defense fighting style: this is a tank build.
 - **Skilled** + Soldier background — high skill coverage, knows military protocol
 - **Speaks Orc** — useful given his sworn enmity and the campaign's orc activity
-- **The Lord's Alliance contact** — natural channel back to [[Psildor Halwinter]], [[Thogard]], the political layer
+- **The Lord's Alliance contact** — natural channel back to [[Sildar Hallwinter]], [[Thogard]], the political layer
 
 ## Why He's Out Here
 

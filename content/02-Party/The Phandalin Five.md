@@ -45,6 +45,6 @@ Burn carefully — each is consumed on use. Harrick has indicated more (includin
 
 ## Why The Name Works
 
-- **Anchored to a real place** — [[Phandalin]] is where the party formed and still has an active hub (Gundren's manor, Halia's Miners Exchange, Sister Garaele's shrine, Sheriff Psildor's office)
+- **Anchored to a real place** — [[Phandalin]] is where the party formed and still has an active hub (Gundren's manor, Halia's Miners Exchange, Sister Garaele's shrine, Sheriff Sildar's office)
 - **Numbered** — easy to remember, scales with reputation
 - **Stable** — doesn't reference any single member's gimmick; survives if a player swaps characters

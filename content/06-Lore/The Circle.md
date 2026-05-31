@@ -7,7 +7,7 @@ aliases:
 
 # The Circle
 
-> The **inner ranks of the [[Cult of Cyric]]** — referenced in the letter recovered from [[Skeemo Wierdbottle]]'s back room.
+> The **inner ranks of the [[Cult of Cyric]]** — referenced in the letter recovered from [[Skeemo Weirdbottle]]'s back room.
 
 ## What We Know
 

@@ -37,7 +37,7 @@ level: 8
 - **Aasimar** — celestial heritage, radiant resistance, healing touch
 - **Fochlucan Bandore** — legendary bard relic (see [[Items and References]])
 - **Harp pin** — Jaak and [[Estelle Moonglow Platinum|Estelle]] both have one. Pin is the [[Harpers]] symbol. Strong signal they're affiliated.
-- **Spider Staff** — currently *held by [[Lady Morin Daggerford]]*. Jaak wants it back.
+- **Spider Staff** — currently *held by [[Lady Morwen Daggerford]]*. Jaak wants it back.
 
 ## Backstory
 

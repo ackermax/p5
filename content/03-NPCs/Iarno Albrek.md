@@ -18,7 +18,7 @@ aliases:
 
 ## Identity Reveal
 
-Iarno was the missing Lord's Alliance mage [[Psildor Halwinter]] was sent to find. He had not been kidnapped or killed — **he had turned**, taken the name **Glasstaff**, and was leading [[The Red Brands]] from a hidden room beneath Tresendar Manor.
+Iarno was the missing Lord's Alliance mage [[Sildar Hallwinter]] was sent to find. He had not been kidnapped or killed — **he had turned**, taken the name **Glasstaff**, and was leading [[The Red Brands]] from a hidden room beneath Tresendar Manor.
 
 ## Connections
 

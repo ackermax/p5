@@ -13,9 +13,11 @@ The **fire giants gathered adamantine** and built a colossus **80 feet tall** to
 ## The Threat Now
 
 **Fire giants ARE rebuilding it — confirmed.** Duke Zalto is leading the effort. We recovered:
-- **The rod** (from Nightstone) — **points to Vonindod**
-- **The adamantine ring** — also from Zalto's people at Nightstone
+- **The Rod of Vornindod** (the DM's name for it) — **points to Vonindod**; taken from the **group of giants who were hunting Vonindod parts**
+- **The adamantine ring** — taken from the **Fire Giants at [[Other Locations|Triboar]]**
 - **Duke Zalto kept orcs as slaves** to harvest adamantine
+
+> *Sourcing corrected per DM (2026-05-29): both items were previously logged as recovered from Zalto's people at Nightstone. The rod came from the Vonindod-parts hunters; the ring from the Fire Giants at the Triboar battle.*
 
 Implications:
 - A rebuild explains unusual fire-giant activity

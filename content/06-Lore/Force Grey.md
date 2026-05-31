@@ -10,7 +10,7 @@ tags: [lore, faction, ally]
 
 - **[[Harshnag]]** — frost giant, hunting giants and the salamander/Behir
 - **[[Thomas]]** — kobold; runs an underground network in the [[Waterdeep]] sewers with a guild ally
-- **[[Lady Morin Daggerford]]** — woman fighter, Duchess of Daggerford
+- **[[Lady Morwen Daggerford]]** — woman fighter, Duchess of Daggerford
 - **Marlis** — human man who resembles a yeti
 - **[[Interitus]]** — werewolf, "the black wolf," wolf guardian of the gray wolf tribe ([[Ulfgardian Mounds]] connection)
 

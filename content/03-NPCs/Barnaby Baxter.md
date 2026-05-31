@@ -2,18 +2,28 @@
 tags: [npc, status/active, ally]
 status: active
 location: Waterdeep
+race: Leonin
 faction: Circus of New Beginnings
+aliases:
+  - Barnabus
 ---
 
-# Barnabus
+# Barnaby Baxter
 
+> **Race:** **Leonin** (lion-folk)
 > **Role:** **Ringmaster of the [[The Exquisites Investigation|Circus of New Beginnings]]** (formerly **[[The Exquisites Investigation|The Exquisites]]**)
 > **Disposition:** Ally — we freed him
 > **Where:** [[Waterdeep]]
 
+> **Name note:** The DM has confirmed the Leonin circus leader's name is **Barnaby Baxter** (2026-05-29); earlier vault notes rendered it "Barnabus," which was a mishearing. The old spelling is kept as an alias so older links still resolve. This is also the same **Barnaby Baxter** previously logged as the buyer of "Kiki the abomination" (see below).
+
 ## How We Met Him
 
-When we dismantled the **face-eater circus** in [[Waterdeep]], **the real Barnabus was one of the prisoners held underground** with his face stolen by the shapeshifters. We freed him along with the children and the rest of the troupe.
+When we dismantled the **face-eater circus** in [[Waterdeep]], **the real Barnaby Baxter was one of the prisoners held underground** with his face stolen by the shapeshifters. We freed him along with the children and the rest of the troupe.
+
+## Kiki the Abomination
+
+The gnome **[[Minor Contacts|Amen Voss]]** (whitish-purple hair) **sold "Kiki the abomination" to Barnaby Baxter** — consistent with him being a circus ringmaster acquiring a new act. What Kiki actually is remains unknown.
 
 ## What He's Doing Now
 
@@ -30,4 +40,5 @@ When we dismantled the **face-eater circus** in [[Waterdeep]], **the real Barnab
 ## Open Threads
 
 - ⬜ Pre-Brawl meeting to coordinate
+- ⬜ What is **Kiki the abomination**, and is it now part of the Circus of New Beginnings?
 - ⬜ Long-term: is the Circus of New Beginnings a viable cover identity / asset for our future work?

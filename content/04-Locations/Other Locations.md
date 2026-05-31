@@ -23,8 +23,8 @@ Shorter location notes. Promote any of these to their own file when content grow
 - See [[Waterdeep]] for the full file
 
 ### Daggerford
-- See **the [[Lady Morin Daggerford]] note** for political detail
-- Built into "the jewel of the sword coast" by Lady Morin
+- See **the [[Lady Morwen Daggerford]] note** for political detail
+- Built into "the jewel of the sword coast" by Lady Morwen
 - **Nightstone** (below) is *part of Daggerford*
 
 ### Nightstone
@@ -35,7 +35,8 @@ Shorter location notes. Promote any of these to their own file when content grow
 - **Symbol of [[Asmodeus]]** seen connected to the attack — possible second player beyond the Zhentarim
 - **Hill giants** were the original reason Daggerford called us in
 - **Residents were carted away by goblins**
-- We collected the **rod that points to [[Vonindod]]** and the **adamantine ring** here from **Duke Zalto's** people
+
+> *Correction (DM, 2026-05-29): the **rod** and **adamantine ring** were previously logged as collected here from Duke Zalto's people. They were collected elsewhere — the **Rod of Vornindod** from the giants hunting Vonindod parts, and the **adamantine ring** from the Fire Giants at [[Other Locations#Triboar|Triboar]]. See [[Items and References]] and [[Vonindod]].*
 
 ### Baldur's Gate
 - [[Jaheira]] (Harper hero) is based here; defeated the Cult of Bhaal here
@@ -70,8 +71,9 @@ Shorter location notes. Promote any of these to their own file when content grow
 
 ### Triboar
 - One endpoint of [[The Death Knight Ritual|the necromancer's harvest road]]
-- **Fire Giant attack repelled** — the party helped defend Triboar from a Fire Giant assault. **Many lives were lost in the battle.** Per the [[The Waterdeep Wazoo Issue 496|Wazoo]]. *(Confirm timing with DM — first vault reference to this engagement.)*
-- Notable **Tribourgh** harper presence ([[Waterdeep]] connection — confirm spelling with DM)
+- **Fire Giant attack repelled** — the party helped defend Triboar from a Fire Giant assault. **Many lives were lost in the battle.** Per the [[The Waterdeep Wazoo Issue 496|Wazoo]]. *(Confirmed by DM, 2026-05-29.)*
+- **The adamantine ring** was collected from the **Fire Giants here** during that engagement — see [[Items and References]] and [[Vonindod]]
+- Notable **Triboar** harper presence ([[Waterdeep]] connection)
 
 ### Silverymoon
 - **[[Krowen Valharrow]]** is Archmage here / **Watcher of the Silver Marches**
@@ -131,7 +133,7 @@ Shorter location notes. Promote any of these to their own file when content grow
 ### Moonshay Isles
 - **Overheard talk of treasure here.** Open lead, untouched.
 
-### Astoria
+### Ostoria
 - "Fell to ruins after fight with dragons, known as the **war of a thousand years**"
 - Confirms that **the dragon-vs-giant war ([[Vonindod]] era) is ancient and well-documented**
 

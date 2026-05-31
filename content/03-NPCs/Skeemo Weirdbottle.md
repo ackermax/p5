@@ -6,13 +6,13 @@ faction: Zhentarim?
 first-met: Session 56
 aliases:
   - Skeemo
-  - Skeemo Weirdbottle
+  - Skeemo Wierdbottle
 ---
 
-# Skeemo Wierdbottle
+# Skeemo Weirdbottle
 
 > **Race / Class:** Goblin
-> **Role:** Owner of **Wierdbottle Concoctions** (potion shop, [[Waterdeep]])
+> **Role:** Owner of **Weirdbottle Concoctions** (potion shop, [[Waterdeep]])
 > **Disposition toward party:** Friendly facade — actual loyalties under investigation
 > **First met:** [[Session 56 - Var - 2026-05-18]] at his shop
 
@@ -20,11 +20,11 @@ aliases:
 
 *Add table notes here — voice, mannerisms.*
 
-> **Spelling note:** His shop sign (and the [[The Waterdeep Wazoo Issue 496|Wazoo]] ad) reads **Wierdbottle** with the i-before-e quirk. The recovered [[Cult of Cyric]] letter addresses him as **Skeemo Weirdbottle** — the more standard spelling. Both reach this note via alias.
+> **Spelling note:** The DM has confirmed the spelling is **Weirdbottle** (2026-05-29) — the "Wierdbottle" rendering was a typo in the journal, not an in-world quirk. Corrected throughout; the old spelling is kept as an alias so older links still resolve.
 
 ## What We Know
 
-- Owns **Wierdbottle Concoctions** in [[Waterdeep]] — *"Potions and Elixirs, Remedies & Tonics! For All Ailments & Afflictions!"*
+- Owns **Weirdbottle Concoctions** in [[Waterdeep]] — *"Potions and Elixirs, Remedies & Tonics! For All Ailments & Afflictions!"*
 - **Former member of the [[Doom Raiders]]** — a retired adventuring band the [[Harpers]] consider were "not decent people" and who built ties to the **[[Black Network|Zhentarim]]**
 - **[[Harpers]] believe he is currently working with the Zhentarim** and want evidence to make a move on him
 - Has been **commissioned by the [[Cult of Cyric]]** to brew **Enhanced Torpor**

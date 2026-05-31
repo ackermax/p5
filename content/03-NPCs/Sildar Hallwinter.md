@@ -3,15 +3,19 @@ tags: [npc, status/active, lords-alliance, ally]
 status: active
 location: Phandalin
 faction: Lord's Alliance
+aliases:
+  - Psildor Halwinter
+  - Sildar
+  - Psildor
 ---
 
-# Psildor Halwinter
+# Sildar Hallwinter
 
 > **Title:** **Sheriff of Phandalin**; retired Knight of the Griffin Army
 > **Affiliation:** [[Lords Alliance|Lord's Alliance]] — the **Verdants/Cloaks** branch (fight traps)
 > **Disposition:** Ally
 
-> **Spelling note:** Previously written as "Sildar Hallwinter" in older vault notes; Jaak's player notes consistently render it **Psildor Halwinter**. This is the canonical spelling going forward.
+> **Spelling note:** The DM has confirmed the canonical name is **Sildar Hallwinter** (2026-05-29). Earlier vault notes — taken from Jaak's player journal — rendered it "Psildor Halwinter"; that was a mishearing and has been corrected throughout. The old spelling is kept as an alias so older links still resolve.
 
 ## Who He Is
 

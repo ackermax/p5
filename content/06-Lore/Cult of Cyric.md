@@ -39,11 +39,11 @@ This is the cult Estelle and Jaak escaped from. Previously referred to in our no
 
 ### The Waterdeep Operation — "The Circle"
 - The cult operates an inner body referred to as **[[The Circle]]**
-- They are commissioning **[[Skeemo Wierdbottle]]** to refine an **Enhanced Torpor** brew
+- They are commissioning **[[Skeemo Weirdbottle]]** to refine an **Enhanced Torpor** brew
 - Purpose of the brew: "still both body and will" — **capture, not kill**, a previously-resistant target
 - The cult **was previously frustrated** by a target who resisted the original dose
 - The drop location is known to Skeemo but not us
-- See the recovered letter on [[Skeemo Wierdbottle]]'s note
+- See the recovered letter on [[Skeemo Weirdbottle]]'s note
 - [[Ilin Cotton]] — a [[Harpers|Harper]] investigating this cult — was discovered. He may be a current target of the new dose. *(Working theory.)*
 
 ### Other Possible Cyric Operations

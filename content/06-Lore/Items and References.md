@@ -17,11 +17,11 @@ tags: [lore, items, index]
 
 ### Held By [[Estelle Moonglow Platinum]]
 - **Harp pin** + **Harp bow** — [[Harpers]] iconography
-- **2 green vials** — needs identification by an herbalist. **Lead:** *Wierdbottle's Concoctions* or *[[Corellon's Crown]]* in [[Waterdeep]]
+- **2 green vials** — needs identification by an herbalist. **Lead:** *Weirdbottle's Concoctions* or *[[Corellon's Crown]]* in [[Waterdeep]]
 - **5 cursed seeds** — taken from [[Sevembra]]; if planted, would have destroyed [[Goldenfields]] crops; see [[The Cursed Seeds]]
 - **Dresina's journal** — sought by [[Hamun Kost]]
 - **The Death Knight necromancer's book** — see [[The Death Knight Ritual]]
-- **Recovered cult letter** — Cult of C → Skeemo, commissioning Enhanced Torpor; see [[Skeemo Wierdbottle]]
+- **Recovered cult letter** — Cult of C → Skeemo, commissioning Enhanced Torpor; see [[Skeemo Weirdbottle]]
 - **Recovered wanted poster** — [[Cardon Malefic]] hunting [[Var Borgal]] alive; see [[Cardon Malefic]]
 
 ### Held By [[Gotrek Runehammer]]
@@ -34,19 +34,19 @@ tags: [lore, items, index]
 - **Jar of jam** — for [[Raidoth]] (with "hugs and kisses from Qualine")
 - **Transparent stone** — [[Estelle Moonglow Platinum]] is investigating ([[Old Owl Well]] origin)
 - **The airship [[Ignitamis]]** (gift of [[Klauth]]) — needs **Tinker's, Woodcarver's, Carpenter's, Tailoring** tools
-- **Seal of Daggerford** — [[Lady Morin Daggerford|Daggerford]] authority token
+- **Seal of Daggerford** — [[Lady Morwen Daggerford|Daggerford]] authority token
 - **Dimension Door scroll** — 500 ft teleport, 4th-circle spell, beat DC 14 to use ([[Naxene Drathkala]])
 - **Wards** ([[Naxene Drathkala]]) — used 3 in [[Goldenfields]]; check if any remain
-- **Adamantine ring** — from Duke Zalto's loot at Nightstone
-- **A rod** — also from Duke Zalto's loot; **the rod points to [[Vonindod]]**
+- **Adamantine ring** — taken from the **Fire Giants at [[Other Locations|Triboar]]** *(corrected per DM 2026-05-29; previously logged as Zalto's loot at Nightstone)*
+- **Rod of Vornindod** — taken from the **group of giants hunting Vonindod parts**; **the rod points to [[Vonindod]]** *(corrected per DM 2026-05-29; previously logged as Zalto's loot at Nightstone)*
 - **2500 gp** — collected for [[Hantanus Tarm]]
-- **Oil of Etherealness** — [[Skeemo Wierdbottle]] offered **3000 gp** for it (50% above market); we declined per [[Harpers]] guidance. Worth investigating *why* he wants it so badly.
+- **Oil of Etherealness** — [[Skeemo Weirdbottle]] offered **3000 gp** for it (50% above market); we declined per [[Harpers]] guidance. Worth investigating *why* he wants it so badly.
 - **The fortune readings from [[Andressa]]** — write down what she actually said
 - **[[King]]** — golden retriever. The Order of the Kraken sold him to the [[Waterdeep]] gambling den; we tracked him there via [[The Waterdeep Wazoo Issue 496|the Wazoo]]'s "FOUND!" ad and **rescued him**. Status: with the party. Very good boy.
 
 ## Items Lost / Sought
 
-- **[[Jaak Greye]]'s Spider Staff** — *held by [[Lady Morin Daggerford]]*. **Active recovery.**
+- **[[Jaak Greye]]'s Spider Staff** — *held by [[Lady Morwen Daggerford]]*. **Active recovery.**
 - **The tricolor-feather hat** ("beautiful hat with a tricolor feather") — also at the gambling den
 - **[[Bowgentle]]'s spellbook** — traded by [[Agatha]] to [[Tsernoth]] in [[Other Locations|Iriaebor]]; see [[Quest For The Spellbook]]
 - **[[Mirna]]'s heirloom** in [[Thundertree]] — alchemist's house, plague-marked

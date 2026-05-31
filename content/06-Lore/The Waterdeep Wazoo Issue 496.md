@@ -29,9 +29,8 @@ tags: [lore, source-document]
 > An unnamed band of adventurers has been sighted across the Dessarin Valley aiding towns under attack. The group reportedly helped defend [[Goldenfields]] from a giant assault and later **assisted the people of [[Other Locations|Triboar]] in repelling a Fire Giant attack**, **though many lives were lost in the battle**. The same adventurers were also seen near [[Other Locations|Nightstone]], where they rescued villagers kidnapped by goblins following the devastation left by a Cloud Giant raid. Though the group bears no banner or known name, tales of their deeds are quickly spreading across the North.
 
 **This is us** — [[The Phandalin Five]], reported here before we'd adopted the name. Worth noting:
-- Our **Triboar Fire Giant fight is now in the public record** with a "many lives lost" framing — somber, not heroic
+- Our **Triboar Fire Giant fight is now in the public record** with a "many lives lost" framing — somber, not heroic. **Confirmed by DM (2026-05-29)** — and it's where we recovered the **adamantine ring** from the Fire Giants (see [[Vonindod]], [[Items and References]]).
 - The Wazoo had to describe us as "unnamed" because we hadn't picked a name yet. Future editions will be able to use **The Phandalin Five** by name.
-- *(Confirm with DM whether we actually fought a Fire Giant at Triboar — this may be the first vault reference to that engagement)*
 
 ### Giant Castles Seen in the Sky
 
@@ -84,7 +83,7 @@ Gundren is **publicly advertising for new hires** — this is the same mining ve
 
 ## Classifieds & Ads
 
-### Wierdbottle's Concoctions
+### Weirdbottle's Concoctions
 *Potions and Elixirs, Remedies & Tonics! For All Ailments & Afflictions!*
 
 Worth visiting — could be where to identify [[Estelle Moonglow Platinum]]'s **two green vials**.
