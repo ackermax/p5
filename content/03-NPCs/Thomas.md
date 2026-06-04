@@ -9,7 +9,8 @@ race: Kobold
 
 > **Race:** Kobold
 > **Location:** [[Waterdeep]] (sewers + underground)
-> **Disposition:** **Friendly** (via [[Harshnag]] originally; now also a working ally)
+> **Disposition:** **Allied** (via [[Harshnag]] originally; alliance secured S58)
+> **Also:** a member of the **[[Council of the Underworld]]**
 
 ## Who He Is
 
@@ -31,11 +32,19 @@ Once we deliver, **then** we can talk about [[Harshnag]] and our quest. See **[[
 
 He sent **Stabio** (a member of his family) to escort us into Shanker territory in the sewers.
 
+## Session 58 — Alliance Secured, A Big Reveal
+
+We recovered the locket (see [[The Shanker Job]]) and handed it back. In return Thomas paid out — and dropped a bombshell:
+
+- **Thomas is a member of the [[Council of the Underworld]].**
+- There is a **meeting tomorrow evening** to discuss [[Var Borgal|Var]]'s situation and to **meet with [[Cardon Malefic]]**.
+- Thomas **offered to disguise the party and take us to the meeting**; we accepted.
+
+This makes him not just an info broker but a **seat at the table** Cardon has been courting.
+
 ## Current Working Relationship
 
-- **He owes us nothing until the locket is back.** Don't ask for favors yet.
-- Once we deliver, the upside is huge — he's the Waterdeep information broker.
-- Open question (per [[Sir Joseph Gordon Die Hard|Joseph]]'s notes via Gotrek): once allied, what do we ask him for first?
-  - Eyes on **[[Cardon Malefic]]** in [[Waterdeep]] (Var-relevant)
-  - Recon on **[[The Waterdeep Ultimate Brawl|the tournament]]** lineup / opposition
-  - Anything on the **[[Council of the Underworld]]** Cardon is meeting with
+- **Allied as of S58.** The locket job closed the deal.
+- He's the Waterdeep information broker *and* on the Council — a direct line into the underworld power structure.
+- His alliance unblocks the **[[Harshnags Hunt|Harshnag conversation]]** (the original gate).
+- **Next beat:** the disguised Council meeting tomorrow night — Var face-to-face (in disguise) with Cardon.

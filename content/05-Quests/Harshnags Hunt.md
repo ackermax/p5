@@ -18,6 +18,7 @@ giver: Harshnag / circumstances
 - ✅ While we were tracking him, Harshnag was also **aiding merchants beset by ogres** and **spoke with priests of [[Chauntea]] at [[Goldenfields]]** before departing into the northern woods
 - ⏳ Harshnag is currently traveling to **[[Krowen Valharrow]]** in [[Other Locations|Everlund]]
 - ⏳ We are **meeting up with Harshnag again in three months**
+- ✅ **Gate cleared (S58):** [[Thomas]]'s alliance is now secured (see [[The Shanker Job]]), so the Harshnag/Hekaton conversation Thomas was holding back is unblocked
 
 ## What This Quest Connects To
 

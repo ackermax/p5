@@ -6,7 +6,7 @@ status: active
 # Gather Ulfgardian Relics
 
 > **Status:** Active
-> **Purpose:** Likely tied to [[Find Hekaton|reinstating the Ordening]] and/or arming us against the giantsp
+> **Purpose:** Likely tied to [[Find Hekaton|reinstating the Ordening]] and/or arming us against the giantspp
 
 ## Objective
 

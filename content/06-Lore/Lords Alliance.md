@@ -29,8 +29,18 @@ aliases: [Lords Alliance]
 - **Possibly compromised at the top.** "Lord's Alliance has bad people high up?" per the campaign notes
 - The Order of the Gauntlet is *also* stretched thin
 
-## Active Quests They've Given Us
+## Renown
 
-- **[[Northern Beaches Frost Giants]]** — from [[Thogard]]
+- [[Sir Joseph Gordon Die Hard|Joseph]] and [[Gotrek Runehammer|Gotrek]] are accruing **renown** with the Alliance; they need **10 renown to rank up** (S58)
+- The **[[Northern Beaches Frost Giants]]** clear and the **Shanker stolen goods** handoff both added renown (S58)
+
+## Quests They've Given Us
+
+- **[[Northern Beaches Frost Giants]]** — from [[Thogard]] — ✅ **completed S58** (giants defeated, captives freed; the giants were running a slave-boat operation)
 - **[[The Cult in Helms Hold]]** — from Javen Tarmikos (technically Gilded Eye, but functionally allied)
 - **Reinforcement requests for [[Other Locations|Daggerford]]** — to Longsaddle (Cynthia), Red Larch (Lynch), Amphail (Max) — ongoing
+
+## Recent Dealings (S58)
+
+- Received the **Shankers' stolen goods** recovered during [[The Shanker Job]]
+- Took the report on the **freed Northern Beaches captives**

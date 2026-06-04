@@ -19,10 +19,18 @@ Cardon took in [[Var Borgal]] as a child after the unnatural fire that killed Va
 Confirmed in [[Session 56 - Jaak - 2026-05-18|session 56]]:
 
 - **Cardon has arrived in Waterdeep from his distant land**
-- He is **meeting with people of Waterdeep** — specifically, the **Council of the Underworld** (faction not yet identified)
+- He is **meeting with people of Waterdeep** — specifically, the **[[Council of the Underworld]]**
 - **He is powerful** — Harpers warn Var to be careful
 - **Var must learn as much as possible** about him
 - **Var must be active** — passive watching is not enough
+
+## The Meeting (Set After Session 58)
+
+[[Thomas]] — now an ally and a **member of the [[Council of the Underworld]]** — told us there's a **meeting tomorrow evening** to discuss **[[Var Borgal|Var]]'s situation** and to **sit down with Cardon**. Thomas is **disguising the party and bringing them in.**
+
+- This is the first chance to see Cardon in person (in disguise) since Var fled.
+- The meeting is *about* Var — so Cardon is actively working the Council to find him.
+- Risk: Cardon "expects deception" and warns against trusting the first name/face — disguises may not hold under scrutiny.
 
 ## The Wanted Poster
 
@@ -71,5 +79,5 @@ Confirmed in [[Session 56 - Jaak - 2026-05-18|session 56]]:
 - Has Cardon sent agents to the Sword Coast?
 - Is the **"we are watching" black-sun messenger** ([[The Black Sun Watchers]]) connected to him?
 - Could the cloaked glowing man from Var's vision be tied to Cardon, or opposed to him?
-- What is the **Council of the Underworld**? Is it a known faction under a new name (Zhentarim leadership? a parallel of Force Grey?) or something we haven't seen yet?
+- The **[[Council of the Underworld]]** is real and seats [[Thomas]] — but who *else* sits on it, and why is Cardon meeting them about Var?
 - Who is paying Skeemo to circulate Cardon's wanted poster?

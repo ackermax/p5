@@ -1,6 +1,6 @@
 ---
-tags: [quest, quest/active, waterdeep]
-status: active
+tags: [quest, quest/completed, waterdeep]
+status: completed
 giver: Thomas
 location: Waterdeep (sewers)
 ---
@@ -8,8 +8,8 @@ location: Waterdeep (sewers)
 # The Shanker Job
 
 > **Given by:** [[Thomas]]
-> **Status:** **Active — in progress**
-> **Reward:** [[Thomas]]'s alliance — gateway to the [[Harshnags Hunt]] conversation and Thomas's full information network in [[Waterdeep]]
+> **Status:** ✅ **Completed** ([[Session 58 - Var - 2026-06-01|Session 58]])
+> **Reward:** [[Thomas]]'s alliance — and the revelation that he sits on the [[Council of the Underworld]] (see payoff below)
 > **First mentioned:** [[Session 57 - Var - 2026-05-25|Session 57]]
 
 ## Objective
@@ -31,17 +31,25 @@ Framed by Thomas as "**uniting the families**" — i.e., breaking the Shankers a
 - ✅ Met [[Thomas]] in his mafia base (S57)
 - ✅ Accepted Stabio as escort and entered Shanker territory (S57)
 - ✅ Cleared the first hideout encounter — ratmen and giant crocs (S57)
-- ⬜ **Continue deeper into the hideout** — multiple unexplored paths
-- ⬜ **Recover the locket**
-- ⬜ Return to Thomas
+- ✅ Pushed deeper through the hideout (S58) — passed **steam machinery** of unknown purpose and an **emergency valve** rigged to flush rats into the entry room; **shut one valve** to deny the Shankers that trick
+- ✅ **Recovered the locket** (S58) — the [[Shankers|Shanker boss]] detonated a bomb on himself and his lackeys; we took it off the wreckage
+- ✅ Also collected the Shankers' other **stolen goods**
+- ✅ Returned to [[Thomas]] and handed over the locket (S58)
+
+## Payoff (Session 58)
+
+- Thomas paid out the alliance — and revealed he is a member of the **[[Council of the Underworld]]**
+- There is a **meeting tomorrow evening** to discuss [[Var Borgal|Var]]'s situation and sit down with **[[Cardon Malefic]]**
+- Thomas offered to **disguise the party and walk them into the meeting**; we accepted
+- The Shankers' stolen goods were handed to the **[[Lords Alliance]]**
 
 ## Leads & Notes
 
-- Stabio knows the sewer routes — lean on him for direction, but he's an escort, not muscle
-- Sound brings the crocs. Spells like Fireball may pay tactical interest in a stealthier approach for deeper levels.
-- The Shankers themselves may be worth investigating — who they answer to, whether they connect to the [[Council of the Underworld]] or [[Xanathars Guild]]
+- The **[[Council of the Underworld]] meeting** is the immediate next beat — see [[Cardon Malefic]] and the Council note
+- Open: what was the **steam machinery** in the tunnels for?
+- Thomas's alliance unblocks the **[[Harshnags Hunt|Harshnag conversation]]**
 
-## What's At Stake
+## What's At Stake (resolved)
 
-- **Thomas's alliance** — gateway to the [[Find Hekaton|Hekaton question]] via Harshnag, and to fast Waterdeep info on [[Cardon Malefic]], the [[The Waterdeep Ultimate Brawl|brawl]], and the [[Council of the Underworld]]
-- A piece of the [[Waterdeep]] underworld map clarifies — who runs what, who answers to whom
+- **Thomas's alliance** — ✅ secured; gateway to the [[Find Hekaton|Hekaton question]] via Harshnag, and now a direct line into the [[Council of the Underworld]]
+- A piece of the [[Waterdeep]] underworld map clarified — Thomas sits on the Council

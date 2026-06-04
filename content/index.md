@@ -10,11 +10,11 @@ title: The Adventures of the Phandalin Five
 
 - **[[Home]]** — the campaign dashboard: active threads, factions, NPCs, places, sessions
 - **[[The Phandalin Five]]** — the party
-- **Latest session (57, 2026-05-25):** [[Session 57 - Var - 2026-05-25|Var]] · [[Session 57 - Jaak - 2026-05-25|Jaak]] · [[Session 57 - Gotrek - 2026-05-25|Gotrek]]
+- **Latest session (58, 2026-06-01):** [[Session 58 - Var - 2026-06-01|Var]]
 
-## 📖 Previously, in Waterdeep — [[Session 57 - Var - 2026-05-25|Session 57]] (2026-05-25)
+## 📖 Previously, in Waterdeep — [[Session 58 - Var - 2026-06-01|Session 58]] (2026-06-01)
 
-The party tracked [[Ilin Cotton]] to the [[Tavern Misty Beard]] and met its boss, [[Malkyn Serpentwind]] — [[Jaak Greye|Jaak]]'s old bandmate, now wheelchair-bound and coughing (the doctors blame "trauma" — Jaak isn't buying it). Malkyn confirmed Ilin is ahead of us, heading to **[[Yartar]]** on a [[Cult of Cyric|Cult of C]] "end of the world" lead, and hinted **[[Rulf Cloudfang|Rulf]] is a puppet** ("had no choice"). Back at [[Blackstaff Academy]], the party tested **speed / jump / flight runes** for [[Harrick Stonequill]] — each PC walked away with one — and collected the first Ulfgardian relic, a statue of **[[Stronmaus]]**, as payment. [[Drizzt Do'Urden|Drizzt]] then guided them into the sewers to meet [[Thomas]], who offered alliance in exchange for recovering a locket the [[Shankers]] stole; [[Stabio]] is now leading the party through Shanker territory. The session ended after clearing the first wave of ratmen and giant crocs — multiple paths into the hideout still unexplored ([[The Shanker Job]]).
+The party pushed deeper into the [[Shankers|Shanker]] sewer hideout — past steam machinery of unknown purpose and an emergency valve rigged to flush rats into the entry room (we jammed one shut) — and recovered [[Thomas]]'s stolen locket after the Shanker boss blew himself and his lackeys up with a bomb. Back at his base, Thomas paid out and dropped a bombshell: he sits on the **[[Council of the Underworld]]**, and there's a meeting **tomorrow evening** about [[Var Borgal|Var]]'s situation — and to sit down with **[[Cardon Malefic]]**, with Thomas **disguising the party and walking them in** ([[The Shanker Job]] complete; his alliance also unblocks the [[Harshnags Hunt|Harshnag]] conversation). We handed the Shankers' other stolen goods to the [[Lords Alliance]] and rested at the Yawning Portal. The next morning we hunted the [[Northern Beaches Frost Giants]] — catching a giant loading captives onto a slave-boat — defeated them and freed the prisoners. The Alliance logged it as renown: [[Sir Joseph Gordon Die Hard|Joseph]] and [[Gotrek Runehammer|Gotrek]] are now climbing toward the **10 they need to rank up**.
 
 ## The Party
 
@@ -27,8 +27,8 @@ The party tracked [[Ilin Cotton]] to the [[Tavern Misty Beard]] and met its boss
 ## What's Happening Now
 
 - **[[Find Hekaton]]** — find the missing storm king and reinstate [[The Ordening]]
+- **[[Council of the Underworld]] meeting** — tomorrow evening, disguised, to face [[Cardon Malefic]] (via [[Thomas]])
 - **[[The Waterdeep Ultimate Brawl]]** — registered; event imminent in [[Waterdeep]]
-- **[[The Shanker Job]]** — recover [[Thomas]]'s locket from the sewers (gate to his alliance)
 - **[[Reckoning With The Cult Of Cyric]]** — Estelle and Jaak's old enemy, very much resurfacing
 - **[[Find Ilin Cotton]]** — alive, ahead of us, headed for [[Yartar]]
 

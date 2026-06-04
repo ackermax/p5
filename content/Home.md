@@ -7,9 +7,9 @@
 > **Party:** [[The Phandalin Five]]
 > **Source of Truth:** This vault. **Source Notes:** [[Original Notes - Raw Archive (Through Session 55)]] (Gotrek's & Jaak's voices, preserved)
 
-## 📖 Previously, in Waterdeep — [[Session 57 - Var - 2026-05-25|Session 57]] (2026-05-25)
+## 📖 Previously, in Waterdeep — [[Session 58 - Var - 2026-06-01|Session 58]] (2026-06-01)
 
-The party tracked [[Ilin Cotton]] to the [[Tavern Misty Beard]] and met its boss, [[Malkyn Serpentwind]] — [[Jaak Greye|Jaak]]'s old bandmate, now wheelchair-bound and coughing (the doctors blame "trauma" — Jaak isn't buying it). Malkyn confirmed Ilin is ahead of us, heading to **[[Yartar]]** on a [[Cult of Cyric|Cult of C]] "end of the world" lead, and hinted **[[Rulf Cloudfang|Rulf]] is a puppet** ("had no choice"). Back at [[Blackstaff Academy]], the party tested **speed / jump / flight runes** for [[Harrick Stonequill]] — each PC walked away with one — and collected the first Ulfgardian relic, a statue of **[[Stronmaus]]**, as payment. [[Drizzt Do'Urden|Drizzt]] then guided them into the sewers to meet [[Thomas]], who offered alliance in exchange for recovering a locket the [[Shankers]] stole; [[Stabio]] is now leading the party through Shanker territory. The session ended after clearing the first wave of ratmen and giant crocs — multiple paths into the hideout still unexplored ([[The Shanker Job]]).
+The party pushed deeper into the [[Shankers|Shanker]] sewer hideout — past steam machinery of unknown purpose and an emergency valve rigged to flush rats into the entry room (we jammed one shut) — and recovered [[Thomas]]'s stolen locket after the Shanker boss blew himself and his lackeys up with a bomb. Back at his base, Thomas paid out and dropped a bombshell: he sits on the **[[Council of the Underworld]]**, and there's a meeting **tomorrow evening** about [[Var Borgal|Var]]'s situation — and to sit down with **[[Cardon Malefic]]**, with Thomas **disguising the party and walking them in** ([[The Shanker Job]] complete; his alliance also unblocks the [[Harshnags Hunt|Harshnag]] conversation). We handed the Shankers' other stolen goods to the [[Lords Alliance]] and rested at the Yawning Portal. The next morning we hunted the [[Northern Beaches Frost Giants]] — catching a giant loading captives onto a slave-boat — defeated them and freed the prisoners. The Alliance logged it as renown: [[Sir Joseph Gordon Die Hard|Joseph]] and [[Gotrek Runehammer|Gotrek]] are now climbing toward the **10 they need to rank up**.
 
 ## 🔥 Active Threads
 
@@ -17,15 +17,17 @@ The party tracked [[Ilin Cotton]] to the [[Tavern Misty Beard]] and met its boss
 - **[[Find Hekaton]]** — reinstate [[The Ordening]]. **The Ulfgardian oracles want relic sacrifices in exchange for answers.**
 - **[[Gather Ulfgardian Relics]]** — see [[Ulfgardian Mounds]] for all nine. **1 in hand: [[Stronmaus]] statue (S57, flagged "last resort, return if able")**
 - **[[Vonindod]]** — fire giants ARE rebuilding the colossus; **the rod we recovered points to it**
-- **[[Northern Beaches Frost Giants]]** — Lord's Alliance quest from [[Thogard]]
-- **[[Harshnags Hunt]]** — alliance with Harshnag on the Ordening problem; meeting again in three months, after he visits [[Krowen Valharrow]]. **Gated on [[Thomas]] alliance** → [[The Shanker Job]]
+- **[[Harshnags Hunt]]** — alliance with Harshnag on the Ordening problem; meeting again in three months, after he visits [[Krowen Valharrow]]. **Gate cleared (S58):** [[Thomas]] alliance secured, so the held-back Harshnag conversation is unblocked.
 
 ### ⏰ Time-Sensitive — Waterdeep (This Week)
+- **[[Council of the Underworld]] meeting — TOMORROW EVENING** *(new, S58)*: [[Thomas]] (now revealed as a Council member) is **disguising the party** and bringing them to a meeting about [[Var Borgal|Var]]'s situation — and to sit down with **[[Cardon Malefic]]**. The session's biggest live lead.
 - **[[The Waterdeep Ultimate Brawl]]** — ✅ **registered**; event imminent. Lineup: party + [[Barnaby Baxter]] in the Monster Arena, [[Gotrek Runehammer|Gotrek]] and [[Sir Joseph Gordon Die Hard|Joseph]] in singles.
-- **[[The Shanker Job]]** — *in progress* (S57). Recover [[Thomas]]'s locket from the Shankers. **Gate to Thomas's alliance + the Harshnag conversation.** Stabio guiding us; first encounter cleared.
 - **[[Skeemo Weirdbottle]] investigation** — Harper-assigned; recovered cult letter + Cardon wanted poster; ongoing
-- **[[Cardon Malefic]] is in Waterdeep** — meeting with the [[Council of the Underworld]]; Harpers want eyes on him. *Candidate ask once Thomas is allied.*
 - **Standing offer:** [[Harrick Stonequill]] has more runes (incl. explosive) if we return to Blackstaff Academy
+
+### ✅ Recently Closed (S58)
+- **[[The Shanker Job]]** — recovered Thomas's locket; the [[Shankers]] are broken (boss self-detonated). Payoff: Thomas's alliance + the Council reveal.
+- **[[Northern Beaches Frost Giants]]** — [[Thogard]]'s quest done; giants (running a slave-boat op) defeated, captives freed, [[Lords Alliance|renown]] earned.
 
 ### Cult Fronts
 - **[[Reckoning With The Cult Of Cyric]]** — Estelle and Jaak's enemy; possibly the [[The Cult in Helms Hold|Helm's Hold]] cult
@@ -45,7 +47,7 @@ The party tracked [[Ilin Cotton]] to the [[Tavern Misty Beard]] and met its boss
 - **[[Find Rulf Cloudfang]]** — last seen Neverwinter; high-value capture
 - **[[Estelles True Identity]]** — mother, benefactor, "Moonglow Platinum"
 - **[[Jaaks Celestial War]]** — kidnapped for his ascension-blood; recovering memories of celestial war
-- **[[Var Borgal|Var]] vs [[Cardon Malefic|Cardon]]** — Cardon is in Waterdeep, hunting Var via wanted poster ("Council of the Underworld"); Var has new alias "The Shadow's Heir"
+- **[[Var Borgal|Var]] vs [[Cardon Malefic|Cardon]]** — Cardon is in Waterdeep, hunting Var via wanted poster. **S58: a [[Council of the Underworld]] meeting about Var is set for tomorrow evening — Var will attend in disguise, courtesy of [[Thomas]].** Var's alias "The Shadow's Heir."
 
 ## 🕵️ Mysteries To Track
 
@@ -58,7 +60,7 @@ The party tracked [[Ilin Cotton]] to the [[Tavern Misty Beard]] and met its boss
 - **[[Cult of the Dragon]]'s "grand thing"** — connected to Elturel sinking into Avernus?
 - **The [[The Circle|Circle]]** — inner ranks of the Cult of Cyric; who sits at it, where it meets, what "the Circle turns" means
 - **The Enhanced Torpor target** — who is the cult planning to dose? Could be [[Ilin Cotton]]
-- **[[Council of the Underworld]]** — who Cardon is meeting in Waterdeep
+- **[[Council of the Underworld]]** — *S58: [[Thomas]] is a member.* Who else sits on it, and why is Cardon meeting them about Var?
 - **Who recently kidnapped [[Jaak Greye]]?** — they want godhood through his blood
 - **[[The Beliard Mystery|Who runs the face-eaters?]]** — the unsigned note's recipient
 - **Who pulls [[Rulf Cloudfang|Rulf]]'s strings?** — S57: Rulf told Malkyn he "had no choice"; **Rulf may be a puppet** of someone higher in the cult
@@ -89,7 +91,7 @@ The party tracked [[Ilin Cotton]] to the [[Tavern Misty Beard]] and met its boss
 - [[Interitus]] — werewolf, Force Grey, Gray Wolves wolf-guardian
 - [[Sildar Hallwinter]] — Sheriff of Phandalin, researching Gotrek's brother
 - [[Gundren Rockseeker]] — dwarf, employer
-- [[Thomas]] — kobold info broker, Force Grey
+- [[Thomas]] — kobold info broker, Force Grey; **allied (S58)** and a [[Council of the Underworld]] member
 - [[Eldrin]] — Gotrek's brother (in hiding, contacts via dreamrealm)
 - [[Drizzt Do'Urden]] — legendary drow ranger, introduced us to Thomas
 - [[Barnaby Baxter]] — freed Ringmaster of the Circus of New Beginnings; competing alongside us in the Brawl
@@ -186,7 +188,7 @@ The party tracked [[Ilin Cotton]] to the [[Tavern Misty Beard]] and met its boss
 - [[Black Network]] (Zhentarim)
 - [[Xanathars Guild|Xanathar's Guild]] — Waterdeep, fighting the Zhentarim
 - [[Council of the Underworld]] — Waterdeep, Cardon's contacts
-- [[Shankers]] — Waterdeep sewer gang; Thomas's rival
+- [[Shankers]] — Waterdeep sewer gang; Thomas's rival (**broken S58**)
 - [[Cult of Cyric]]
 - [[The Circle]] — inner ranks of the Cult of Cyric
 - [[Cult of the Dragon]]
@@ -209,6 +211,7 @@ The party tracked [[Ilin Cotton]] to the [[Tavern Misty Beard]] and met its boss
 
 ## 📜 Sessions
 
+- [[Session 58 - Var - 2026-06-01|Session 58 - Var]] — [[The Shanker Job]] finished (locket recovered, Shanker boss self-detonates); [[Thomas]] revealed as a [[Council of the Underworld]] member → disguised meeting w/ [[Cardon Malefic]] set for tomorrow; [[Northern Beaches Frost Giants]] cleared (slave-boat op), captives freed, [[Lords Alliance|renown]] earned
 - [[Session 57 - Var - 2026-05-25|Session 57 - Var]] / [[Session 57 - Jaak - 2026-05-25|Jaak]] / [[Session 57 - Gotrek - 2026-05-25|Gotrek]] — Misty Beard intel (Ilin → Yartar; Rulf the "puppet"); Blackstaff rune tests + Stronmaus relic from Harrick; met Thomas → [[The Shanker Job]] begins; sewer fight (ratmen + crocs)
 - [[Session 56 - Var - 2026-05-18]] / [[Session 56 - Jaak - 2026-05-18]] — Tournament registration, Skeemo investigation begins, Cardon arrives in Waterdeep, Ilin revealed as Harper, Cradle of the Stonegiants in dream
 - *Earlier sessions: see [[Original Notes - Raw Archive (Through Session 55)]]*

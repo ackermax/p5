@@ -11,6 +11,6 @@ faction: Lords' Alliance
 > **Affiliation:** [[Lords Alliance|Lord's Alliance]]
 > **Disposition:** Quest-giver
 
-## Active Quest From Him
+## Quest From Him
 
-**[[Northern Beaches Frost Giants|Frost Giants rampaging farms on the Northern Beaches]]** — a Lords' Alliance quest.
+**[[Northern Beaches Frost Giants|Frost Giants rampaging farms on the Northern Beaches]]** — a Lords' Alliance quest. ✅ **Completed S58** — giants defeated, captives freed (they were running a slave-boat operation); reported back for [[Lords Alliance|renown]].
