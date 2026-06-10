@@ -1,7 +1,7 @@
 ---
 tags: [npc]
 status: active
-location: Waterdeep
+location: Harper custody (Waterdeep)
 faction: Zhentarim?
 first-met: Session 56
 aliases:
@@ -15,6 +15,15 @@ aliases:
 > **Role:** Owner of **Weirdbottle Concoctions** (potion shop, [[Waterdeep]])
 > **Disposition toward party:** Friendly facade — actual loyalties under investigation
 > **First met:** [[Session 56 - Var - 2026-05-18]] at his shop
+> **Status (S59):** **Taken into custody by the [[Harpers]].** The [[Council of the Underworld]] has posted a **10,000 gp bounty to rescue him** (raised by [[Davil Starsong]]).
+
+## Captured By The Harpers (Session 59)
+
+At the [[Council of the Underworld]] meeting, **[[Davil Starsong]]** (leader of the [[Black Network|Zhentarim]] *and* the [[Doom Raiders]], Skeemo's old band) revealed the **Harpers have taken Skeemo** and suspected a "third party" set it up — **that third party was us.** Davil **posted a 10,000 gp bounty to spring him.**
+
+- The Harper investigation we were running (S56–58) evidently **paid off** — they moved on Skeemo.
+- **We're on the opposite side of the Council's bounty.** Action item: **tell the Harpers ASAP** that the underworld is coming for their prisoner (and may know a third party was involved).
+- Skeemo is now a **bargaining chip / interrogation source** — he knows the cult's "anointed location" and the Enhanced Torpor plan.
 
 ## Appearance
 

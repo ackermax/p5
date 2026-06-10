@@ -10,11 +10,11 @@ title: The Adventures of the Phandalin Five
 
 - **[[Home]]** — the campaign dashboard: active threads, factions, NPCs, places, sessions
 - **[[The Phandalin Five]]** — the party
-- **Latest session (58, 2026-06-01):** [[Session 58 - Var - 2026-06-01|Var]]
+- **Latest session (59, 2026-06-08):** [[Session 59 - Var - 2026-06-08|Var]] / [[Session 59 - Jaak - 2026-06-08|Jaak]] / [[Session 59 - Gotrek - 2026-06-08|Gotrek]]
 
-## 📖 Previously, in Waterdeep — [[Session 58 - Var - 2026-06-01|Session 58]] (2026-06-01)
+## 📖 Previously, in Waterdeep — [[Session 59 - Var - 2026-06-08|Session 59]] (2026-06-08)
 
-The party pushed deeper into the [[Shankers|Shanker]] sewer hideout — past steam machinery of unknown purpose and an emergency valve rigged to flush rats into the entry room (we jammed one shut) — and recovered [[Thomas]]'s stolen locket after the Shanker boss blew himself and his lackeys up with a bomb. Back at his base, Thomas paid out and dropped a bombshell: he sits on the **[[Council of the Underworld]]**, and there's a meeting **tomorrow evening** about [[Var Borgal|Var]]'s situation — and to sit down with **[[Cardon Malefic]]**, with Thomas **disguising the party and walking them in** ([[The Shanker Job]] complete; his alliance also unblocks the [[Harshnags Hunt|Harshnag]] conversation). We handed the Shankers' other stolen goods to the [[Lords Alliance]] and rested at the Yawning Portal. The next morning we hunted the [[Northern Beaches Frost Giants]] — catching a giant loading captives onto a slave-boat — defeated them and freed the prisoners. The Alliance logged it as renown: [[Sir Joseph Gordon Die Hard|Joseph]] and [[Gotrek Runehammer|Gotrek]] are now climbing toward the **10 they need to rank up**.
+After kitting [[Estelle Moonglow Platinum|Estelle]] out with a new bow and armor, [[Thomas]] disguised the party and walked us into the **[[Council of the Underworld]]** — a sit-down of Waterdeep's crime bosses: **[[Davil Starsong]]** (the elf who leads both the [[Black Network|Zhentarim]] and the [[Doom Raiders]]), **[[Xanathars Guild|Xanathar]]** the beholder itself, and a laid-back drow pirate named **[[Jarlaxle]]**. Davil revealed the [[Harpers]] had **seized [[Skeemo Weirdbottle|Skeemo]]** (our doing) and posted a **10,000 gp bounty to rescue him**; [[Xanathars Guild|Xanathar]] demanded the death of **[[Captain Hawkwinter]]**. Then **[[Cardon Malefic]]** entered behind a **magic-nullifying field** (sustained by his knight — it killed even Xanathar's magic), **raised the bounty on [[Var Borgal|Var]] to 25,000 gp alive**, and hired escorts to a **[[Cult of Cyric|Cult of C]] meeting at [[Yartar]] in three days** — [[Jarlaxle]] and Davil's Zhentarim signed on. The cult, we learned, has "risen from the ashes," is buying up poisons for "something big," and is converging on **Yartar — the very place [[Find Ilin Cotton|Ilin]] is headed.** The next morning we entered the [[The Waterdeep Ultimate Brawl|Brawl]] (run by the [[Other Locations|Order of the Gauntlet]]) with [[Barnaby Baxter]]: **won the swamp round** holding resources back, and ended mid-fight against **whispering eldritch horrors** ringing a fleshy, tooth-lined maw we mustn't be dragged into.
 
 ## The Party
 
@@ -27,9 +27,10 @@ The party pushed deeper into the [[Shankers|Shanker]] sewer hideout — past ste
 ## What's Happening Now
 
 - **[[Find Hekaton]]** — find the missing storm king and reinstate [[The Ordening]]
-- **[[Council of the Underworld]] meeting** — tomorrow evening, disguised, to face [[Cardon Malefic]] (via [[Thomas]])
-- **[[The Waterdeep Ultimate Brawl]]** — registered; event imminent in [[Waterdeep]]
-- **[[Reckoning With The Cult Of Cyric]]** — Estelle and Jaak's old enemy, very much resurfacing
-- **[[Find Ilin Cotton]]** — alive, ahead of us, headed for [[Yartar]]
+- **[[The Waterdeep Ultimate Brawl]]** — mid-fight: won round 1, facing eldritch horrors in round 2
+- **[[Cardon Malefic]] → [[Yartar]] in 3 days** — to meet the [[Cult of Cyric|Cult of C]]; the Var arc and the cult arc converge there
+- **[[Reckoning With The Cult Of Cyric]]** — the cult has "risen from the ashes" and is massing at [[Yartar]]
+- **[[Find Ilin Cotton]]** — alive, ahead of us, headed for [[Yartar]] (same hot spot)
+- **Warn the [[Harpers]]** — the underworld has a 10k bounty to spring [[Skeemo Weirdbottle|Skeemo]] from their custody
 
 See [[Home]] for the full thread list.

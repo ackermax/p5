@@ -8,7 +8,7 @@ location: Waterdeep (recently arrived)
 
 > **Role:** Var's former lord, now his enemy
 > **Disposition:** Hostile
-> **Current Status:** **Recently arrived in [[Waterdeep]]** from a distant land, meeting with "shady people" including the **Council of the Underworld**
+> **Current Status:** In [[Waterdeep]]; **departing for [[Yartar]] in ~3 days (as of S59)** to meet the [[Cult of Cyric|Cult of C]], guarded by [[Black Network|Zhentarim]] + [[Jarlaxle]]. Bounty on [[Var Borgal|Var]] now **25,000 gp, alive.** Carries an **anti-magic field** (maintained by his knight).
 
 ## Background
 
@@ -24,13 +24,16 @@ Confirmed in [[Session 56 - Jaak - 2026-05-18|session 56]]:
 - **Var must learn as much as possible** about him
 - **Var must be active** — passive watching is not enough
 
-## The Meeting (Set After Session 58)
+## The Council Meeting — Seen In Person (Session 59)
 
-[[Thomas]] — now an ally and a **member of the [[Council of the Underworld]]** — told us there's a **meeting tomorrow evening** to discuss **[[Var Borgal|Var]]'s situation** and to **sit down with Cardon**. Thomas is **disguising the party and bringing them in.**
+We attended the **[[Council of the Underworld]]** meeting in disguise, escorted by [[Thomas]]. **[[Davil Starsong]] introduced Cardon** to the assembled bosses. What we learned watching him:
 
-- This is the first chance to see Cardon in person (in disguise) since Var fled.
-- The meeting is *about* Var — so Cardon is actively working the Council to find him.
-- Risk: Cardon "expects deception" and warns against trusting the first name/face — disguises may not hold under scrutiny.
+- **He radiates an anti-magic field.** As he approached, a **wave disabled all magic in the room — even [[Xanathars Guild|Xanathar]]'s.** Cardon **apologized but said he can't turn it off**; **his knight maintains the shield.** Critical tactical intel: near Cardon, [[Var Borgal|Var]]'s sorcery (and everyone's) simply stops working.
+- **The bounty on [[Var Borgal|Var]] is now 25,000 gp — wanted ALIVE.** (Up sharply from the vague "payment waits" of the poster.)
+- **He is recruiting muscle for a mission:** a **meeting with the [[Cult of Cyric|Cult of C]]** at **[[Yartar]], in 3 days**, paying **1,000 gp per escort.** This is the first hard confirmation that **Cardon is dealing with the Cult of Cyric.**
+- **Who took the job:** [[Jarlaxle]] accepted (though wary of Yartar "krakens"); [[Davil Starsong]] pledged **[[Black Network|Zhentarim]]** men. **[[Thomas]] and [[Xanathars Guild|Xanathar]] declined.**
+
+**Bottom line:** we now know **where Cardon will be and when** (Yartar, ~3 days out), **who's guarding him** (Zhentarim + Jarlaxle's brigade), and **that he's tied to the Cult of Cyric** — the same trail [[Ilin Cotton]] is on.
 
 ## The Wanted Poster
 
@@ -79,5 +82,7 @@ Confirmed in [[Session 56 - Jaak - 2026-05-18|session 56]]:
 - Has Cardon sent agents to the Sword Coast?
 - Is the **"we are watching" black-sun messenger** ([[The Black Sun Watchers]]) connected to him?
 - Could the cloaked glowing man from Var's vision be tied to Cardon, or opposed to him?
-- The **[[Council of the Underworld]]** is real and seats [[Thomas]] — but who *else* sits on it, and why is Cardon meeting them about Var?
+- ~~Who else sits on the Council?~~ **Answered S59:** [[Davil Starsong]], [[Xanathars Guild|Xanathar]], [[Jarlaxle]], [[Thomas]]. Cardon came to *hire* them, not to lead them.
 - Who is paying Skeemo to circulate Cardon's wanted poster?
+- **What does Cardon want from the [[Cult of Cyric|Cult of C]] at [[Yartar]]?** He's escorting himself *to* a cult meeting — are they his new patrons, his quarry, or both?
+- **How do we fight a man whose presence cancels magic?** The field is sustained by his **knight**, not him — take the knight first?

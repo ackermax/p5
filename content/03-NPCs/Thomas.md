@@ -42,9 +42,20 @@ We recovered the locket (see [[The Shanker Job]]) and handed it back. In return 
 
 This makes him not just an info broker but a **seat at the table** Cardon has been courting.
 
+## Session 59 — He Walked Us Into The Council
+
+Thomas's family escorted us back through the sewers and **prepared our disguises**, coaching us to keep quiet and pass notes. He then **brought us into the [[Council of the Underworld]] meeting** alongside [[Davil Starsong]], [[Xanathars Guild|Xanathar]], [[Jarlaxle]], and [[Cardon Malefic]]. (See [[Council of the Underworld]] for the full meeting.) At the table he:
+
+- **Reported the [[Shankers]] dealt with** (annoying [[Xanathars Guild|Xanathar]], who'd wanted them); **offered his own services** in their place
+- **Declined** [[Cardon Malefic]]'s [[Yartar]] escort offer
+- **Offered to help [[Jarlaxle]]** with whatever the drow is searching for in Waterdeep — a thread we can lean on
+- Afterward told us a **fond story** about why he loves running with the team — once stole some **silver plates**, and **[[Harshnag]] didn't judge him too harshly** for it
+
+We also **asked Thomas about getting an invitation to The Golden Goose** — the invitation-only gambling house in [[Yartar]] (see [[Yartar]]).
+
 ## Current Working Relationship
 
-- **Allied as of S58.** The locket job closed the deal.
+- **Allied as of S58, deepened S59.** He vouched for us inside the Council itself.
 - He's the Waterdeep information broker *and* on the Council — a direct line into the underworld power structure.
 - His alliance unblocks the **[[Harshnags Hunt|Harshnag conversation]]** (the original gate).
-- **Next beat:** the disguised Council meeting tomorrow night — Var face-to-face (in disguise) with Cardon.
+- **Leads we hold through him:** the Jarlaxle favor, and a possible invite to The Golden Goose.

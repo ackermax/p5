@@ -7,9 +7,9 @@
 > **Party:** [[The Phandalin Five]]
 > **Source of Truth:** This vault. **Source Notes:** [[Original Notes - Raw Archive (Through Session 55)]] (Gotrek's & Jaak's voices, preserved)
 
-## 📖 Previously, in Waterdeep — [[Session 58 - Var - 2026-06-01|Session 58]] (2026-06-01)
+## 📖 Previously, in Waterdeep — [[Session 59 - Var - 2026-06-08|Session 59]] (2026-06-08)
 
-The party pushed deeper into the [[Shankers|Shanker]] sewer hideout — past steam machinery of unknown purpose and an emergency valve rigged to flush rats into the entry room (we jammed one shut) — and recovered [[Thomas]]'s stolen locket after the Shanker boss blew himself and his lackeys up with a bomb. Back at his base, Thomas paid out and dropped a bombshell: he sits on the **[[Council of the Underworld]]**, and there's a meeting **tomorrow evening** about [[Var Borgal|Var]]'s situation — and to sit down with **[[Cardon Malefic]]**, with Thomas **disguising the party and walking them in** ([[The Shanker Job]] complete; his alliance also unblocks the [[Harshnags Hunt|Harshnag]] conversation). We handed the Shankers' other stolen goods to the [[Lords Alliance]] and rested at the Yawning Portal. The next morning we hunted the [[Northern Beaches Frost Giants]] — catching a giant loading captives onto a slave-boat — defeated them and freed the prisoners. The Alliance logged it as renown: [[Sir Joseph Gordon Die Hard|Joseph]] and [[Gotrek Runehammer|Gotrek]] are now climbing toward the **10 they need to rank up**.
+After kitting [[Estelle Moonglow Platinum|Estelle]] out with a new bow and armor, [[Thomas]] disguised the party and walked us into the **[[Council of the Underworld]]** — a sit-down of Waterdeep's crime bosses: **[[Davil Starsong]]** (the elf who leads both the [[Black Network|Zhentarim]] and the [[Doom Raiders]]), **[[Xanathars Guild|Xanathar]]** the beholder itself, and a laid-back drow pirate named **[[Jarlaxle]]**. Davil revealed the [[Harpers]] had **seized [[Skeemo Weirdbottle|Skeemo]]** (our doing) and posted a **10,000 gp bounty to rescue him**; [[Xanathars Guild|Xanathar]] demanded the death of **[[Captain Hawkwinter]]**. Then **[[Cardon Malefic]]** entered behind a **magic-nullifying field** (sustained by his knight — it killed even Xanathar's magic), **raised the bounty on [[Var Borgal|Var]] to 25,000 gp alive**, and hired escorts to a **[[Cult of Cyric|Cult of C]] meeting at [[Yartar]] in three days** — [[Jarlaxle]] and Davil's Zhentarim signed on. The cult, we learned, has "risen from the ashes," is buying up poisons for "something big," and is converging on **Yartar — the very place [[Find Ilin Cotton|Ilin]] is headed.** The next morning we entered the [[The Waterdeep Ultimate Brawl|Brawl]] (run by the [[Other Locations|Order of the Gauntlet]]) with [[Barnaby Baxter]]: **won the swamp round** holding resources back, and ended mid-fight against **whispering eldritch horrors** ringing a fleshy, tooth-lined maw we mustn't be dragged into.
 
 ## 🔥 Active Threads
 
@@ -20,14 +20,18 @@ The party pushed deeper into the [[Shankers|Shanker]] sewer hideout — past ste
 - **[[Harshnags Hunt]]** — alliance with Harshnag on the Ordening problem; meeting again in three months, after he visits [[Krowen Valharrow]]. **Gate cleared (S58):** [[Thomas]] alliance secured, so the held-back Harshnag conversation is unblocked.
 
 ### ⏰ Time-Sensitive — Waterdeep (This Week)
-- **[[Council of the Underworld]] meeting — TOMORROW EVENING** *(new, S58)*: [[Thomas]] (now revealed as a Council member) is **disguising the party** and bringing them to a meeting about [[Var Borgal|Var]]'s situation — and to sit down with **[[Cardon Malefic]]**. The session's biggest live lead.
-- **[[The Waterdeep Ultimate Brawl]]** — ✅ **registered**; event imminent. Lineup: party + [[Barnaby Baxter]] in the Monster Arena, [[Gotrek Runehammer|Gotrek]] and [[Sir Joseph Gordon Die Hard|Joseph]] in singles.
-- **[[Skeemo Weirdbottle]] investigation** — Harper-assigned; recovered cult letter + Cardon wanted poster; ongoing
+- **[[The Waterdeep Ultimate Brawl]] — MID-FIGHT** *(S59 cliffhanger)*: Round 1 (swamp) won; **Round 2 in progress** vs whispering **eldritch horrors** around a fleshy tooth-maw — don't get dragged in. Lineup: party + [[Barnaby Baxter]]. Run by the [[Other Locations|Order of the Gauntlet]].
+- **[[Cardon Malefic]] → [[Yartar]] in 3 days** *(new, S59)*: Cardon meets the **[[Cult of Cyric|Cult of C]]** there, guarded by [[Black Network|Zhentarim]] + [[Jarlaxle]]. **The single biggest live lead** — it merges the Var arc, the Cyric arc, and [[Find Ilin Cotton|Ilin's trail]] at one place and time. Note: Cardon carries an **anti-magic field** (his knight sustains it).
+- **Warn the [[Harpers]] re: [[Skeemo Weirdbottle|Skeemo]]** *(new, S59)*: Harpers took Skeemo; the Council posted a **10,000 gp bounty to rescue him** and suspect a third party (us). Tell the Harpers the underworld is coming.
+- **[[Captain Hawkwinter]] is marked for death** *(new, S59)*: [[Xanathars Guild|Xanathar]] wants him killed for stealing from him — decide whether to warn him / the Watch.
+- **The Golden Goose** *(new, S59)*: we asked [[Thomas]] for an invitation to the invitation-only [[Yartar]] gambling house — a possible legit way into the city as the cult/Cardon converge.
+- **[[Jarlaxle]] favor** *(new, S59)*: the drow is searching Waterdeep for something; [[Thomas]] offered to help — a lever we hold.
 - **Standing offer:** [[Harrick Stonequill]] has more runes (incl. explosive) if we return to Blackstaff Academy
 
-### ✅ Recently Closed (S58)
-- **[[The Shanker Job]]** — recovered Thomas's locket; the [[Shankers]] are broken (boss self-detonated). Payoff: Thomas's alliance + the Council reveal.
-- **[[Northern Beaches Frost Giants]]** — [[Thogard]]'s quest done; giants (running a slave-boat op) defeated, captives freed, [[Lords Alliance|renown]] earned.
+### ✅ Recently Closed (S59)
+- **[[Council of the Underworld]] meeting attended** — members revealed ([[Davil Starsong]], [[Xanathars Guild|Xanathar]], [[Jarlaxle]], [[Thomas]]); Cardon courted them for the Yartar job. Spawned the Yartar / Skeemo / Hawkwinter leads above.
+- **[[The Shanker Job]]** *(S58)* — recovered Thomas's locket; the [[Shankers]] are broken. Payoff: Thomas's alliance + the Council reveal.
+- **[[Northern Beaches Frost Giants]]** *(S58)* — [[Thogard]]'s quest done; slave-boat op defeated, captives freed, [[Lords Alliance|renown]] earned.
 
 ### Cult Fronts
 - **[[Reckoning With The Cult Of Cyric]]** — Estelle and Jaak's enemy; possibly the [[The Cult in Helms Hold|Helm's Hold]] cult
@@ -47,7 +51,7 @@ The party pushed deeper into the [[Shankers|Shanker]] sewer hideout — past ste
 - **[[Find Rulf Cloudfang]]** — last seen Neverwinter; high-value capture
 - **[[Estelles True Identity]]** — mother, benefactor, "Moonglow Platinum"
 - **[[Jaaks Celestial War]]** — kidnapped for his ascension-blood; recovering memories of celestial war
-- **[[Var Borgal|Var]] vs [[Cardon Malefic|Cardon]]** — Cardon is in Waterdeep, hunting Var via wanted poster. **S58: a [[Council of the Underworld]] meeting about Var is set for tomorrow evening — Var will attend in disguise, courtesy of [[Thomas]].** Var's alias "The Shadow's Heir."
+- **[[Var Borgal|Var]] vs [[Cardon Malefic|Cardon]]** — *S59:* watched Cardon at the Council in disguise. Bounty on Var now **25,000 gp alive**; Cardon carries a **magic-nullifying field** (his knight sustains it). Cardon is **leaving for [[Yartar]] in 3 days to meet the [[Cult of Cyric|Cult of C]]** — Var's hunter and Var's friends' cult are now allied. Var's alias "The Shadow's Heir."
 
 ## 🕵️ Mysteries To Track
 
@@ -60,7 +64,10 @@ The party pushed deeper into the [[Shankers|Shanker]] sewer hideout — past ste
 - **[[Cult of the Dragon]]'s "grand thing"** — connected to Elturel sinking into Avernus?
 - **The [[The Circle|Circle]]** — inner ranks of the Cult of Cyric; who sits at it, where it meets, what "the Circle turns" means
 - **The Enhanced Torpor target** — who is the cult planning to dose? Could be [[Ilin Cotton]]
-- **[[Council of the Underworld]]** — *S58: [[Thomas]] is a member.* Who else sits on it, and why is Cardon meeting them about Var?
+- **What is the [[Cult of Cyric|Cult of C]] doing at [[Yartar]]?** — "risen from the ashes," buying poisons for "something big"; Cardon is meeting them there
+- **What did [[Captain Hawkwinter]] steal from [[Xanathars Guild|Xanathar]]?** — worth a Council-rank reward to kill him over
+- **Why is [[Jarlaxle]] really in Waterdeep?** — what is the drow searching for?
+- **[[Council of the Underworld]]** — *S59: members are [[Davil Starsong]], [[Xanathars Guild|Xanathar]], [[Jarlaxle]], [[Thomas]].* What's its home base, and how often does it convene?
 - **Who recently kidnapped [[Jaak Greye]]?** — they want godhood through his blood
 - **[[The Beliard Mystery|Who runs the face-eaters?]]** — the unsigned note's recipient
 - **Who pulls [[Rulf Cloudfang|Rulf]]'s strings?** — S57: Rulf told Malkyn he "had no choice"; **Rulf may be a puppet** of someone higher in the cult
@@ -129,12 +136,18 @@ The party pushed deeper into the [[Shankers|Shanker]] sewer hideout — past ste
 - [[Agatha]] — banshee, traded the spellbook to Tsernoth
 
 ### Antagonists — Personal
-- [[Cardon Malefic]] — Var's former lord; **now active in Waterdeep**, hunting Var via wanted poster
+- [[Cardon Malefic]] — Var's former lord; in Waterdeep, **bounty on Var up to 25k alive**; **anti-magic field**; headed to [[Yartar]] to meet the [[Cult of Cyric|Cult of C]]
 - [[Rulf Cloudfang]] — half-elf fiddler, Jaak/Estelle's hunter
 - The Cult of Cyric leader (name unknown)
 - [[Lady Morwen Daggerford]] — betrayed Yamir; holds Jaak's spider staff; mixed loyalty
 - [[Yamir]] — merchant, betrayed by Daggerford, status unknown
-- [[Skeemo Weirdbottle]] — Doom Raiders alumnus; cult supplier; Harper target
+- [[Skeemo Weirdbottle]] — Doom Raiders alumnus; cult supplier; **now in Harper custody (S59)**
+
+### Waterdeep Underworld (Council of the Underworld)
+- [[Davil Starsong]] — flamboyant elf; boss of the [[Black Network|Zhentarim]] *and* the [[Doom Raiders]]; chaired the Council; allied with Cardon for the Yartar job
+- [[Xanathars Guild|Xanathar]] — the beholder itself; wants [[Captain Hawkwinter]] dead
+- [[Jarlaxle]] — laid-back drow pirate with his own brigade; "the pirate from the gambling den"; [[Thomas]] is helping his search
+- [[Thomas]] — *(ally; see Inner Circle)* — our seat at the table
 
 ### Antagonists — Cosmic
 - [[Countess Sansuri]] — cloud giant, Mistress of the Ninefold Veil
@@ -211,6 +224,7 @@ The party pushed deeper into the [[Shankers|Shanker]] sewer hideout — past ste
 
 ## 📜 Sessions
 
+- [[Session 59 - Var - 2026-06-08|Session 59 - Var]] / [[Session 59 - Jaak - 2026-06-08|Jaak]] / [[Session 59 - Gotrek - 2026-06-08|Gotrek]] — disguised into the [[Council of the Underworld]] meeting (members: [[Davil Starsong]], [[Xanathars Guild|Xanathar]] the beholder, [[Jarlaxle]], [[Thomas]]); [[Skeemo Weirdbottle|Skeemo]] taken by Harpers (10k rescue bounty); [[Cardon Malefic]] (anti-magic field, 25k Var bounty) recruits for a [[Cult of Cyric|Cult of C]] meeting at [[Yartar]] in 3 days; [[Captain Hawkwinter]] marked by Xanathar; [[The Waterdeep Ultimate Brawl|Brawl]] begins — won round 1, cliffhanger in round 2 (eldritch maw)
 - [[Session 58 - Var - 2026-06-01|Session 58 - Var]] — [[The Shanker Job]] finished (locket recovered, Shanker boss self-detonates); [[Thomas]] revealed as a [[Council of the Underworld]] member → disguised meeting w/ [[Cardon Malefic]] set for tomorrow; [[Northern Beaches Frost Giants]] cleared (slave-boat op), captives freed, [[Lords Alliance|renown]] earned
 - [[Session 57 - Var - 2026-05-25|Session 57 - Var]] / [[Session 57 - Jaak - 2026-05-25|Jaak]] / [[Session 57 - Gotrek - 2026-05-25|Gotrek]] — Misty Beard intel (Ilin → Yartar; Rulf the "puppet"); Blackstaff rune tests + Stronmaus relic from Harrick; met Thomas → [[The Shanker Job]] begins; sewer fight (ratmen + crocs)
 - [[Session 56 - Var - 2026-05-18]] / [[Session 56 - Jaak - 2026-05-18]] — Tournament registration, Skeemo investigation begins, Cardon arrives in Waterdeep, Ilin revealed as Harper, Cradle of the Stonegiants in dream

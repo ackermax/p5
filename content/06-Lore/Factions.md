@@ -46,7 +46,7 @@ Detectives we worked with on the [[Kryptgarden Forest]] gold thief case. Found t
 ## Hostile — Active Threats
 
 ### [[Cult of Cyric]]
-Estelle and Jaak's enemy. Mother monastery still active. Ran [[The Death Knight Ritual]] (we stopped one cell). Likely the [[The Cult in Helms Hold|Helm's Hold cult]]. Operates an inner body called **[[The Circle]]** (confirmed session 56) — commissioning [[Skeemo Weirdbottle]] for Enhanced Torpor.
+Estelle and Jaak's enemy. Mother monastery still active. Ran [[The Death Knight Ritual]] (we stopped one cell). Likely the [[The Cult in Helms Hold|Helm's Hold cult]]. Operates an inner body called **[[The Circle]]** (confirmed session 56) — commissioning [[Skeemo Weirdbottle]] for Enhanced Torpor. **S59: "risen from the ashes," gathering poisons, "trying something big," converging on [[Yartar]] — and [[Cardon Malefic]] is meeting them there.**
 
 ### [[The Circle]]
 **Inner ranks of the [[Cult of Cyric]].** Referenced in the recovered cult letter ("The Circle turns... the Circle will remember"). Specific members and meeting place unknown.
@@ -58,16 +58,16 @@ Hidden, well-resourced, "preparing something grand." **[[Tiamat]] active again, 
 Elemental Evil cult, going around looking for allies. Active on the Sword Coast.
 
 ### [[Black Network]] (Zhentarim)
-Crime syndicate. **Attacked Nightstone**, now dominates **Womford**. Sworn enemies of the [[Harpers]]. **May have bad people inside the [[Lords Alliance|Lord's Alliance]]**. **[[Skeemo Weirdbottle]] is a suspected asset.**
+Crime syndicate. **Attacked Nightstone**, now dominates **Womford**. Sworn enemies of the [[Harpers]]. **May have bad people inside the [[Lords Alliance|Lord's Alliance]]**. **Led in [[Waterdeep]] by [[Davil Starsong]]** (S59) — who also heads the [[Doom Raiders]]. **[[Skeemo Weirdbottle]] is a suspected asset.** Now **escorting [[Cardon Malefic]] to [[Yartar]].**
 
 ### [[Xanathars Guild|Xanathar's Guild]]
-**Powerful [[Waterdeep]] guild** living in the sewers. **Fighting against the [[Black Network|Zhentarim]].** Status: not our ally, but not our enemy yet.
+**Powerful [[Waterdeep]] guild** living in the sewers. **Fighting against the [[Black Network|Zhentarim]].** **Xanathar is a beholder** (confirmed S59) and sits on the [[Council of the Underworld]]; he wants **[[Captain Hawkwinter]] dead** for stealing from him. Status: not our ally, but not our enemy yet.
 
 ### [[Council of the Underworld]]
-**Unknown faction in [[Waterdeep]]** — what [[Cardon Malefic]] is meeting with since arriving. Faction nature, members, and home base all unknown.
+**A summit of [[Waterdeep]]'s crime bosses** (members confirmed S59): [[Thomas]], [[Davil Starsong]] (Zhentarim/Doom Raiders), [[Xanathars Guild|Xanathar]] (the beholder), and [[Jarlaxle]]. We attended a meeting in disguise via Thomas; [[Cardon Malefic]] came to *hire* them, not lead them.
 
 ### [[Doom Raiders]]
-Retired adventuring band. "Not decent people" per Harper assessment. Built ties to the [[Black Network|Zhentarim]]. **[[Skeemo Weirdbottle]] is a former member.** Other members and current activity unknown.
+Retired adventuring band. "Not decent people" per Harper assessment. **Led by [[Davil Starsong]]**, who *also* runs the Waterdeep [[Black Network|Zhentarim]] (S59) — so the band and the Zhent are the same network at the top. **[[Skeemo Weirdbottle]] is a former member** (now in Harper custody; Davil posted a 10k bounty to free him).
 
 ### Lion Shield Merchant Empire
 A merchant empire with an outpost in [[Phandalin]] (lion on a shield emblem). **Powerful.** Leader in [[Yartar]]. **Jack** travels with their goods. Status: **unclear — we're not enemies but they're listed alongside threats**.
@@ -76,7 +76,7 @@ A merchant empire with an outpost in [[Phandalin]] (lion on a shield emblem). **
 "Bad groups" — almost certainly Zhentarim cover identities.
 
 ### [[Cardon Malefic]]'s Inquisition
-Personal to [[Var Borgal]]. Magic-purge politics. **Cardon himself is now in [[Waterdeep]]**, meeting with the Council of the Underworld, and has issued a wanted poster for Var (alive).
+Personal to [[Var Borgal]]. Magic-purge politics. **Cardon carries an anti-magic field** (maintained by his knight). Bounty on Var now **25,000 gp, alive** (S59). **Departing for [[Yartar]] in ~3 days to meet the [[Cult of Cyric|Cult of C]]**, escorted by [[Black Network|Zhentarim]] + [[Jarlaxle]].
 
 ### Servants of Bahamut (Imposters)
 **Not the real Bahamut faction** — evil actors using the Platinum Dragon's symbol. Operate in [[Kryptgarden Forest]]. They talk about going to **Leeland** for the "dragon of justice." Watch for this iconography elsewhere — it's specifically *deceptive*.

@@ -61,6 +61,24 @@ Two formats:
 - **Group Competition (Monster Arena):** the full party, **plus [[Barnaby Baxter]]** — the Ringmaster of the rebranded [[The Exquisites Investigation|Circus of New Beginnings]] (formerly The Exquisites; he was the prisoner we freed from the shapeshifters)
 - **Singles Competition (Tournament of Prowess):** **[[Gotrek Runehammer]]** and **[[Sir Joseph Gordon Die Hard]]**, both entered
 
+## ⚔️ The Tournament Begins (Session 59)
+
+The event is **run by the [[Other Locations|Order of the Gauntlet]]**. We signed waivers and waited our turn, competing as the 6-person team **with [[Barnaby Baxter]]**. Prep: we **bought [[Estelle Moonglow Platinum]] a new bow and new armor** beforehand.
+
+### Round 1 — Swamp (✅ Won)
+- A **giant swamp monster** plus a swarm of **little creatures / nettles**
+- Won, but **deliberately held back resources** for the escalating rounds. Resource log (per Gotrek):
+  - **Gotrek:** none
+  - **Var:** free Silvery Barbs (denied a crit), 1× Chaos Bolt
+  - **Sir Joseph:** free Hunter's Mark (still concentrating), 2× self-heal, 1× heal on Jaak
+  - **Jaak:** Mantle of Inspiration (6), 1× Cloud of Daggers, 1 healing potion
+  - **Estelle:** none
+
+### Round 2 — The Fleshy Maw (⏳ In Progress — Cliffhanger)
+- The arena **transformed from swamp to a fleshy surface covered in eyes**, with a **giant open mouth full of teeth at the center** — do **not** get dragged into it
+- **6–8 eldritch horrors** surround the central maw-pit; they appear to be **whispering into our heads**
+- We expect them to **grapple us and drag us toward the mouth.** Session ended mid-fight.
+
 ## Tactical Notes
 
 - **[[Gotrek Runehammer]]** + **[[Sir Joseph Gordon Die Hard]]** are the obvious singles entries — heavy melee
@@ -79,7 +97,7 @@ Two formats:
 ## Action Items
 
 - ✅ Registration complete
-- ⬜ Confirm event timing — "8 AM sharp" applies to which day?
-- ⬜ Sit down with [[Barnaby Baxter]] before the event — establish capabilities, signals, ground rules
-- ⬜ Stockpile consumables (Weirdbottle, Corellon's Crown)
-- ⬜ Long rest the day before
+- ✅ Event underway — run by the [[Other Locations|Order of the Gauntlet]]; **Round 1 won**
+- ⬜ **Survive Round 2** (the fleshy maw + whispering eldritch horrors) without being grappled into the central mouth
+- ⬜ Keep pacing resources — three more escalating rounds implied after this
+- ⬜ Watch the **mind-whisper** effect — possible Wisdom/charm saves; Jaak's Glamour and Var's Counterspell (when not anti-magicked) may matter

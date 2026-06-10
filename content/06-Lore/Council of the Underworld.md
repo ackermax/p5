@@ -4,36 +4,35 @@ tags: [lore, faction, mystery, var-arc]
 
 # Council of the Underworld
 
-> **Type:** Faction / governance body in [[Waterdeep]] — a council seated by underworld power-brokers
+> **Type:** Faction / governance body in [[Waterdeep]] — a council seated by the city's underworld power-brokers
 > **First learned of:** [[Session 56 - Jaak - 2026-05-18]] via Harper briefing
-> **Significance:** **[[Cardon Malefic]] is meeting with them** since arriving in Waterdeep — and our ally **[[Thomas]]** sits on it
+> **Significance:** A **summit of Waterdeep's crime bosses.** Our ally **[[Thomas]]** sits on it, and we **attended a meeting in disguise (S59)** to watch [[Cardon Malefic]] court it.
 
-## What We Know
+## Membership (Confirmed S59)
 
-- Active in [[Waterdeep]]
-- **[[Thomas]] is a member** (revealed S58) — our first confirmed seat on the Council
-- Holds enough power that **[[Cardon Malefic]]** — recently arrived from a distant land — is meeting with them as part of his Sword Coast operation
-- A **meeting is set for the evening after S58** to discuss **[[Var Borgal|Var]]'s situation** and to sit down with Cardon; Thomas is **disguising the party and bringing them in**
-- The [[Harpers]] flagged the meeting; they consider it intelligence worth investigating
+We sat in on a full meeting, disguised, escorted by [[Thomas]]. The seats present:
 
-## What We Don't Know
+- **[[Thomas]]** — kobold info broker, our ally (the one who walked us in)
+- **[[Davil Starsong]]** — flamboyant elf; **leader of the [[Black Network|Zhentarim]] in Waterdeep** *and* head of the **[[Doom Raiders]]**. He **chaired the meeting.**
+- **[[Xanathars Guild|Xanathar]]** — the beholder *itself* attended in person
+- **[[Jarlaxle]]** — laid-back drow dressed as a pirate/admiral; commands his own brigade. (Var recognized him as "the pirate from the gambling den.")
+- **[[Cardon Malefic]]** — *not a member* — introduced by Davil as a guest seeking the Council's help (see below)
 
-- The **other members** besides [[Thomas]] — who else holds a seat?
-- Whether it's coordinated with the [[Black Network|Zhentarim]] (probable, given the underworld branding)
-- Whether [[Xanathars Guild|Xanathar's Guild]] is part of it, rival to it, or unrelated
-- Whether it includes legitimate Waterdeep power-brokers operating off the books, or only career criminals
-- **Why Cardon sought it out** — and what he wants from a body that includes our ally Thomas
+So the Council is, in effect, **a sit-down of the rival Waterdeep undergrounds** — Zhentarim, Xanathar's Guild, Thomas's network, and Jarlaxle's brigade — at one table.
 
-## Working Theories
+## What Happened At The Meeting (S59)
 
-- **Zhentarim-Xanathar non-aggression council** — a treaty body that mediates between the two major Waterdeep undergrounds
-- **A meta-faction** that includes representatives from multiple criminal organizations
-- **A Lord's Alliance-adjacent intelligence channel** — Waterdeep's nobles dealing with the underworld through deniable proxies
-- **A name Cardon is using for whoever he's actually meeting with** — possibly not even a real organization
+- **[[Davil Starsong]] opened**, complaining of **"hindering activities"** disrupting underworld business — named **[[Other Locations|Nightstone]]** (which involved us). Revealed **[[Skeemo Weirdbottle]] was taken by the [[Harpers]]**, suspected a "third party" (us), and **posted a 10,000 gp bounty to rescue Skeemo.**
+- **[[Thomas]] reported the [[Shankers]] dealt with.** [[Xanathars Guild|Xanathar]] was annoyed — he'd wanted the Shankers as playthings. Thomas offered his own services in their place.
+- **[[Jarlaxle]]** said he was bored and looking for someone interesting to use his brigade; **Thomas offered to assist** his search.
+- **[[Cardon Malefic]] was introduced.** His approach triggered a **wave of anti-magic** that disabled *everyone's* magic, even Xanathar's (his knight maintains the field; Cardon can't switch it off). He **upped the bounty on [[Var Borgal|Var]] to 25,000 gp (alive)** and recruited escorts for a **[[Cult of Cyric|Cult of C]] meeting at [[Yartar]] in 3 days** (1,000 gp/head). **Jarlaxle and Davil's Zhentarim accepted; Thomas and Xanathar declined.**
+- **[[Xanathars Guild|Xanathar]]** demanded the death of **[[Captain Hawkwinter]]** — who stole something from him / is in his way — offering a higher underworld rank to anyone who'd help. Then **left immediately.**
 
 ## Open Threads
 
-- ✅ One member identified: **[[Thomas]]** (S58)
-- ⬜ Identify the **rest of the membership**
-- ⬜ **Attend the meeting** (disguised, via Thomas) re: Var + Cardon — the immediate next beat
-- ⬜ Determine if **[[Skeemo Weirdbottle]]** is connected (his shop hosted both the cult letter and the Cardon wanted poster — he's plugged into multiple lines)
+- ✅ Membership identified (S59): Thomas, Davil Starsong, Xanathar, Jarlaxle
+- ⬜ **Cardon → Yartar in 3 days** with Zhent + Jarlaxle muscle, to meet the [[Cult of Cyric|Cult of C]] — converges with [[Find Ilin Cotton|Ilin's Yartar lead]]. The party now knows where Cardon will be.
+- ⬜ **10,000 gp Council bounty to rescue [[Skeemo Weirdbottle|Skeemo]] from the Harpers** — we're on the *opposite* side of this; warn the Harpers
+- ⬜ **Xanathar wants [[Captain Hawkwinter]] dead** — decide whether to warn Hawkwinter / the Watch
+- ⬜ [[Jarlaxle]] is searching Waterdeep for something; [[Thomas]] is now helping him — a possible lever
+- ⬜ We asked [[Thomas]] about an invitation to **The Golden Goose** — the invitation-only gambling house in [[Yartar]] — possibly our way into the city just as the cult/Cardon arrive

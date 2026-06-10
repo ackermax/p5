@@ -40,7 +40,7 @@ Quick-reference page for NPCs we've met but don't have detailed notes on yet. Pr
 
 ## Waterdeep
 
-- **Commander Hawkwinter** — Waterdeep military
+- **Captain Hawkwinter** — Waterdeep military (logged earlier as "Commander Hawkwinter" — **likely the same person; rank unconfirmed**). **S59: [[Xanathars Guild|Xanathar]] wants him dead** — Hawkwinter stole something from the beholder / is "in his way." Xanathar offered a higher underworld rank to anyone who'd kill him. *(Possible thread: warn Hawkwinter / the Watch.)*
 - **Brian the Swordmaster** — market vendor in Tradesward
 - **Camilla** — woman at the gambling den (animal fights)
 - **Hoberts** — man at the gambling den (animal fights)

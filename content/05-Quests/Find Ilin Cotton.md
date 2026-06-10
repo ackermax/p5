@@ -21,6 +21,10 @@ Find **[[Ilin Cotton]]** — the halfling keytarist who took in Jaak as a child,
 - Frames the cult's current work as **"end of the world stuff"**
 - **Looking for [[Harpers]]** himself — trying to re-establish contact
 
+## Yartar Confirmed As The Hot Spot (Session 59)
+
+Ilin's Yartar lead is corroborated from the underworld side. At the [[Council of the Underworld]] meeting we learned the **[[Cult of Cyric|Cult of C]] has "risen from the ashes"** and is **converging on [[Yartar]]**, gathering poisons and "trying something big" — and that **[[Cardon Malefic]] is going to Yartar in ~3 days to meet them.** Whatever Ilin is chasing, **Yartar in the next few days is where it comes to a head.** Catching up to Ilin there now also means walking into Cardon's cult meeting — high risk, high payoff.
+
 ## Original Lead (Session 56 — Closed)
 
 - Last seen at [[Tavern Misty Beard]] in [[Waterdeep]]

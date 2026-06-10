@@ -19,10 +19,17 @@ The Zhentarim are one of the major factions of the Sword Coast — a mercenary n
 - **Hidden caches** — they hide things in trees; we found one with a flying snake inside
 - **High-level infiltration suspected** — "Lord's Alliance has bad people high up?" per the notes
 
+## Leadership (Confirmed S59)
+
+- **[[Davil Starsong]]** — a flamboyant elf — is the **leader of the Zhentarim in [[Waterdeep]]**, and *also* heads the **[[Doom Raiders]]**. We saw him chair the [[Council of the Underworld]] meeting (in disguise).
+- This connects the dots on **[[Skeemo Weirdbottle]]**: his two affiliations (former Doom Raider, suspected Zhent asset) point at **one boss**. Davil is plausibly Skeemo's old captain and current handler — and he's now **put up 10,000 gp to rescue Skeemo from the [[Harpers]].**
+- At the Council, Davil **pledged Zhentarim men to escort [[Cardon Malefic]] to [[Yartar]]** for a [[Cult of Cyric|Cult of C]] meeting — so the Zhentarim are now actively working *with* Cardon.
+
 ## Known Operations / Associates
 
 - **The "Flying Snakes"** — a Zhentarim hallmark; the snake we found in the cached tree was one of theirs
 - Active in the **Sword Coast underground**, especially [[Waterdeep]]'s lower tiers
+- Seat on the **[[Council of the Underworld]]** via [[Davil Starsong]]
 
 ## Why They Matter
 

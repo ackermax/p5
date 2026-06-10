@@ -27,13 +27,21 @@ Bring down the **[[Cult of Cyric]]** and its leadership. They:
 ⬜ Jaak's blood may already have been collected during the [[Jaaks Celestial War|kidnapping]]
 ⬜ Rulf Cloudfang still at large (last seen [[Other Locations|Neverwinter]])
 
+## Session 59 — The Cult Resurfaces At Yartar
+
+Underworld intel from the [[Council of the Underworld]] meeting:
+- The **Cult of C has "risen from the ashes,"** is gathering **merchandise and poisons**, is **"trying something big,"** and is **converging on [[Yartar]].**
+- **[[Cardon Malefic]] is meeting the Cult of C at Yartar in ~3 days** — escorted by [[Black Network|Zhentarim]] and [[Jarlaxle]]. The cult now has a confirmed dealing with a powerful, anti-magic-wielding outsider.
+- This **stacks on [[Find Ilin Cotton|Ilin's lead]]** (he's chasing the cult to Yartar, calls it "end of the world stuff"). **Yartar is the next venue for this whole arc.**
+
 ## Convergence Points
 
 This quest may collapse multiple arcs at once:
 - **[[The Cult in Helms Hold]]** — likely same cult
-- **Find [[Ilin Cotton]]** — Ilin's "urgent secret" almost certainly tied to the cult
+- **Find [[Ilin Cotton]]** — Ilin's "urgent secret" almost certainly tied to the cult; he's chasing them to [[Yartar]]
 - **[[Jaaks Celestial War|Jaak's kidnapping]]** — possibly a Cyric operation
 - **[[Find Rulf Cloudfang|Take down Rulf]]** — cult lieutenant
+- **[[Var Borgal|Var]] vs [[Cardon Malefic]]** — Cardon is now dealing with the cult; the Var arc and the Cyric arc point at the *same* Yartar meeting
 
 ## Leads
 

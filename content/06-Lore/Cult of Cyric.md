@@ -46,6 +46,12 @@ This is the cult Estelle and Jaak escaped from. Previously referred to in our no
 - See the recovered letter on [[Skeemo Weirdbottle]]'s note
 - [[Ilin Cotton]] — a [[Harpers|Harper]] investigating this cult — was discovered. He may be a current target of the new dose. *(Working theory.)*
 
+### The Yartar Operation — "Risen From The Ashes" (Session 59)
+- Underworld chatter at the [[Council of the Underworld]] meeting: the **Cult of C has "risen from the ashes,"** is **acquiring merchandise and poisons**, is **"trying something big,"** and is **converging on [[Yartar]].**
+- **[[Cardon Malefic]] is dealing with them directly:** he's headed to **Yartar in ~3 days to meet the Cult of C**, hiring [[Black Network|Zhentarim]] and [[Jarlaxle]] muscle as escort. *Var's old lord is now in business with Estelle and Jaak's old cult.*
+- This **converges with [[Find Ilin Cotton|Ilin Cotton's lead]]** — Ilin (a Harper) was already chasing the cult to Yartar, framing their work as **"end of the world stuff."** Yartar is becoming the cult's stage.
+- The **poisons** angle dovetails with the **Enhanced Torpor** commission to [[Skeemo Weirdbottle]] (now in Harper custody).
+
 ### Other Possible Cyric Operations
 - **The cult [[Other Locations|Javen Tarmikos]] wants us to defeat in [[Helm's Hold]]** — likely same cult. The [[Other Locations|Order of the Gilded Eye]] is hunting them too.
 - **The Cult of Cyric is one of multiple active cults** on the Sword Coast right now (alongside [[Cult of the Dragon]], [[Howling Hatred]])
