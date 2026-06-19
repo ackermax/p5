@@ -10,11 +10,11 @@ title: The Adventures of the Phandalin Five
 
 - **[[Home]]** — the campaign dashboard: active threads, factions, NPCs, places, sessions
 - **[[The Phandalin Five]]** — the party
-- **Latest session (59, 2026-06-08):** [[Session 59 - Var - 2026-06-08|Var]] / [[Session 59 - Jaak - 2026-06-08|Jaak]] / [[Session 59 - Gotrek - 2026-06-08|Gotrek]]
+- **Latest session (60, 2026-06-15):** [[Session 60 - Var - 2026-06-15|Var]] / [[Session 60 - Gotrek - 2026-06-15|Gotrek]]
 
-## 📖 Previously, in Waterdeep — [[Session 59 - Var - 2026-06-08|Session 59]] (2026-06-08)
+## 📖 Previously, in Waterdeep — [[Session 60 - Var - 2026-06-15|Session 60]] (2026-06-15)
 
-After kitting [[Estelle Moonglow Platinum|Estelle]] out with a new bow and armor, [[Thomas]] disguised the party and walked us into the **[[Council of the Underworld]]** — a sit-down of Waterdeep's crime bosses: **[[Davil Starsong]]** (the elf who leads both the [[Black Network|Zhentarim]] and the [[Doom Raiders]]), **[[Xanathars Guild|Xanathar]]** the beholder itself, and a laid-back drow pirate named **[[Jarlaxle]]**. Davil revealed the [[Harpers]] had **seized [[Skeemo Weirdbottle|Skeemo]]** (our doing) and posted a **10,000 gp bounty to rescue him**; [[Xanathars Guild|Xanathar]] demanded the death of **[[Captain Hawkwinter]]**. Then **[[Cardon Malefic]]** entered behind a **magic-nullifying field** (sustained by his knight — it killed even Xanathar's magic), **raised the bounty on [[Var Borgal|Var]] to 25,000 gp alive**, and hired escorts to a **[[Cult of Cyric|Cult of C]] meeting at [[Yartar]] in three days** — [[Jarlaxle]] and Davil's Zhentarim signed on. The cult, we learned, has "risen from the ashes," is buying up poisons for "something big," and is converging on **Yartar — the very place [[Find Ilin Cotton|Ilin]] is headed.** The next morning we entered the [[The Waterdeep Ultimate Brawl|Brawl]] (run by the [[Other Locations|Order of the Gauntlet]]) with [[Barnaby Baxter]]: **won the swamp round** holding resources back, and ended mid-fight against **whispering eldritch horrors** ringing a fleshy, tooth-lined maw we mustn't be dragged into.
+The party fought through the back half of the **[[The Waterdeep Ultimate Brawl|Monster Arena]]**. We cleared **Round 2's fleshy maw** — learning the whispering horrors drive you mad if you **start your turn inside their circle of influence** — and put them down fast. **Round 3** flipped the floor to a **frozen tundra** of wolves and yetis, scattered by a well-placed **Fireball**; **Round 4** was a brutal **water arena** of sharks, squids, and a shark-man hybrid we barely dispatched. Now the arena has become a **field of lava** webbed with bridges and rock shelves, and our **final opponent has appeared — a fire dragon elemental.** The championship fight (Round 5 of 5) is mid-reveal as the session ends; surviving it claims a **Magic Item Table C** prize already earned for Round 4, plus "a prize worthy of champions yet undefeated."
 
 ## The Party
 
@@ -27,7 +27,7 @@ After kitting [[Estelle Moonglow Platinum|Estelle]] out with a new bow and armor
 ## What's Happening Now
 
 - **[[Find Hekaton]]** — find the missing storm king and reinstate [[The Ordening]]
-- **[[The Waterdeep Ultimate Brawl]]** — mid-fight: won round 1, facing eldritch horrors in round 2
+- **[[The Waterdeep Ultimate Brawl]]** — final round: won rounds 1–4, facing a fire dragon elemental in the lava arena
 - **[[Cardon Malefic]] → [[Yartar]] in 3 days** — to meet the [[Cult of Cyric|Cult of C]]; the Var arc and the cult arc converge there
 - **[[Reckoning With The Cult Of Cyric]]** — the cult has "risen from the ashes" and is massing at [[Yartar]]
 - **[[Find Ilin Cotton]]** — alive, ahead of us, headed for [[Yartar]] (same hot spot)

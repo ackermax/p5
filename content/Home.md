@@ -7,9 +7,9 @@
 > **Party:** [[The Phandalin Five]]
 > **Source of Truth:** This vault. **Source Notes:** [[Original Notes - Raw Archive (Through Session 55)]] (Gotrek's & Jaak's voices, preserved)
 
-## 📖 Previously, in Waterdeep — [[Session 59 - Var - 2026-06-08|Session 59]] (2026-06-08)
+## 📖 Previously, in Waterdeep — [[Session 60 - Var - 2026-06-15|Session 60]] (2026-06-15)
 
-After kitting [[Estelle Moonglow Platinum|Estelle]] out with a new bow and armor, [[Thomas]] disguised the party and walked us into the **[[Council of the Underworld]]** — a sit-down of Waterdeep's crime bosses: **[[Davil Starsong]]** (the elf who leads both the [[Black Network|Zhentarim]] and the [[Doom Raiders]]), **[[Xanathars Guild|Xanathar]]** the beholder itself, and a laid-back drow pirate named **[[Jarlaxle]]**. Davil revealed the [[Harpers]] had **seized [[Skeemo Weirdbottle|Skeemo]]** (our doing) and posted a **10,000 gp bounty to rescue him**; [[Xanathars Guild|Xanathar]] demanded the death of **[[Captain Hawkwinter]]**. Then **[[Cardon Malefic]]** entered behind a **magic-nullifying field** (sustained by his knight — it killed even Xanathar's magic), **raised the bounty on [[Var Borgal|Var]] to 25,000 gp alive**, and hired escorts to a **[[Cult of Cyric|Cult of C]] meeting at [[Yartar]] in three days** — [[Jarlaxle]] and Davil's Zhentarim signed on. The cult, we learned, has "risen from the ashes," is buying up poisons for "something big," and is converging on **Yartar — the very place [[Find Ilin Cotton|Ilin]] is headed.** The next morning we entered the [[The Waterdeep Ultimate Brawl|Brawl]] (run by the [[Other Locations|Order of the Gauntlet]]) with [[Barnaby Baxter]]: **won the swamp round** holding resources back, and ended mid-fight against **whispering eldritch horrors** ringing a fleshy, tooth-lined maw we mustn't be dragged into.
+The party fought through the back half of the **[[The Waterdeep Ultimate Brawl|Monster Arena]]**. We cleared **Round 2's fleshy maw** — learning the whispering horrors drive you mad if you **start your turn inside their circle of influence** — and put them down fast. **Round 3** flipped the floor to a **frozen tundra** of wolves and yetis, scattered by a well-placed **Fireball**; **Round 4** was a brutal **water arena** of sharks, squids, and a shark-man hybrid we barely dispatched. Now the arena has become a **field of lava** webbed with bridges and rock shelves, and our **final opponent has appeared — a fire dragon elemental.** The championship fight (Round 5 of 5) is mid-reveal as the session ends; surviving it claims a **Magic Item Table C** prize already earned for Round 4, plus "a prize worthy of champions yet undefeated."
 
 ## 🔥 Active Threads
 
@@ -20,7 +20,7 @@ After kitting [[Estelle Moonglow Platinum|Estelle]] out with a new bow and armor
 - **[[Harshnags Hunt]]** — alliance with Harshnag on the Ordening problem; meeting again in three months, after he visits [[Krowen Valharrow]]. **Gate cleared (S58):** [[Thomas]] alliance secured, so the held-back Harshnag conversation is unblocked.
 
 ### ⏰ Time-Sensitive — Waterdeep (This Week)
-- **[[The Waterdeep Ultimate Brawl]] — MID-FIGHT** *(S59 cliffhanger)*: Round 1 (swamp) won; **Round 2 in progress** vs whispering **eldritch horrors** around a fleshy tooth-maw — don't get dragged in. Lineup: party + [[Barnaby Baxter]]. Run by the [[Other Locations|Order of the Gauntlet]].
+- **[[The Waterdeep Ultimate Brawl]] — FINAL ROUND** *(S60 cliffhanger)*: Rounds 1–4 won (swamp, fleshy maw, frozen tundra, water arena). **Round 5 of 5 in progress** — a **fire dragon elemental** in a **lava arena** (bridges/rock forms = safe footing). Lineup: party + [[Barnaby Baxter]]. **Magic Item Table C** prize already earned (Round 4); Round 5 promises "a prize worthy of champions yet undefeated."
 - **[[Cardon Malefic]] → [[Yartar]] in 3 days** *(new, S59)*: Cardon meets the **[[Cult of Cyric|Cult of C]]** there, guarded by [[Black Network|Zhentarim]] + [[Jarlaxle]]. **The single biggest live lead** — it merges the Var arc, the Cyric arc, and [[Find Ilin Cotton|Ilin's trail]] at one place and time. Note: Cardon carries an **anti-magic field** (his knight sustains it).
 - **Warn the [[Harpers]] re: [[Skeemo Weirdbottle|Skeemo]]** *(new, S59)*: Harpers took Skeemo; the Council posted a **10,000 gp bounty to rescue him** and suspect a third party (us). Tell the Harpers the underworld is coming.
 - **[[Captain Hawkwinter]] is marked for death** *(new, S59)*: [[Xanathars Guild|Xanathar]] wants him killed for stealing from him — decide whether to warn him / the Watch.
@@ -28,8 +28,9 @@ After kitting [[Estelle Moonglow Platinum|Estelle]] out with a new bow and armor
 - **[[Jarlaxle]] favor** *(new, S59)*: the drow is searching Waterdeep for something; [[Thomas]] offered to help — a lever we hold.
 - **Standing offer:** [[Harrick Stonequill]] has more runes (incl. explosive) if we return to Blackstaff Academy
 
-### ✅ Recently Closed (S59)
-- **[[Council of the Underworld]] meeting attended** — members revealed ([[Davil Starsong]], [[Xanathars Guild|Xanathar]], [[Jarlaxle]], [[Thomas]]); Cardon courted them for the Yartar job. Spawned the Yartar / Skeemo / Hawkwinter leads above.
+### ✅ Recently Closed (S60)
+- **[[The Waterdeep Ultimate Brawl|Monster Arena]] Rounds 2–4 cleared** *(S60)* — fleshy maw (madness if you start your turn in a horror's circle of influence), frozen tundra (wolves/yetis, broken by Fireball), and the water arena (sharks/squids/shark-man). Only the final lava round remains.
+- **[[Council of the Underworld]] meeting attended** *(S59)* — members revealed ([[Davil Starsong]], [[Xanathars Guild|Xanathar]], [[Jarlaxle]], [[Thomas]]); Cardon courted them for the Yartar job. Spawned the Yartar / Skeemo / Hawkwinter leads above.
 - **[[The Shanker Job]]** *(S58)* — recovered Thomas's locket; the [[Shankers]] are broken. Payoff: Thomas's alliance + the Council reveal.
 - **[[Northern Beaches Frost Giants]]** *(S58)* — [[Thogard]]'s quest done; slave-boat op defeated, captives freed, [[Lords Alliance|renown]] earned.
 
@@ -224,6 +225,7 @@ After kitting [[Estelle Moonglow Platinum|Estelle]] out with a new bow and armor
 
 ## 📜 Sessions
 
+- [[Session 60 - Var - 2026-06-15|Session 60 - Var]] / [[Session 60 - Gotrek - 2026-06-15|Gotrek]] — [[The Waterdeep Ultimate Brawl|Monster Arena]] Rounds 2–4 won (fleshy maw → frozen tundra → water arena); Round 5 begins on a lava field against a **fire dragon elemental** (cliffhanger)
 - [[Session 59 - Var - 2026-06-08|Session 59 - Var]] / [[Session 59 - Jaak - 2026-06-08|Jaak]] / [[Session 59 - Gotrek - 2026-06-08|Gotrek]] — disguised into the [[Council of the Underworld]] meeting (members: [[Davil Starsong]], [[Xanathars Guild|Xanathar]] the beholder, [[Jarlaxle]], [[Thomas]]); [[Skeemo Weirdbottle|Skeemo]] taken by Harpers (10k rescue bounty); [[Cardon Malefic]] (anti-magic field, 25k Var bounty) recruits for a [[Cult of Cyric|Cult of C]] meeting at [[Yartar]] in 3 days; [[Captain Hawkwinter]] marked by Xanathar; [[The Waterdeep Ultimate Brawl|Brawl]] begins — won round 1, cliffhanger in round 2 (eldritch maw)
 - [[Session 58 - Var - 2026-06-01|Session 58 - Var]] — [[The Shanker Job]] finished (locket recovered, Shanker boss self-detonates); [[Thomas]] revealed as a [[Council of the Underworld]] member → disguised meeting w/ [[Cardon Malefic]] set for tomorrow; [[Northern Beaches Frost Giants]] cleared (slave-boat op), captives freed, [[Lords Alliance|renown]] earned
 - [[Session 57 - Var - 2026-05-25|Session 57 - Var]] / [[Session 57 - Jaak - 2026-05-25|Jaak]] / [[Session 57 - Gotrek - 2026-05-25|Gotrek]] — Misty Beard intel (Ilin → Yartar; Rulf the "puppet"); Blackstaff rune tests + Stronmaus relic from Harrick; met Thomas → [[The Shanker Job]] begins; sewer fight (ratmen + crocs)

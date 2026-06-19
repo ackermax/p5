@@ -34,7 +34,7 @@ session-number: 59 - Gotrek
 	- Gotrek: none
 	- Var: Free Silvery Barbs (to prevent crit), 1-Chaos Bolt.
 	- Sir Joseph: Free Hunters Mark (still concentrating), 2-heal (himself), 1-heal (jaak).
-	- Jaak: Mantle of inspiration (6), 1-cloud of daggers, 1 healing potion
+	- Jaak: Mantle of inspiration (6), 2-cloud of daggers, 1 healing potion
 	- Estelle: none
 - Won round 1, and saw round 2, which were eldritch horrors (6-8) surrounding a big maw pit we need to avoid. We heard they are going to try and grapple us and drag us into the middle. 
 

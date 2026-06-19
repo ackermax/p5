@@ -74,10 +74,22 @@ The event is **run by the [[Other Locations|Order of the Gauntlet]]**. We signed
   - **Jaak:** Mantle of Inspiration (6), 1× Cloud of Daggers, 1 healing potion
   - **Estelle:** none
 
-### Round 2 — The Fleshy Maw (⏳ In Progress — Cliffhanger)
+### Round 2 — The Fleshy Maw (✅ Won, Session 60)
 - The arena **transformed from swamp to a fleshy surface covered in eyes**, with a **giant open mouth full of teeth at the center** — do **not** get dragged into it
-- **6–8 eldritch horrors** surround the central maw-pit; they appear to be **whispering into our heads**
-- We expect them to **grapple us and drag us toward the mouth.** Session ended mid-fight.
+- **6–8 eldritch horrors** surround the central maw-pit, **whispering into our heads**
+- **The madness mechanic:** starting your turn inside **any monster's circle of influence** drives you mad. We **defeated them all quickly** and moved on.
+
+### Round 3 — Frozen Tundra (✅ Won, Session 60)
+- The arena became a **frozen tundra dotted with trees**; we were attacked by **wolves and yetis**
+- **Fireball was really good** — cleared them out fast
+
+### Round 4 — Water Arena (✅ Won, Session 60)
+- A **flooded arena** against **sharks, squids, and a shark-man hybrid**
+- **Tough fight, but we dispatched them**
+
+### Round 5 — Lava Flow (⏳ In Progress — Cliffhanger, Session 60)
+- The final arena is a **field of lava flow**, with **bridges and rock forms** creating safe footing
+- Our **final opponent has appeared: a fire dragon elemental.** Session ended on the reveal — the championship fight is unresolved.
 
 ## Tactical Notes
 
@@ -97,7 +109,7 @@ The event is **run by the [[Other Locations|Order of the Gauntlet]]**. We signed
 ## Action Items
 
 - ✅ Registration complete
-- ✅ Event underway — run by the [[Other Locations|Order of the Gauntlet]]; **Round 1 won**
-- ⬜ **Survive Round 2** (the fleshy maw + whispering eldritch horrors) without being grappled into the central mouth
-- ⬜ Keep pacing resources — three more escalating rounds implied after this
-- ⬜ Watch the **mind-whisper** effect — possible Wisdom/charm saves; Jaak's Glamour and Var's Counterspell (when not anti-magicked) may matter
+- ✅ Event underway — run by the [[Other Locations|Order of the Gauntlet]]
+- ✅ **Rounds 1–4 won** (swamp, fleshy maw, frozen tundra, water arena)
+- ⬜ **Win Round 5** — the **fire dragon elemental** in the lava arena; use the bridges/rock forms as safe footing away from the lava
+- ⬜ Claim rewards: completing the **4th challenge** earns a **Magic Item Table C** item; the **5th** promises "a prize worthy of champions yet undefeated"
