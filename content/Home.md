@@ -7,9 +7,9 @@
 > **Party:** [[The Phandalin Five]]
 > **Source of Truth:** This vault. **Source Notes:** [[Original Notes - Raw Archive (Through Session 55)]] (Gotrek's & Jaak's voices, preserved)
 
-## 📖 Previously, in Waterdeep — [[Session 60 - Var - 2026-06-15|Session 60]] (2026-06-15)
+## 📖 Previously, in Waterdeep — [[Session 61 - Var - 2026-06-22|Session 61]] (2026-06-22)
 
-The party fought through the back half of the **[[The Waterdeep Ultimate Brawl|Monster Arena]]**. We cleared **Round 2's fleshy maw** — learning the whispering horrors drive you mad if you **start your turn inside their circle of influence** — and put them down fast. **Round 3** flipped the floor to a **frozen tundra** of wolves and yetis, scattered by a well-placed **Fireball**; **Round 4** was a brutal **water arena** of sharks, squids, and a shark-man hybrid we barely dispatched. Now the arena has become a **field of lava** webbed with bridges and rock shelves, and our **final opponent has appeared — a fire dragon elemental.** The championship fight (Round 5 of 5) is mid-reveal as the session ends; surviving it claims a **Magic Item Table C** prize already earned for Round 4, plus "a prize worthy of champions yet undefeated."
+The **[[The Waterdeep Ultimate Brawl|Monster Arena]] championship** went badly: the round-5 **fire dragon elemental** overwhelmed the team almost immediately — a deliberate end-game fight we went in under-prepared for (no fire resistance, no scouting). We **thanked [[Barnaby Baxter]]** and stayed to watch the singles **Tournament of Prowess**, where **[[Sir Joseph Gordon Die Hard]] won the whole bracket** — taking the final at **3 HP** — while **[[Gotrek Runehammer]] placed third**, knocked out of the semis after a grenade-throwing pirate rogue locked him in **Hold Person for five rounds**. Joseph earned a **magic tattoo** (force a creature to roll a 1, 3×/long rest); the team's arena prize came as an **amethyst coin** to flip in an alley, paid out by **[[Amen Voss]]**, the gnome curator of magical items — **each of us walked away with two magic items** (see [[The Waterdeep Ultimate Brawl|the quest]]). Voss invited us to **shop before we leave [[Waterdeep]]**, under three rules: no refunds, no haggling, no deceiving. Next: **check on the airship [[Ignitamis]]** and turn toward the converging **[[Yartar]]** leads.
 
 ## 🔥 Active Threads
 
@@ -20,7 +20,8 @@ The party fought through the back half of the **[[The Waterdeep Ultimate Brawl|M
 - **[[Harshnags Hunt]]** — alliance with Harshnag on the Ordening problem; meeting again in three months, after he visits [[Krowen Valharrow]]. **Gate cleared (S58):** [[Thomas]] alliance secured, so the held-back Harshnag conversation is unblocked.
 
 ### ⏰ Time-Sensitive — Waterdeep (This Week)
-- **[[The Waterdeep Ultimate Brawl]] — FINAL ROUND** *(S60 cliffhanger)*: Rounds 1–4 won (swamp, fleshy maw, frozen tundra, water arena). **Round 5 of 5 in progress** — a **fire dragon elemental** in a **lava arena** (bridges/rock forms = safe footing). Lineup: party + [[Barnaby Baxter]]. **Magic Item Table C** prize already earned (Round 4); Round 5 promises "a prize worthy of champions yet undefeated."
+- **Shop at [[Amen Voss]] before leaving [[Waterdeep]]** *(new, S61)*: the gnome curator of magical items gave us an open invitation to buy from his shop — **three rules: no refunds, no haggling, no deceiving.** Do this before we depart for [[Yartar]].
+- **Check on the airship [[Ignitamis]]** *(new, S61)*: Jaak flagged we still need to see to the skyship — it needs Tinker's, Woodcarver's, Carpenter's, and Tailoring tools for repair.
 - **[[Cardon Malefic]] → [[Yartar]] in 3 days** *(new, S59)*: Cardon meets the **[[Cult of Cyric|Cult of C]]** there, guarded by [[Black Network|Zhentarim]] + [[Jarlaxle]]. **The single biggest live lead** — it merges the Var arc, the Cyric arc, and [[Find Ilin Cotton|Ilin's trail]] at one place and time. Note: Cardon carries an **anti-magic field** (his knight sustains it).
 - **Warn the [[Harpers]] re: [[Skeemo Weirdbottle|Skeemo]]** *(new, S59)*: Harpers took Skeemo; the Council posted a **10,000 gp bounty to rescue him** and suspect a third party (us). Tell the Harpers the underworld is coming.
 - **[[Captain Hawkwinter]] is marked for death** *(new, S59)*: [[Xanathars Guild|Xanathar]] wants him killed for stealing from him — decide whether to warn him / the Watch.
@@ -28,8 +29,9 @@ The party fought through the back half of the **[[The Waterdeep Ultimate Brawl|M
 - **[[Jarlaxle]] favor** *(new, S59)*: the drow is searching Waterdeep for something; [[Thomas]] offered to help — a lever we hold.
 - **Standing offer:** [[Harrick Stonequill]] has more runes (incl. explosive) if we return to Blackstaff Academy
 
-### ✅ Recently Closed (S60)
-- **[[The Waterdeep Ultimate Brawl|Monster Arena]] Rounds 2–4 cleared** *(S60)* — fleshy maw (madness if you start your turn in a horror's circle of influence), frozen tundra (wolves/yetis, broken by Fireball), and the water arena (sharks/squids/shark-man). Only the final lava round remains.
+### ✅ Recently Closed (S61)
+- **[[The Waterdeep Ultimate Brawl]] concluded** *(S61)* — **Monster Arena: lost the Round-5 championship** to a **fire dragon elemental** (an intended end-game fight; we went in under-prepared). **Singles: [[Sir Joseph Gordon Die Hard]] won the Tournament of Prowess** (final at 3 HP); **[[Gotrek Runehammer]] placed 3rd** (Hold Person'd 5 rounds in the semis). Rewards paid out by **[[Amen Voss]]** — one uncommon + one rare item per PC, plus a magic tattoo for Joseph.
+- **[[The Waterdeep Ultimate Brawl|Monster Arena]] Rounds 2–4 cleared** *(S60)* — fleshy maw (madness if you start your turn in a horror's circle of influence), frozen tundra (wolves/yetis, broken by Fireball), and the water arena (sharks/squids/shark-man).
 - **[[Council of the Underworld]] meeting attended** *(S59)* — members revealed ([[Davil Starsong]], [[Xanathars Guild|Xanathar]], [[Jarlaxle]], [[Thomas]]); Cardon courted them for the Yartar job. Spawned the Yartar / Skeemo / Hawkwinter leads above.
 - **[[The Shanker Job]]** *(S58)* — recovered Thomas's locket; the [[Shankers]] are broken. Payoff: Thomas's alliance + the Council reveal.
 - **[[Northern Beaches Frost Giants]]** *(S58)* — [[Thogard]]'s quest done; slave-boat op defeated, captives freed, [[Lords Alliance|renown]] earned.
@@ -135,6 +137,7 @@ The party fought through the back half of the **[[The Waterdeep Ultimate Brawl|M
 - [[Hantanus Tarm]] — Goldenfields headmaster
 - [[Strog Thunderblade]] — Goldenfields captain of the guard
 - [[Agatha]] — banshee, traded the spellbook to Tsernoth
+- [[Amen Voss]] — gnome **curator of magical items** in Waterdeep; ran the Brawl rewards; open invitation to shop (no refunds, no haggling, no deceiving); sold "Kiki the abomination" to [[Barnaby Baxter]]
 
 ### Antagonists — Personal
 - [[Cardon Malefic]] — Var's former lord; in Waterdeep, **bounty on Var up to 25k alive**; **anti-magic field**; headed to [[Yartar]] to meet the [[Cult of Cyric|Cult of C]]
@@ -225,6 +228,7 @@ The party fought through the back half of the **[[The Waterdeep Ultimate Brawl|M
 
 ## 📜 Sessions
 
+- [[Session 61 - Var - 2026-06-22|Session 61 - Var]] / [[Session 61 - Jaak - 2026-06-22|Jaak]] / [[Session 61 - Gotrek - 2026-06-22|Gotrek]] — [[The Waterdeep Ultimate Brawl]] ends: Monster Arena **lost** the Round-5 championship to a **fire dragon elemental**; singles **Tournament of Prowess won by [[Sir Joseph Gordon Die Hard]]** (Gotrek 3rd); rewards from **[[Amen Voss]]** — one uncommon + one rare item per PC + a magic tattoo for Joseph
 - [[Session 60 - Var - 2026-06-15|Session 60 - Var]] / [[Session 60 - Gotrek - 2026-06-15|Gotrek]] — [[The Waterdeep Ultimate Brawl|Monster Arena]] Rounds 2–4 won (fleshy maw → frozen tundra → water arena); Round 5 begins on a lava field against a **fire dragon elemental** (cliffhanger)
 - [[Session 59 - Var - 2026-06-08|Session 59 - Var]] / [[Session 59 - Jaak - 2026-06-08|Jaak]] / [[Session 59 - Gotrek - 2026-06-08|Gotrek]] — disguised into the [[Council of the Underworld]] meeting (members: [[Davil Starsong]], [[Xanathars Guild|Xanathar]] the beholder, [[Jarlaxle]], [[Thomas]]); [[Skeemo Weirdbottle|Skeemo]] taken by Harpers (10k rescue bounty); [[Cardon Malefic]] (anti-magic field, 25k Var bounty) recruits for a [[Cult of Cyric|Cult of C]] meeting at [[Yartar]] in 3 days; [[Captain Hawkwinter]] marked by Xanathar; [[The Waterdeep Ultimate Brawl|Brawl]] begins — won round 1, cliffhanger in round 2 (eldritch maw)
 - [[Session 58 - Var - 2026-06-01|Session 58 - Var]] — [[The Shanker Job]] finished (locket recovered, Shanker boss self-detonates); [[Thomas]] revealed as a [[Council of the Underworld]] member → disguised meeting w/ [[Cardon Malefic]] set for tomorrow; [[Northern Beaches Frost Giants]] cleared (slave-boat op), captives freed, [[Lords Alliance|renown]] earned

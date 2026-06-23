@@ -20,7 +20,7 @@ aliases: [Lords Alliance]
 - **[[Laeral Silverhand]]** — Open Lord of Waterdeep
 - **[[Sildar Hallwinter]]** — Sheriff of Phandalin, retired Griffin Army
 - **[[Thogard]]** — Leader of the Gryphon Riders
-- **Commander Hawkwinter** — Waterdeep military
+- [[Commander Hawkwinter]] — Waterdeep military; marked for death by [[Xanathars Guild|Xanathar]] (S59)
 - **[[Lady Morwen Daggerford]]** — Duchess of Daggerford (also Force Grey)
 
 ## Current State

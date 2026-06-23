@@ -15,7 +15,7 @@ aliases:
 > **Disposition:** Ally — we freed him
 > **Where:** [[Waterdeep]]
 
-> **Name note:** The DM has confirmed the Leonin circus leader's name is **Barnaby Baxter** (2026-05-29); earlier vault notes rendered it "Barnabus," which was a mishearing. The old spelling is kept as an alias so older links still resolve. This is also the same **Barnaby Baxter** previously logged as the buyer of "Kiki the abomination" (see below).
+> **Name note:** The DM has confirmed the Leonin circus leader's name is **Barnaby Baxter** (2026-05-29); earlier vault notes rendered it "Barnabus," which was a mishearing. The old spelling is kept as an alias so older links still resolve. This is also the same **Barnaby Baxter** previously logged as the buyer of "Kiki the abomination" from [[Amen Voss]] (see below).
 
 ## How We Met Him
 
@@ -23,7 +23,7 @@ When we dismantled the **face-eater circus** in [[Waterdeep]], **the real Barnab
 
 ## Kiki the Abomination
 
-The gnome **[[Minor Contacts|Amen Voss]]** (whitish-purple hair) **sold "Kiki the abomination" to Barnaby Baxter** — consistent with him being a circus ringmaster acquiring a new act. What Kiki actually is remains unknown.
+The gnome **[[Amen Voss]]** (whitish-purple hair) **sold "Kiki the abomination" to Barnaby Baxter**. **Kiki is a (mostly friendly) tentacled monster** that Barnaby kept in the circus as an attraction — guests try to stay upright while Kiki tries to topple them over.
 
 ## What He's Doing Now
 
@@ -40,5 +40,5 @@ The gnome **[[Minor Contacts|Amen Voss]]** (whitish-purple hair) **sold "Kiki th
 ## Open Threads
 
 - ⬜ Pre-Brawl meeting to coordinate
-- ⬜ What is **Kiki the abomination**, and is it now part of the Circus of New Beginnings?
+- ⬜ Is **Kiki the abomination** (the tentacled topple-the-guest attraction) now part of the Circus of New Beginnings?
 - ⬜ Long-term: is the Circus of New Beginnings a viable cover identity / asset for our future work?

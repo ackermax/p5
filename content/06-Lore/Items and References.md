@@ -11,12 +11,18 @@ tags: [lore, items, index]
 ### Held By [[Jaak Greye]]
 - **Fochlucan Bandore** — legendary bardic instrument
 - **Harp pin** — [[Harpers]] symbol
+- **Immovable Rod** *(Brawl reward, S61)* — uncommon; floats fixed in place (holds 8,000 lb; DC 30 STR to shove 10 ft)
+- **Decanter of Endless Water** *(Brawl reward, S61)* — rare; on command produces fresh or salt water (stream/fountain/geyser)
 
 ### Held By [[Var Borgal]]
 - **[[Matey]]** — tressym companion (winged cat); detects magic and invisibility at proximity
+- **Robe of Useful Items** *(Brawl reward, S61)* — uncommon; patches detach into items. Beyond the standard set it carries: bag of 100 gp · 2 rowboats (12 ft) · 10 gems (100 gp each) · 4 Potions of Healing · silver coffer (500 gp) · 24-ft wooden ladder · a 2×4 ft window
+- **Sending Stones** *(Brawl reward, S61)* — rare; paired stones, cast Sending between them 1/day
 
 ### Held By [[Estelle Moonglow Platinum]]
 - **Harp pin** + **Harp bow** — [[Harpers]] iconography
+- **Rope of Climbing** *(Brawl reward, S61)* — uncommon; 60-ft animated rope, knots/fastens/unfastens on command
+- **Eyes of Minute Seeing** *(Brawl reward, S61)* — rare; crystal lenses granting advantage on close-up investigation (fine detail within 1 ft)
 - **2 green vials** — needs identification by an herbalist. **Lead:** *Weirdbottle's Concoctions* or *[[Corellon's Crown]]* in [[Waterdeep]]
 - **5 cursed seeds** — taken from [[Sevembra]]; if planted, would have destroyed [[Goldenfields]] crops; see [[The Cursed Seeds]]
 - **Dresina's journal** — sought by [[Hamun Kost]]
@@ -26,6 +32,13 @@ tags: [lore, items, index]
 
 ### Held By [[Gotrek Runehammer]]
 - **A small stone from home** — possibly a piece of the cleft he was raised in (the [[Cradle of the Stonegiants|Cradle]])
+- **Potion of Resistance** *(Brawl reward, S61)* — uncommon; resistance to one damage type for 1 hour
+- **Periapt of Health** *(Brawl reward, S61)* — rare; immunity to disease while worn
+
+### Held By [[Sir Joseph Gordon Die Hard]]
+- **Necklace of Fireballs** *(Brawl reward, S61)* — rare; detach and throw beads as fireballs (DC 15), no attunement, no spell slot
+- **Potion of Resistance** *(Brawl reward, S61)* — uncommon; resistance to one damage type for 1 hour
+- **Magic tattoo** *(singles-champion prize, S61)* — force a creature to **roll a 1**, once per long rest, **3 uses total**
 
 ### Party Resources
 - **The [[Jade Frog]]** — carved jade figurine with gold/bronze eyes. Origin and purpose TBD. See [[Jade Frog]].

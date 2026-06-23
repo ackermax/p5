@@ -1,13 +1,13 @@
 ---
-tags: [quest, quest/active, time-sensitive]
-status: active
+tags: [quest, quest/completed]
+status: completed
 location: Waterdeep
 deadline: 7 days from receipt; register no later than 5 days before
 ---
 
 # The Waterdeep Ultimate Brawl
 
-> **Status:** Active, **time-sensitive**
+> **Status:** ✅ **Completed (Session 61).** Monster Arena: won Rounds 1–4, **fell in the Round-5 championship to a fire dragon elemental.** Singles: **[[Sir Joseph Gordon Die Hard]] won the Tournament of Prowess**; **[[Gotrek Runehammer]] placed 3rd.**
 > **Location:** [[Waterdeep]]
 > **Deadline:** Begins in **7 days** from receipt; **registration closes 5 days before the event** (i.e., we have ~2 days to register)
 > **Registration:** "Inscriptions should be done in any tavern of Waterdeep"
@@ -87,9 +87,19 @@ The event is **run by the [[Other Locations|Order of the Gauntlet]]**. We signed
 - A **flooded arena** against **sharks, squids, and a shark-man hybrid**
 - **Tough fight, but we dispatched them**
 
-### Round 5 — Lava Flow (⏳ In Progress — Cliffhanger, Session 60)
-- The final arena is a **field of lava flow**, with **bridges and rock forms** creating safe footing
-- Our **final opponent has appeared: a fire dragon elemental.** Session ended on the reveal — the championship fight is unresolved.
+### Round 5 — Lava Flow (❌ Lost, Session 61)
+- The final arena was a **field of lava flow**, with **bridges and rock forms** creating safe footing
+- Our final opponent was a **fire dragon elemental** — it **overwhelmed us almost immediately. "Got hammered by the flame dragon, really didn't have a chance."**
+- **Lesson (per the table):** we could have **scouted the matchup and prepped** (fire-resistance potions, weapons that bypass its defenses). This was a **deliberate end-game-difficulty fight** — we went in under-prepared.
+- We **thanked [[Barnaby Baxter]]** and stayed to watch the singles bracket.
+
+## ⚔️ The Tournament of Prowess (Singles, Session 61)
+
+Entered: **[[Gotrek Runehammer]]** and **[[Sir Joseph Gordon Die Hard]]**.
+
+- **Quarter-finals (✅ both won):** Joseph Hunter's-Marked and charged in, taking 10 damage (free Hunter's Mark + bardic inspiration); Gotrek beat the same enemy type but took 29.
+- **Semi-finals:** Joseph fought a **piratey rogue with grenades on his belt** (tried Hold Person, failed, charged in). **Gotrek was trapped in a Hold Person for 5 rounds and was defeated** → **3rd place.**
+- **Finals (🏆 won):** **Sir Joseph won a thrilling final with 3 HP left** — **champion of the Tournament of Prowess.**
 
 ## Tactical Notes
 
@@ -106,10 +116,33 @@ The event is **run by the [[Other Locations|Order of the Gauntlet]]**. We signed
 - Winning prizes could help fund the [[Ignitamis]] repair or buy items for [[Gather Ulfgardian Relics|relic-bargaining]] with chieftains
 - The **6-person team configuration** (5 PCs + Barnaby Baxter) is well-suited for Monster Arena's escalation — gives us depth for the late challenges
 
+## 🎁 Rewards Claimed (Session 61)
+
+Rewards were dispensed by **[[Amen Voss]]**, the gnome **curator of magical items**, from his [[Waterdeep]] shop — he handed us an **amethyst coin** and instructions to an alley where we flipped a coin three times to receive our items. **Each PC received one uncommon + one rare item:**
+
+| PC | Uncommon | Rare |
+| --- | --- | --- |
+| [[Var Borgal]] | Robe of Useful Items | Sending Stones |
+| [[Jaak Greye]] | Immovable Rod | Decanter of Endless Water |
+| [[Sir Joseph Gordon Die Hard]] | Potion of Resistance | Necklace of Fireballs |
+| [[Gotrek Runehammer]] | Potion of Resistance | Periapt of Health |
+| [[Estelle Moonglow Platinum]] | Rope of Climbing | Eyes of Minute Seeing |
+
+- **[[Var Borgal|Var]]'s Robe of Useful Items** carries extra patches beyond the standard set: bag of 100 gp · 2 rowboats (12 ft) · 10 gems (100 gp each) · 4 Potions of Healing · silver coffer (500 gp) · 24-ft wooden ladder · a 2×4 ft window.
+**Singles cash prizes (per the pamphlet):**
+- **[[Sir Joseph Gordon Die Hard|Joseph]]** (1st) — **5,000 gp** + a **magic tattoo**: force a creature to **roll a 1**, once per long rest, **3 uses total**.
+- **[[Gotrek Runehammer]]** (3rd) — **1,000 gp**.
+
+- **Open invitation:** [[Amen Voss]] told us to **return and shop before leaving Waterdeep** — three rules: **no refunds, no haggling, no deceiving.**
+
+> The team's Monster-Arena prize was paid out as the per-PC magic items above (via Amen Voss's amethyst-coin flip).
+
 ## Action Items
 
 - ✅ Registration complete
-- ✅ Event underway — run by the [[Other Locations|Order of the Gauntlet]]
+- ✅ Event run by the [[Other Locations|Order of the Gauntlet]]
 - ✅ **Rounds 1–4 won** (swamp, fleshy maw, frozen tundra, water arena)
-- ⬜ **Win Round 5** — the **fire dragon elemental** in the lava arena; use the bridges/rock forms as safe footing away from the lava
-- ⬜ Claim rewards: completing the **4th challenge** earns a **Magic Item Table C** item; the **5th** promises "a prize worthy of champions yet undefeated"
+- ❌ **Round 5 lost** — the **fire dragon elemental** ended our championship run
+- 🏆 **[[Sir Joseph Gordon Die Hard]] won the singles Tournament of Prowess**; [[Gotrek Runehammer]] placed 3rd
+- ✅ Rewards claimed (see above)
+- ⬜ **Return to [[Amen Voss]]'s shop** to buy magic items before leaving [[Waterdeep]]
