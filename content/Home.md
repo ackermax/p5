@@ -7,9 +7,9 @@
 > **Party:** [[The Phandalin Five]]
 > **Source of Truth:** This vault. **Source Notes:** [[Original Notes - Raw Archive (Through Session 55)]] (Gotrek's & Jaak's voices, preserved)
 
-## 📖 Previously, in Waterdeep — [[Session 61 - Var - 2026-06-22|Session 61]] (2026-06-22)
+## 📖 Previously, in Waterdeep — [[Session 62 - Var - 2026-06-29|Session 62]] (2026-06-29)
 
-The **[[The Waterdeep Ultimate Brawl|Monster Arena]] championship** went badly: the round-5 **fire dragon elemental** overwhelmed the team almost immediately — a deliberate end-game fight we went in under-prepared for (no fire resistance, no scouting). We **thanked [[Barnaby Baxter]]** and stayed to watch the singles **Tournament of Prowess**, where **[[Sir Joseph Gordon Die Hard]] won the whole bracket** — taking the final at **3 HP** — while **[[Gotrek Runehammer]] placed third**, knocked out of the semis after a grenade-throwing pirate rogue locked him in **Hold Person for five rounds**. Joseph earned a **magic tattoo** (force a creature to roll a 1, 3×/long rest); the team's arena prize came as an **amethyst coin** to flip in an alley, paid out by **[[Amen Voss]]**, the gnome curator of magical items — **each of us walked away with two magic items** (see [[The Waterdeep Ultimate Brawl|the quest]]). Voss invited us to **shop before we leave [[Waterdeep]]**, under three rules: no refunds, no haggling, no deceiving. Next: **check on the airship [[Ignitamis]]** and turn toward the converging **[[Yartar]]** leads.
+After **[[Cardon Malefic]]** caught up with the party at the close of last session, **[[Var Borgal|Var]]** had a private talk with him **about the future** (terms unclear). The party then met **[[Commander Hawkwinter]]**, who **promoted [[Gotrek Runehammer]] and [[Sir Joseph Gordon Die Hard]] to "Stingblades"** and handed out items, then took an audience with **[[Laeral Silverhand]]**, the Open Lord. Laeral mapped the scope of cult activity on the Sword Coast — the **[[Cult of Cyric|Cult of C]]**, the **[[Cult of the Dragon]]**, a **Cult of the Abyss**, and others — and dropped a bombshell: **[[The Ordening]] may have been more a magic trick to keep the giants at bay than a true cosmic phenomenon.** She noted **[[Ilin Cotton]] had helped against the cult and kept a residence at the [[Waterdeep]] dockyard**, and pointed us to **[[Blackstaff Academy]]** for [[Malkyn Serpentwind]]'s curse. We also learned **[[Xanathars Guild|Xanathar]] is after the [[Stone of Golorr]]** — the thing tying the beholder to Hawkwinter — and that [[Amen Voss]]'s magic-item shop is called the **Amethyst Sanctum**. Next: the converging **[[Yartar]]** leads still loom, and the airship [[Ignitamis]] still needs tending.
 
 ## 🔥 Active Threads
 
@@ -20,11 +20,13 @@ The **[[The Waterdeep Ultimate Brawl|Monster Arena]] championship** went badly: 
 - **[[Harshnags Hunt]]** — alliance with Harshnag on the Ordening problem; meeting again in three months, after he visits [[Krowen Valharrow]]. **Gate cleared (S58):** [[Thomas]] alliance secured, so the held-back Harshnag conversation is unblocked.
 
 ### ⏰ Time-Sensitive — Waterdeep (This Week)
-- **Shop at [[Amen Voss]] before leaving [[Waterdeep]]** *(new, S61)*: the gnome curator of magical items gave us an open invitation to buy from his shop — **three rules: no refunds, no haggling, no deceiving.** Do this before we depart for [[Yartar]].
+- **Shop at [[Amen Voss]] before leaving [[Waterdeep]]** *(S61)*: the gnome curator of magical items gave us an open invitation to buy from his shop — the **Amethyst Sanctum** (named S62) — **three rules: no refunds, no haggling, no deceiving.** Do this before we depart for [[Yartar]].
 - **Check on the airship [[Ignitamis]]** *(new, S61)*: Jaak flagged we still need to see to the skyship — it needs Tinker's, Woodcarver's, Carpenter's, and Tailoring tools for repair.
 - **[[Cardon Malefic]] → [[Yartar]] in 3 days** *(new, S59)*: Cardon meets the **[[Cult of Cyric|Cult of C]]** there, guarded by [[Black Network|Zhentarim]] + [[Jarlaxle]]. **The single biggest live lead** — it merges the Var arc, the Cyric arc, and [[Find Ilin Cotton|Ilin's trail]] at one place and time. Note: Cardon carries an **anti-magic field** (his knight sustains it).
 - **Warn the [[Harpers]] re: [[Skeemo Weirdbottle|Skeemo]]** *(new, S59)*: Harpers took Skeemo; the Council posted a **10,000 gp bounty to rescue him** and suspect a third party (us). Tell the Harpers the underworld is coming.
-- **[[Captain Hawkwinter]] is marked for death** *(new, S59)*: [[Xanathars Guild|Xanathar]] wants him killed for stealing from him — decide whether to warn him / the Watch.
+- **[[Commander Hawkwinter]] is marked for death** *(S59)*: [[Xanathars Guild|Xanathar]] wants him killed — **S62: the prize is the [[Stone of Golorr]]**, which Xanathar is hunting and which ties back to Hawkwinter. Decide whether to warn him / the Watch.
+- **Ask [[Blackstaff Academy]] about [[Malkyn Serpentwind]]'s legs** *(new, S62)*: no physical cause — we suspect a **curse** (maybe psychosomatic); [[Laeral Silverhand]] pointed us to the Academy for help lifting it.
+- **Search [[Ilin Cotton]]'s old dockyard quarters in [[Waterdeep]]** *(new, S62)*: Laeral says Ilin helped against the cult and kept a residence at the dockyard — **his old quarters, not yet searched** (not a way to reach Ilin himself; his trail still points to [[Yartar]]).
 - **The Golden Goose** *(new, S59)*: we asked [[Thomas]] for an invitation to the invitation-only [[Yartar]] gambling house — a possible legit way into the city as the cult/Cardon converge.
 - **[[Jarlaxle]] favor** *(new, S59)*: the drow is searching Waterdeep for something; [[Thomas]] offered to help — a lever we hold.
 - **Standing offer:** [[Harrick Stonequill]] has more runes (incl. explosive) if we return to Blackstaff Academy
@@ -54,7 +56,7 @@ The **[[The Waterdeep Ultimate Brawl|Monster Arena]] championship** went badly: 
 - **[[Find Rulf Cloudfang]]** — last seen Neverwinter; high-value capture
 - **[[Estelles True Identity]]** — mother, benefactor, "Moonglow Platinum"
 - **[[Jaaks Celestial War]]** — kidnapped for his ascension-blood; recovering memories of celestial war
-- **[[Var Borgal|Var]] vs [[Cardon Malefic|Cardon]]** — *S59:* watched Cardon at the Council in disguise. Bounty on Var now **25,000 gp alive**; Cardon carries a **magic-nullifying field** (his knight sustains it). Cardon is **leaving for [[Yartar]] in 3 days to meet the [[Cult of Cyric|Cult of C]]** — Var's hunter and Var's friends' cult are now allied. Var's alias "The Shadow's Heir."
+- **[[Var Borgal|Var]] vs [[Cardon Malefic|Cardon]]** — *S59:* watched Cardon at the Council in disguise. Bounty on Var now **25,000 gp alive**; Cardon carries a **magic-nullifying field** (his knight sustains it). Cardon is **leaving for [[Yartar]] in 3 days to meet the [[Cult of Cyric|Cult of C]]** — Var's hunter and Var's friends' cult are now allied. Var's alias "The Shadow's Heir." **S62: Cardon caught up with the party; Var had a private talk with him "about the future" (terms unrecorded — pin down what was said).**
 
 ## 🕵️ Mysteries To Track
 
@@ -68,7 +70,8 @@ The **[[The Waterdeep Ultimate Brawl|Monster Arena]] championship** went badly: 
 - **The [[The Circle|Circle]]** — inner ranks of the Cult of Cyric; who sits at it, where it meets, what "the Circle turns" means
 - **The Enhanced Torpor target** — who is the cult planning to dose? Could be [[Ilin Cotton]]
 - **What is the [[Cult of Cyric|Cult of C]] doing at [[Yartar]]?** — "risen from the ashes," buying poisons for "something big"; Cardon is meeting them there
-- **What did [[Captain Hawkwinter]] steal from [[Xanathars Guild|Xanathar]]?** — worth a Council-rank reward to kill him over
+- **The [[Stone of Golorr]]** *(S62)* — what [[Xanathars Guild|Xanathar]] is really after; tied to [[Commander Hawkwinter]] (likely what Hawkwinter has/stole). What is it, and where is it now?
+- **Was [[The Ordening]] ever "real"?** *(S62)* — [[Laeral Silverhand]]'s **theory**: it may be less a literal cosmic phenomenon than a means of keeping the giants in check — **a "magic trick" that works because everyone wants to believe it works.** If so, the [[Find Hekaton]] spine becomes about restoring *belief* in the order, not a physical mechanism. Unconfirmed.
 - **Why is [[Jarlaxle]] really in Waterdeep?** — what is the drow searching for?
 - **[[Council of the Underworld]]** — *S59: members are [[Davil Starsong]], [[Xanathars Guild|Xanathar]], [[Jarlaxle]], [[Thomas]].* What's its home base, and how often does it convene?
 - **Who recently kidnapped [[Jaak Greye]]?** — they want godhood through his blood
@@ -84,8 +87,8 @@ The **[[The Waterdeep Ultimate Brawl|Monster Arena]] championship** went badly: 
 ## 🧙 [[The Phandalin Five]]
 
 - [[Var Borgal]] — Human Aberrant Mind Sorcerer 8 (ackermax) — magic-hating ex-political-aide
-- [[Gotrek Runehammer]] — Dwarf Barbarian/Path of the Giant 8 (Mivillian) — stone giant heritage
-- [[Sir Joseph Gordon Die Hard]] — Human Ranger/Hunter 8 (DB89) — Lord's Alliance knight
+- [[Gotrek Runehammer]] — Dwarf Barbarian/Path of the Giant 8 (Mivillian) — stone giant heritage; **Stingblade (3rd Lord's Alliance rank, promoted by [[Commander Hawkwinter]], S62)**
+- [[Sir Joseph Gordon Die Hard]] — Human Ranger/Hunter 8 (DB89) — Lord's Alliance knight; **Stingblade (3rd Lord's Alliance rank, promoted by [[Commander Hawkwinter]], S62)**
 - [[Estelle Moonglow Platinum]] — Elf Rogue/Arcane Trickster 8 (Jbaire) — Cult of Cyric escapee, **Harper pin**
 - [[Jaak Greye]] — Aasimar Bard/College of Glamour 8 (Adawgm) — amnesiac celestial, **Harper pin**, kidnap target
 
@@ -149,7 +152,7 @@ The **[[The Waterdeep Ultimate Brawl|Monster Arena]] championship** went badly: 
 
 ### Waterdeep Underworld (Council of the Underworld)
 - [[Davil Starsong]] — flamboyant elf; boss of the [[Black Network|Zhentarim]] *and* the [[Doom Raiders]]; chaired the Council; allied with Cardon for the Yartar job
-- [[Xanathars Guild|Xanathar]] — the beholder itself; wants [[Captain Hawkwinter]] dead
+- [[Xanathars Guild|Xanathar]] — the beholder itself; wants [[Commander Hawkwinter]] dead (after the [[Stone of Golorr]])
 - [[Jarlaxle]] — laid-back drow pirate with his own brigade; "the pirate from the gambling den"; [[Thomas]] is helping his search
 - [[Thomas]] — *(ally; see Inner Circle)* — our seat at the table
 
@@ -209,6 +212,7 @@ The **[[The Waterdeep Ultimate Brawl|Monster Arena]] championship** went badly: 
 - [[Cult of Cyric]]
 - [[The Circle]] — inner ranks of the Cult of Cyric
 - [[Cult of the Dragon]]
+- Cult of the Abyss — *(named by [[Laeral Silverhand]], S62; details TBD)*
 - [[Howling Hatred]]
 - [[The Traveling Wilmelons]]
 - [[Doom Raiders]] — Skeemo's former adventuring band
@@ -219,6 +223,7 @@ The **[[The Waterdeep Ultimate Brawl|Monster Arena]] championship** went badly: 
 - [[The Death Knight Ritual]] — necromancer's full journal preserved
 - [[Items and References]] — magic items, treasures, combat references, deities
 - [[Jade Frog]] — mystery item in our possession
+- [[Stone of Golorr]] — what [[Xanathars Guild|Xanathar]] is hunting; tied to [[Commander Hawkwinter]]
 
 ### Source Documents (DM-Provided)
 - [[The Waterdeep Wazoo Issue 496]] — newspaper, special edition "Rumblings in the North"
@@ -228,6 +233,7 @@ The **[[The Waterdeep Ultimate Brawl|Monster Arena]] championship** went badly: 
 
 ## 📜 Sessions
 
+- [[Session 62 - Var - 2026-06-29|Session 62 - Var]] / [[Session 62 - Jaak - 2026-06-29|Jaak]] / [[Session 62 - Gotrek - 2026-06-29|Gotrek]] — [[Var Borgal|Var]]–[[Cardon Malefic]] private talk "about the future"; [[Commander Hawkwinter]] promotes [[Gotrek Runehammer]] & [[Sir Joseph Gordon Die Hard]] to **"Stingblades"** (+items); audience with [[Laeral Silverhand]]: cults across the Sword Coast ([[Cult of Cyric|Cult of C]], [[Cult of the Dragon]], Cult of the Abyss, others), **[[The Ordening]] "may have been a magic trick"**, [[Ilin Cotton]]'s dockyard residence, [[Blackstaff Academy]] for [[Malkyn Serpentwind]]'s curse; **[[Xanathars Guild|Xanathar]] is after the [[Stone of Golorr]]** (tied to Hawkwinter); the magic-item shop is the **Amethyst Sanctum**
 - [[Session 61 - Var - 2026-06-22|Session 61 - Var]] / [[Session 61 - Jaak - 2026-06-22|Jaak]] / [[Session 61 - Gotrek - 2026-06-22|Gotrek]] — [[The Waterdeep Ultimate Brawl]] ends: Monster Arena **lost** the Round-5 championship to a **fire dragon elemental**; singles **Tournament of Prowess won by [[Sir Joseph Gordon Die Hard]]** (Gotrek 3rd); rewards from **[[Amen Voss]]** — one uncommon + one rare item per PC + a magic tattoo for Joseph
 - [[Session 60 - Var - 2026-06-15|Session 60 - Var]] / [[Session 60 - Gotrek - 2026-06-15|Gotrek]] — [[The Waterdeep Ultimate Brawl|Monster Arena]] Rounds 2–4 won (fleshy maw → frozen tundra → water arena); Round 5 begins on a lava field against a **fire dragon elemental** (cliffhanger)
 - [[Session 59 - Var - 2026-06-08|Session 59 - Var]] / [[Session 59 - Jaak - 2026-06-08|Jaak]] / [[Session 59 - Gotrek - 2026-06-08|Gotrek]] — disguised into the [[Council of the Underworld]] meeting (members: [[Davil Starsong]], [[Xanathars Guild|Xanathar]] the beholder, [[Jarlaxle]], [[Thomas]]); [[Skeemo Weirdbottle|Skeemo]] taken by Harpers (10k rescue bounty); [[Cardon Malefic]] (anti-magic field, 25k Var bounty) recruits for a [[Cult of Cyric|Cult of C]] meeting at [[Yartar]] in 3 days; [[Captain Hawkwinter]] marked by Xanathar; [[The Waterdeep Ultimate Brawl|Brawl]] begins — won round 1, cliffhanger in round 2 (eldritch maw)

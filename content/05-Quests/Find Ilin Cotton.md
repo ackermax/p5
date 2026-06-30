@@ -46,9 +46,14 @@ Ilin's Yartar lead is corroborated from the underworld side. At the [[Council of
 - **Killed by the cult** after the discovery
 - **Subject of Enhanced Torpor** — possibly *he* was the previous target who "resisted," prompting the cult to commission [[Skeemo Weirdbottle]] for an improved dose
 
+## Dockyard Residence (Session 62)
+
+[[Laeral Silverhand]] told us **Ilin helped against the cult** and **kept a residence in [[Waterdeep]] at the dockyard.** These are his **old quarters** — not a way to reach Ilin himself (his trail still points to [[Yartar]]), but worth searching for his Harper reports or another lead. **We did not get to it this session** — still to do.
+
 ## Leads
 
 - ⭐ **[[Yartar]]** — current destination per [[Malkyn Serpentwind]]. Catch up to him there.
+- ⭐ **Ilin's old dockyard quarters in [[Waterdeep]]** *(S62, per [[Laeral Silverhand]])* — **not yet searched.** Toss it for Harper reports / leads while we're still in the city.
 - The [[Harpers]] themselves — they have his last reports; he is also looking for them, so a meet in Yartar via a Harper cell is plausible
 - [[Malkyn Serpentwind]] — saw him most recently; may know which contact in Yartar
 - Other former [[The Traveling Wilmelons|Wilmelons]]: [[Anastas Glorybluff]] (knew Rulf's cult dealings)

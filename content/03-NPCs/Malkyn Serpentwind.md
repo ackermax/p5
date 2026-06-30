@@ -40,6 +40,6 @@ Like [[Anastas Glorybluff]], Malkyn was inside the troupe during Rulf's worst ye
 
 ## Open Threads
 
-- ⬜ **Fix Malkyn's legs** — Jaak's explicit task
+- ⬜ **Fix Malkyn's legs** — Jaak's explicit task. **S62: our working read is a *curse*** — there's no apparent physical injury stopping him from walking (which fits, and partly supersedes, the earlier Rulf-beating theory and the "trauma" cover story). **Could instead be psychosomatic.** [[Laeral Silverhand]] pointed us to **[[Blackstaff Academy]]** to ask around for help lifting it.
 - ⬜ Press on whether the "trauma" explanation is the truth, or whether he's covering for the cult / Rulf / something worse
 - ⬜ Cross-reference his Rulf timeline with [[Anastas Glorybluff]]'s

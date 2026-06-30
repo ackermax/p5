@@ -9,7 +9,7 @@ tags: [lore, faction, index]
 ## Allied / Friendly
 
 ### [[Lords Alliance|Lord's Alliance]]
-**Cloaks / Verdants** — the public-facing branch ([[Sildar Hallwinter]] is one). Sildar and [[Thogard]] are key contacts. Sir Joseph belongs to them. They have **given us the [[Northern Beaches Frost Giants]] quest** and are working with [[Force Grey]] on the [[Find Hekaton|Ordening]]. Notes warn: **bad people high up?**
+**Cloaks / Verdants** — the public-facing branch ([[Sildar Hallwinter]] is one). Sildar and [[Thogard]] are key contacts. Sir Joseph belongs to them. They have **given us the [[Northern Beaches Frost Giants]] quest** and are working with [[Force Grey]] on the [[Find Hekaton|Ordening]]. Notes warn: **bad people high up?** **S62: [[Commander Hawkwinter]] promoted [[Gotrek Runehammer]] and [[Sir Joseph Gordon Die Hard]] to "Stingblade" — the third Lord's Alliance rank.**
 
 ### [[Force Grey]]
 Elite [[Waterdeep]] adventuring company. [[Harshnag]], [[Thomas]], [[Lady Morwen Daggerford]], [[Interitus]], and Marlis are members.
@@ -57,11 +57,14 @@ Hidden, well-resourced, "preparing something grand." **[[Tiamat]] active again, 
 ### [[Howling Hatred]]
 Elemental Evil cult, going around looking for allies. Active on the Sword Coast.
 
+### Cult of the Abyss
+**Named by [[Laeral Silverhand]] (S62)** among the cults active across the Sword Coast, alongside the [[Cult of Cyric|Cult of C]], the [[Cult of the Dragon]], and "some other cults." Nothing else known yet — details TBD.
+
 ### [[Black Network]] (Zhentarim)
 Crime syndicate. **Attacked Nightstone**, now dominates **Womford**. Sworn enemies of the [[Harpers]]. **May have bad people inside the [[Lords Alliance|Lord's Alliance]]**. **Led in [[Waterdeep]] by [[Davil Starsong]]** (S59) — who also heads the [[Doom Raiders]]. **[[Skeemo Weirdbottle]] is a suspected asset.** Now **escorting [[Cardon Malefic]] to [[Yartar]].**
 
 ### [[Xanathars Guild|Xanathar's Guild]]
-**Powerful [[Waterdeep]] guild** living in the sewers. **Fighting against the [[Black Network|Zhentarim]].** **Xanathar is a beholder** (confirmed S59) and sits on the [[Council of the Underworld]]; he wants **[[Captain Hawkwinter]] dead** for stealing from him. Status: not our ally, but not our enemy yet.
+**Powerful [[Waterdeep]] guild** living in the sewers. **Fighting against the [[Black Network|Zhentarim]].** **Xanathar is a beholder** (confirmed S59) and sits on the [[Council of the Underworld]]; he wants **[[Commander Hawkwinter]] dead** — **S62: the prize is the [[Stone of Golorr]]**, which Xanathar is hunting and which ties to Hawkwinter. Status: not our ally, but not our enemy yet.
 
 ### [[Council of the Underworld]]
 **A summit of [[Waterdeep]]'s crime bosses** (members confirmed S59): [[Thomas]], [[Davil Starsong]] (Zhentarim/Doom Raiders), [[Xanathars Guild|Xanathar]] (the beholder), and [[Jarlaxle]]. We attended a meeting in disguise via Thomas; [[Cardon Malefic]] came to *hire* them, not lead them.

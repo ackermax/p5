@@ -8,13 +8,13 @@ tags: [lore, faction, antagonist, jaak-arc]
 
 ## Membership (At Jaak's Departure, ~3 Years Ago)
 
-| Member | Race | Instrument | Age* | Loyalty |
-|---|---|---|---|---|
-| **[[Rulf Cloudfang]]** | Half-elf | Fiddle | 47 | Leader, cruel, **enemy** |
-| **Malkyn Serpentwind** | Human | Drums | 38 | Weak-willed, **follows Rulf** |
-| **Anastas Glorybluff** | Tiefling | Flute | 34 | Weak-willed, **follows Rulf** |
-| **[[Ilin Cotton]]** | Halfling | Keytar | 22 | **Ally of Jaak — missing** |
-| **[[Jaak Greye]]** | Aasimar | Keytar (after Ilin) | ~18 at departure | Gone — fled with Estelle |
+| Member                 | Race     | Instrument          | Age*             | Loyalty                                             |
+| ---------------------- | -------- | ------------------- | ---------------- | --------------------------------------------------- |
+| **[[Rulf Cloudfang]]** | Half-elf | Fiddle              | 47               | Leader, cruel, **enemy**                            |
+| **Malkyn Serpentwind** | Human    | Drums               | 38               | Weak-willed. Lower-half paralysis by Rulf. No cure. |
+| **Anastas Glorybluff** | Tiefling | Flute               | 34               | Weak-willed, **follows Rulf**                       |
+| **[[Ilin Cotton]]**    | Halfling | Keytar              | 22               | **Ally of Jaak — missing**                          |
+| **[[Jaak Greye]]**     | Aasimar  | Keytar (after Ilin) | ~18 at departure | Gone — fled with Estelle                            |
 
 *Ages are from the backstory ~10 years ago; add years for current.
 

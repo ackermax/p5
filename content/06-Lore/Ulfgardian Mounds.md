@@ -18,11 +18,9 @@ The clans are protectors of forests and antagonistic to civilization. They have 
 
 **The oracles of the mound tribes demand sacrifices of giant relics in exchange for answers — including the question of "how to fix [[The Ordening]]."** This reframes the relic quest entirely: we're not gathering relics for themselves. We're **gathering them to sacrifice** to the oracles, who can then tell us how to find and reinstate [[Hekaton]].
 
-## Relics In Our Possession
+## Relics & Quest State → see the quest page
 
-- **Statue of [[Stronmaus]]** (cloud-giant) — from [[Harrick Stonequill]] (S57). Oracle-eligible, but we've been asked to use it **as a last resort and return it if able**. Hold it.
-
-See [[Gather Ulfgardian Relics]] for the running inventory.
+This file is the **reference** for *who's at each mound and how to approach them*. The **running relic inventory, the prioritized plan of attack, and progress** live on the quest page — **[[Gather Ulfgardian Relics]]** — so they're tracked in one place. Don't duplicate that state here; update the quest.
 
 ## The Nine Mounds — Quick Reference Table
 
@@ -36,7 +34,7 @@ See [[Gather Ulfgardian Relics]] for the running inventory.
 | **Shining White** | Griffin | — | Mostly abandoned | **Easiest** |
 | **Morgur's Mound** | Thunder Beast | Harthulk Hornspea | Never defeated; lizard-like skin | Hardest |
 | **Flint Rock** | Elk | — | Most perished against giants years ago | Unknown |
-| **Grandfather Tree** | Tree Ghost | — | **[[Interitus]] asked us not to go** | **Skip for now** |
+| **Grandfather Tree** | Tree Ghost | — | **[[Interitus]] asked us not to go**; respected place that saved him; approach with respect | **Worst-case only** |
 
 ## Per-Mound Notes
 
@@ -65,12 +63,8 @@ Great Worm tribe. **Warmblood** is the brutal chieftain. Relic confirmed.
 **Elk tribe.** Most perished against giants years ago. Current state unknown.
 
 ### Grandfather Tree
-**Tree Ghost tribe.** **[[Interitus]] specifically asked us not to go.** Defer.
+**Tree Ghost tribe.** Most important place for the Ulfgardians — a respected place that **saved [[Interitus]]**. **Interitus specifically asked us not to go**, so it stays a **worst-case / last-resort** target only; if we ever must, approach with respect and honor the tree guardians.
 
-## Strategic Recommendation
+## Plan Of Attack → see the quest page
 
-1. **Shining White** (easy, mostly abandoned)
-2. **One Stone** — help Arnzan Vashk
-3. **Raven Rock** — help Ojin Voninsdottir with her mountain problem
-4. **Flint Rock** — investigate state
-5. **Avoid** Stone Stand, Morgur's Mound, Great Worm Cavern, Red Tigers, Grandfather Tree (per Interitus)
+The recommended order of attack, current targets, and what to avoid live on **[[Gather Ulfgardian Relics]]** so the plan is tracked in one place. This file just describes the mounds.

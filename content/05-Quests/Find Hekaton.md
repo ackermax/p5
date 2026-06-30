@@ -27,6 +27,7 @@ This reframes the relic quest: relics aren't tools we keep; they're **sacrifices
 - [[The Second Sundering|We are in the age of mortals]] — multiple cosmic hierarchies are loosening; the Ordening's collapse may be part of a broader pattern
 - **The Rod of Vornindod points to [[Vonindod]]** — the fire giants are rebuilding the colossus (this is a parallel front). *(The rod was taken from the giants hunting Vonindod parts, not from Zalto directly — corrected per DM 2026-05-29.)*
 - **[[Countess Sansuri]] is on the verge of grasping "power beyond our reach"** — possibly trying to seize what Hekaton's absence makes available
+- **S62 — [[Laeral Silverhand]]'s theory:** the Ordening may be **less a literal cosmic phenomenon and more a means of keeping the giants in check — a "magic trick" that works because everyone wants to believe it works.** If so, "reinstating the Ordening" is about **restoring the giants' belief in the order** (and the figure who anchors it) rather than repairing a physical mechanism. **Her theory, not confirmed fact.** See [[The Ordening]].
 
 ## Possible Leads
 

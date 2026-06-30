@@ -19,6 +19,16 @@ tags: [lore, plot-critical]
 
 The Ordening was **held together by [[Hekaton]]**, but **Hekaton is missing**. With him gone, the Ordening is no more. **This is the cause of the giant attacks** plaguing the Sword Coast — each kind of giant is rising in its own way, trying to claim a higher rung than the order assigned them.
 
+## A Magic Trick? — Silverhand's Theory (Session 62)
+
+In an audience with **[[Laeral Silverhand]]** (S62), she floated a **theory** (not a statement of fact): the Ordening may be **less a literal cosmic phenomenon physically holding the order together, and more a means of getting the giants under control** — **a "magic trick" that works because everyone wants to believe it works.** The hierarchy holds as long as the giants accept that it holds.
+
+If there's truth to it, the implication is more **social/psychological than mechanical:**
+- "Reinstating the Ordening" might be about **restoring belief in the order** (and the figure who anchors that belief), not repairing a physical cosmic engine.
+- It reframes [[Hekaton]] as **the lynchpin of that shared belief** — with him gone, the giants stop believing, and the order unravels.
+
+**This is Silverhand's theory, explicitly not a confirmed truth.** Hold it loosely.
+
 ## Our Job
 
 Find Hekaton. Reinstate him. End the war. See [[Find Hekaton]].

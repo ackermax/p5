@@ -36,6 +36,13 @@ We found his trail at the **[[Tavern Misty Beard]]**, talking to [[Malkyn Serpen
 
 So Ilin is no longer missing — he's *ahead of us*, chasing the same enemy.
 
+## Update (Session 62 — Laeral's Intel)
+
+In the [[Laeral Silverhand]] audience we learned:
+
+- **Ilin helped against the cult** — corroborating his Harper anti-cult work from a top-level source.
+- **He kept a residence in [[Waterdeep]], at the dockyard.** These are his **old quarters** — *not* a way to reach Ilin himself (his trail still points to [[Yartar]]) — but a site worth tossing for Harper notes or another lead. **We did *not* search them this session** — still an open to-do.
+
 ## Description (Per Harper Intel)
 
 - **Blonde hair**

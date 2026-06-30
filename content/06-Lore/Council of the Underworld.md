@@ -26,13 +26,13 @@ So the Council is, in effect, **a sit-down of the rival Waterdeep undergrounds**
 - **[[Thomas]] reported the [[Shankers]] dealt with.** [[Xanathars Guild|Xanathar]] was annoyed — he'd wanted the Shankers as playthings. Thomas offered his own services in their place.
 - **[[Jarlaxle]]** said he was bored and looking for someone interesting to use his brigade; **Thomas offered to assist** his search.
 - **[[Cardon Malefic]] was introduced.** His approach triggered a **wave of anti-magic** that disabled *everyone's* magic, even Xanathar's (his knight maintains the field; Cardon can't switch it off). He **upped the bounty on [[Var Borgal|Var]] to 25,000 gp (alive)** and recruited escorts for a **[[Cult of Cyric|Cult of C]] meeting at [[Yartar]] in 3 days** (1,000 gp/head). **Jarlaxle and Davil's Zhentarim accepted; Thomas and Xanathar declined.**
-- **[[Xanathars Guild|Xanathar]]** demanded the death of **[[Captain Hawkwinter]]** — who stole something from him / is in his way — offering a higher underworld rank to anyone who'd help. Then **left immediately.**
+- **[[Xanathars Guild|Xanathar]]** demanded the death of **[[Commander Hawkwinter]]** — who stole something from him / is in his way — offering a higher underworld rank to anyone who'd help. Then **left immediately.** *(S62: the object in question is the [[Stone of Golorr]].)*
 
 ## Open Threads
 
 - ✅ Membership identified (S59): Thomas, Davil Starsong, Xanathar, Jarlaxle
 - ⬜ **Cardon → Yartar in 3 days** with Zhent + Jarlaxle muscle, to meet the [[Cult of Cyric|Cult of C]] — converges with [[Find Ilin Cotton|Ilin's Yartar lead]]. The party now knows where Cardon will be.
 - ⬜ **10,000 gp Council bounty to rescue [[Skeemo Weirdbottle|Skeemo]] from the Harpers** — we're on the *opposite* side of this; warn the Harpers
-- ⬜ **Xanathar wants [[Captain Hawkwinter]] dead** — decide whether to warn Hawkwinter / the Watch
+- ⬜ **Xanathar wants [[Commander Hawkwinter]] dead** (over the [[Stone of Golorr]], S62) — decide whether to warn Hawkwinter / the Watch
 - ⬜ [[Jarlaxle]] is searching Waterdeep for something; [[Thomas]] is now helping him — a possible lever
 - ⬜ We asked [[Thomas]] about an invitation to **The Golden Goose** — the invitation-only gambling house in [[Yartar]] — possibly our way into the city just as the cult/Cardon arrive

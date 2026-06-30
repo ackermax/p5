@@ -14,7 +14,7 @@ level: 8
 > **Race / Class:** Dwarf Barbarian, **Path of the Giant** (Glory of the Giants) — Level 8
 > **Background:** **Giant Foundling**
 > **Languages:** Common, Dwarvish, Giant, Undercommon, Common Sign Language
-> **Affiliations:** [[Lords Alliance|Lord's Alliance]]
+> **Affiliations:** [[Lords Alliance|Lord's Alliance]] — **Stingblade** (the third Alliance rank; promoted by [[Commander Hawkwinter]], [[Session 62 - Gotrek - 2026-06-29|S62]], with items)
 > **D&D Beyond:** https://www.dndbeyond.com/characters/137129434
 
 ## Combat Quick Reference

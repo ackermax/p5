@@ -58,6 +58,13 @@ The standing weekly task:
 - Frontmatter on NPCs, locations, factions (tags, status, location/affiliation as relevant)
 - Session files: `Session NN - YYYY-MM-DD.md`
 - Match the structure of existing files in each folder — don't invent new section schemas
+- **Single source of truth.** When a Lore page and a Quest page (or any two notes) cover the same subject, don't duplicate the shared facts — pick one owner and link to it. **Convention:** the **Lore** page owns *static reference data* (e.g. `[[Ulfgardian Mounds]]`: who's where, how to approach them); the **Quest** page owns *live state* (e.g. `[[Gather Ulfgardian Relics]]`: inventory, prioritized plan, progress). Cross-link instead of restating, so the two can't drift.
+
+## Reference facts (carried across sessions)
+
+> When something is worth remembering for future sessions — a recurring rule, a durable piece of campaign canon, or a standing preference — record it **here** so it auto-loads with this file. (Standing preference from the user: anything memory-worthy goes in CLAUDE.md.)
+
+- **Lord's Alliance ranks:** "**Stingblade**" is the **3rd** Lord's Alliance rank. (Gotrek Runehammer and Sir Joseph Gordon Die Hard were promoted to it by Commander Hawkwinter, Session 62.)
 
 ## Folder structure
 

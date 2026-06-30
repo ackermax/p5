@@ -35,6 +35,10 @@ We attended the **[[Council of the Underworld]]** meeting in disguise, escorted 
 
 **Bottom line:** we now know **where Cardon will be and when** (Yartar, ~3 days out), **who's guarding him** (Zhentarim + Jarlaxle's brigade), and **that he's tied to the Cult of Cyric** — the same trail [[Ilin Cotton]] is on.
 
+## Face To Face — A Talk About The Future (Session 62)
+
+Cardon **caught up with the party at the close of S61**, and at the top of S62 **[[Var Borgal|Var]] had a private conversation with him "about the future."** The specifics of what was said or offered aren't recorded yet — but this is the **first direct, non-hostile exchange** between Var and his old lord since the night Var fled. Worth pinning down what was discussed: a threat, a bargain, an ultimatum, or an attempt to recruit Var back.
+
 ## The Wanted Poster
 
 [[Estelle Moonglow Platinum]] recovered a wanted poster from [[Skeemo Weirdbottle]]'s back room. Cardon is **hunting [[Var Borgal]] specifically**:

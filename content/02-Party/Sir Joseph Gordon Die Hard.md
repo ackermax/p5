@@ -14,7 +14,7 @@ level: 8
 > **Race / Class:** Human Ranger — **Hunter conclave** — Level 8
 > **Background:** **Soldier**
 > **Languages:** Common, Dwarvish, Elvish, Draconic, Orc
-> **Affiliations:** [[Lords Alliance|The Lord's Alliance]]
+> **Affiliations:** [[Lords Alliance|The Lord's Alliance]] — **Stingblade** (the third Alliance rank; promoted by [[Commander Hawkwinter]], [[Session 62 - Var - 2026-06-29|S62]], with items)
 > **Sworn enemies:** **Orcs**
 
 ## Combat Quick Reference
