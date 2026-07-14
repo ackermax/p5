@@ -43,6 +43,10 @@ In the [[Laeral Silverhand]] audience we learned:
 - **Ilin helped against the cult** — corroborating his Harper anti-cult work from a top-level source.
 - **He kept a residence in [[Waterdeep]], at the dockyard.** These are his **old quarters** — *not* a way to reach Ilin himself (his trail still points to [[Yartar]]) — but a site worth tossing for Harper notes or another lead. **We did *not* search them this session** — still an open to-do.
 
+## Update (Session 63 — "Ilin" May Be an Alias)
+
+Back in [[Phandalin]], [[Sister Garaele]] told Jaak that **[[Ilin Cotton|Ilin]] might go by another name — "Ilin" may itself be an alias.** If true, his real identity could reframe the whole disappearance, and any "Ilin Cotton" record we chase may be a cover name. **Re-check every Ilin lead against this.**
+
 ## Description (Per Harper Intel)
 
 - **Blonde hair**

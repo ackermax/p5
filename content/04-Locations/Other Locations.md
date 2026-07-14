@@ -88,13 +88,14 @@ Shorter location notes. Promote any of these to their own file when content grow
 ### Everlund
 - [[Gundren Rockseeker]] wants us to go here
 - **Allerick** is a knight from here
-- **Moongleam Towers** are here
+- **Moongleam Tower(s)** are here — a [[Harpers|Harper]] stronghold. **(S63): someone at Moongleam Tower wants to meet [[Jaak Greye]] and [[Estelle Moonglow Platinum]] in Everlund** (per [[Sister Garaele]])
 - [[Krowen Valharrow]] currently in Everlund; [[Harshnag]] heading there
 
 ### Kryptgarden Forest
 - See [[The Death Knight Ritual]] — the necromancer's lair was here
 - [[Interitus]] resides here
 - We met **fake servants of [[Bahamut]]** here while investigating with the **Through&True investigative team** (gold thief case)
+- **(S63): [[Claugiyliamatar]], an elder green dragon, claims this forest as her realm.** Storm-downed here en route to [[Phandalin]], the party was threatened by her and **talked her down** via the [[Klauth]] connection before flying on.
 
 ### Iriaebor
 - **[[Tsernoth]]** is here; holds [[Bowgentle]]'s spellbook ([[Quest For The Spellbook]])

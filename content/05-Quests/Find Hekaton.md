@@ -13,11 +13,11 @@ giver: Harshnag / circumstances
 
 [[Hekaton]] is missing. With him gone, [[The Ordening]] is broken, and the giants of the six kinds are fighting each other and raiding the Sword Coast. **Find Hekaton, reinstate him, end the war.**
 
-## The Oracle Path (Confirmed)
+## The Oracle Path — current strategy
 
-> **The oracles among the [[Ulfgardian Mounds|Ulfgardian]] mound tribes demand sacrifices of giant relics in exchange for answers — including the question of how to fix the Ordening.**
+Our confirmed route to answers: **sacrifice giant relics to the [[Ulfgardian Mounds|Ulfgardian]] mound oracles**, who trade knowledge — including how to find Hekaton / fix the Ordening — for relics. Relics aren't tools we keep; they're sacrifices we spend.
 
-This reframes the relic quest: relics aren't tools we keep; they're **sacrifices we make** to oracles who can locate Hekaton or tell us how to restore the order. See [[Gather Ulfgardian Relics]].
+This runs as a **sub-quest** — the relic inventory, mound priorities, and progress are tracked on **[[Gather Ulfgardian Relics]]** (mound-by-mound reference on [[Ulfgardian Mounds]]). Don't restate that detail here; link to it.
 
 ## What We Know
 
@@ -40,9 +40,8 @@ This reframes the relic quest: relics aren't tools we keep; they're **sacrifices
 
 ## Progress
 
-- [ ] Repair the airship Ignitamis
-- [ ] Gather giant relics from the Ulfgardian mounds
-- [ ] Sacrifice relics to oracles for Ordening-fixing knowledge
+- [ ] Repair the airship [[Ignitamis]]
+- [ ] **Gather & sacrifice Ulfgardian relics for oracle answers** — tracked on [[Gather Ulfgardian Relics]] *(1 relic in hand)*
 - [ ] Reach the Maelstrom
-- [ ] Locate Hekaton
+- [ ] Locate [[Hekaton]]
 - [ ] Reinstate him

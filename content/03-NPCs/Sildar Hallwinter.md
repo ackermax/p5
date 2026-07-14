@@ -27,6 +27,10 @@ A retired knight of the **Griffin Army** (Verdants of the [[Lords Alliance|Lord'
 - **Writing the [[Lords Alliance|Lord's Alliance]] looking for [[Gundren Rockseeker]]** — also resolved.
 - **Gathering info about [[Gotrek Runehammer]]'s brother** — open thread, no update yet.
 
+## Session 63
+
+On the party's return to [[Phandalin]], **[[Gotrek Runehammer]] and [[Sir Joseph Gordon Die Hard]] went to speak with Sildar.** Nothing major came of it — he's **building up a militia to protect [[Phandalin]].**
+
 ## We Informed Him About
 
 - The **[[Hamun Kost|Red Mage]]** at [[Old Owl Well]]

@@ -7,9 +7,9 @@
 > **Party:** [[The Phandalin Five]]
 > **Source of Truth:** This vault. **Source Notes:** [[Original Notes - Raw Archive (Through Session 55)]] (Gotrek's & Jaak's voices, preserved)
 
-## 📖 Previously, in Waterdeep — [[Session 62 - Var - 2026-06-29|Session 62]] (2026-06-29)
+## 📖 Previously, in Phandalin — [[Session 63 - Var - 2026-07-13|Session 63]] (2026-07-13)
 
-After **[[Cardon Malefic]]** caught up with the party at the close of last session, **[[Var Borgal|Var]]** had a private talk with him **about the future** (terms unclear). The party then met **[[Commander Hawkwinter]]**, who **promoted [[Gotrek Runehammer]] and [[Sir Joseph Gordon Die Hard]] to "Stingblades"** and handed out items, then took an audience with **[[Laeral Silverhand]]**, the Open Lord. Laeral mapped the scope of cult activity on the Sword Coast — the **[[Cult of Cyric|Cult of C]]**, the **[[Cult of the Dragon]]**, a **Cult of the Abyss**, and others — and dropped a bombshell: **[[The Ordening]] may have been more a magic trick to keep the giants at bay than a true cosmic phenomenon.** She noted **[[Ilin Cotton]] had helped against the cult and kept a residence at the [[Waterdeep]] dockyard**, and pointed us to **[[Blackstaff Academy]]** for [[Malkyn Serpentwind]]'s curse. We also learned **[[Xanathars Guild|Xanathar]] is after the [[Stone of Golorr]]** — the thing tying the beholder to Hawkwinter — and that [[Amen Voss]]'s magic-item shop is called the **Amethyst Sanctum**. Next: the converging **[[Yartar]]** leads still loom, and the airship [[Ignitamis]] still needs tending.
+We **left [[Waterdeep]]** and flew the [[Ignitamis]] toward **[[Phandalin]]**, fighting off the pursuing **spirits** on the way. A storm forced us down near the **[[Other Locations#Kryptgarden Forest|Kryptgarden Forest]]**, where **[[Claugiyliamatar]]**, an **elder green dragon**, threatened us for entering her realm — we **talked her down** by explaining our ship came from **[[Klauth]]**, and continued on. Back in **[[Phandalin]]**, the party split up: **[[Gotrek Runehammer]]** and **[[Sir Joseph Gordon Die Hard]]** reported to **[[Sildar Hallwinter]]**; **[[Jaak Greye]]** and **[[Estelle Moonglow Platinum]]** met **[[Sister Garaele]]**, who — with the **[[Cult of Cyric|Cult of C]] too well hidden** to chase — put them onto **[[Track the Red Mages|the Red Mages]]** (bald, head-tattooed necromancers hunting "curious relics" and important people across the Sword Coast); and **[[Var Borgal|Var]]** met **[[Gundren Rockseeker]]** at the manor to go over our **bastion** options. Garaele also warned that **[[Ilin Cotton]] may go by another name — "Ilin" could be an alias** — and that someone at **[[Other Locations#Everlund|Moongleam Tower]]** wants to meet Jaak and Estelle in **[[Other Locations#Everlund|Everlund]]**.
 
 ## 🔥 Active Threads
 
@@ -19,9 +19,15 @@ After **[[Cardon Malefic]]** caught up with the party at the close of last sessi
 - **[[Vonindod]]** — fire giants ARE rebuilding the colossus; **the rod we recovered points to it**
 - **[[Harshnags Hunt]]** — alliance with Harshnag on the Ordening problem; meeting again in three months, after he visits [[Krowen Valharrow]]. **Gate cleared (S58):** [[Thomas]] alliance secured, so the held-back Harshnag conversation is unblocked.
 
-### ⏰ Time-Sensitive — Waterdeep (This Week)
-- **Shop at [[Amen Voss]] before leaving [[Waterdeep]]** *(S61)*: the gnome curator of magical items gave us an open invitation to buy from his shop — the **Amethyst Sanctum** (named S62) — **three rules: no refunds, no haggling, no deceiving.** Do this before we depart for [[Yartar]].
-- **Check on the airship [[Ignitamis]]** *(new, S61)*: Jaak flagged we still need to see to the skyship — it needs Tinker's, Woodcarver's, Carpenter's, and Tailoring tools for repair.
+### 🏠 Now — Back in Phandalin (S63)
+- **[[Track the Red Mages|Red Mages]] → go to [[Other Locations#Everlund|Everlund]]** *(new, S63)*: [[Sister Garaele]] sent Jaak & Estelle after the Red Mages (bald, head-tattooed **necromancers** hunting "curious relics" and important people); **someone at [[Other Locations#Everlund|Moongleam Tower]] in Everlund wants to meet them** — the next step. (Likely the same trip [[Gundren Rockseeker]] has been pushing to Everlund.)
+- **Finish choosing our bastion options** *(new, S63)*: [[Gundren Rockseeker]] walked [[Var Borgal|Var]] through the party's **bastion** at the [[Phandalin]] manor — **we haven't selected all of them yet.**
+- **[[Ilin Cotton]] may be an alias** *(new, S63)*: Garaele says "Ilin" might be a cover name — re-check every "Ilin" lead against that.
+
+### ⏰ Carried Leads (out of Waterdeep, S63)
+> The party flew out of [[Waterdeep]] for [[Phandalin]] this session. The **Waterdeep-anchored** to-dos below went **unresolved** and are now remote — pick them back up on a return trip; the **[[Yartar]]-forward** ones (Cardon, Golden Goose) are still live wherever we go next.
+- **Shop at [[Amen Voss]]** *(Waterdeep, S61)*: the gnome curator's open invitation to buy from the **Amethyst Sanctum** (named S62) — **three rules: no refunds, no haggling, no deceiving.** Not done before we left.
+- **Check on the airship [[Ignitamis]]** *(S61)*: we **flew it to Phandalin** this session (surviving a storm + a dragon), so it's airworthy — but Jaak's repair list (Tinker's, Woodcarver's, Carpenter's, Tailoring tools) may still stand.
 - **[[Cardon Malefic]] → [[Yartar]] in 3 days** *(new, S59)*: Cardon meets the **[[Cult of Cyric|Cult of C]]** there, guarded by [[Black Network|Zhentarim]] + [[Jarlaxle]]. **The single biggest live lead** — it merges the Var arc, the Cyric arc, and [[Find Ilin Cotton|Ilin's trail]] at one place and time. Note: Cardon carries an **anti-magic field** (his knight sustains it).
 - **Warn the [[Harpers]] re: [[Skeemo Weirdbottle|Skeemo]]** *(new, S59)*: Harpers took Skeemo; the Council posted a **10,000 gp bounty to rescue him** and suspect a third party (us). Tell the Harpers the underworld is coming.
 - **[[Commander Hawkwinter]] is marked for death** *(S59)*: [[Xanathars Guild|Xanathar]] wants him killed — **S62: the prize is the [[Stone of Golorr]]**, which Xanathar is hunting and which ties back to Hawkwinter. Decide whether to warn him / the Watch.
@@ -69,6 +75,8 @@ After **[[Cardon Malefic]]** caught up with the party at the close of last sessi
 - **[[Cult of the Dragon]]'s "grand thing"** — connected to Elturel sinking into Avernus?
 - **The [[The Circle|Circle]]** — inner ranks of the Cult of Cyric; who sits at it, where it meets, what "the Circle turns" means
 - **The Enhanced Torpor target** — who is the cult planning to dose? Could be [[Ilin Cotton]]
+- **Is "[[Ilin Cotton|Ilin]]" an alias?** *(S63)* — [[Sister Garaele]] says Ilin **may go by another name**. If so, his real identity may reframe the whole [[Find Ilin Cotton]] arc — and every "Ilin" lead needs re-checking.
+- **Who are the [[Track the Red Mages|Red Mages]]?** *(S63)* — bald, head-tattooed **necromancers** massing across the Sword Coast, hunting "curious relics" and important people. Same order as [[Hamun Kost]] at [[Old Owl Well]]? Allied with the [[Cult of Cyric|Cult of C]], or a separate hand?
 - **What is the [[Cult of Cyric|Cult of C]] doing at [[Yartar]]?** — "risen from the ashes," buying poisons for "something big"; Cardon is meeting them there
 - **The [[Stone of Golorr]]** *(S62)* — what [[Xanathars Guild|Xanathar]] is really after; tied to [[Commander Hawkwinter]] (likely what Hawkwinter has/stole). What is it, and where is it now?
 - **Was [[The Ordening]] ever "real"?** *(S62)* — [[Laeral Silverhand]]'s **theory**: it may be less a literal cosmic phenomenon than a means of keeping the giants in check — **a "magic trick" that works because everyone wants to believe it works.** If so, the [[Find Hekaton]] spine becomes about restoring *belief* in the order, not a physical mechanism. Unconfirmed.
@@ -166,6 +174,7 @@ After **[[Cardon Malefic]]** caught up with the party at the close of last sessi
 - [[Thane Kayalithica]] — Stoneshaper trying to destroy the dream world
 
 ### Other
+- [[Claugiyliamatar]] — **elder green dragon** of the [[Other Locations#Kryptgarden Forest|Kryptgarden Forest]]; wary/territorial, **talked down (S63)** via the [[Klauth]] connection — not an enemy yet
 - [[Zephyros]] — friendly cloud giant wizard, isolationist
 - [[Ogg]] — friendly-ish hill giant
 - [[Iarno Albrek]] / Glasstaff — defeated
@@ -233,6 +242,7 @@ After **[[Cardon Malefic]]** caught up with the party at the close of last sessi
 
 ## 📜 Sessions
 
+- [[Session 63 - Var - 2026-07-13|Session 63 - Var]] / [[Session 63 - Jaak - 2026-07-13|Jaak]] — **left [[Waterdeep]]**, flew the [[Ignitamis]] to [[Phandalin]] fighting off pursuing spirits; storm-downed near [[Other Locations#Kryptgarden Forest|Kryptgarden Forest]] and **talked down [[Claugiyliamatar]]**, an elder green dragon, via the [[Klauth]] connection; back home, [[Gotrek Runehammer]] & [[Sir Joseph Gordon Die Hard]] reported to [[Sildar Hallwinter]], [[Jaak Greye]] & [[Estelle Moonglow Platinum]] got the **[[Track the Red Mages|Red Mages]]** mission from [[Sister Garaele]] (+ **[[Ilin Cotton]] may be an alias**, + a [[Other Locations#Everlund|Moongleam Tower]]/[[Other Locations#Everlund|Everlund]] meeting), and [[Var Borgal|Var]] reviewed **bastion** options with [[Gundren Rockseeker]]
 - [[Session 62 - Var - 2026-06-29|Session 62 - Var]] / [[Session 62 - Jaak - 2026-06-29|Jaak]] / [[Session 62 - Gotrek - 2026-06-29|Gotrek]] — [[Var Borgal|Var]]–[[Cardon Malefic]] private talk "about the future"; [[Commander Hawkwinter]] promotes [[Gotrek Runehammer]] & [[Sir Joseph Gordon Die Hard]] to **"Stingblades"** (+items); audience with [[Laeral Silverhand]]: cults across the Sword Coast ([[Cult of Cyric|Cult of C]], [[Cult of the Dragon]], Cult of the Abyss, others), **[[The Ordening]] "may have been a magic trick"**, [[Ilin Cotton]]'s dockyard residence, [[Blackstaff Academy]] for [[Malkyn Serpentwind]]'s curse; **[[Xanathars Guild|Xanathar]] is after the [[Stone of Golorr]]** (tied to Hawkwinter); the magic-item shop is the **Amethyst Sanctum**
 - [[Session 61 - Var - 2026-06-22|Session 61 - Var]] / [[Session 61 - Jaak - 2026-06-22|Jaak]] / [[Session 61 - Gotrek - 2026-06-22|Gotrek]] — [[The Waterdeep Ultimate Brawl]] ends: Monster Arena **lost** the Round-5 championship to a **fire dragon elemental**; singles **Tournament of Prowess won by [[Sir Joseph Gordon Die Hard]]** (Gotrek 3rd); rewards from **[[Amen Voss]]** — one uncommon + one rare item per PC + a magic tattoo for Joseph
 - [[Session 60 - Var - 2026-06-15|Session 60 - Var]] / [[Session 60 - Gotrek - 2026-06-15|Gotrek]] — [[The Waterdeep Ultimate Brawl|Monster Arena]] Rounds 2–4 won (fleshy maw → frozen tundra → water arena); Round 5 begins on a lava field against a **fire dragon elemental** (cliffhanger)

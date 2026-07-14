@@ -4,7 +4,10 @@
       "PowerShell(Get-ChildItem -Path 'C:\\\\Users\\\\hack2\\\\Documents\\\\The Adventures of the Phandalin Five' -Recurse -File | Where-Object { $_.Extension -ne '.md' } | Sort-Object LastWriteTime -Descending | Select-Object @{Name='Modified';Expression={$_.LastWriteTime.ToString\\('yyyy-MM-dd'\\)}}, @{Name='KB';Expression={[int]\\($_.Length/1024\\)}}, @{Name='Path';Expression={$_.FullName.Replace\\('C:\\\\Users\\\\hack2\\\\Documents\\\\The Adventures of the Phandalin Five\\\\',''\\)}} | Format-Table -AutoSize -Wrap)",
       "PowerShell(Get-ChildItem -Path 'C:\\\\Users\\\\hack2\\\\Documents\\\\The Adventures of the Phandalin Five\\\\Attachments' -File | Sort-Object LastWriteTime -Descending | Select-Object @{Name='Modified';Expression={$_.LastWriteTime.ToString\\('yyyy-MM-dd HH:mm'\\)}}, @{Name='KB';Expression={[int]\\($_.Length/1024\\)}}, Name | Format-Table -AutoSize -Wrap)",
       "PowerShell(Get-Item *)",
-      "Bash(xargs ls -la)"
+      "Bash(xargs ls -la)",
+      "WebSearch",
+      "WebFetch(domain:dnd2024.wikidot.com)",
+      "WebFetch(domain:rpgbot.net)"
     ]
   }
 }

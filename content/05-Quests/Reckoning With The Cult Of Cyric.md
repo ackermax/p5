@@ -34,6 +34,10 @@ Underworld intel from the [[Council of the Underworld]] meeting:
 - **[[Cardon Malefic]] is meeting the Cult of C at Yartar in ~3 days** — escorted by [[Black Network|Zhentarim]] and [[Jarlaxle]]. The cult now has a confirmed dealing with a powerful, anti-magic-wielding outsider.
 - This **stacks on [[Find Ilin Cotton|Ilin's lead]]** (he's chasing the cult to Yartar, calls it "end of the world stuff"). **Yartar is the next venue for this whole arc.**
 
+## Session 63 — Cult Gone to Ground; Chase the Red Mages Instead
+
+Back in [[Phandalin]], [[Sister Garaele]] told Jaak & Estelle the **Cult of C is now too well hidden to track directly.** She redirected them onto **[[Track the Red Mages|the Red Mages]]** — bald, head-tattooed necromancers massing across the Sword Coast, hunting "curious relics" and important people — as a group that *is* moving in the open. Whether the Red Mages are working with the cult or on their own hunt is unknown; the Red Mage trail may be the current back-door to this arc.
+
 ## Convergence Points
 
 This quest may collapse multiple arcs at once:
