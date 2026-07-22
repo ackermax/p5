@@ -29,6 +29,9 @@ tags: [lore, items, index]
 - **The Death Knight necromancer's book** — see [[The Death Knight Ritual]]
 - **Recovered cult letter** — Cult of C → Skeemo, commissioning Enhanced Torpor; see [[Skeemo Weirdbottle]]
 - **Recovered wanted poster** — [[Cardon Malefic]] hunting [[Var Borgal]] alive; see [[Cardon Malefic]]
+- **Potion of Invisibility** *(stolen, S64)* — from the chest in the [[Other Locations#The Kraken-Symbol Structure (unnamed)|kraken-symbol structure]]
+- **Skeleton key (5%)** *(stolen, S64)* — a key with a **5% chance to unlock any door**; same chest
+- **Platinum coins** *(stolen, S64)* — same chest; amount unrecorded
 
 ### Held By [[Gotrek Runehammer]]
 - **A small stone from home** — possibly a piece of the cleft he was raised in (the [[Cradle of the Stonegiants|Cradle]])

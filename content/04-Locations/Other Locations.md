@@ -122,6 +122,12 @@ Shorter location notes. Promote any of these to their own file when content grow
 - A dragon lives here (no name yet)
 - [[Stonadar]] settled around here
 
+### The Kraken-Symbol Structure (unnamed)
+- A structure in the wilds, found (S64) by [[Estelle Moonglow Platinum]] **following a wisp at night** while the party camped en route from [[Phandalin]] to the Shining White mound ([[Ulfgardian Mounds]])
+- Marked with the **octopus/kraken symbol** of the brutes we fought at the Waterdeep tavern — the [[Minor Contacts#Order of the Kraken|Order of the Kraken]]
+- Estelle **stole a chest's contents** and snuck back to the airship — **some platinum, a Potion of Invisibility, and a key with a 5% chance to unlock any door**
+- What the structure is, and who keeps it, unknown
+
 ### Alturel / Elturel
 - A town that **completely disappeared** — sunk into **Avernus**
 - Per [[The Waterdeep Wazoo Issue 496|the Wazoo]], the public still describes it as **"engulfed in flames"** — the planar-fall fact may not yet be widely known

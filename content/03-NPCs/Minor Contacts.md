@@ -99,6 +99,7 @@ Quick-reference page for NPCs we've met but don't have detailed notes on yet. Pr
 
 - Encountered at the **Bloody Fist Tavern** — turned out to be **decent folk** after a fistfight
 - They had been the previous holders of **[[King]] the dog**; sold him to the gambling den for 35 gp before we caught up. They were our trail to the rescue.
+- **S64:** a structure in the wilds (en route from [[Phandalin]] to the Shining White mound) bore **their same octopus/kraken symbol**. [[Estelle Moonglow Platinum]] found it by following a wisp at night and **stole a chest's contents** (platinum, a Potion of Invisibility, and a 5%-any-door key). Their reach apparently extends well beyond [[Waterdeep]] — what is this place?
 
 ## Quests Pre-Hooked But Unstarted
 

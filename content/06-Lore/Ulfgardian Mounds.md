@@ -54,7 +54,7 @@ Great Worm tribe. **Warmblood** is the brutal chieftain. Relic confirmed.
 **Blue Bears** — most evil. **Heard they went extinct.** Some may still be out there. **Avoid until very strong.**
 
 ### Shining White
-**Griffin tribe** — heard to be the first to settle. **Mostly abandoned.** Probably easiest target.
+**Griffin tribe** — heard to be the first to settle. **Mostly abandoned.** Probably easiest target. "Abandoned" held true when visited (S64) — no tribespeople encountered, but **griffins attacked** the party mid-search. Relic recovered; see [[Gather Ulfgardian Relics]].
 
 ### Morgur's Mound
 **Thunder Beast tribe** — very powerful. **Harthulk Hornspea** never defeated. Monstrous man, lizard-like skin.

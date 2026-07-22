@@ -51,6 +51,7 @@ In her late teens she discovered that **money had been anonymously sent to the m
 - **2 green vials** — needs identification by an herbalist or alchemist
 - **5 cursed seeds** — taken from [[Sevembra]] before she could plant them in [[Goldenfields]]. The seeds would have seemed to work at first, then killed all crops. **Sold to Sevembra by [[Lamin]]** of [[Yartar]]. See [[The Cursed Seeds]].
 - **Necromancer's journal** (Death Knight ritual) found in [[Kryptgarden Forest]] — *Cult of Cyric origin* per the party's read. See [[The Death Knight Ritual]].
+- **Items stolen from the kraken-symbol structure** (S64) — while the party camped en route to the Shining White mound, she followed a **wisp** in the night to a structure marked with the **octopus/kraken symbol** of the brutes we fought at the Waterdeep tavern (the [[Minor Contacts#Order of the Kraken|Order of the Kraken]]), lifted items from a chest, and snuck back to the airship. **Haul: some platinum, a Potion of Invisibility, and a key with a 5% chance to unlock any door.**
 
 ## Personal Arc Threads
 

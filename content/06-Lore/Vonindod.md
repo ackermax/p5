@@ -19,6 +19,8 @@ The **fire giants gathered adamantine** and built a colossus **80 feet tall** to
 
 > *Sourcing corrected per DM (2026-05-29): both items were previously logged as recovered from Zalto's people at Nightstone. The rod came from the Vonindod-parts hunters; the ring from the Fire Giants at the Triboar battle.*
 
+**Field confirmation (S64):** the party **saw fire giants searching for Vonindod pieces** near the Shining White mound (see [[Gather Ulfgardian Relics]]) and slipped away without being noticed. The search parties are active in the wilds, not just a rumor.
+
 Implications:
 - A rebuild explains unusual fire-giant activity
 - Could be connected to **the salamander rumor / Behir** [[Harshnag]] was investigating (fire monstrosity in the region) — see [[Harshnags Hunt]]

@@ -7,22 +7,30 @@
 > **Party:** [[The Phandalin Five]]
 > **Source of Truth:** This vault. **Source Notes:** [[Original Notes - Raw Archive (Through Session 55)]] (Gotrek's & Jaak's voices, preserved)
 
-## 📖 Previously, in Phandalin — [[Session 63 - Var - 2026-07-13|Session 63]] (2026-07-13)
+## 📖 Previously, in the Ulfgardian Mounds — [[Session 64 - Var - 2026-07-20|Session 64]] (2026-07-20)
 
-We **left [[Waterdeep]]** and flew the [[Ignitamis]] toward **[[Phandalin]]**, fighting off the pursuing **spirits** on the way. A storm forced us down near the **[[Other Locations#Kryptgarden Forest|Kryptgarden Forest]]**, where **[[Claugiyliamatar]]**, an **elder green dragon**, threatened us for entering her realm — we **talked her down** by explaining our ship came from **[[Klauth]]**, and continued on. Back in **[[Phandalin]]**, the party split up: **[[Gotrek Runehammer]]** and **[[Sir Joseph Gordon Die Hard]]** reported to **[[Sildar Hallwinter]]**; **[[Jaak Greye]]** and **[[Estelle Moonglow Platinum]]** met **[[Sister Garaele]]**, who — with the **[[Cult of Cyric|Cult of C]] too well hidden** to chase — put them onto **[[Track the Red Mages|the Red Mages]]** (bald, head-tattooed necromancers hunting "curious relics" and important people across the Sword Coast); and **[[Var Borgal|Var]]** met **[[Gundren Rockseeker]]** at the manor to go over our **bastion** options. Garaele also warned that **[[Ilin Cotton]] may go by another name — "Ilin" could be an alias** — and that someone at **[[Other Locations#Everlund|Moongleam Tower]]** wants to meet Jaak and Estelle in **[[Other Locations#Everlund|Everlund]]**.
+The relic hunt is on: we left **[[Phandalin]]** aboard the [[Ignitamis]] and made for **Shining White**, the abandoned Griffin-tribe [[Ulfgardian Mounds|mound]]. Camped en route, **[[Estelle Moonglow Platinum]]** followed a **wisp** in the night to a structure marked with the **octopus/kraken symbol** of the brutes we fought at the Waterdeep tavern (the [[Minor Contacts#Order of the Kraken|Order of the Kraken]]) — and stole a chest's contents (**platinum, a Potion of Invisibility, and a key with a 5% chance to unlock any door**) before slipping back to the ship. Days of searching at Shining White turned up **half a relic**, then a **griffin attack**, then the **other half — a mask, whole and in hand** for the [[Gather Ulfgardian Relics|oracle sacrifices]]. Before leaving we spotted **fire giants hunting pieces of the [[Vonindod]]** and slipped away unseen. We set course for **One Stone** (the Sky Ponies' mound, whose dying chieftain **Arnzan Vashk** needs our help), and stopped at the mouth of a few rivers — where, mid-fishing, **a creature attacked us as the session ended.**
 
 ## 🔥 Active Threads
 
 ### Main Spine — Cosmic
 - **[[Find Hekaton]]** — reinstate [[The Ordening]]. **The Ulfgardian oracles want relic sacrifices in exchange for answers.**
-- **[[Gather Ulfgardian Relics]]** — see [[Ulfgardian Mounds]] for all nine. **1 in hand: [[Stronmaus]] statue (S57, flagged "last resort, return if able")**
-- **[[Vonindod]]** — fire giants ARE rebuilding the colossus; **the rod we recovered points to it**
+- **[[Gather Ulfgardian Relics]]** — see [[Ulfgardian Mounds]] for all nine. **2 in hand: [[Stronmaus]] statue (S57, flagged "last resort, return if able") + the Shining White mask (S64, freely spendable)**
+- **[[Vonindod]]** — fire giants ARE rebuilding the colossus; **the rod we recovered points to it**. **S64: saw a fire-giant search party hunting pieces near Shining White** — slipped away unseen
 - **[[Harshnags Hunt]]** — alliance with Harshnag on the Ordening problem; meeting again in three months, after he visits [[Krowen Valharrow]]. **Gate cleared (S58):** [[Thomas]] alliance secured, so the held-back Harshnag conversation is unblocked.
 
-### 🏠 Now — Back in Phandalin (S63)
-- **[[Track the Red Mages|Red Mages]] → go to [[Other Locations#Everlund|Everlund]]** *(new, S63)*: [[Sister Garaele]] sent Jaak & Estelle after the Red Mages (bald, head-tattooed **necromancers** hunting "curious relics" and important people); **someone at [[Other Locations#Everlund|Moongleam Tower]] in Everlund wants to meet them** — the next step. (Likely the same trip [[Gundren Rockseeker]] has been pushing to Everlund.)
-- **Finish choosing our bastion options** *(new, S63)*: [[Gundren Rockseeker]] walked [[Var Borgal|Var]] through the party's **bastion** at the [[Phandalin]] manor — **we haven't selected all of them yet.**
-- **[[Ilin Cotton]] may be an alias** *(new, S63)*: Garaele says "Ilin" might be a cover name — re-check every "Ilin" lead against that.
+### 🏠 Now — The Relic Road (S64)
+- **⚔️ Cliffhanger:** stopped at the mouth of a few rivers en route to One Stone — **attacked by a creature while fishing** *(probably some giant fish-monster; unconfirmed)*; session ended mid-encounter
+- **Next stop: [[Ulfgardian Mounds|One Stone]]** — help the Sky Ponies' **dying chieftain Arnzan Vashk** for the relic (plan on [[Gather Ulfgardian Relics]])
+- **Shining White relic secured** *(S64)*: **a mask**, recovered in **two halves** (griffin attack in between) — our **first freely spendable oracle relic** (2 total with the [[Stronmaus]] statue)
+- **[[Estelle Moonglow Platinum|Estelle]]'s stolen loot** *(new, S64)*: from a chest in a wisp-lit structure bearing the **[[Minor Contacts#Order of the Kraken|Order of the Kraken]]'s octopus/kraken symbol** — **platinum, a Potion of Invisibility, and a key with a 5% chance to unlock any door**
+- **Fire giants are in the field** *(S64)*: a search party hunting [[Vonindod]] pieces near Shining White; they didn't see us — decide whether to track, report, or avoid
+
+### ⏰ Carried Leads (Phandalin, S63)
+> Left behind in [[Phandalin]] when we flew out for the mounds — still live.
+- **[[Track the Red Mages|Red Mages]] → go to [[Other Locations#Everlund|Everlund]]** *(S63)*: [[Sister Garaele]] sent Jaak & Estelle after the Red Mages (bald, head-tattooed **necromancers** hunting "curious relics" and important people); **someone at [[Other Locations#Everlund|Moongleam Tower]] in Everlund wants to meet them** — the next step. (Likely the same trip [[Gundren Rockseeker]] has been pushing to Everlund.)
+- **Finish choosing our bastion options** *(S63)*: [[Gundren Rockseeker]] walked [[Var Borgal|Var]] through the party's **bastion** at the [[Phandalin]] manor — **we haven't selected all of them yet.**
+- **[[Ilin Cotton]] may be an alias** *(S63)*: Garaele says "Ilin" might be a cover name — re-check every "Ilin" lead against that.
 
 ### ⏰ Carried Leads (out of Waterdeep, S63)
 > The party flew out of [[Waterdeep]] for [[Phandalin]] this session. The **Waterdeep-anchored** to-dos below went **unresolved** and are now remote — pick them back up on a return trip; the **[[Yartar]]-forward** ones (Cardon, Golden Goose) are still live wherever we go next.
@@ -85,6 +93,7 @@ We **left [[Waterdeep]]** and flew the [[Ignitamis]] toward **[[Phandalin]]**, f
 - **Who recently kidnapped [[Jaak Greye]]?** — they want godhood through his blood
 - **[[The Beliard Mystery|Who runs the face-eaters?]]** — the unsigned note's recipient
 - **Who pulls [[Rulf Cloudfang|Rulf]]'s strings?** — S57: Rulf told Malkyn he "had no choice"; **Rulf may be a puppet** of someone higher in the cult
+- **The kraken-symbol structure** *(S64)* — a structure in the wilds (found by wisp-light, en route to Shining White) bearing the same **octopus/kraken symbol** as the [[Minor Contacts#Order of the Kraken|Order of the Kraken]] brutes from the Bloody Fist. What is it? And is it connected to [[Jarlaxle]]'s fear of "krakens" at [[Yartar]]?
 - **What's the [[Yartar]] cult lead?** — what [[Ilin Cotton]] is chasing; possibly the "end of the world stuff" venue
 - **[[Lords Alliance|Lord's Alliance compromise]]** — "bad people high up?"
 - **[[Doom of the Desert]]** — why is she hunting [[Zephyros]]?
@@ -242,6 +251,7 @@ We **left [[Waterdeep]]** and flew the [[Ignitamis]] toward **[[Phandalin]]**, f
 
 ## 📜 Sessions
 
+- [[Session 64 - Var - 2026-07-20|Session 64 - Var]] / [[Session 64 - Jaak - 2026-07-20|Jaak]] / [[Session 64 - Gotrek - 2026-07-20|Gotrek]] — left [[Phandalin]] for the [[Ulfgardian Mounds]]: [[Estelle Moonglow Platinum]] wisp-led to a **kraken-symbol structure** ([[Minor Contacts#Order of the Kraken|Order of the Kraken]]?) and stole chest loot (platinum, Potion of Invisibility, 5%-any-door key); **Shining White relic — a mask — recovered in two halves** (griffin attack between); **fire giants spotted hunting [[Vonindod]] pieces** (avoided); en route to **One Stone**, **attacked by a creature** at a river mouth (cliffhanger)
 - [[Session 63 - Var - 2026-07-13|Session 63 - Var]] / [[Session 63 - Jaak - 2026-07-13|Jaak]] — **left [[Waterdeep]]**, flew the [[Ignitamis]] to [[Phandalin]] fighting off pursuing spirits; storm-downed near [[Other Locations#Kryptgarden Forest|Kryptgarden Forest]] and **talked down [[Claugiyliamatar]]**, an elder green dragon, via the [[Klauth]] connection; back home, [[Gotrek Runehammer]] & [[Sir Joseph Gordon Die Hard]] reported to [[Sildar Hallwinter]], [[Jaak Greye]] & [[Estelle Moonglow Platinum]] got the **[[Track the Red Mages|Red Mages]]** mission from [[Sister Garaele]] (+ **[[Ilin Cotton]] may be an alias**, + a [[Other Locations#Everlund|Moongleam Tower]]/[[Other Locations#Everlund|Everlund]] meeting), and [[Var Borgal|Var]] reviewed **bastion** options with [[Gundren Rockseeker]]
 - [[Session 62 - Var - 2026-06-29|Session 62 - Var]] / [[Session 62 - Jaak - 2026-06-29|Jaak]] / [[Session 62 - Gotrek - 2026-06-29|Gotrek]] — [[Var Borgal|Var]]–[[Cardon Malefic]] private talk "about the future"; [[Commander Hawkwinter]] promotes [[Gotrek Runehammer]] & [[Sir Joseph Gordon Die Hard]] to **"Stingblades"** (+items); audience with [[Laeral Silverhand]]: cults across the Sword Coast ([[Cult of Cyric|Cult of C]], [[Cult of the Dragon]], Cult of the Abyss, others), **[[The Ordening]] "may have been a magic trick"**, [[Ilin Cotton]]'s dockyard residence, [[Blackstaff Academy]] for [[Malkyn Serpentwind]]'s curse; **[[Xanathars Guild|Xanathar]] is after the [[Stone of Golorr]]** (tied to Hawkwinter); the magic-item shop is the **Amethyst Sanctum**
 - [[Session 61 - Var - 2026-06-22|Session 61 - Var]] / [[Session 61 - Jaak - 2026-06-22|Jaak]] / [[Session 61 - Gotrek - 2026-06-22|Gotrek]] — [[The Waterdeep Ultimate Brawl]] ends: Monster Arena **lost** the Round-5 championship to a **fire dragon elemental**; singles **Tournament of Prowess won by [[Sir Joseph Gordon Die Hard]]** (Gotrek 3rd); rewards from **[[Amen Voss]]** — one uncommon + one rare item per PC + a magic tattoo for Joseph
