@@ -10,11 +10,11 @@ title: The Adventures of the Phandalin Five
 
 - **[[Home]]** — the campaign dashboard: active threads, factions, NPCs, places, sessions
 - **[[The Phandalin Five]]** — the party
-- **Latest session (64, 2026-07-20):** [[Session 64 - Var - 2026-07-20|Var]] / [[Session 64 - Jaak - 2026-07-20|Jaak]] / [[Session 64 - Gotrek - 2026-07-20|Gotrek]]
+- **Latest session (65, 2026-07-27):** [[Session 65 - Var - 2026-07-27|Var]] / [[Session 65 - Jaak - 2026-07-27|Jaak]] / [[Session 65 - Gotrek - 2026-07-27|Gotrek]]
 
-## 📖 Previously, in the Ulfgardian Mounds — [[Session 64 - Var - 2026-07-20|Session 64]] (2026-07-20)
+## 📖 Previously, in the Ulfgardian Mounds — [[Session 65 - Var - 2026-07-27|Session 65]] (2026-07-27)
 
-The relic hunt is on: we left **[[Phandalin]]** aboard the [[Ignitamis]] and made for **Shining White**, the abandoned Griffin-tribe [[Ulfgardian Mounds|mound]]. Camped en route, **[[Estelle Moonglow Platinum]]** followed a **wisp** in the night to a structure marked with the **octopus/kraken symbol** of the brutes we fought at the Waterdeep tavern (the [[Minor Contacts#Order of the Kraken|Order of the Kraken]]) — and stole a chest's contents (**platinum, a Potion of Invisibility, and a key with a 5% chance to unlock any door**) before slipping back to the ship. Days of searching at Shining White turned up **half a relic**, then a **griffin attack**, then the **other half — a mask, whole and in hand** for the [[Gather Ulfgardian Relics|oracle sacrifices]]. Before leaving we spotted **fire giants hunting pieces of the [[Vonindod]]** and slipped away unseen. We set course for **One Stone** (the Sky Ponies' mound, whose dying chieftain **Arnzan Vashk** needs our help), and stopped at the mouth of a few rivers — where, mid-fishing, **a creature attacked us as the session ended.**
+Last session's river "monster" turned out to be a **giant elder Plesiosaurus** ("Nessy"), thrashing only because a **tattooing needle** was lodged painfully in its mouth; [[Jaak Greye]] used *speak with animals* to calm it, we worked the needle free, and it thanked us and swam off — the needle carries **dominate beast**, which we handed to [[Sir Joseph Gordon Die Hard]]. Pressing on toward **[[Ulfgardian Mounds|One Stone]]**, Joseph spotted a band of **humanoids fleeing west** from the mound, and we let them go. One Stone proved to be an island ringed by a river off a lake and dotted with piled stones — we believe an **Ulfgardian graveyard**. There we ran into **two members of the [[Black Earth]] tribe**; after Jaak miscalled them "Black Ground," they attacked, claiming the **relic was theirs**. A round into the fight, **Sky Pony Ulfgardians** appeared, spoke a tongue we couldn't understand, and squared up as well — leaving us in a **three-way standoff, unsure who to trust**, as the session ended.
 
 ## The Party
 
@@ -26,7 +26,7 @@ The relic hunt is on: we left **[[Phandalin]]** aboard the [[Ignitamis]] and mad
 
 ## What's Happening Now
 
-- **On the relic road** *(S64)* — out of [[Phandalin]] hunting [[Gather Ulfgardian Relics|Ulfgardian relics]]: **Shining White relic (a mask) recovered**, now bound for **One Stone** — mid-cliffhanger, **attacked by a creature** at a river mouth
+- **On the relic road** *(S65)* — hunting [[Gather Ulfgardian Relics|Ulfgardian relics]]: **Shining White mask in hand**; now at **[[Ulfgardian Mounds|One Stone]]** (an apparent Ulfgardian graveyard) in a **three-way standoff** — the **[[Black Earth]] tribe** and the **Sky Ponies** both squared up over the relic (cliffhanger)
 - **[[Find Hekaton]]** — find the missing storm king and reinstate [[The Ordening]]
 - **[[Track the Red Mages]] → [[Other Locations#Everlund|Everlund]]** *(new, S63)* — [[Sister Garaele]] put Jaak & Estelle onto bald, head-tattooed necromancers hunting relics and important people; **someone at [[Other Locations#Everlund|Moongleam Tower]] wants to meet them** in Everlund
 - **[[Cardon Malefic]] → [[Yartar]]** — to meet the [[Cult of Cyric|Cult of C]]; the Var arc and the cult arc converge there

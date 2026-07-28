@@ -26,7 +26,7 @@ Acquire giant relics from the nine [[Ulfgardian Mounds]] (each holds at least on
 Mound details (tribes, chieftains, approaches, difficulty) are on [[Ulfgardian Mounds]]. Current priority:
 
 1. ✅ [[Ulfgardian Mounds|Shining White]] — **done (S64)**: relic recovered (two halves); fought off griffins
-2. [[Ulfgardian Mounds|One Stone]] — **← current target (en route, S64)** — help dying chieftain **Arnzan Vashk** for the relic
+2. [[Ulfgardian Mounds|One Stone]] — **← current target (arrived, S65)** — an apparent **Ulfgardian graveyard**; original plan is to help dying chieftain **Arnzan Vashk** for the relic, but arrival triggered a **three-way fight**: the **[[Black Earth]] tribe** claims the relic and attacked, and **Sky Pony Ulfgardians** then arrived and squared up too *(unresolved cliffhanger)*
 3. [[Ulfgardian Mounds|Raven Rock]] — help **Ojin Voninsdottir** with her mountain problem (**do NOT kill her**)
 4. [[Ulfgardian Mounds|Flint Rock]] — investigate the Elk tribe's unknown state
 
@@ -49,3 +49,4 @@ Mound details (tribes, chieftains, approaches, difficulty) are on [[Ulfgardian M
 ### Mound Log
 
 - **S64 — Shining White:** searched several days; recovered the relic — **a mask, in two halves** — with a **griffin attack** between them. Before leaving, spotted **fire giants hunting [[Vonindod]] pieces** nearby and slipped away unseen. Departed for **One Stone**; stopped at the mouth of a few rivers, where a **creature attacked while we fished — session-64 cliffhanger** *(probably some giant fish-monster; unconfirmed)*.
+- **S65 — en route + One Stone:** the river "creature" was a **giant elder Plesiosaurus** ("Nessy"), lashing out over a **needle stuck in its mouth**; freed it (Jaak's *speak with animals*), and it left peacefully — the needle is a **tattooing needle bearing *dominate beast*** (given to [[Sir Joseph Gordon Die Hard]], not a relic). Reached **One Stone** — an apparent **Ulfgardian graveyard** (island in a river off a lake, piled stones); saw **humanoids fleeing west** on approach. At the graveyard, **two [[Black Earth]] tribesmen** attacked claiming the relic, then **Sky Pony Ulfgardians** arrived and readied to fight both sides — **three-way standoff cliffhanger; relic not yet recovered.**

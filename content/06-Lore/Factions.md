@@ -87,6 +87,9 @@ Personal to [[Var Borgal]]. Magic-purge politics. **Cardon carries an anti-magic
 ### The Cult Of Bhaal
 Defeated in Baldur's Gate by [[Jaheira]] and Harpers. Status: dormant.
 
+### [[Black Earth]]
+**Stub (S65).** Rival relic-hunters met at **[[Ulfgardian Mounds|One Stone]]** — attacked the party claiming the relic was theirs. Little else known; see [[Black Earth]].
+
 ## Mystery Threats
 
 ### [[The Black Sun Watchers]]

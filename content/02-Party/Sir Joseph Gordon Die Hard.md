@@ -62,4 +62,5 @@ Ability Score Improvement (×2 via Soldier ASI + L4), Defense (Fighting Style), 
 - **Weapons:** Greatsword (equipped), Longbow + Arrows (equipped)
 - **Armor:** Studded Leather (equipped)
 - **Gear:** Backpack
+- **Magic:** **Tattooing needle bearing *dominate beast*** — recovered S65 from the mouth of a giant elder Plesiosaurus ("Nessy"), handed to Joseph
 - **Coin:** 25 gp

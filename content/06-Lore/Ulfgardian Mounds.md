@@ -24,17 +24,17 @@ This file is the **reference** for *who's at each mound and how to approach them
 
 ## The Nine Mounds — Quick Reference Table
 
-| Mound | Tribe(s) | Chieftain | Approach | Difficulty |
-|---|---|---|---|---|
-| **Raven Rock** | Black Ravens + Gray Wolves | **Ojin Voninsdottir** (BR) — **do NOT kill**; **Syken Nightblaze** (GW) | Diplomacy | Moderate |
-| **Great Worm Cavern** | Great Worm | Warmblood | Unknown | Dangerous — assholes |
-| **One Stone** | Sky Ponies | Arnzan Vashk (**dying**) | Help with his illness | Moderate |
-| **Beorunna's Well** | Black Lions + Red Tigers | — | Half lost their way; Red Tigers wicked and cruel | Mixed |
-| **Stone Stand** | Blue Bears | — | Most evil; possibly extinct; will eat us | Avoid |
-| **Shining White** | Griffin | — | Mostly abandoned | **Easiest** |
-| **Morgur's Mound** | Thunder Beast | Harthulk Hornspea | Never defeated; lizard-like skin | Hardest |
-| **Flint Rock** | Elk | — | Most perished against giants years ago | Unknown |
-| **Grandfather Tree** | Tree Ghost | — | **[[Interitus]] asked us not to go**; respected place that saved him; approach with respect | **Worst-case only** |
+| Mound                 | Tribe(s)                   | Chieftain                                                               | Approach                                                                                    | Difficulty           |
+| --------------------- | -------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | -------------------- |
+| **Raven Rock**        | Black Ravens + Gray Wolves | **Ojin Voninsdottir** (BR) — **do NOT kill**; **Syken Nightblaze** (GW) | Diplomacy                                                                                   | Moderate             |
+| **Great Worm Cavern** | Great Worm                 | Warmblood                                                               | Unknown                                                                                     | Dangerous — assholes |
+| **One Stone**         | Sky Ponies                 | Arnzan Vashk (**dying**)                                                | Help with his illness                                                                       | Moderate             |
+| **Beorunna's Well**   | Black Lions + Red Tigers   | —                                                                       | Half lost their way; Red Tigers wicked and cruel                                            | Mixed                |
+| **Stone Stand**       | Blue Bears                 | —                                                                       | Most evil; possibly extinct; will eat us                                                    | Avoid                |
+| **Shining White**     | Griffin                    | —                                                                       | Mostly abandoned                                                                            | **Easiest**          |
+| **Morgur's Mound**    | Thunder Beast              | Harthulk Hornspea                                                       | Never defeated; lizard-like skin                                                            | Hardest              |
+| **Flint Rock**        | Elk                        | —                                                                       | Most perished against giants years ago                                                      | Unknown              |
+| **Grandfather Tree**  | Tree Ghost                 | —                                                                       | **[[Interitus]] asked us not to go**; respected place that saved him; approach with respect | **Worst-case only**  |
 
 ## Per-Mound Notes
 
@@ -45,7 +45,7 @@ This file is the **reference** for *who's at each mound and how to approach them
 Great Worm tribe. **Warmblood** is the brutal chieftain. Relic confirmed.
 
 ### One Stone
-**Sky Ponies. Chieftain Arnzan Vashk is dying.** Help him for the relic.
+**Sky Ponies. Chieftain Arnzan Vashk is dying.** Help him for the relic. **Visited S65:** the mound is an **island ringed by a river off a lake, dotted with piled stones — apparently an Ulfgardian graveyard.** On arrival the party ran into **two [[Black Earth]] tribesmen** (a rival group also after the relic), who attacked; a round later, **Sky Pony Ulfgardians** appeared speaking an unknown language and squared up too — a **three-way standoff** (unresolved). Live state on [[Gather Ulfgardian Relics]].
 
 ### Beorunna's Well
 **Lost way of Ulfgardt.** Created their own settlement. **Red Tigers wicked and cruel.** No diplomacy possible with the Tigers half — only a beating.
