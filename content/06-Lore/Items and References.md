@@ -44,12 +44,13 @@ tags: [lore, items, index]
 - **Magic tattoo** *(singles-champion prize, S61)* — force a creature to **roll a 1**, once per long rest, **3 uses total**
 
 ### Party Resources
+- **The One Stone relic** *(S66)* — **casts *divination* or *control weather*, once every 7 days.** Given freely by **[[Arnzan Vashk]]**. *(Ulfgardian relic inventory lives on [[Gather Ulfgardian Relics]] — listed here only because it's a usable magic item.)*
 - **The [[Jade Frog]]** — carved jade figurine with gold/bronze eyes. Origin and purpose TBD. See [[Jade Frog]].
 - **Speaking stone** — say [[Hamun Kost]]'s name to contact him
 - **Letter of credit** — cashable at the **Bank of Waterdeep**
 - **Jar of jam** — for [[Raidoth]] (with "hugs and kisses from Qualine")
 - **Transparent stone** — [[Estelle Moonglow Platinum]] is investigating ([[Old Owl Well]] origin)
-- **The airship [[Ignitamis]]** (gift of [[Klauth]]) — needs **Tinker's, Woodcarver's, Carpenter's, Tailoring** tools
+- **The airship [[Ignitamis]]** (gift of [[Klauth]]) — needs **Tinker's, Woodcarver's, Carpenter's, Tailoring** tools. *Full history, voyages, and repair state on [[Ignitamis]].*
 - **Seal of Daggerford** — [[Lady Morwen Daggerford|Daggerford]] authority token
 - **Dimension Door scroll** — 500 ft teleport, 4th-circle spell, beat DC 14 to use ([[Naxene Drathkala]])
 - **Wards** ([[Naxene Drathkala]]) — used 3 in [[Goldenfields]]; check if any remain

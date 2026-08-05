@@ -16,7 +16,8 @@ giver: Harshnag / circumstances
 - ✅ Confirmed Harshnag is **actively working the [[Find Hekaton|Ordening problem]]** as part of [[Force Grey]]
 - ✅ Learned the **oracles among the [[Ulfgardian Mounds|Ulfgardian mound tribes]] will answer Ordening questions in exchange for giant-relic sacrifices**
 - ✅ While we were tracking him, Harshnag was also **aiding merchants beset by ogres** and **spoke with priests of [[Chauntea]] at [[Goldenfields]]** before departing into the northern woods
-- ⏳ Harshnag is currently traveling to **[[Krowen Valharrow]]** in [[Other Locations|Everlund]]
+- ⏳ Harshnag is currently traveling to **[[Krowen Valharrow]]** in [[Everlund]]
+- ❓ **S66: we were in Valharrow's tower and Harshnag never came up.** Our notes don't mention him one way or the other — whether he'd been and gone, hadn't arrived, or simply wasn't discussed is **unknown**. **Worth asking Valharrow when we return** for the post-ghost-job audience.
 - ⏳ We are **meeting up with Harshnag again in three months**
 - ✅ **Gate cleared (S58):** [[Thomas]]'s alliance is now secured (see [[The Shanker Job]]), so the Harshnag/Hekaton conversation Thomas was holding back is unblocked
 
@@ -34,7 +35,8 @@ Without Harshnag, the party would be doing freelance giant-fighting. With him, w
 
 What to accomplish before we meet Harshnag again:
 
-- ⬜ Begin gathering [[Ulfgardian Mounds|Ulfgardian relics]] (start with Shining White / Sky Ponies / Black Ravens — see the tactical recommendation in the Mounds note)
+- ⬜ Begin gathering [[Ulfgardian Mounds|Ulfgardian relics]] — **well underway: Shining White done (S64), Sky Ponies done and allied (S66); Black Ravens / [[Ulfgardian Mounds|Raven Rock]] is next.** See [[Gather Ulfgardian Relics]].
+- ⬜ **Ask [[Krowen Valharrow]] where Harshnag is** — we had the chance in S66 and didn't take it
 - ⬜ Investigate the **rod that points to [[Vonindod]]** — this is intelligence Harshnag will want
 - ⬜ Make contact with **[[Krowen Valharrow]]** if possible; he's hosting Harshnag and will know what Harshnag is working on
 - ⬜ Survive the **[[The Waterdeep Ultimate Brawl]]** without dying

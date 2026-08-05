@@ -22,8 +22,9 @@ Klauth **gave us an airship**. He's been watching us, and wants to help fix the 
 
 ## The Airship
 
-- Name: **Ignitamis**
+- Name: **[[Ignitamis]]** — *see that page for its history, voyages, and repair state*
 - **Tools needed for repair:** Tinker's tools, Woodcarver's tools, Carpenter's tools, Tailoring tools
+- **His name attached to the ship carries weight with dragons** — it's what got us past [[Claugiyliamatar]] in S63
 
 ## Open Questions
 

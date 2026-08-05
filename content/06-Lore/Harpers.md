@@ -16,12 +16,13 @@ tags: [lore, faction, ally]
 
 - **[[Sister Garaele]]** — at the **Shrine of Luck** in [[Phandalin]]; openly confirmed Harper. Praying to Lady Tymora.
 - **[[Jaheira]]** — based in **Baldur's Gate**; helped defeat the **Cult of Bhaal** there; still doing Harper work
-- **[[Krowen Valharrow]]** — Archmage of Silverymoon, "Watcher of the Silver Marches" — likely Harper-aligned (wrote Zephyros to warn him about the [[Doom of the Desert]])
+- **[[Krowen Valharrow]]** — Archmage of Silverymoon, "Watcher of the Silver Marches" — **confirmed a HIGH HARPER (S66)**, and holds **[[Moongleam Tower]]** outside [[Everlund]]. The highest-ranking Harper we've met face to face. **He wants to speak with [[Jaak Greye]] and [[Estelle Moonglow Platinum]] "as a High Harper, not as an archmage"** once we finish [[The Everlund Apparitions]].
 - **[[Laeral Silverhand]]** — much more connected to Harpers than publicly admitted; should be asked
 - **[[Ilin Cotton]]** — **confirmed Harper** (session 56); was investigating the [[Cult of Cyric]] before he was discovered. Currently missing — last seen at [[Tavern Misty Beard]] in [[Waterdeep]]. See [[Find Ilin Cotton]].
 
 ## Strongholds & Concentrations
 
+- **[[Moongleam Tower]]** — outside [[Everlund]]; **[[Krowen Valharrow]]**'s seat. **Visited S66.**
 - **[[Yartar]]** — Harper stronghold
 - **[[Waterdeep]]** — many Harpers; **Tribourgh** is named; **Harpers Den entrance is on the coastal side of the city**
 - **Baldur's Gate** — Jaheira and others

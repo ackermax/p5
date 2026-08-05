@@ -23,7 +23,7 @@ His axe has **runes upon its edge that faintly glow** — confirmed by Zephyros'
 - **Hunted with him** in [[Goldenfields]] area
 - He was **fighting a Behir, not a salamander** — earlier note was wrong/he switched targets/scout had bad intel. The salamander rumor was misleading; Behir confirmed.
 - **Meeting up again in three months**
-- He's now heading to **[[Krowen Valharrow]]** in [[Other Locations|Everlund]]
+- He's now heading to **[[Krowen Valharrow]]** in [[Everlund]]
 
 ## Connections
 

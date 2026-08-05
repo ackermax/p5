@@ -44,7 +44,7 @@ Quick-reference page for NPCs we've met but don't have detailed notes on yet. Pr
 - **Brian the Swordmaster** — market vendor in Tradesward
 - **Camilla** — woman at the gambling den (animal fights)
 - **Hoberts** — man at the gambling den (animal fights)
-- **Droop** — little goblin friend; was a Cragmaw goblin who told us about Gundren's ambush; now studying under **[[Vajra Safahr]]**
+- **[[Droop]]** — little goblin friend; [[Vajra Safahr]]'s apprentice. **S66: turned up at [[Moongleam Tower]] in [[Everlund]].** *Promoted to his own file — see [[Droop]].*
 - **Andressa** — fortune teller; **a doppelganger** (we know this); had our fortunes told
 - **Gregory Strongwood** — old man at the Yawning Portal acting suspicious. **We declined his quest.** Scummy vibes.
 - **Tavlor Swift** — at the **Bloody Fist Tavern**. We have an open thread to meet her.
@@ -81,7 +81,7 @@ Quick-reference page for NPCs we've met but don't have detailed notes on yet. Pr
 - **Listras** — copper dragon we met; told us jokes, riddles, songs. Friendly.
 - **Max** — veteran in Amphail (one of Daggerford's reinforcement contacts)
 - **Cynthia** — veteran in Longsaddle (Daggerford reinforcement contact)
-- **Allerick** — knight from [[Other Locations|Everlund]]
+- **Allerick** — knight from [[Everlund]]
 - **The Exquisites Troupe** — see [[The Exquisites Investigation]]
 - **Lisa** — member of the Exquisites circus (bridge to the [[The Beliard Mystery|Beliard]] case)
 
@@ -113,7 +113,7 @@ See [[Ulfgardian Mounds]] for full context.
 - **Syken Nightblaze** — daughter of the slain Gray Wolves leader, trying to claim chieftainship
 - **Ojin Voninsdottir** — cold, heartless, old. Leader of the Black Ravens at Raven Rock. **Do NOT kill.**
 - **Warmblood** — brutal chieftain of the Great Worm tribe
-- **Arnzan Vashk** — chieftain of the Sky Ponies, **dying**
+- **[[Arnzan Vashk]]** — chieftain of the Sky Ponies; **cured and allied (S66)**. *Promoted to his own file.*
 - **Harthulk Hornspea** — great chief of the Thunder Beast tribe, **never defeated**
 
 ## Giants Of Note (Beyond The Big Players)

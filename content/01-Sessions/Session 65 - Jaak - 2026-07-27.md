@@ -1,10 +1,10 @@
 ---
 tags: [session]
 date: 2026-07-27
-session-number: 65 - Jaak
+session-number: 65
 ---
 
-# Session 65 - Jaak — 2026-07-27
+# Session 65 — 2026-07-27
 
 > **In-game date:** 
 > **Location:** [[]]
@@ -17,7 +17,7 @@ session-number: 65 - Jaak
 
 - Saved Nessy from a thorn in its mouth. 
 	- The thorn was a tattoo that gives the spell dominate beast or something
-- Arrived at the [[One Stone]] mound.
+- Arrived at the [[Ulfgardian Mounds|One Stone]] mound.
 
 ## NPCs Met
 

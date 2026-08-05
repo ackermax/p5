@@ -36,7 +36,7 @@ region: Sword Coast
 
 ## Ongoing Threads
 
-- **Party returned to Phandalin (S63)** — flew the [[Ignitamis]] home from [[Waterdeep]]. On arrival: [[Gotrek Runehammer]] & [[Sir Joseph Gordon Die Hard]] reported to [[Sildar Hallwinter]]; [[Jaak Greye]] & [[Estelle Moonglow Platinum]] took the **[[Track the Red Mages|Red Mages]]** mission from [[Sister Garaele]] (pointing to [[Other Locations#Everlund|Everlund]]); [[Var Borgal|Var]] reviewed **bastion** options with [[Gundren Rockseeker]] at the manor (not all chosen yet).
+- **Party returned to Phandalin (S63)** — flew the [[Ignitamis]] home from [[Waterdeep]]. On arrival: [[Gotrek Runehammer]] & [[Sir Joseph Gordon Die Hard]] reported to [[Sildar Hallwinter]]; [[Jaak Greye]] & [[Estelle Moonglow Platinum]] took the **[[Track the Red Mages|Red Mages]]** mission from [[Sister Garaele]] (pointing to [[Everlund]]); [[Var Borgal|Var]] reviewed **bastion** options with [[Gundren Rockseeker]] at the manor (not all chosen yet).
 - **[[Sildar Hallwinter]] is building a militia** to protect the town *(S63)*.
 - **Undead activity** north of Phandalin — Daran Edermath has been investigating
 - The drow movement under the town isn't fully resolved (Nezznar and Vyerith are dead, but the Loyalists of Lolth still exist)

@@ -68,6 +68,12 @@ Three years later, returned with the troupe. Estelle had learned the full truth 
 
 ## Current Personal Arc Threads
 
+### The High Harper Audience *(new, S66)*
+- **[[Krowen Valharrow]] — Archmage of Silverymoon and a confirmed High Harper — wants to speak with Jaak and [[Estelle Moonglow Platinum]] alone**, explicitly **"as a High Harper, not as an archmage."**
+- He is **holding the conversation until after [[The Everlund Apparitions]]** is resolved.
+- Probably the [[Moongleam Tower]] contact [[Sister Garaele]] promised in S63 — see [[Track the Red Mages]] — but he never mentioned the Red Mages.
+- **This is the closest either Harper-pinned PC has come to a formal Harper conversation.** See [[Harpers]].
+
 ### The Kidnapping
 > **Jaak was stolen by someone who wants ascension and wants Jaak's blood. Angel blood. Celestia.**
 

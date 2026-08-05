@@ -55,9 +55,10 @@ In her late teens she discovered that **money had been anonymously sent to the m
 
 ## Personal Arc Threads
 
+- **The High Harper audience** *(new, S66)* — **[[Krowen Valharrow]]** wants to speak with Estelle and [[Jaak Greye]] alone, **"as a High Harper, not as an archmage,"** once [[The Everlund Apparitions]] is done. Likely the [[Moongleam Tower]] meeting [[Sister Garaele]] set up (see [[Track the Red Mages]]).
 - **[[Estelles True Identity]]** — mother, anonymous benefactor, the name "Moonglow Platinum"
 - **[[Reckoning With The Cult Of Cyric]]** — now confirmed as Cyric worship; same cult as elsewhere on the Sword Coast
-- **Affinity with the dead** — mechanical hook for ghost/death-related arcs
+- **Affinity with the dead** — mechanical hook for ghost/death-related arcs. **Directly relevant to [[The Everlund Apparitions]]** *(S66)* — the party's next job is a ghost investigation.
 
 ## Important Connections
 

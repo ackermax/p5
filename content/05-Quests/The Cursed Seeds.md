@@ -23,7 +23,7 @@ status: partial
 - Has done business in:
   - [[Other Locations|Beliard]] — herbalist, some guys at the Watchful Knight, a farmer who's the father of stable boy Clinch
   - Some guys at the **Watchful Knight**
-- Came from [[Goldenfields]], heading to [[Other Locations|Everlund]]
+- Came from [[Goldenfields]], heading to [[Everlund]]
 
 ## Open Threads
 

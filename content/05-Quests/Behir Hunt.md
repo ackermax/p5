@@ -14,7 +14,7 @@ giver: Harshnag / circumstances
 - ✅ He's been seen aiding merchants beset by ogres
 - ✅ He spoke with priests of [[Chauntea|Chauntea]] at Goldenfields before departing into the northern woods
 - ⏳ We are **meeting up with [[Harshnag]] again in three months**
-- ⏳ He is currently traveling to **[[Krowen Valharrow]]** in [[Other Locations|Everlund]]
+- ⏳ He is currently traveling to **[[Krowen Valharrow]]** in [[Everlund]]
 
 ## What Was The Salamander Rumor Then?
 

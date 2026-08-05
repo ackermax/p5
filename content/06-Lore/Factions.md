@@ -88,9 +88,12 @@ Personal to [[Var Borgal]]. Magic-purge politics. **Cardon carries an anti-magic
 Defeated in Baldur's Gate by [[Jaheira]] and Harpers. Status: dormant.
 
 ### [[Black Earth]]
-**Stub (S65).** Rival relic-hunters met at **[[Ulfgardian Mounds|One Stone]]** — attacked the party claiming the relic was theirs. Little else known; see [[Black Earth]].
+**Stub (S65–66).** Rival relic-hunters met at **[[Ulfgardian Mounds|One Stone]]** — attacked the party claiming the relic was theirs. **S66: the Sky Pony Ulfgardians fought them alongside us** (so they're no mound tribe); **one killed, one escaped.** [[Jaak Greye|Jaak]] calls them **cultists**. See [[Black Earth]].
 
 ## Mystery Threats
+
+### [[Ituvalak]]
+**Stub (S66).** **[[Arnzan Vashk]]** told us about Ituvalak — "**children of the forest**." That is genuinely all we have. **Listed here as a faction on a working guess only**; it may equally be a place. Not known to be a threat — we don't know what it is at all. See [[Ituvalak]].
 
 ### [[The Black Sun Watchers]]
 Whoever delivered the "we are watching" message with the black sun symbol and scar-mouthed messenger.
@@ -120,3 +123,6 @@ Led by **Duke Zalto** (a.k.a. Salto). **Rebuilding [[Vonindod]].** Kept orcs as 
 ## Ulfgardians
 
 See [[Ulfgardian Mounds]] and [[Interitus]].
+
+### Sky Ponies — **allied (S66)**
+The tribe of **[[Ulfgardian Mounds|One Stone]]**, led by **[[Arnzan Vashk]]**. We cured his illness and he gave us the mound's relic freely — **our first friendly Ulfgardian tribe.** They also fought the [[Black Earth]] alongside us.

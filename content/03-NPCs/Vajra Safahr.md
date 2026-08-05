@@ -29,4 +29,4 @@ location: Waterdeep
 - Khelben **sacrificed his life to defeat something powerful** — died twice
 - He and **Ualair the Silent One** gave their lives to **restore something to what it was before** (in Highmoor, a city that was lost)
 - **The Blackstaff seat was vacant for 60 years** before Vajra
-- **[[Other Locations|Droop]]** is her apprentice
+- **[[Droop]]** is her apprentice — *though he was at [[Moongleam Tower]] in [[Everlund]], not the Academy, in S66*

@@ -23,7 +23,11 @@ giver: Sister Garaele
 
 ## Where
 
-**[[Other Locations#Everlund|Everlund]] — meet at [[Other Locations#Everlund|Moongleam Tower]].** Someone at the Harper stronghold there wants to speak with Jaak and Estelle; that's the next step on this trail. *(Resolved per Jaak's account — [[Var Borgal|Var]]'s notes had misremembered this as [[Yartar]]. Yartar remains the cult/Cardon convergence, but the Red Mages errand points to Everlund.)*
+**[[Everlund]] — meet at [[Moongleam Tower]].** Someone at the Harper stronghold there wants to speak with Jaak and Estelle; that's the next step on this trail. *(Resolved per Jaak's account — [[Var Borgal|Var]]'s notes had misremembered this as [[Yartar]]. Yartar remains the cult/Cardon convergence, but the Red Mages errand points to Everlund.)*
+
+### S66 — We reached the tower
+
+We arrived at [[Moongleam Tower]] and met **[[Krowen Valharrow]]**, confirmed a **High Harper**. **The Red Mages were never discussed.** Instead he gave us [[The Everlund Apparitions]] and said that **afterward** he wants to speak with **[[Jaak Greye]] and [[Estelle Moonglow Platinum]] as a High Harper.** Since that's the same pair [[Sister Garaele]] sent, **Valharrow is very likely the contact she meant** — but he did not say so, and this trail stays open until that conversation happens.
 
 ## Connections
 
@@ -33,5 +37,5 @@ giver: Sister Garaele
 
 ## Open Threads
 
-- Who at **Moongleam Tower** wants to meet, and about what?
+- Who at **Moongleam Tower** wants to meet, and about what? — **likely [[Krowen Valharrow]] (S66)**, but the audience is deferred until [[The Everlund Apparitions]] is done, and he hasn't confirmed the Red Mages are the subject
 - Are the Red Mages working *with* the cult, *against* it, or on their own hunt for relics/people?

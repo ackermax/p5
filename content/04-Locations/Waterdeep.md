@@ -20,7 +20,7 @@ type: city
 - [[Volo]] — at the Yawning Portal
 - **Commander Hawkwinter** — military
 - [[Thogard]] — Gryphon Riders, Lord's Alliance
-- **Droop** — goblin, studying under Vajra Safahr
+- **[[Droop]]** — goblin, [[Vajra Safahr]]'s apprentice *(but found at [[Moongleam Tower]] in S66)*
 - **The Tarms family** — [[Hantanus Tarm]]'s family at **Castle Tarm** (two roads up from Yawning Portal, near market)
 
 ## Force Grey Members (Multiple Reside Here)

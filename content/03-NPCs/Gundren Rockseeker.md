@@ -14,7 +14,7 @@ race: Dwarf
 ## What He's Doing
 
 - Working on his **manor in [[Phandalin]]**
-- Has asked us to head to **[[Other Locations|Everlund]]** (open) — *note (S63): [[Sister Garaele]] separately flagged a [[Other Locations#Everlund|Moongleam Tower]] meeting in Everlund for Jaak & Estelle; possibly the same errand*
+- Has asked us to head to **[[Everlund]]** (open) — *note (S63): [[Sister Garaele]] separately flagged a [[Moongleam Tower]] meeting in Everlund for Jaak & Estelle; possibly the same errand*
 - **Sent us to [[Other Locations|Daggerford]]** — done (and we discovered Lady Daggerford has [[Jaak Greye]]'s spider staff there)
 
 ## Session 63 — Bastion Options

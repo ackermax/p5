@@ -12,7 +12,7 @@ region: Waterdeep
 
 ## What We Know
 
-The premier school of magic in [[Waterdeep]], run by **[[Vajra Safahr]]** (the current Blackstaff). **Droop** — our little goblin friend — now studies here under Vajra.
+The premier school of magic in [[Waterdeep]], run by **[[Vajra Safahr]]** (the current Blackstaff). **[[Droop]]** — our little goblin friend — studies here as Vajra's apprentice. *(Though **S66** found him at [[Moongleam Tower]] in [[Everlund]] instead — unexplained.)*
 
 ## Why It Matters To Us
 
@@ -24,10 +24,10 @@ The premier school of magic in [[Waterdeep]], run by **[[Vajra Safahr]]** (the c
 
 ### Other Hooks
 
-- **Droop** studies under Vajra here (see [[Minor Contacts]])
+- **[[Droop]]** studies under Vajra here
 - Vajra is also our route to the cloud-giant relic in the Black Tower (per [[Find Hekaton]])
 
 ## Open Threads
 
 - ⬜ Return to Harrick for more runes when time allows
-- ⬜ Check in on Droop's progress
+- ⬜ Check in on [[Droop]]'s progress — **we had him in front of us at [[Moongleam Tower]] in S66 and still didn't ask**
