@@ -52,6 +52,14 @@ Quick-reference page for NPCs we've met but don't have detailed notes on yet. Pr
 - **Flynn** — at the castle; "impress him" is an open thread
 - **Stabio** — member of **[[Thomas]]**'s family; escorted us through the sewers into **[[Shankers|Shanker]]** territory (S57). See [[The Shanker Job]].
 
+## Everlund — The Northeast Forest
+
+Met during [[The Everlund Apparitions]] *(S67)*. See [[Aasimar Temple|the Aasimar Temple]].
+
+- **Wallace** — farmer northeast of [[Everlund]]. **We paid him to park the [[Ignitamis]] on his land.** Our staging ground for the ghost job.
+- **Georgie** — lumberjack; our eyewitness. His account: the apparitions started **a little over a week ago** and the crews **stopped working about a week ago**. They appear **in the afternoon**, at **a round, strange, unnatural hill full of foliage** in the forest. Description: **slim humanoids in strange robes, with decrepit feathery wings (some feathers missing), haunted sunken-eyed faces, sad** — and **spectral**.
+- **[[Altariar]]** — named as **"the last of the aasimar at this base."** *Promoted to his own file — see [[Altariar]].*
+
 ## Beliard / Eastern Sword Coast
 
 - **Alhaer Mhilshoun** — informant on the [[The Beliard Mystery|Beliard disappearances]]; well-disliked

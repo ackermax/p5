@@ -7,9 +7,9 @@
 > **Party:** [[The Phandalin Five]]
 > **Source of Truth:** This vault. **Source Notes:** [[Original Notes - Raw Archive (Through Session 55)]] (Gotrek's & Jaak's voices, preserved)
 
-## 📖 Previously, in Everlund — [[Session 66 - Gotrek - 2026-08-03|Session 66]] (2026-08-03)
+## 📖 Previously, in the Forest Northeast of Everlund — [[Session 67 - Var - 2026-08-10|Session 67]] (2026-08-10)
 
-We opened still boxed in at **[[Ulfgardian Mounds|One Stone]]** — mid-fight with the **[[Black Earth]]** and ringed by **Sky Pony [[Ulfgardian Mounds|Ulfgardians]]** we couldn't speak a word to — until [[Jaak Greye]] cast **Major Image** to *show* himself healing their leader; the Ulfgardians read it instantly and **turned on the Black Earth beside us** (we killed the woman, the man fled). Jaak cast *tongues*, and the tribesmen brought us to their chieftain **[[Arnzan Vashk]]**, whose sickness needed a **greater restoration** — so we flew him to **[[Everlund]]** on the [[Ignitamis]], never once mentioning that we wanted his relic. A **glowing wisp** met us there: a sending device from **[[Krowen Valharrow]]**, who summoned us to **[[Moongleam Tower]]** (where **[[Droop]]**, of all people, let us in) and asked us to find out what's raising **ghosts northeast of the city** — [[The Everlund Apparitions]] — in exchange for something "very valuable"; **he is a High Harper**, and wants Jaak and [[Estelle Moonglow Platinum]] alone once it's done. We paid **1,600 gp** to cure Vashk, feasted, flew him home, and only then asked — **he handed over the relic gladly**, and it turned out to be a **magic item that casts *divination* or *control weather* once every 7 days**. We're now flying back toward Everlund to hunt the ghosts.
+We set the [[Ignitamis]] down on farmland northeast of [[Everlund]] — paying a farmer named **[[Minor Contacts#Everlund — The Northeast Forest|Wallace]]** for the privilege — and walked to the lumberjack camps, where **[[Minor Contacts#Everlund — The Northeast Forest|Georgie]]** told us the apparitions started **a little over a week ago**, appear **in the afternoon**, and haunt **a round, unnatural, foliage-covered hill** in the woods: slim winged humanoids in strange robes, wings shedding feathers, sunken-eyed and sad. At the mound a **sneaky teleporting trickster** ambushed us and **stole one of [[Gotrek Runehammer|Gotrek]]'s weapons** — we killed it, took the weapon back, and took a **keystone** off it. Inside is a **temple or mausoleum** — we are calling it the [[Aasimar Temple]] — and the dead are **aasimar** (**[[Altariar]]**, we're told, was *"the last of the aasimar at this base"*); we found a **second keystone** searching the place, and when the spectrals rose in the main chamber to attack, **[[Jaak Greye]] used his own aasimar heritage and sheer charisma to make them stand down** — *for now at least*. Then a **burning portal or sun** opened up on us, throwing **motes of radiant light**; we killed it, and the **altar in the main chamber answered with a second wave of radiant energy**. The read: **whatever killed the aasimar is breaking down the defenses to come back**, and we need **the last two keystones** to stop it. See [[The Everlund Apparitions]] — this stopped being a haunting job the moment we walked in.
 
 ## 🔥 Active Threads
 
@@ -19,8 +19,11 @@ We opened still boxed in at **[[Ulfgardian Mounds|One Stone]]** — mid-fight wi
 - **[[Vonindod]]** — fire giants ARE rebuilding the colossus; **the rod we recovered points to it**. **S64: saw a fire-giant search party hunting pieces near Shining White** — slipped away unseen
 - **[[Harshnags Hunt]]** — alliance with Harshnag on the Ordening problem; meeting again in three months, after he visits [[Krowen Valharrow]]. **Gate cleared (S58):** [[Thomas]] alliance secured, so the held-back Harshnag conversation is unblocked.
 
-### 🏠 Now — Ghost-Hunting Out Of Everlund (S66)
-- **🎯 Next up — [[The Everlund Apparitions]]** *(new, S66)*: [[Krowen Valharrow]]'s job — **ghostly apparitions northeast of [[Everlund]]** after locals chopping wood **disturbed** something. He wants the **cause**, not just a cleanup. Reward: something **"very valuable"** (unspecified). **We're flying back there now.**
+### 🏠 Now — Inside the Mound, Northeast of Everlund (S67)
+- **🎯 We are here — [[The Everlund Apparitions]]**: the ghosts are the **aasimar dead** of a **temple or mausoleum** inside a round unnatural hill in the forest — the [[Aasimar Temple]] *(our working name; its real one is unknown)*. **Something killed them and is breaking back in.** **2 of 4 keystones in hand** — *get the other two.* Reward from [[Krowen Valharrow]] still unspecified ("very valuable").
+- **✨ [[Jaak Greye]]'s heritage stopped a fight** *(new, S67)* — the spectrals rose to attack in the main chamber and Jaak **talked them down using his aasimar heritage**, "for now at least." **He is the party's key to this place.** See [[Jaaks Celestial War]].
+- **🕯️ [[Altariar]]** *(new, S67)* — named as **"the last of the aasimar at this base."** Only name we have from the site. **"This base" implies there were others.**
+- **🔆 The altar is doing something** *(new, S67)* — after we killed the **burning portal/sun** that spawned motes of radiant light, the **altar in the main chamber let out a second wave of radiant energy**. Unexplained; treat as live.
 - **🎖️ [[Krowen Valharrow]] is a HIGH HARPER** *(new, S66)* — and **after the ghost job he wants [[Jaak Greye]] and [[Estelle Moonglow Platinum]] alone, "as a High Harper, not as an archmage."** Very likely the [[Moongleam Tower]] contact [[Sister Garaele]] promised in S63 (see [[Track the Red Mages]]).
 - **✅ [[Ulfgardian Mounds|One Stone]] cleared** *(S66)* — Jaak's **Major Image** of himself healing their leader flipped the standoff; the **Sky Ponies fought the [[Black Earth]] with us**, then took us to **[[Arnzan Vashk]]**. We cured him in Everlund (**1,600 gp**) and he **gave us the relic freely**
 - **🗿 The One Stone relic** *(new, S66)*: casts ***divination* or *control weather*, once every 7 days**. Decide: **keep it, or sacrifice it to the oracles?**
@@ -67,7 +70,7 @@ We opened still boxed in at **[[Ulfgardian Mounds|One Stone]]** — mid-fight wi
 - **[[The Circle]]** — inner ranks of the Cult; commissioned Enhanced Torpor from Skeemo (target unknown — possibly [[Ilin Cotton]])
 
 ### Investigations
-- **[[The Everlund Apparitions]]** *(new, S66)* — [[Krowen Valharrow]]'s ghost job northeast of [[Everlund]]; **the party's current objective**
+- **[[The Everlund Apparitions]]** *(S66–67)* — **the party's current objective; we are inside the site.** Aasimar dead, an aasimar temple, and a keystone race against whatever killed them
 - **[[The Beliard Mystery]]** — face-eaters operating in Beliard
 - **[[The Exquisites Investigation]]** — circus dismantled, [[Barnaby Baxter]] freed; broader operation continues
 - **[[The Cursed Seeds]]** — Lamin and the black-dove wagon
@@ -102,6 +105,9 @@ We opened still boxed in at **[[Ulfgardian Mounds|One Stone]]** — mid-fight wi
 - **Who recently kidnapped [[Jaak Greye]]?** — they want godhood through his blood
 - **[[The Beliard Mystery|Who runs the face-eaters?]]** — the unsigned note's recipient
 - **Who pulls [[Rulf Cloudfang|Rulf]]'s strings?** — S57: Rulf told Malkyn he "had no choice"; **Rulf may be a puppet** of someone higher in the cult
+- **⭐ What killed the aasimar?** *(S67)* — an entire aasimar site is **dead**, and the thing that did it is **breaking down the defenses to come back**. We know nothing about it except that **keystones hold it out**. This is the biggest unknown on the board right now.
+- **Who were the aasimar at the mound?** *(S67)* — a temple or mausoleum, **"this base"** (so there were others), and **[[Altariar]]**, the last of them. What were they garrisoning, and against whom? **[[Jaak Greye]]'s heritage commands them** — see [[Jaaks Celestial War]]. Does any of this touch Jaak's memories of the **celestial war**?
+- **What is the altar?** *(S67)* — it discharged **radiant energy** on its own after the burning portal died.
 - **What is [[Ituvalak]]?** *(S66)* — [[Arnzan Vashk]] told us about it, describing "**children of the forest**." A people, a place, or something else? It surfaced in the same session as a **forest ghost problem** — possibly related, possibly not.
 - **Who are the [[Black Earth]]?** *(S65–66)* — they claimed the One Stone relic **was theirs**, and the Sky Ponies fought them alongside us, so they're not a mound tribe. [[Jaak Greye|Jaak]] calls them **cultists**. **One escaped** — who does he report to?
 - **What is the One Stone relic, exactly?** *(S66)* — we wrote down what it **does** (*divination* / *control weather*, once per 7 days) but never its **name or what it looks like**.
@@ -163,6 +169,7 @@ We opened still boxed in at **[[Ulfgardian Mounds|One Stone]]** — mid-fight wi
 - [[Ilin Cotton]] — Harper investigating Cult of Cyric; missing in Waterdeep
 
 ### Quest-Related NPCs
+- [[Altariar]] — *(S67)* named as **"the last of the aasimar at this base"** at [[Aasimar Temple|the Aasimar Temple]]; stub
 - [[Hekaton]] — missing storm giant king
 - [[Hamun Kost]] — red mage at Old Owl Well (we have Dresina's journal)
 - [[Raidoth]] — Thundertree druid
@@ -226,6 +233,7 @@ We opened still boxed in at **[[Ulfgardian Mounds|One Stone]]** — mid-fight wi
 - [[Yartar]] — Harper stronghold; [[Ilin Cotton]]'s current destination on a [[Cult of Cyric|Cult of C]] lead
 - [[Everlund]] — Silver Marches city; **visited S66**. [[Gundren Rockseeker]] has been pushing us here
 - [[Moongleam Tower]] — [[Harpers|Harper]] stronghold just outside Everlund; [[Krowen Valharrow]]'s seat
+- [[Aasimar Temple]] *(S67)* — the mound temple/mausoleum northeast of Everlund; **where we are right now**. *Working name — its true name is unknown*
 - [[Other Locations]] — Daggerford, Nightstone, Beliard, Triboar, Womford, Red Larch, Silverymoon, Kryptgarden Forest, Iriaebor, Candlekeep, Neverwinter, Conyberry, Wyvern Tor, Ardeep, Ostoria, Moonshay Isles, Elturel, the Maelstrom...
 
 ## 📚 Lore & Reference
@@ -271,6 +279,7 @@ We opened still boxed in at **[[Ulfgardian Mounds|One Stone]]** — mid-fight wi
 
 ## 📜 Sessions
 
+- [[Session 67 - Var - 2026-08-10|Session 67 - Var]] / [[Session 67 - Jaak - 2026-08-10|Jaak]] — parked the [[Ignitamis]] on **[[Minor Contacts#Everlund — The Northeast Forest|Wallace]]**'s farm and worked the lumberjack camps (**[[Minor Contacts#Everlund — The Northeast Forest|Georgie]]**'s account: winged, sad, spectral, afternoons, at a **round unnatural hill**); at [[Aasimar Temple|the mound]] a **teleporting trickster** stole a weapon off [[Gotrek Runehammer|Gotrek]] — killed it, took the weapon and **keystone #1**; inside is a **temple or mausoleum** whose dead are **aasimar** (**[[Altariar]]**, "last of the aasimar at this base"), **keystone #2** found searching; **[[Jaak Greye]] talked the spectrals down with his aasimar heritage**; killed a **burning portal** that spawned radiant motes, after which the **altar discharged radiant energy** — **whatever killed the aasimar is breaking back in, and we need the last two keystones**
 - [[Session 66 - Gotrek - 2026-08-03|Session 66 - Gotrek]] / [[Session 66 - Jaak - 2026-08-03|Jaak]] — the One Stone standoff broken by [[Jaak Greye]]'s **Major Image** of himself healing the Sky Pony leader; the **[[Ulfgardian Mounds|Ulfgardians]] joined us against the [[Black Earth]]** (one killed, one escaped), then took us to chieftain **[[Arnzan Vashk]]**; flew him to **[[Everlund]]**, wisp-summoned to **[[Moongleam Tower]]** by **[[Krowen Valharrow]]** (**a High Harper**), who hired us for the **[[The Everlund Apparitions|ghosts northeast of the city]]** and wants [[Jaak Greye|Jaak]] & [[Estelle Moonglow Platinum|Estelle]] afterward; **paid 1,600 gp** to cure Vashk, who then **gave us the One Stone relic freely** — *divination* or *control weather*, once per 7 days
 - [[Session 65 - Var - 2026-07-27|Session 65 - Var]] / [[Session 65 - Jaak - 2026-07-27|Jaak]] — freed a **giant elder Plesiosaurus** ("Nessy") from a needle in its mouth (a **tattooing needle with *dominate beast***, given to [[Sir Joseph Gordon Die Hard]]); reached **[[Ulfgardian Mounds|One Stone]]** — an apparent **Ulfgardian graveyard** (island in a river off a lake); at the graveyard, **two [[Black Earth]] tribesmen** attacked claiming the relic, then **Sky Pony Ulfgardians** arrived and squared up too — **three-way standoff** cliffhanger
 - [[Session 64 - Var - 2026-07-20|Session 64 - Var]] / [[Session 64 - Jaak - 2026-07-20|Jaak]] / [[Session 64 - Gotrek - 2026-07-20|Gotrek]] — left [[Phandalin]] for the [[Ulfgardian Mounds]]: [[Estelle Moonglow Platinum]] wisp-led to a **kraken-symbol structure** ([[Minor Contacts#Order of the Kraken|Order of the Kraken]]?) and stole chest loot (platinum, Potion of Invisibility, 5%-any-door key); **Shining White relic — a mask — recovered in two halves** (griffin attack between); **fire giants spotted hunting [[Vonindod]] pieces** (avoided); en route to **One Stone**, **attacked by a creature** at a river mouth (cliffhanger)

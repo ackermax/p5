@@ -65,6 +65,8 @@ The standing weekly task:
 > When something is worth remembering for future sessions — a recurring rule, a durable piece of campaign canon, or a standing preference — record it **here** so it auto-loads with this file. (Standing preference from the user: anything memory-worthy goes in CLAUDE.md.)
 
 - **Lord's Alliance ranks:** "**Stingblade**" is the **3rd** Lord's Alliance rank. (Gotrek Runehammer and Sir Joseph Gordon Die Hard were promoted to it by Commander Hawkwinter, Session 62.)
+- **"Aasimar" is the correct spelling** — it's Jaak Greye's race. Session notes render it several ways ("Aesir" in Var's, "Asimaar" in Jaak's); **the vault standardizes on *aasimar*** in its own voice, while leaving each player's session file in their own words. Applies retroactively to anything logged as "Aesir."
+- **Working names for unnamed places** are allowed when the party has no true name yet — file them under the working name with an explicit callout that it's provisional, and rename when the real name surfaces. Current example: the **Aasimar Temple** (S67, northeast of Everlund).
 
 ## Folder structure
 

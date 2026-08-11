@@ -88,6 +88,9 @@ Shorter location notes. Promote any of these to their own file when content grow
 ### Everlund
 - **→ Promoted to its own note: [[Everlund]]** *(visited S66)*. See also [[Moongleam Tower]].
 
+### The Aasimar Temple (working name)
+- **→ Promoted to its own note: [[Aasimar Temple]]** *(entered S67)*. The mound in the forest **northeast of [[Everlund]]**; site of [[The Everlund Apparitions]]. **Its true name is unknown.**
+
 ### Kryptgarden Forest
 - See [[The Death Knight Ritual]] — the necromancer's lair was here
 - [[Interitus]] resides here

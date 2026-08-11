@@ -40,6 +40,7 @@ This is no longer just "Jaak's backstory mystery." Someone is **actively trying 
 - **[[Ilin Cotton]]'s secret** — Ilin knew something Jaak "needed to know immediately." Almost certainly related to this.
 - **The kidnapper's identity** — what do we know? Did we see them?
 - **Aasimar lore** — other Aasimar, especially ancient ones, may know what Jaak's blood actually is
+- **⭐ [[The Everlund Apparitions]]** *(new, S67)* — **a mound full of dead aasimar**, an aasimar temple or mausoleum with an active altar, and **[[Altariar]]**, *"the last of the aasimar at this base."* **Jaak's heritage made the spectrals stand down without a fight.** This is the **first concrete aasimar lead of the campaign** — whatever killed them is still trying to get back in, and Jaak is the one they answer to. Ask the site who they were and what war they were fighting.
 - **Planar travel / Mount Celestia / the Outer Planes** — Jaak's origin
 - **[[Milil]]** — "played us a song, seemed like a God"; Jaak claims he might be his dad (Jaak claims this about a lot of people)
 - **[[The Black Sun Watchers]]** — the "we are watching" thread; angels-and-demons-watching is *literally* the imagery

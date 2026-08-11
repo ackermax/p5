@@ -17,6 +17,7 @@ first-met: Session 66
 
 - **Holds [[Moongleam Tower]]** outside [[Everlund]] — the Harper stronghold [[Sister Garaele]] pointed us to back in S63.
 - **Hired us for [[The Everlund Apparitions]]** *(S66)* — ghostly apparitions **northeast of Everlund**, after locals chopping wood disturbed something. He wants the **cause** found, not just the ghosts cleared. Reward: something **"very valuable,"** unspecified.
+  - **S67:** we found it — the [[Aasimar Temple]] — a temple or mausoleum in a forest mound, full of **dead aasimar**, with something that killed them **breaking back in**. **Worth asking whether he already knew what was out there**, given how fast he put the job in front of us.
 - **Wants a private audience with [[Jaak Greye]] and [[Estelle Moonglow Platinum]] after the job** — explicitly **"as a High Harper, not as an archmage."**
 - **Warning [[Zephyros]]** that the **[[Doom of the Desert]]** has stirred and may target him. Urged Zephyros to move his tower and conceal his course.
 - **Was expecting [[Harshnag]]** — Harshnag went to visit him. *(Harshnag did not come up during our S66 visit.)*

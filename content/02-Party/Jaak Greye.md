@@ -74,6 +74,12 @@ Three years later, returned with the troupe. Estelle had learned the full truth 
 - Probably the [[Moongleam Tower]] contact [[Sister Garaele]] promised in S63 — see [[Track the Red Mages]] — but he never mentioned the Red Mages.
 - **This is the closest either Harper-pinned PC has come to a formal Harper conversation.** See [[Harpers]].
 
+### The Aasimar At The Mound *(new, S67)*
+- The apparitions northeast of [[Everlund]] are **aasimar** — see [[The Everlund Apparitions]] and [[Aasimar Temple|the Aasimar Temple]].
+- **Jaak's heritage worked on them.** When the spectrals appeared in the main chamber to attack, Jaak used **his aasimar heritage plus charisma** to make them disperse without a fight — **"for now at least."**
+- **[[Altariar]]** is named as *"the last of the aasimar at this base."*
+- This is the **first time Jaak's celestial blood has done anything in the world that we can point to** — and the first other aasimar the campaign has put in front of him. Feed it into [[Jaaks Celestial War]].
+
 ### The Kidnapping
 > **Jaak was stolen by someone who wants ascension and wants Jaak's blood. Angel blood. Celestia.**
 

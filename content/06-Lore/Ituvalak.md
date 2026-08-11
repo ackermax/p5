@@ -19,5 +19,5 @@ That is the entire note. Whether Ituvalak is **a people, a place, a spirit, or a
 
 - **What is it?** People, place, or something else? *(Filed as a faction on a hunch.)*
 - **Why did Vashk bring it up?** Was it advice, a warning, or an offer?
-- **Does it connect to [[The Everlund Apparitions]]?** Ghosts appeared after locals **chopping wood** disturbed something — a forest-adjacent problem raised in the same session. *(Purely a coincidence of timing so far — nothing links them.)*
+- **Does it connect to [[The Everlund Apparitions]]?** Ghosts appeared after locals **chopping wood** disturbed something — a forest-adjacent problem raised in the same session. **S67 update:** we went into the forest and found the site — an **aasimar** temple/mausoleum in a mound. **Nothing there was called Ituvalak and no one mentioned "children of the forest."** Still just a timing coincidence.
 - Is it Ulfgardian, or something the Ulfgardians merely know of?
