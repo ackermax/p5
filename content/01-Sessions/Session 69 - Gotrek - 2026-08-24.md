@@ -1,13 +1,13 @@
 ---
 tags:
   - session
-date: 2026-06-29
-session-number: 62 - Gotrek
+date: 2026-08-24
+session-number: 69 - Gotrek
 ---
 
-# Session 62 - Gotrek — 2026-06-29
+# Session 69 - Gotrek — 2026-08-24
 
-> **In-game date:** 
+> **In-game date:**
 > **Location:** [[]]
 
 ## Recap (One Paragraph)
@@ -16,12 +16,12 @@ session-number: 62 - Gotrek
 
 ## Key Events
 
-- 
-- 
+-
+-
 
 ## NPCs Met
 
-- [[]] — 
+- [[]] —
 
 ## Places Visited
 
@@ -29,18 +29,18 @@ session-number: 62 - Gotrek
 
 ## Loot & Rewards
 
-- 
+-
 
 ## Open Threads
 
 *What got set up but not resolved? What did the DM linger on?*
 
-- 
+-
 
 ## Questions / Theories
 
-- 
+-
 
 ## Quotes & Memorable Moments
 
-- 
+-

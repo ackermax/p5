@@ -31,9 +31,12 @@ A city in the Silver Marches, and a **[[Harpers|Harper]] centre of gravity** —
 
 - **S67 — the forest northeast of the city.** Landed the [[Ignitamis]] on **[[Minor Contacts#Everlund — The Northeast Forest|Wallace]]**'s farmland, interviewed the lumberjacks, and found **[[Aasimar Temple|the mound]]** — an **aasimar temple or mausoleum** whose dead are **aasimar**. See [[The Everlund Apparitions]]. *(We did not re-enter the city itself.)*
 
+- **S68 — the job done, and heading back to the city.** Cleared [[Aasimar Temple|the mound]]: all four keystones, the portal opened, and **[[The Angel]] destroyed.** **[[Althariel]]'s spirit** gave [[Jaak Greye|Jaak]] answers and the **Sword of Heavens**. We told the logging camp the ghosts were busted, took a **long rest at the [[Ignitamis]]**, and **set out for Everlund** — **to report to [[Krowen Valharrow]] and collect.** *(City not yet re-entered.)*
+
 ## Hooks & Rumors
 
-- **[[The Everlund Apparitions]]** — Valharrow's job, northeast of the city. **Active; we are inside the site with 2 of 4 keystones.**
+- **[[The Everlund Apparitions]]** — Valharrow's job, northeast of the city. **Site cleared (S68); we owe him the report and he owes us the reward.**
+- **The High Harper audience** — once we report in, Valharrow wants **[[Jaak Greye]] and [[Estelle Moonglow Platinum]] alone, "as a High Harper."** **This is the next thing that happens in Everlund.**
 - **[[Track the Red Mages]]** — [[Sister Garaele]] sent [[Jaak Greye]] and [[Estelle Moonglow Platinum]] to Moongleam Tower to meet someone here (S63). Valharrow wants to speak with exactly those two **as a High Harper, after the ghost job** — likely the same meeting.
 - **[[Gundren Rockseeker]] has been pushing us to come to Everlund** for sessions — his reason is still unstated, and we did not chase it down while here.
 - **[[Harshnag]]** was reported to be traveling here to visit Valharrow ([[Harshnags Hunt]]) — he did not come up during the S66 visit.

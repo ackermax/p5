@@ -1,16 +1,14 @@
 ---
 tags:
   - session
-date: 2026-08-10
-session-number: 67 - Gotrek
+date: 2026-08-24
+session-number: 69 - Jaak
 ---
 
-# Session 67 - Gotrek — 2026-08-10
+# Session 69 - Jaak — 2026-08-24
 
-> **In-game date:** 
-> **Location:** [[Aasimar Temple]], northeast of [[Everlund]]
-
-> [!note] This file is still empty — see [[Session 67 - Var - 2026-08-10|Var's]] and [[Session 67 - Jaak - 2026-08-10|Jaak's]] notes for S67.
+> **In-game date:**
+> **Location:** [[]]
 
 ## Recap (One Paragraph)
 
@@ -18,12 +16,12 @@ session-number: 67 - Gotrek
 
 ## Key Events
 
-- 
-- 
+-
+-
 
 ## NPCs Met
 
-- [[]] — 
+- [[]] —
 
 ## Places Visited
 
@@ -31,18 +29,18 @@ session-number: 67 - Gotrek
 
 ## Loot & Rewards
 
-- 
+-
 
 ## Open Threads
 
 *What got set up but not resolved? What did the DM linger on?*
 
-- 
+-
 
 ## Questions / Theories
 
-- 
+-
 
 ## Quotes & Memorable Moments
 
-- 
+-

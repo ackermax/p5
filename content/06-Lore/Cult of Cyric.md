@@ -14,6 +14,15 @@ This is the cult Estelle and Jaak escaped from. Previously referred to in our no
 
 > [Cyric on the Forgotten Realms wiki](https://forgottenrealms.fandom.com/wiki/Cyric)
 
+### Who Cyric Is — [[Althariel]]'s account *(new, S68)*
+
+- **The most dangerous god.**
+- **He was a human who ascended to godhood** — which is **rare**.
+- **Lies and greed**; a **trickster**.
+- **His greatest sin: he killed [[Mystra]]** and almost destroyed the world — **all magic ceased to exist.**
+
+**Why it matters to us:** the cult serves a god who **climbed up from mortal**, and the cult **scouted young people with specific qualities** — including [[Jaak Greye|Jaak]], who we now know carries the **[[Blood of the Ancients|blood of the ancients]]**, *the blood that makes a body fit to hold a god.* See [[Cyric]].
+
 ## Operations We Know About
 
 ### The Monastery

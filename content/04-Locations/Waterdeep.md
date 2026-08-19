@@ -29,6 +29,7 @@ See [[Force Grey]].
 
 ## Key Places
 
+- **⭐ The Halls of Justice** *(new, S68)* — seat of the **[[Order of the Gauntlet]]**, which **[[Althariel]] says aasimar created.** **A group of aasimar here may be able to help [[Jaak Greye]]** with his heritage and the [[Blood of the Ancients|blood of the ancients]]. **We have not been.**
 - **Yawning Portal** — pub for adventurers; find [[Volo]] here; we met **[[Drizzt Do'Urden]]** here in session 56
 - **The Market** — Brian the Swordmaster (Tradesward)
 - **Steam and Steel** alley — smiths
@@ -58,6 +59,8 @@ See [[Force Grey]].
 ## Ongoing Threads
 
 ### Active In Waterdeep
+
+- ⬜ **🎯 Find the aasimar at the Halls of Justice** *(new, S68)* — [[Althariel]] sent [[Jaak Greye|Jaak]] there by name. The **clearest lead of [[Jaaks Celestial War]]**, and it makes the Waterdeep return trip worth booking on its own.
 - ⬜ **Investigate [[Skeemo Weirdbottle]]** — Harper assignment; recover evidence of his Zhentarim ties; **active**
 - ⬜ **Find [[Ilin Cotton]]** — start at [[Tavern Misty Beard]]; blonde, skinny, leg problems; was Harper investigating Cult of C
 - ⬜ **Investigate [[Cardon Malefic]]** — Harper-flagged; meeting with the Council of the Underworld in Waterdeep

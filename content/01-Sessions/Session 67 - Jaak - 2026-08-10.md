@@ -35,7 +35,7 @@ session-number: 67 - Jaak
 
 - [[Minor Contacts#Everlund — The Northeast Forest|Wallace]] — charged us to park the ship on his land
 - [[Minor Contacts#Everlund — The Northeast Forest|Georgie]] — lumberjack; our eyewitness account of the apparitions
-- [[Altariar]] — named as the **last of the aasimar at this base**
+- [[Althariel]] — named as the **last of the aasimar at this base**
 
 ## Places Visited
 

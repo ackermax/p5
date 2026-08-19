@@ -54,11 +54,12 @@ Quick-reference page for NPCs we've met but don't have detailed notes on yet. Pr
 
 ## Everlund — The Northeast Forest
 
-Met during [[The Everlund Apparitions]] *(S67)*. See [[Aasimar Temple|the Aasimar Temple]].
+Met during [[The Everlund Apparitions]] *(S67–S68)*. See [[Aasimar Temple|the Aasimar Temple]].
 
 - **Wallace** — farmer northeast of [[Everlund]]. **We paid him to park the [[Ignitamis]] on his land.** Our staging ground for the ghost job.
+- **The logging camp** — **we came back in S68 and told them the ghosts were busted. They thanked us.** Job closed on their end.
 - **Georgie** — lumberjack; our eyewitness. His account: the apparitions started **a little over a week ago** and the crews **stopped working about a week ago**. They appear **in the afternoon**, at **a round, strange, unnatural hill full of foliage** in the forest. Description: **slim humanoids in strange robes, with decrepit feathery wings (some feathers missing), haunted sunken-eyed faces, sad** — and **spectral**.
-- **[[Altariar]]** — named as **"the last of the aasimar at this base."** *Promoted to his own file — see [[Altariar]].*
+- **[[Althariel]]** — **the last of the aasimar at this base**; his spirit spoke to us in S68. *Promoted to his own file — see [[Althariel]].*
 
 ## Beliard / Eastern Sword Coast
 

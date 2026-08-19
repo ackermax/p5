@@ -50,7 +50,9 @@ The standing weekly task:
    - The heading takes the form `## 📖 Previously, in <location> — [[Session NN - <PC> - YYYY-MM-DD|Session NN]] (YYYY-MM-DD)`.
    - Always **replace** the previous recap rather than appending — only the latest session belongs there. Wiki-link the NPCs, places, factions, and quest threads referenced, and bias toward the facts the party would want to remember at the start of next session (live leads, cliffhangers, new items, new alliances). This step is **mandatory on every vault update**, not optional — do it without being asked.
 4. Format-check new files against the vault's existing conventions (frontmatter, headings, wiki-links)
-5. Surface a list of questions for anything ambiguous before finalizing
+5. **Delete any session file that is still empty.** The user pre-creates a file per PC before each session; the ones nobody wrote in are wasted space. If a session note’s **Key Events** section has no real content, **delete the file** — first re-point any inbound wiki-links (e.g. `Home.md`’s session list, PC notes) at a sibling file for that same session. Do this **without asking**.
+6. **Create the next session’s batch — one file per PC — if they don’t already exist.** Five files, from `99-Templates/Session Template.md`, named `Session NN - <PC> - YYYY-MM-DD.md`. **PC short names: `Var`, `Gotrek`, `Sir Joseph`, `Estelle`, `Jaak`.** Sessions run **weekly on Mondays**, so the date is the Monday after the session you just processed. Fill `session-number: NN - <PC>` and the `# Session NN - <PC> — YYYY-MM-DD` heading; leave the body as the empty template.
+7. Surface a list of questions for anything ambiguous before finalizing
 
 ## Formatting conventions
 
@@ -66,6 +68,8 @@ The standing weekly task:
 
 - **Lord's Alliance ranks:** "**Stingblade**" is the **3rd** Lord's Alliance rank. (Gotrek Runehammer and Sir Joseph Gordon Die Hard were promoted to it by Commander Hawkwinter, Session 62.)
 - **"Aasimar" is the correct spelling** — it's Jaak Greye's race. Session notes render it several ways ("Aesir" in Var's, "Asimaar" in Jaak's); **the vault standardizes on *aasimar*** in its own voice, while leaving each player's session file in their own words. Applies retroactively to anything logged as "Aesir."
+- **Player-spelling variants resolve to one file with aliases.** When two session files spell one name differently, pick **one** spelling for the filename and put the rest in the note's `aliases:` frontmatter, so old links and the players' own wiki-links all still resolve. **When the DM hasn't ruled, the most recent session's spelling wins** — update the filename and demote the older spelling to an alias. Current examples: **Althariel** *(S68 spelling; aliases Altariar, Altharial)* and **Mystra** *(alias: Mystral — Jaak's S68 spelling)*.
+- **Blood of the ancients** (S68, from Althariel): **Jaak Greye and Estelle Moonglow Platinum both carry it** — an inherited bloodline that makes a person **strong enough to be an avatar, a vessel of the gods**. Bhaal once tried to inhabit a person of ancient blood. Jaak's line is the **"Thier" blood** — **the vault follows Jaak's spelling**, still unconfirmed — out of **Celestia**. This is the frame for Jaak's kidnapping and, increasingly, Estelle's parentage.
 - **Working names for unnamed places** are allowed when the party has no true name yet — file them under the working name with an explicit callout that it's provisional, and rename when the real name surfaces. Current example: the **Aasimar Temple** (S67, northeast of Everlund).
 
 ## Folder structure

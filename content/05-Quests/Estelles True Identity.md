@@ -23,7 +23,19 @@ Discover who Estelle really is — her family, her mother's identity, and the **
 - The clerics hoarded the money instead of using it for her
 - Estelle's surname is **"Moonglow Platinum"** — possibly chosen, possibly real, distinctively un-common-sounding
 
+## ⭐ The Bloodline *(new, S68)*
+
+**[[Althariel]] told us Estelle carries the [[Blood of the Ancients|blood of the ancients]]** — the same as [[Jaak Greye]]. That blood makes a person **strong enough to be an avatar, a vessel of the gods**, and **[[Bhaal]] once tried to use a person of ancient blood as a vessel to inhabit.**
+
+**This is a parentage clue.** An ancient bloodline is **inherited** — so:
+- **Her mother carried it too**, which may be the whole reason she was **running** the night she arrived at the monastery.
+- The **[[Cult of Cyric]]** scouted young people with **"specific qualities"** (per [[Rulf Cloudfang]]) and **wanted [[Jaak Greye|Jaak]] specifically.** If the quality they were screening for is **ancient blood**, then Estelle **being raised in that monastery was not an accident** — and neither was the **anonymous money** keeping her there.
+- Whoever the **benefactor** is, they may have been **paying to keep her where the cult could find her** — or **paying to keep her hidden.** Both fit the facts.
+
 ## Open Questions
+
+- **Did the cult know what she was?** Was the monastery a nursery, not an orphanage?
+- **Did her mother know?** Was she hiding Estelle from the same people who later hunted Jaak?
 
 - Was the mother running from someone? Why a strange monastery, late at night?
 - Was the cult **involved** in her mother's situation, or did the mother just stumble in?
@@ -42,3 +54,4 @@ Discover who Estelle really is — her family, her mother's identity, and the **
 
 - This is tied to [[Cult of Cyric]] — the cult took the money meant for her
 - If the cult **knew** who her mother was and lied, this becomes a much darker quest
+- **[[Blood of the Ancients]]** *(S68)* — the bloodline she shares with [[Jaak Greye]]; ties this arc directly to [[Jaaks Celestial War]]

@@ -23,7 +23,7 @@ level: 8
 - **Speed:** 30 ft | **Initiative:** +1
 - **Proficiency Bonus:** +3
 - **Stats:** STR 10, DEX 13, CON 12, INT 8, WIS 14, CHA 15
-- **Equipped weapons:** **Fochlucan Bandore** (legendary bard instrument), 4× Dagger
+- **Equipped weapons:** **Fochlucan Bandore** (legendary bard instrument), **Sword of Heavens** *(new, S68)*, 4× Dagger
 - **Coin:** 25 gp
 
 ## Quick Roleplay Note
@@ -74,16 +74,22 @@ Three years later, returned with the troupe. Estelle had learned the full truth 
 - Probably the [[Moongleam Tower]] contact [[Sister Garaele]] promised in S63 — see [[Track the Red Mages]] — but he never mentioned the Red Mages.
 - **This is the closest either Harper-pinned PC has come to a formal Harper conversation.** See [[Harpers]].
 
-### The Aasimar At The Mound *(new, S67)*
-- The apparitions northeast of [[Everlund]] are **aasimar** — see [[The Everlund Apparitions]] and [[Aasimar Temple|the Aasimar Temple]].
-- **Jaak's heritage worked on them.** When the spectrals appeared in the main chamber to attack, Jaak used **his aasimar heritage plus charisma** to make them disperse without a fight — **"for now at least."**
-- **[[Altariar]]** is named as *"the last of the aasimar at this base."*
-- This is the **first time Jaak's celestial blood has done anything in the world that we can point to** — and the first other aasimar the campaign has put in front of him. Feed it into [[Jaaks Celestial War]].
+### ⭐ The Aasimar At The Mound — And What They Told Him *(S67–S68)*
+- The apparitions northeast of [[Everlund]] were **aasimar** — see [[The Everlund Apparitions]] and [[Aasimar Temple|the Aasimar Temple]].
+- **Jaak's heritage worked on them** *(S67)*: he made the spectrals disperse without a fight using **heritage plus charisma**.
+- **[[Althariel]]'s spirit gave him answers** *(S68)* — the first the campaign has ever handed him:
+  - Jaak is of the **"Thier" blood** *(spelling unconfirmed)* and **came from Celestia**
+  - He carries the **[[Blood of the Ancients|blood of the ancients]]** — **and so does [[Estelle Moonglow Platinum|Estelle]]**
+  - That blood makes a person **strong enough to be an avatar, a vessel of the gods**
+  - **[[Bhaal]] once tried to inhabit a person of ancient blood** as a vessel
+  - **🎯 Aasimar at the Halls of Justice in [[Waterdeep]] may be able to help him** — the **[[Order of the Gauntlet]] was created by aasimar**
+- **Althariel gave him the Sword of Heavens.**
+- Feed all of it into [[Jaaks Celestial War]].
 
 ### The Kidnapping
 > **Jaak was stolen by someone who wants ascension and wants Jaak's blood. Angel blood. Celestia.**
 
-This happened recently (per the Waterdeep arc). The kidnapper wants to **ascend** using **Aasimar blood / celestial blood from Mount Celestia**. This is now Jaak's biggest active mystery — who has come to claim him, and why now? See [[Jaaks Celestial War]].
+This happened recently (per the Waterdeep arc). The kidnapper wants to **ascend** using **Aasimar blood / celestial blood from Mount Celestia**. **S68 reframes this:** the ancient blood is what makes a body **fit to hold a god** — so the kidnapper may not want a reagent, **they may want Jaak himself as the vessel.** See [[Blood of the Ancients]] and [[Jaaks Celestial War]].
 
 ### Find Ilin Cotton
 - **[[Ilin Cotton]] is a [[Harpers|Harper]]** (confirmed session 56) — was investigating the [[Cult of Cyric]] before he was discovered. Lost contact since then.
@@ -107,6 +113,7 @@ This happened recently (per the Waterdeep arc). The kidnapper wants to **ascend*
 
 ## Equipment Highlights
 
+- **Sword of Heavens** *(new, S68)* — **given to Jaak by [[Althariel]]'s spirit** at [[Aasimar Temple|the Aasimar Temple]]. Properties not yet recorded — see [[Items and References]]
 - **Fochlucan Bandore** (equipped) — legendary bard instrument
 - **4× Dagger** (equipped)
 - **Leather Armor** (equipped)

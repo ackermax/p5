@@ -55,10 +55,11 @@ In her late teens she discovered that **money had been anonymously sent to the m
 
 ## Personal Arc Threads
 
+- **⭐ [[Blood of the Ancients|She carries the blood of the ancients]]** *(new, S68)* — **[[Althariel]] named her alongside [[Jaak Greye|Jaak]]**: their blood makes them **strong enough to be avatars, vessels of the gods**, and **[[Bhaal]] once tried to inhabit a person of ancient blood.** She was **raised inside a [[Cult of Cyric]] monastery** that **scouted young people with "specific qualities"** — **that may not have been a coincidence.** This lands squarely on [[Estelles True Identity]].
 - **The High Harper audience** *(new, S66)* — **[[Krowen Valharrow]]** wants to speak with Estelle and [[Jaak Greye]] alone, **"as a High Harper, not as an archmage,"** once [[The Everlund Apparitions]] is done. Likely the [[Moongleam Tower]] meeting [[Sister Garaele]] set up (see [[Track the Red Mages]]).
 - **[[Estelles True Identity]]** — mother, anonymous benefactor, the name "Moonglow Platinum"
 - **[[Reckoning With The Cult Of Cyric]]** — now confirmed as Cyric worship; same cult as elsewhere on the Sword Coast
-- **Affinity with the dead** — mechanical hook for ghost/death-related arcs. **Directly relevant to [[The Everlund Apparitions]]** — **and we're in it now** *(S67)*: the [[Aasimar Temple]], a mound of **dead aasimar** where [[Jaak Greye|Jaak]]'s heritage is what's holding the spectrals off. **Estelle was the one who approached the mound.**
+- **Affinity with the dead** — mechanical hook for ghost/death-related arcs. **Paid off in [[The Everlund Apparitions]]** *(S67–S68)*: the [[Aasimar Temple]], a mound of **dead aasimar**. **Estelle was the one who approached the mound** — and the site's dead ended up telling her who *she* is.
 
 ## Important Connections
 

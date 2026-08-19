@@ -9,6 +9,7 @@ tags: [lore, items, index]
 ## Items In Our Possession
 
 ### Held By [[Jaak Greye]]
+- **Sword of Heavens** *(new, S68)* — **given to Jaak by the spirit of [[Althariel]]** in [[The Angel|the Angel's]] prison beneath [[Aasimar Temple|the Aasimar Temple]], after we destroyed the thing that killed the aasimar there. **Properties not yet recorded — get the stat block.** An aasimar relic handed to the one aasimar in the party who carries the [[Blood of the Ancients|blood of the ancients]]; assume it matters.
 - **Fochlucan Bandore** — legendary bardic instrument
 - **Harp pin** — [[Harpers]] symbol
 - **Immovable Rod** *(Brawl reward, S61)* — uncommon; floats fixed in place (holds 8,000 lb; DC 30 STR to shove 10 ft)
@@ -61,6 +62,10 @@ tags: [lore, items, index]
 - **The fortune readings from [[Andressa]]** — write down what she actually said
 - **[[King]]** — golden retriever. The Order of the Kraken sold him to the [[Waterdeep]] gambling den; we tracked him there via [[The Waterdeep Wazoo Issue 496|the Wazoo]]'s "FOUND!" ad and **rescued him**. Status: with the party. Very good boy.
 
+## Spent / Inert
+
+- **The four keystones** *(S67–S68)* — opened the altar portal at [[Aasimar Temple|the Aasimar Temple]]. **We kept them, but they are spent and cannot be used again** — whatever they’re **worth as goods** is all that’s left. **Get them appraised.**
+
 ## Items Lost / Sought
 
 - **[[Jaak Greye]]'s Spider Staff** — *held by [[Lady Morwen Daggerford]]*. **Active recovery.**
@@ -108,10 +113,11 @@ tags: [lore, items, index]
 - **[[Skoraeus Stonebones]]** — stone giant patron; demigod, **son of Amand**; not on this plane; those who represent him are called **Danes**
 - **Chauntea (Chauntea)** — Mother of Earth, agriculture; [[Goldenfields]] aligned
 - **Lady Tymora** — luck; Shrine of Luck in [[Phandalin]]
-- **Cyric** — god of murder, tyranny, lies; see [[Cult of Cyric]]
+- **[[Cyric]]** — god of murder, tyranny, lies; **a human who ascended to godhood**, and **killed [[Mystra]]** — all magic ceased to exist *(per [[Althariel]], S68)*. See [[Cult of Cyric]]
+- **[[Mystra]]** — goddess of magic; **killed by [[Cyric]]** *(per [[Althariel]], S68)*. Magic obviously works now — unexplained
 - **Asmodeus** — supreme master of the Nine Hells; symbol seen in connection with the [[Other Locations|Nightstone]] attack
 - **Bahamut** — Platinum Dragon, regarded as lawful good (we ran into a *fake* cult of him in [[Kryptgarden Forest]] that was actually evil)
-- **Bhaal** — god of murder, mostly killed; [[Jaheira]] defeated his cult in Baldur's Gate
+- **[[Bhaal]]** — god of murder, mostly killed; [[Jaheira]] defeated his cult in Baldur's Gate. **Tried to use a person of ancient blood as a vessel to inhabit** *(per [[Althariel]], S68)* — see [[Blood of the Ancients]]
 - **Tiamat** — currently *active again* per [[Cult of the Dragon]]
 - **Milil** — god of song/bards; "played us a song, seemed like a God"; [[Jaak Greye]] claims he might be his dad (Jaak claims this about a lot of people)
 

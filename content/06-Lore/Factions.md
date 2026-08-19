@@ -17,8 +17,8 @@ Elite [[Waterdeep]] adventuring company. [[Harshnag]], [[Thomas]], [[Lady Morwen
 ### [[Harpers]]
 Secretive anti-tyranny organization. **[[Estelle Moonglow Platinum]] and [[Jaak Greye]] carry Harper pins.** [[Sister Garaele]] is openly a member; [[Krowen Valharrow]] likely allied; [[Laeral Silverhand]] reportedly connected.
 
-### [[Other Locations|Order of the Gauntlet]]
-Phandalin presence via **Daran Edermath**. Per the new notes: **"too straightforward in their approach"** — implied criticism, presumably from a Harper or Force Grey perspective. Investigating **undead activity**.
+### [[Order of the Gauntlet]]
+**Created by aasimar** *(per [[Althariel]], S68)* — and **a group of aasimar sits at the Halls of Justice in [[Waterdeep]] who may be able to help [[Jaak Greye]]**. Ran the [[The Waterdeep Ultimate Brawl|Waterdeep Ultimate Brawl]]. Phandalin presence via **Daran Edermath**, investigating **undead activity**. Per the old notes: **"too straightforward in their approach"** — implied criticism, presumably from a Harper or Force Grey perspective. **Now an active lead — see [[Jaaks Celestial War]] and [[Blood of the Ancients]].**
 
 ### Order of the Gilded Eye
 **Broke away from the Order of the Gauntlet.** Symbol: glove with an eye. Based in [[Helm's Hold]]. Commander **[[Other Locations|Javen Tarmikos]]**. **Killed the Order of the Burning Dawn**, currently **hunting the [[Cult of the Dragon]]**. [[Sister Garaele]] vouches: "answer truthfully."
@@ -85,7 +85,7 @@ Personal to [[Var Borgal]]. Magic-purge politics. **Cardon carries an anti-magic
 **Not the real Bahamut faction** — evil actors using the Platinum Dragon's symbol. Operate in [[Kryptgarden Forest]]. They talk about going to **Leeland** for the "dragon of justice." Watch for this iconography elsewhere — it's specifically *deceptive*.
 
 ### The Cult Of Bhaal
-Defeated in Baldur's Gate by [[Jaheira]] and Harpers. Status: dormant.
+Defeated in Baldur's Gate by [[Jaheira]] and Harpers. Status: dormant — **but [[Bhaal]] himself "tried to use blood of an ancient person to inhabit as a vessel"** *(per [[Althariel]], S68)*, which is the same method now circling [[Jaak Greye|Jaak]] and [[Estelle Moonglow Platinum|Estelle]]. See [[Blood of the Ancients]].
 
 ### [[Black Earth]]
 **Stub (S65–66).** Rival relic-hunters met at **[[Ulfgardian Mounds|One Stone]]** — attacked the party claiming the relic was theirs. **S66: the Sky Pony Ulfgardians fought them alongside us** (so they're no mound tribe); **one killed, one escaped.** [[Jaak Greye|Jaak]] calls them **cultists**. See [[Black Earth]].
