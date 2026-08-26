@@ -18,6 +18,10 @@ Per [[Malkyn Serpentwind]] at the [[Tavern Misty Beard]] (S57), **[[Ilin Cotton]
 
 **So Yartar in the next few days holds, at once:** Ilin, the Cult of C's "big" play, and Var's hunter Cardon meeting that cult. Walking in means walking into all three.
 
+## Getting There *(S69)*
+
+**Yartar is a node on the [[Harpers|Harper teleportation-circle network]]** that [[Krowen Valharrow]] opened to us. **500 gp of diamond dust puts six of us in the city**, with the attendant present. The distance excuse for not going to Yartar is gone — the only remaining question is whether we *want* to walk into the convergence above.
+
 ## Factions & Powers
 
 - **[[Harpers]]** — Yartar is a Harper stronghold. Plausible point of contact for catching up with Ilin via a local cell.

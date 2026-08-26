@@ -12,6 +12,7 @@ Shorter location notes. Promote any of these to their own file when content grow
 - [[Harrick Stonequill]] went here recently
 - [[Rulf Cloudfang]] was last located here; came back in a bad mood
 - **Eladrin** live near here
+- **🚫 Closed off** *(S69)* — **not connected** to the [[Harpers|Harper teleportation-circle network]], **because of Neverember** *(confirmed; Jaak's notes spell it "Never-ember")*. Whatever is happening there, the Harpers can't route into it, and **[[Find Rulf Cloudfang|Rulf's last known city]] is the one city we can't reach quickly.**
 
 ### Leilon
 - **Rolph** the farmer; we gave him water on the road
@@ -40,6 +41,7 @@ Shorter location notes. Promote any of these to their own file when content grow
 
 ### Baldur's Gate
 - [[Jaheira]] (Harper hero) is based here; defeated the Cult of Bhaal here
+- **Not connected** to the [[Harpers|Harper teleportation-circle network]] *(S69)* — no reason given, unlike [[#Neverwinter|Neverwinter]]
 - *(The Wazoo's "skyship wreckage east of Baldur's Gate" is a [BG3 Nautiloid reference](https://baldursgate.fandom.com/) — DM easter egg, not a real lead.)*
 
 ### Red Larch
@@ -74,6 +76,10 @@ Shorter location notes. Promote any of these to their own file when content grow
 - **Fire Giant attack repelled** — the party helped defend Triboar from a Fire Giant assault. **Many lives were lost in the battle.** Per the [[The Waterdeep Wazoo Issue 496|Wazoo]]. *(Confirmed by DM, 2026-05-29.)*
 - **The adamantine ring** was collected from the **Fire Giants here** during that engagement — see [[Items and References]] and [[Vonindod]]
 - Notable **Triboar** harper presence ([[Waterdeep]] connection)
+
+### Mirabar
+- **Connected to the [[Harpers|Harper teleportation-circle network]]** *(S69)* — one of the destinations [[Krowen Valharrow]] opened to us
+- Never visited; nothing else known
 
 ### Silverymoon
 - **[[Krowen Valharrow]]** is Archmage here / **Watcher of the Silver Marches**

@@ -27,7 +27,20 @@ giver: Sister Garaele
 
 ### S66 — We reached the tower
 
-We arrived at [[Moongleam Tower]] and met **[[Krowen Valharrow]]**, confirmed a **High Harper**. **The Red Mages were never discussed.** Instead he gave us [[The Everlund Apparitions]] and said that **afterward** he wants to speak with **[[Jaak Greye]] and [[Estelle Moonglow Platinum]] as a High Harper.** Since that's the same pair [[Sister Garaele]] sent, **Valharrow is very likely the contact she meant** — but he did not say so, and this trail stays open until that conversation happens.
+We arrived at [[Moongleam Tower]] and met **[[Krowen Valharrow]]**, confirmed a **High Harper**. **The Red Mages were never discussed.** Instead he gave us [[The Everlund Apparitions]] and said that **afterward** he wants to speak with **[[Jaak Greye]] and [[Estelle Moonglow Platinum]] as a High Harper.** Since that's the same pair [[Sister Garaele]] sent, we assumed **Valharrow was the contact she meant.**
+
+### ⚠️ S69 — That Assumption Did Not Hold
+
+**The audience happened, and it was a promotion.** Valharrow made Jaak and Estelle **[[Harpers|Bright Candles]]** and read them into the **[[Harpers|teleportation-circle network]]** — **and that was the whole audience.** He is not holding a further conversation.
+
+**Across two meetings, he has never once mentioned the Red Mages.**
+
+So the S66 read was wrong, and this trail is **still where [[Sister Garaele]] left it**. Two readings, and we can't tell them apart from here:
+
+1. **Garaele meant somebody else at [[Moongleam Tower]]** — the tower is a Harper stronghold with more than one Harper in it. **We never asked for anyone by name.**
+2. **The contact never materialised** — in which case the thing to do is **go back to Garaele in [[Phandalin]] and ask her who she actually meant.**
+
+> **Next concrete step:** ask by name. Either at the tower, or of Garaele. **[[Phandalin]] is about to be one teleport hop from everywhere** — going back to ask her is cheap now.
 
 ## Connections
 
@@ -37,5 +50,5 @@ We arrived at [[Moongleam Tower]] and met **[[Krowen Valharrow]]**, confirmed a 
 
 ## Open Threads
 
-- Who at **Moongleam Tower** wants to meet, and about what? — **likely [[Krowen Valharrow]] (S66)**, but the audience is deferred until [[The Everlund Apparitions]] is done, and he hasn't confirmed the Red Mages are the subject
+- **Who at [[Moongleam Tower]] actually wanted to meet, and about what?** — **not answered.** We assumed [[Krowen Valharrow]] (S66); **S69 ruled that out** — his audience was the Bright Candle promotion and nothing else, and the Red Mages have never come up with him. **Ask Garaele who she meant, or ask at the tower by name.**
 - Are the Red Mages working *with* the cult, *against* it, or on their own hunt for relics/people?

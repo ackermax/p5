@@ -40,6 +40,7 @@ See [[Force Grey]].
 - **Castle Tarm** — Hantanus Tarm's family estate
 - **Tribourgh** — Harper concentration
 - **Harpers Den** — entrance is on the **coastal side** of Waterdeep
+- **A [[Harpers|Harper teleportation circle]]** *(S69)* — Waterdeep is a node on the network [[Krowen Valharrow]] opened to us. **The Halls of Justice lead is now a 500 gp hop, not a journey.**
 - **[[Tavern Misty Beard]]** — [[Ilin Cotton]]'s last known location (active investigation)
 - **[[Corellon's Crown]]** — Harper-recommended potion shop; alternative to Weirdbottle's
 - **Weirdbottle Concoctions** — [[Skeemo Weirdbottle]]'s shop; suspected Zhentarim asset, confirmed Cult of Cyric supplier

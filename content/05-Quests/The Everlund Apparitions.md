@@ -1,17 +1,17 @@
 ---
-tags: [quest, quest/active, harpers]
-status: active
+tags: [quest, quest/complete, harpers]
+status: complete
 giver: Krowen Valharrow
 location: Northeast of Everlund
-reward: Something "very valuable" (unspecified)
+reward: Access to the Harper teleportation-circle network (S69)
 ---
 
 # The Everlund Apparitions
 
 > **Given by:** [[Krowen Valharrow]] at [[Moongleam Tower]]
-> **Status:** **Site cleared — reporting back.** The cause is dead; the reward is uncollected
-> **Reward:** something he says is **very valuable** — he would not say what
-> **First mentioned:** [[Session 66 - Gotrek - 2026-08-03|Session 66]] | **On site:** [[Session 67 - Var - 2026-08-10|S67]]–[[Session 68 - Var - 2026-08-17|S68]]
+> **Status:** ✅ **Complete (S69)** — cause found and killed, reported, and paid
+> **Reward:** **access to the [[Harpers|Harper]] teleportation-circle network** — including **a circle of our own in the [[Phandalin|bastion]]**
+> **First mentioned:** [[Session 66 - Gotrek - 2026-08-03|Session 66]] | **On site:** [[Session 67 - Var - 2026-08-10|S67]]–[[Session 68 - Var - 2026-08-17|S68]] | **Paid:** [[Session 69 - Gotrek - 2026-08-24|S69]]
 
 ## Objective
 
@@ -43,6 +43,20 @@ Investigate **ghostly apparitions northeast of [[Everlund]]** and **find out wha
 - Past the fight we reached **the place where it had been locked up**, and **[[Althariel]]'s spirit appeared** — the aasimar who **brought it here years ago**, and whom it **killed along with all his kin.** They are the ghosts.
 - He **thanked us**, **told us who [[Jaak Greye|Jaak]] and [[Estelle Moonglow Platinum|Estelle]] really are** (see [[Blood of the Ancients]]), **gave Jaak the [[Items and References|Sword of Heavens]]**, and **remade the portal** to send us home.
 
+### Paid *(S69)*
+
+We reported to [[Krowen Valharrow]] at [[Moongleam Tower]], and the **"very valuable" reward turned out to be access** — not an item.
+
+- **The [[Harpers|Harper]] teleportation-circle network**, including **a circle installed in our own [[Phandalin|bastion]]** *(it will take materials)*, with **[[Droop]] as our resident mage / circle attendant**
+- **Connected:** [[Everlund]], [[Waterdeep]], **[[Other Locations#Mirabar|Mirabar]]**, [[Yartar]], **our bastion**, "and others"
+- **Not connected:** **[[Other Locations#Neverwinter|Neverwinter]]** — closed off **because of Neverember** *(confirmed; Jaak writes it "Never-ember")* — and **[[Other Locations#Baldur's Gate|Baldur's Gate]]**
+- **Cost:** **500 gp in diamond dust** to move **6 people**, and **the attendant has to be present**
+- **Secret:** only **Bright Candles and High Harpers** know the network exists
+
+**And the held-back audience paid out too:** **[[Jaak Greye|Jaak]] and [[Estelle Moonglow Platinum|Estelle]] were promoted to [[Harpers|Bright Candle]]**, the second Harper rank — which is exactly what makes them cleared to know about the circles.
+
+Before leaving, the party **shopped with [[Clint]]**.
+
 ### Out *(S68)*
 
 - Back to the tomb, **short rest**, then out to the **logging camp to tell them the ghosts have been busted.** They thanked us.
@@ -65,16 +79,20 @@ Put next to the Angel's dying words about **"the Lord,"** the read is: **the Ang
 - [x] **Opened the altar portal and destroyed [[The Angel]]** (S68)
 - [x] **Determined what caused the apparitions** — *this is the "cause" Valharrow actually asked for*
 - [x] **Told the logging camp the site is clear** (S68)
-- [ ] **Report back to [[Krowen Valharrow]]** — **and collect the promised reward.** *We are en route.*
-- [ ] **Then:** the held-back audience — Valharrow wants [[Jaak Greye]] and [[Estelle Moonglow Platinum]] alone, **as a High Harper**
+- [x] **Reported back to [[Krowen Valharrow]] and collected** *(S69)* — the reward is **the teleportation-circle network**, plus a circle in our bastion
+- [x] **The held-back audience happened** *(S69)* — [[Jaak Greye]] and [[Estelle Moonglow Platinum]] were **made [[Harpers|Bright Candles]]**
+- [ ] **Gather the materials** for the bastion circle, and get [[Droop]] installed as its attendant
 
 ## Open Questions
 
 - **Who is "the Lord"?** And what else has it sent?
 - **Did [[Krowen Valharrow]] already know what was out here?** He put the job in front of us immediately, before we asked him for anything — and what was buried out there was **a cosmic prisoner**, not a ghost. **Ask him straight.**
-- **What is "very valuable"** enough to pay for this?
+- ~~**What is "very valuable"** enough to pay for this?~~ — **answered S69: the teleportation network.**
+- **The [[Track the Red Mages|Red Mages]] never came up — and the audience is over.** *(Confirmed: the promotion **was** the whole audience.)* So either [[Sister Garaele]] meant **a different contact** at [[Moongleam Tower]], or **her lead is still unfulfilled.** Worth going back and asking her.
 - **Where are Althariel's other bases**, and are they holding prisoners too?
 - **What was the burning portal/sun** we killed in S67? Never explained.
+
+> *Settled in S69: the reward is **the teleportation-circle network**; **Jaak and Estelle are Bright Candles**. Still unasked: **whether Valharrow knew what was buried out there.***
 
 > *Settled in S68: the apparitions are the **dead of the site**; **[[Althariel]]** is real, was **the last aasimar here**, and **spoke to us**; there were **four** keystones. Still unsettled: **how his name is spelled** (Althariel / Althariel), and the word **"Thier."***
 
@@ -89,4 +107,6 @@ Put next to the Angel's dying words about **"the Lord,"** the read is: **the Ang
 
 ## Resolution
 
-**The cause is destroyed and the haunting is over** *(S68)* — but the quest isn't closed until we've **reported to [[Krowen Valharrow]]** and **been paid.** Keep it active until then.
+✅ **Closed S69.** The cause was destroyed and the haunting ended in S68; in **S69 we reported to [[Krowen Valharrow]] and were paid** — **the [[Harpers|Harper]] teleportation-circle network**, a circle for our own bastion, and **Bright Candle rank for [[Jaak Greye|Jaak]] and [[Estelle Moonglow Platinum|Estelle]]**.
+
+**What it left behind is bigger than the job:** **"the Lord"** is still coming, [[Althariel]]'s **other bases** are unaccounted for, and **[[Blood of the Ancients|the bloodline reveal]]** reframes two PCs' arcs. Those live on their own pages now.

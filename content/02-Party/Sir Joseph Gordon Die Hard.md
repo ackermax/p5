@@ -46,6 +46,8 @@ Soldier background + Lord's Alliance affiliation + sworn hatred of orcs reads as
 
 ## Threads To Watch
 
+- **The Stone Stand grave robbery** *(S69)* — Joseph and [[Estelle Moonglow Platinum|Estelle]] were the **two-person team** sent into the Blue Bears' burial ground at [[Ulfgardian Mounds|Stone Stand]]: locate the relic by spell, dig, and **dimension door out of the burial ground entirely** so the pursuit would have nothing to follow. **The tribe's ghosts rose while they dug.** They got out with the relic — **a 100 lb giant's skull**. See [[Gather Ulfgardian Relics]].
+
 - ✅ **Wyvern Tor orcs handled** — 5 orcs + 1 troll cleared
 - **The warg attacks the party suffered** — notes mark these as "potentially related to the orcs." Joseph has a stake in figuring out who's behind them.
 - **[[Thogard]]'s [[Northern Beaches Frost Giants|Northern Beaches]] quest** — Lord's Alliance work, right in Sir Joseph's wheelhouse

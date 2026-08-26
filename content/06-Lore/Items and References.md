@@ -45,6 +45,7 @@ tags: [lore, items, index]
 - **Magic tattoo** *(singles-champion prize, S61)* — force a creature to **roll a 1**, once per long rest, **3 uses total**
 
 ### Party Resources
+- **The Stone Stand relic — a giant's skull** *(S69)* — **100 pounds.** Dug out of the Blue Bears' burial ground at [[Ulfgardian Mounds|Stone Stand]] under ghost attack, then dimension-doored out. **It is confirmed a *giant's* skull — which is what makes it a giant relic the oracles can take. Whose giant, and whether the skull does anything, is unknown.** *(Relic inventory lives on [[Gather Ulfgardian Relics]]; listed here because it is a 100 lb object somebody has to carry.)*
 - **The One Stone relic** *(S66)* — **casts *divination* or *control weather*, once every 7 days.** Given freely by **[[Arnzan Vashk]]**. *(Ulfgardian relic inventory lives on [[Gather Ulfgardian Relics]] — listed here only because it's a usable magic item.)*
 - **The [[Jade Frog]]** — carved jade figurine with gold/bronze eyes. Origin and purpose TBD. See [[Jade Frog]].
 - **Speaking stone** — say [[Hamun Kost]]'s name to contact him
@@ -120,6 +121,17 @@ tags: [lore, items, index]
 - **[[Bhaal]]** — god of murder, mostly killed; [[Jaheira]] defeated his cult in Baldur's Gate. **Tried to use a person of ancient blood as a vessel to inhabit** *(per [[Althariel]], S68)* — see [[Blood of the Ancients]]
 - **Tiamat** — currently *active again* per [[Cult of the Dragon]]
 - **Milil** — god of song/bards; "played us a song, seemed like a God"; [[Jaak Greye]] claims he might be his dad (Jaak claims this about a lot of people)
+
+## Travel — The Harper Teleportation Circles *(S69)*
+
+Granted by [[Krowen Valharrow]] as payment for [[The Everlund Apparitions]]. **Harper secret — Bright Candles and High Harpers only.** Full details on [[Harpers]].
+
+- **Cost:** **500 gp in diamond dust** per use, moving **6 people**
+- **Requirement:** **the attendant must be present** — ours will be **[[Droop]]**, at the [[Phandalin|bastion]] circle *(pending materials)*
+- **Connected:** [[Everlund]] · [[Waterdeep]] · [[Other Locations#Mirabar|Mirabar]] · [[Yartar]] · **our bastion** · "and others"
+- **Not connected:** [[Other Locations#Neverwinter|Neverwinter]] *(closed off because of **Neverember**)* · [[Other Locations#Baldur's Gate|Baldur's Gate]]
+
+> The overland speeds below still govern anywhere **off** the network — which currently includes **every [[Ulfgardian Mounds|mound]] we still need.** S69's trip to Stone Stand was **on foot.**
 
 ## Travel Speeds
 

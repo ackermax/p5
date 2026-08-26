@@ -19,14 +19,27 @@ first-met: Session 66
 - **Hired us for [[The Everlund Apparitions]]** *(S66)* — ghostly apparitions **northeast of Everlund**, after locals chopping wood disturbed something. He wants the **cause** found, not just the ghosts cleared. Reward: something **"very valuable,"** unspecified.
   - **S67:** we found it — the [[Aasimar Temple]] — a temple or mausoleum in a forest mound, full of **dead aasimar**, with something that killed them **breaking back in**. **Worth asking whether he already knew what was out there**, given how fast he put the job in front of us.
   - **S68 — answered.** The site was a **prison**; the four keystones were the key; the cause was **[[The Angel]]**, a caged thing from another dimension that killed **[[Althariel]]** and every aasimar there. **We destroyed it. We are on the road back to give him the answer and collect.**
-  - **🚩 Ask him straight:** what he sent us into was a **cosmic prisoner**, not a haunting — and the Angel promised **"the Lord"** would return. **Did he know?**
-- **Wants a private audience with [[Jaak Greye]] and [[Estelle Moonglow Platinum]] after the job** — explicitly **"as a High Harper, not as an archmage."**
+  - **🚩 Ask him straight:** what he sent us into was a **cosmic prisoner**, not a haunting — and the Angel promised **"the Lord"** would return. **Did he know?** *(S69: we reported and got paid — and still did not put this to him.)*
+- **✅ S69 — he paid.** The **"very valuable" reward is access, not treasure**: the [[Harpers|Harper]] **teleportation-circle network**, and **a circle of our own installed in the [[Phandalin|bastion]]** (it needs materials), with **[[Droop]] as our resident mage** to attend it. See **Teleportation Circles** below.
+- **✅ S69 — the audience happened**, and what it was for was a **promotion**: he made **[[Jaak Greye]] and [[Estelle Moonglow Platinum]] [[Harpers|Bright Candles]]**, the second Harper rank — which is also what clears them to know the circles exist.
+- **Wants a private audience with [[Jaak Greye]] and [[Estelle Moonglow Platinum]] after the job** — explicitly **"as a High Harper, not as an archmage."** *(Delivered S69 — see above.)*
 - **Warning [[Zephyros]]** that the **[[Doom of the Desert]]** has stirred and may target him. Urged Zephyros to move his tower and conceal his course.
 - **Was expecting [[Harshnag]]** — Harshnag went to visit him. *(Harshnag did not come up during our S66 visit.)*
 
 ## First Meeting (S66)
 
 As we flew into Everlund, a **glowing wisp** intercepted us — **a communication device of his**, not a creature — carrying his instruction to come to the tower. **[[Droop]]** — our old goblin friend, [[Vajra Safahr]]'s apprentice — admitted us and brought us to him. He made the ghost offer immediately, before we'd asked him for anything.
+
+## Teleportation Circles *(S69)*
+
+The reward for [[The Everlund Apparitions]]. He **introduced the party to the Harper circle network** and is putting one **in our bastion**.
+
+- **Connected:** [[Everlund]], [[Waterdeep]], **[[Other Locations#Mirabar|Mirabar]]**, [[Yartar]], **our bastion**, "and others"
+- **Not connected:** **[[Other Locations#Neverwinter|Neverwinter]]** — closed off **because of Neverember** *(confirmed — Jaak's notes render it "Never-ember")* — and **[[Other Locations#Baldur's Gate|Baldur's Gate]]**
+- **Cost:** **500 gp in diamond dust** per use, moving **6 people**, **with the attendant present**
+- **Who knows:** **Bright Candles and High Harpers only.** This is Harper-secret.
+
+> Practically, this ends the airship-travel era for anywhere on the list. It also means **[[Droop]] now has a job with us** — see his page.
 
 ## Why He Matters
 
@@ -38,6 +51,8 @@ As we flew into Everlund, a **glowing wisp** intercepted us — **a communicatio
 ## Open Questions
 
 - **Is he the person [[Sister Garaele]] meant** when she said someone at Moongleam Tower wanted to meet Jaak and Estelle (S63, [[Track the Red Mages]])? He wants to meet exactly those two — but he didn't say so outright, and the Red Mages never came up.
-- **What is the "very valuable" thing** he's holding as payment?
-- **What does he want to say to Jaak and Estelle as a High Harper** — and why does it have to wait until after the job?
-- **Why is [[Droop]] here** rather than at [[Blackstaff Academy]]? Did Valharrow take him on, or did [[Vajra Safahr]] send him?
+- ~~**What is the "very valuable" thing** he's holding as payment?~~ — **answered S69: the teleportation circles.**
+- ~~**What does he want to say to Jaak and Estelle as a High Harper?**~~ — **answered S69: he promoted them to Bright Candle, and that was the whole audience.** He is **not** sitting on a further conversation.
+- **So was he [[Sister Garaele]]'s contact or not?** *(S63)* She said someone at [[Moongleam Tower]] wanted to meet Jaak and Estelle. Valharrow met them, promoted them, and **never mentioned the [[Track the Red Mages|Red Mages]] once** — across two meetings. **Either she meant someone else in that tower, or her lead is still open.**
+- **Why is [[Droop]] here** rather than at [[Blackstaff Academy]]? Did Valharrow take him on, or did [[Vajra Safahr]] send him? **S69 makes this sharper — Valharrow just handed Droop to *us* as our circle attendant.** Whose call was that?
+- **What did he get out of this?** He paid for the ghost job in **Harper infrastructure and Harper rank**, not gold. That is how you equip an asset, not how you settle a contract.

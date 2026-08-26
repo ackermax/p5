@@ -26,8 +26,8 @@ session-number: 68 - Jaak
 
 ## NPCs Met
 
-- **[[Althariel]]** — the aasimar spirit; **he summoned the angel here** and answered our questions
-- **[[The Angel]]** *(defeated)* — the thing Althariel brought here
+- **[[Altariar]]** — the aasimar spirit *(Jaak's notes write him "Althariel")*; **he summoned the angel here** and answered our questions
+- **[[The Angel]]** *(defeated)* — the thing Altariar brought here
 
 ## Places Visited
 
@@ -35,7 +35,7 @@ session-number: 68 - Jaak
 
 ## Loot & Rewards
 
-- **Sword of Heavens** — given to Jaak by Althariel
+- **Sword of Heavens** — given to Jaak by Altariar
 
 ## Open Threads
 

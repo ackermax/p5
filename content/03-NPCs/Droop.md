@@ -21,6 +21,7 @@ Our **"little goblin friend."** A goblin who ended up on the right side of thing
 - **He was a Cragmaw goblin** when we met him, during the [[Phandalin]] arc.
 - **He told us about the ambush on [[Gundren Rockseeker]]** — one of the first real breaks in that whole investigation. He has been an ally ever since. (Gundren was later rescued from **Cragmaw Castle** — see [[Nezznar]].)
 - **He is studying magic under [[Vajra Safahr]]**, the Blackstaff, at [[Blackstaff Academy]] in [[Waterdeep]]. He is described as **her apprentice** — a remarkable outcome for a Cragmaw goblin.
+- **⭐ S69 — he is joining us.** As part of [[Krowen Valharrow]]'s reward for [[The Everlund Apparitions]], the party gets a **[[Harpers|Harper]] teleportation circle in the [[Phandalin|bastion]]** — and **Droop becomes our resident mage**, the attendant the circle needs present to work. Our old Cragmaw goblin friend is now **party staff and a Harper-cleared caster**.
 - **S66 — he is in [[Everlund]].** He met us **inside [[Moongleam Tower]]** and escorted us to [[Krowen Valharrow]]. **Confirmed the same Droop we know.** Nobody explained what he is doing at a [[Harpers|Harper]] stronghold hundreds of miles from the Academy, and we did not ask.
 
 ## What He Wants
@@ -32,7 +33,7 @@ Our **"little goblin friend."** A goblin who ended up on the right side of thing
 - **[[Vajra Safahr]]** — his master; he is her apprentice at [[Blackstaff Academy]]
 - **[[Krowen Valharrow]]** — S66: Droop was inside Valharrow's tower and moving freely enough to receive guests and escort them to the archmage
 - **[[Gundren Rockseeker]]** — Droop's warning about the ambush is why we know what we know
-- **[[The Phandalin Five]]** — a friend of the party since the earliest days of the campaign
+- **[[The Phandalin Five]]** — a friend of the party since the earliest days of the campaign; **as of S69, our resident mage** at the bastion circle
 
 ## Notable Quotes / Moments
 
@@ -41,6 +42,8 @@ Our **"little goblin friend."** A goblin who ended up on the right side of thing
 
 ## Open Questions
 
+- **Is he ours now, or Valharrow's, or [[Vajra Safahr|Vajra's]]?** *(S69)* An archmage assigned him to our bastion. Nobody asked Droop.
+- **How much magic does he actually have?** He is about to run a **teleportation circle** — that is not apprentice work.
 - **Why is he at [[Moongleam Tower]] instead of [[Blackstaff Academy]]?** Sent by [[Vajra Safahr]]? Studying under [[Krowen Valharrow]] as well? Something to do with the [[Harpers]]?
 - **Does he know why Valharrow summoned us** — or what the "very valuable" reward is?
 - **How far along is his training?** We've had "check in on Droop's progress" as an open thread since Waterdeep and never actually done it — and now we've had him in front of us and still didn't ask.

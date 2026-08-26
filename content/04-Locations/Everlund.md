@@ -17,6 +17,8 @@ A city in the Silver Marches, and a **[[Harpers|Harper]] centre of gravity** —
 ## Notable Places Within
 
 - **[[Moongleam Tower]]** — [[Harpers|Harper]] stronghold **just outside the city**; seat of [[Krowen Valharrow]]
+- **A [[Harpers|Harper teleportation circle]]** *(S69)* — Everlund is a node on the network Valharrow opened to us
+- **[[Clint]]** — shady merchant; we bought gear off him in S69
 
 ## Notable NPCs Here
 
@@ -27,6 +29,7 @@ A city in the Silver Marches, and a **[[Harpers|Harper]] centre of gravity** —
 
 ## Events Here
 
+- **S69 — collected on the ghost job.** Reported [[The Everlund Apparitions]] to [[Krowen Valharrow]] and were paid: **access to the [[Harpers|Harper teleportation-circle network]]** — **Everlund is one of its nodes** — plus **a circle for our own [[Phandalin|bastion]]** with **[[Droop]]** as its attendant, and **Bright Candle rank for [[Jaak Greye|Jaak]] and [[Estelle Moonglow Platinum|Estelle]]**. Also **shopped with [[Clint]]** before leaving. We then went **on foot** to the [[Ulfgardian Mounds|Stone Stand]] mound.
 - **S66 — first visit.** Flew in with [[Arnzan Vashk]] to find someone who could cast *greater restoration*. On approach a **glowing wisp** met us — a **communication device** belonging to [[Krowen Valharrow]], who told us to come to him at [[Moongleam Tower]]. Inside, **Droop** brought us to Valharrow, who asked us to look into a **ghost problem northeast of the city** in exchange for something "very valuable" (unspecified) — see [[The Everlund Apparitions]]. We agreed, **paid 1,600 gp** to have Vashk cured, feasted, and flew him home to [[Ulfgardian Mounds|One Stone]] before turning back toward Everlund for the ghost job.
 
 - **S67 — the forest northeast of the city.** Landed the [[Ignitamis]] on **[[Minor Contacts#Everlund — The Northeast Forest|Wallace]]**'s farmland, interviewed the lumberjacks, and found **[[Aasimar Temple|the mound]]** — an **aasimar temple or mausoleum** whose dead are **aasimar**. See [[The Everlund Apparitions]]. *(We did not re-enter the city itself.)*

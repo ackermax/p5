@@ -19,6 +19,8 @@ giver: Jaak Greye (personal)
 
 Before that: **Neverwinter** — went there, came back in a bad mood, beat up Malkyn. Anastas reports Rulf was *impatient* — implying he was expecting something from the trip that didn't materialize.
 
+> **⚠️ S69:** **[[Other Locations#Neverwinter|Neverwinter]] is closed off** — it is the one city **excluded** from the [[Harpers|Harper teleportation-circle network]], *"because of Neverember."* If Rulf's trail ever points back there, **we cannot take the short road**, and something is going on in that city that even the Harpers won't route into.
+
 ## New Read — Puppet, Not Master
 
 Per Malkyn: Rulf told him he **"had no choice"** and **"didn't know what was at stake"** when admitting to child abductions. **Rulf may be a puppet** — coerced or leveraged by something above him in the cult. This doesn't reduce his danger, but it changes what we want from him: we want **who is pulling his strings**.

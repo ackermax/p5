@@ -24,11 +24,20 @@ status: active
 - **"Check on the skyship"** was an open thread out of [[Waterdeep]] (S61) that we **never closed** before leaving.
 - **Caveat:** it has since flown [[Waterdeep]] → [[Phandalin]] → the [[Ulfgardian Mounds]] → [[Everlund]] → back, through a storm and a dragon encounter, without failing. Whether the repair list is still outstanding or has quietly been overtaken by events is **unconfirmed**.
 
+## Fuel — It Runs On Oil *(established S69)*
+
+**The ship burns oil, and the supply is finite enough to change our route.** In **S69** we **walked to the [[Ulfgardian Mounds|Stone Stand]] mound on foot** for exactly this reason: the mound is **off the [[Harpers|teleportation-circle network]]**, and **we did not have enough oil to fly there *and* reach the next stop on the journey before needing to resupply.** Flying to Stone Stand would have stranded us for the leg after it.
+
+> **Plan around this.** The ship is not free movement — it is a **range budget**. Between the circles and the ship we now have two travel modes with two different limits: the circles cost **500 gp of diamond dust per six people** but only reach **network cities**; the ship reaches **anywhere** but spends oil we have to buy back.
+
+- **Open:** where do we buy oil, what does a full resupply cost, and how many days of flight does it actually buy?
+
 ## Voyages
 
 - **S63 — [[Waterdeep]] → [[Phandalin]]:** flew out of the city **fighting off pursuing spirits**, then got **storm-downed near [[Other Locations#Kryptgarden Forest|Kryptgarden Forest]]**, where [[Claugiyliamatar]] confronted us. Talked her down and flew on.
 - **S64 — [[Phandalin]] → the [[Ulfgardian Mounds]]:** the relic road begins. [[Estelle Moonglow Platinum|Estelle]] slipped off in the night to rob the **kraken-symbol structure** and **snuck back to the ship** with the haul.
 - **S65–66 — the mounds:** based out of the ship while working [[Ulfgardian Mounds|One Stone]].
+- **S69 — grounded by fuel.** After collecting at [[Moongleam Tower]] we went to [[Ulfgardian Mounds|Stone Stand]] **on foot**: not enough oil to fly there and still make the following leg. **First time the ship's range has actually dictated the party's route.**
 - **S66 — [[Ulfgardian Mounds|One Stone]] → [[Everlund]] → back:** carried the dying chieftain **[[Arnzan Vashk]]** to Everlund to be cured, then home again. **The ship is why that rescue was possible at all** — and why we could then return him and ask for the relic in person.
 
 ## What It Carries
@@ -39,5 +48,6 @@ status: active
 ## Open Questions
 
 - **Does the repair list still stand**, or has the ship effectively been fine this whole time?
+- **Where do we resupply oil, and what does it cost?** *(S69 made this a live logistics question, not a flavour detail.)*
 - **What does [[Klauth]] want for it?** He gave it freely and asked only for a visit. Old red dragons don't do altruism.
 - Are there other skyships in the world we should know about? *(The [[The Waterdeep Wazoo Issue 496|Wazoo]] reported **skyship wreckage east of Baldur's Gate** — noted in [[Other Locations]] as a **DM easter egg, not a real lead**.)*

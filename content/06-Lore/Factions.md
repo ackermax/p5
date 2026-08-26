@@ -15,7 +15,7 @@ tags: [lore, faction, index]
 Elite [[Waterdeep]] adventuring company. [[Harshnag]], [[Thomas]], [[Lady Morwen Daggerford]], [[Interitus]], and Marlis are members.
 
 ### [[Harpers]]
-Secretive anti-tyranny organization. **[[Estelle Moonglow Platinum]] and [[Jaak Greye]] carry Harper pins.** [[Sister Garaele]] is openly a member; [[Krowen Valharrow]] likely allied; [[Laeral Silverhand]] reportedly connected.
+Secretive anti-tyranny organization. **Ranks: Harp Shadow → Bright Candle → High Harper.** **[[Estelle Moonglow Platinum]] and [[Jaak Greye]] were promoted to Bright Candle (rank 2) by [[Krowen Valharrow]] in S69** — they are formally in, not just pin-carriers. [[Sister Garaele]] is openly a member; **[[Krowen Valharrow]] is a confirmed High Harper (S66)**; [[Laeral Silverhand]] reportedly connected. **S69: the Harpers run a secret teleportation-circle network** known only to Bright Candles and High Harpers, and the party now has access — plus a circle of its own in the [[Phandalin|bastion]]. See [[Harpers]].
 
 ### [[Order of the Gauntlet]]
 **Created by aasimar** *(per [[Althariel]], S68)* — and **a group of aasimar sits at the Halls of Justice in [[Waterdeep]] who may be able to help [[Jaak Greye]]**. Ran the [[The Waterdeep Ultimate Brawl|Waterdeep Ultimate Brawl]]. Phandalin presence via **Daran Edermath**, investigating **undead activity**. Per the old notes: **"too straightforward in their approach"** — implied criticism, presumably from a Harper or Force Grey perspective. **Now an active lead — see [[Jaaks Celestial War]] and [[Blood of the Ancients]].**

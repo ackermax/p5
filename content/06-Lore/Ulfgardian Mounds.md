@@ -30,7 +30,7 @@ This file is the **reference** for *who's at each mound and how to approach them
 | **Great Worm Cavern** | Great Worm                 | Warmblood                                                               | Unknown                                                                                     | Dangerous — assholes |
 | **One Stone**         | Sky Ponies                 | **[[Arnzan Vashk]]** — *cured S66; **allied***                          | Helped with his illness — **✅ relic obtained (S66)**                                        | ✅ Done               |
 | **Beorunna's Well**   | Black Lions + Red Tigers   | —                                                                       | Half lost their way; Red Tigers wicked and cruel                                            | Mixed                |
-| **Stone Stand**       | Blue Bears                 | —                                                                       | Most evil; possibly extinct; will eat us                                                    | Avoid                |
+| **Stone Stand**       | Blue Bears                 | — *(none living seen)*                                                  | **The dead hold it.** Robbed by stealth **S69** — **✅ relic obtained**                      | ✅ Done *(the hard way)* |
 | **Shining White**     | Griffin                    | —                                                                       | Mostly abandoned                                                                            | **Easiest**          |
 | **Morgur's Mound**    | Thunder Beast              | Harthulk Hornspea                                                       | Never defeated; lizard-like skin                                                            | Hardest              |
 | **Flint Rock**        | Elk                        | —                                                                       | Most perished against giants years ago                                                      | Unknown              |
@@ -55,7 +55,13 @@ Great Worm tribe. **Warmblood** is the brutal chieftain. Relic confirmed.
 **Lost way of Ulfgardt.** Created their own settlement. **Red Tigers wicked and cruel.** No diplomacy possible with the Tigers half — only a beating.
 
 ### Stone Stand
-**Blue Bears** — most evil. **Heard they went extinct.** Some may still be out there. **Avoid until very strong.**
+**Blue Bears** — most evil. **Heard they went extinct** — and as far as S69 showed, that is **true of the living**. The mound is a **burial ground**, and **the tribe is still there as ghosts**.
+
+**Visited S69.** [[Var Borgal|Var]] paid respects on arrival and **received a vision of the tribe in life**: ruthless, **killing anyone who trod near them**. The dead kept the habit — **the ghosts rose out of the graves the moment digging started** and moved on the diggers. **No negotiation was attempted and none looked available.**
+
+> **How the mound is actually cleared:** don't bring the party in. **Two people, a spell that locates the relic, and an exit that leaves the burial ground entirely.** That is what worked. See [[Gather Ulfgardian Relics]] for the run itself.
+
+**Still unknown:** whether the dead *stop* at the boundary of the ground, or whether robbing them attaches something to us.
 
 ### Shining White
 **Griffin tribe** — heard to be the first to settle. **Mostly abandoned.** Probably easiest target. "Abandoned" held true when visited (S64) — no tribespeople encountered, but **griffins attacked** the party mid-search. Relic recovered; see [[Gather Ulfgardian Relics]].

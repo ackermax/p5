@@ -14,7 +14,7 @@ level: 8
 > **Race / Class:** Aasimar Bard — **College of Glamour** — Level 8
 > **Background:** **Wayfarer**
 > **Languages:** Common, Elvish, Draconic
-> **Faction:** Working theory — affiliated with **the Harpers** (harp pin)
+> **Faction:** **[[Harpers]] — Bright Candle** *(2nd rank, promoted by [[Krowen Valharrow]], S69)*
 
 ## Combat Quick Reference
 
@@ -68,11 +68,11 @@ Three years later, returned with the troupe. Estelle had learned the full truth 
 
 ## Current Personal Arc Threads
 
-### The High Harper Audience *(new, S66)*
-- **[[Krowen Valharrow]] — Archmage of Silverymoon and a confirmed High Harper — wants to speak with Jaak and [[Estelle Moonglow Platinum]] alone**, explicitly **"as a High Harper, not as an archmage."**
-- He is **holding the conversation until after [[The Everlund Apparitions]]** is resolved.
-- Probably the [[Moongleam Tower]] contact [[Sister Garaele]] promised in S63 — see [[Track the Red Mages]] — but he never mentioned the Red Mages.
-- **This is the closest either Harper-pinned PC has come to a formal Harper conversation.** See [[Harpers]].
+### He Is A Bright Candle Now *(S69)*
+- **The audience [[Krowen Valharrow]] held back since S66 finally happened — and it was a promotion.** Jaak and [[Estelle Moonglow Platinum|Estelle]] are now **[[Harpers|Bright Candles]]**, the **2nd of three Harper ranks** (Harp Shadow → **Bright Candle** → High Harper).
+- **The rank came with a secret**: the **[[Harpers|Harper teleportation-circle network]]**, which **only Bright Candles and High Harpers know exists.** The promotion is what made them cleared to be told.
+- **The pin question is settled.** He is not "probably affiliated" any more — he is **formally in, at rank 2 of 3.** Who put him on the ladder in the first place is still unanswered.
+- **The audience is closed — the promotion was all of it.** Valharrow is not holding a further conversation. **And the [[Track the Red Mages|Red Mages]] never came up, across two meetings**, so [[Sister Garaele]]'s S63 promise of a [[Moongleam Tower]] contact is **either someone else in that tower, or still unfulfilled.**
 
 ### ⭐ The Aasimar At The Mound — And What They Told Him *(S67–S68)*
 - The apparitions northeast of [[Everlund]] were **aasimar** — see [[The Everlund Apparitions]] and [[Aasimar Temple|the Aasimar Temple]].

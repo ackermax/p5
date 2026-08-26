@@ -50,6 +50,7 @@ The look on Cardon's face said it all. Var gathered what he could and stole away
 - **Self-loathing over the awakening** — Var's flaw is real: he hates magic users, including himself. Roleplay tension every time he casts a spell.
 - **Plays politics on the side** — Var had a **private conversation with [[Halia Thorton]]** in [[Phandalin]] and claims he convinced her to use a "merchants guild coin." What this coin actually is and what it represents is worth tracking — Var may have committed the party to something.
 - **New alias: "The Shadow's Heir"** — picked up in Waterdeep. Provenance unclear; how widely it's known is unclear. Worth tracking.
+- **He gets visions off the dead** *(S69)* — at the [[Ulfgardian Mounds|Stone Stand]] burial ground Var **paid respects to the dead on arrival and was shown the tribe in life**: the Blue Bears as they were, **ruthless, killing anyone who trod near them**. The vision came with a read he trusted — **that going for the artifact would bring them after us** — and he was right; the ghosts rose the moment the digging started. **This is the second time an aberrant-mind sense has handed the party the plan.** Worth tracking whether it's the mound, the Ulfgardian dead specifically, or Var.
 - **[[Matey]]** — Var's tressym (winged cat), acquired late session 55, named session 56. Functional as a scout / magic-detector and a steady companion.
 
 ## Key Spells Prepared

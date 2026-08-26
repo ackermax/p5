@@ -8,7 +8,7 @@ faction: Candlekeep
 # Harrick Stonequill
 
 > **Title:** Giant-Lore Specialist, member of [[Candlekeep]]
-> **Currently:** Went to [[Neverwinter]], may be back
+> **Currently:** Went to [[Other Locations#Neverwinter|Neverwinter]], may be back
 > **Disposition:** Cooperative
 
 ## Significance To Gotrek

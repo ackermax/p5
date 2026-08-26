@@ -14,7 +14,7 @@ level: 8
 > **Race / Class:** Elf Rogue — **Arcane Trickster** — Level 8
 > **Background:** **Scribe**
 > **Languages:** Common, Elvish, Draconic, Thieves' Cant, Common Sign Language
-> **Faction:** Working theory — affiliated with **the [[Harpers]]** (harp pin + harp bow)
+> **Faction:** **[[Harpers]] — Bright Candle** *(2nd rank, promoted by [[Krowen Valharrow]], S69)*
 
 ## Combat Quick Reference
 
@@ -56,7 +56,8 @@ In her late teens she discovered that **money had been anonymously sent to the m
 ## Personal Arc Threads
 
 - **⭐ [[Blood of the Ancients|She carries the blood of the ancients]]** *(new, S68)* — **[[Althariel]] named her alongside [[Jaak Greye|Jaak]]**: their blood makes them **strong enough to be avatars, vessels of the gods**, and **[[Bhaal]] once tried to inhabit a person of ancient blood.** She was **raised inside a [[Cult of Cyric]] monastery** that **scouted young people with "specific qualities"** — **that may not have been a coincidence.** This lands squarely on [[Estelles True Identity]].
-- **The High Harper audience** *(new, S66)* — **[[Krowen Valharrow]]** wants to speak with Estelle and [[Jaak Greye]] alone, **"as a High Harper, not as an archmage,"** once [[The Everlund Apparitions]] is done. Likely the [[Moongleam Tower]] meeting [[Sister Garaele]] set up (see [[Track the Red Mages]]).
+- **She is a [[Harpers|Bright Candle]]** *(S69)* — the audience [[Krowen Valharrow]] had been holding since S66 turned out to be a **promotion**: Estelle and [[Jaak Greye|Jaak]] are now **rank 2 of 3** (Harp Shadow → **Bright Candle** → High Harper), which is also the clearance needed to know the **[[Harpers|Harper teleportation circles]]** exist. **The pin is no longer a theory.** *(The promotion was the **whole** audience — he is not holding anything back. But the [[Track the Red Mages|Red Mages]] never came up, so [[Sister Garaele]]'s [[Moongleam Tower]] contact may be someone else entirely.)*
+- **She robbed the Blue Bears** *(S69)* — Estelle and [[Sir Joseph Gordon Die Hard]] were the two who went into the [[Ulfgardian Mounds|Stone Stand]] burial ground alone, located the relic by spell, dug it out **while the tribe's ghosts closed on them**, and dimension-doored clear with a **100 lb giant's skull**. Her **affinity with the dead** keeps putting her at the front of exactly these scenes. See [[Gather Ulfgardian Relics]].
 - **[[Estelles True Identity]]** — mother, anonymous benefactor, the name "Moonglow Platinum"
 - **[[Reckoning With The Cult Of Cyric]]** — now confirmed as Cyric worship; same cult as elsewhere on the Sword Coast
 - **Affinity with the dead** — mechanical hook for ghost/death-related arcs. **Paid off in [[The Everlund Apparitions]]** *(S67–S68)*: the [[Aasimar Temple]], a mound of **dead aasimar**. **Estelle was the one who approached the mound** — and the site's dead ended up telling her who *she* is.
