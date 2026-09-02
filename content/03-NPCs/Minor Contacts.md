@@ -25,7 +25,7 @@ Quick-reference page for NPCs we've met but don't have detailed notes on yet. Pr
 - **Lynn** — guide/worker at **Harvest Home Abbey** (first structure in Goldenfields)
 - **Ellardin Darovik** — **lead abbot** of Harvest Home Abbey
 - **Marlis** — proprietor of the Northfurrows Inn ([[Goldenfields]])
-- **Sevembra** — druid outside the gate; almost planted the [[The Cursed Seeds|cursed seeds]]
+- **[[Sevembra]]** — druid outside the gate; almost planted the [[The Cursed Seeds|cursed seeds]]. *Promoted to her own file — see [[Sevembra]].*
 - **Frazier McCallister** — baker from Goldenfields with delicious treats
 - **Yamir** — *see [[Yamir]]* (Calimshani merchant, betrayed by Daggerford)
 
@@ -61,6 +61,11 @@ Met during [[The Everlund Apparitions]] *(S67–S68)*. See [[Aasimar Temple|the 
 - **Georgie** — lumberjack; our eyewitness. His account: the apparitions started **a little over a week ago** and the crews **stopped working about a week ago**. They appear **in the afternoon**, at **a round, strange, unnatural hill full of foliage** in the forest. Description: **slim humanoids in strange robes, with decrepit feathery wings (some feathers missing), haunted sunken-eyed faces, sad** — and **spectral**.
 - **[[Althariel]]** — **the last of the aasimar at this base**; his spirit spoke to us in S68. *Promoted to his own file — see [[Althariel]].*
 
+## Yartar *(S70)*
+
+- **The older gnome shipwright** — took the **[[Ignitamis]]** on our arrival to **fill the tank and make repairs**. **He gave no name.** He is currently holding our airship and everything stored aboard it.
+- *(City authority — **[[Nestra Ruthiol]]** the Waterbaron and **[[Oversword Vaelia Thann]]** of the guard — have their own files.)*
+
 ## Beliard / Eastern Sword Coast
 
 - **Alhaer Mhilshoun** — informant on the [[The Beliard Mystery|Beliard disappearances]]; well-disliked
@@ -69,7 +74,7 @@ Met during [[The Everlund Apparitions]] *(S67–S68)*. See [[Aasimar Temple|the 
 - **Alza** — herbalist in Beliard; **changed** after [[The Exquisites Investigation|the Exquisites]] passed through
 - **Arachar Calatharr** — tavern owner in Beliard
 - **Lillia** (separate) — could be found in one of the houses in **Shalamar** (where Alza gathered herbs)
-- **Clinch** — stable boy in Beliard whose father bought from [[Lamin]]
+- **Clinch** — stable boy in Beliard whose father bought from [[Clint]] *(trading as "Lamin")*
 - **Mistress Khalashite** — from **Khalim shum** (probably Calimshan / Calimshite)
 
 ## Ardeep / Wood Elves

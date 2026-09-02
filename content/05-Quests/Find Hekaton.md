@@ -27,6 +27,7 @@ This runs as a **sub-quest** — the relic inventory, mound priorities, and prog
 - [[The Second Sundering|We are in the age of mortals]] — multiple cosmic hierarchies are loosening; the Ordening's collapse may be part of a broader pattern
 - **The Rod of Vornindod points to [[Vonindod]]** — the fire giants are rebuilding the colossus (this is a parallel front). *(The rod was taken from the giants hunting Vonindod parts, not from Zalto directly — corrected per DM 2026-05-29.)*
 - **[[Countess Sansuri]] is on the verge of grasping "power beyond our reach"** — possibly trying to seize what Hekaton's absence makes available
+- **⭐ S70 — a power of nature treats the broken Ordening as its problem too.** At [[Ulfgardian Mounds|Flint Rock]], **[[The Golden Stag]]** blessed the party specifically **because the breaking of the Ordening is a disruption of nature's balance**. That is the first time anything outside the giant/mortal frame has taken a side on this spine — **nature-aligned powers may be recruitable allies**, and the Stag itself is a being we could go back and ask.
 - **S62 — [[Laeral Silverhand]]'s theory:** the Ordening may be **less a literal cosmic phenomenon and more a means of keeping the giants in check — a "magic trick" that works because everyone wants to believe it works.** If so, "reinstating the Ordening" is about **restoring the giants' belief in the order** (and the figure who anchors it) rather than repairing a physical mechanism. **Her theory, not confirmed fact.** See [[The Ordening]].
 
 ## Possible Leads
@@ -40,8 +41,8 @@ This runs as a **sub-quest** — the relic inventory, mound priorities, and prog
 
 ## Progress
 
-- [ ] Repair the airship [[Ignitamis]]
-- [ ] **Gather & sacrifice Ulfgardian relics for oracle answers** — tracked on [[Gather Ulfgardian Relics]] *(1 relic in hand)*
+- [~] Repair the airship [[Ignitamis]] — **in progress (S70)**: handed to an **older gnome in [[Yartar]]** for **repairs and a full tank of oil**
+- [ ] **Gather & sacrifice Ulfgardian relics for oracle answers** — tracked on [[Gather Ulfgardian Relics]] *(**5 relics in hand**, none sacrificed yet)*
 - [ ] Reach the Maelstrom
 - [ ] Locate [[Hekaton]]
 - [ ] Reinstate him

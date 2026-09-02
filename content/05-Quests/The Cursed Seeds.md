@@ -13,25 +13,28 @@ status: partial
 
 **[[Estelle Moonglow Platinum]] currently holds all 5 seeds on her person.** We should ask the Treent ([[Liferlas]]) about them.
 
-## Source
+## Source — ⭐ It Was [[Clint]]
 
-[[Lamin]] — vendor of exotic flora out of [[Yartar]] — **sold the seeds to Sevembra**.
+**[[Clint]] — trading as "Lamin," vendor of exotic flora out of [[Yartar]] — sold the seeds to [[Sevembra]].** *(Confirmed 2026-09-02: **Lamin and Clint are the same man.** The older notes record this source under the Lamin name.)*
 
-### Lamin's Profile
-- Wears fedora and a coat; high charisma; a bit shady
+> ⚠️ **We have been buying from him.** The party shopped with Clint in [[Everlund]] as recently as **S69** — purchases **not itemized**. Whatever we bought came from the man who supplied an attack on [[Goldenfields]]. **Itemize it.**
+
+### His Profile *(recorded under the Lamin name — full note on [[Clint]])*
+- Wears a fedora and a coat; high charisma; a bit shady
 - Rides a **red and white wagon** with a **black dove symbol**
-- Has done business in:
-  - [[Other Locations|Beliard]] — herbalist, some guys at the Watchful Knight, a farmer who's the father of stable boy Clinch
-  - Some guys at the **Watchful Knight**
+- Has done business in [[Other Locations|Beliard]] — the herbalist, some men at the **Watchful Knight**, and a farmer, the father of stable boy **Clinch**
 - Came from [[Goldenfields]], heading to [[Everlund]]
 
 ## Open Threads
 
 - ⬜ **Identify what's on the seeds with the Treent ([[Liferlas]])** — they may be more than just curses
-- ⬜ **Figure out what Lamin was up to** — Sevembra was an unwitting victim; Lamin is the supplier; somebody is paying Lamin
+- ⭐ **Figure out what [[Clint]] was up to** — [[Sevembra]] was an unwitting victim; **Clint is the supplier**; somebody is paying Clint. **He is the live end of this thread, and we know how to find him — we have shopped with him twice.**
+- ⭐ **Itemize what we bought off him in S69** — we did business with the seed supplier without knowing it
+- ⬜ **He works [[Yartar]], and we are in [[Yartar]] (S70)** — look for the red-and-white wagon
 - ⬜ Possible link to the **black dove symbol** — is this an organization?
 
 ## Strategic Notes
 
 - The attack on [[Goldenfields]] — agricultural — is the kind of move a **siege** preparation looks like
+- **The supplier is a merchant who works our own route** — [[Goldenfields]] → [[Other Locations|Beliard]] → [[Everlund]] → [[Yartar]], selling to whoever will buy. That is either **excellent cover** or the reason he was chosen
 - This could be tied to the [[Cult of Cyric]] (Cyric attacks anything mortals depend on), the giant uprising (starving the Sword Coast aids the giants), or a third party

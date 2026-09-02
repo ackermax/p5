@@ -46,6 +46,7 @@ This quest may collapse multiple arcs at once:
 - **[[Jaaks Celestial War|Jaak's kidnapping]]** — possibly a Cyric operation
 - **[[Find Rulf Cloudfang|Take down Rulf]]** — cult lieutenant
 - **[[Var Borgal|Var]] vs [[Cardon Malefic]]** — Cardon is now dealing with the cult; the Var arc and the Cyric arc point at the *same* Yartar meeting
+- **⭐ S70 — we are inside [[Yartar]].** Admitted through a **warded gate** after a **search for dangerous items** at the guard tower ([[Oversword Vaelia Thann]]; the Waterbaron is **[[Nestra Ruthiol]]**). **The venue for this whole arc is now the ground under our feet** — and **our arrival is on the guard's books**, with a **25,000 gp bounty** on [[Var Borgal|Var]].
 
 ## Leads
 

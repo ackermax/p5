@@ -33,7 +33,7 @@ This file is the **reference** for *who's at each mound and how to approach them
 | **Stone Stand**       | Blue Bears                 | — *(none living seen)*                                                  | **The dead hold it.** Robbed by stealth **S69** — **✅ relic obtained**                      | ✅ Done *(the hard way)* |
 | **Shining White**     | Griffin                    | —                                                                       | Mostly abandoned                                                                            | **Easiest**          |
 | **Morgur's Mound**    | Thunder Beast              | Harthulk Hornspea                                                       | Never defeated; lizard-like skin                                                            | Hardest              |
-| **Flint Rock**        | Elk                        | —                                                                       | Most perished against giants years ago                                                      | Unknown              |
+| **Flint Rock**        | Elk *(spirits only)*       | — *(none living seen)*                                                  | **The Golden Stag's blessing, then the spirits'.** Asked our intentions — **✅ relic obtained (S70), freely**                        | ✅ Done               |
 | **Grandfather Tree**  | Tree Ghost                 | —                                                                       | **[[Interitus]] asked us not to go**; respected place that saved him; approach with respect | **Worst-case only**  |
 
 ## Per-Mound Notes
@@ -70,7 +70,17 @@ Great Worm tribe. **Warmblood** is the brutal chieftain. Relic confirmed.
 **Thunder Beast tribe** — very powerful. **Harthulk Hornspea** never defeated. Monstrous man, lizard-like skin.
 
 ### Flint Rock
-**Elk tribe.** Most perished against giants years ago. Current state unknown.
+**Elk tribe.** Most perished against giants years ago — and **S70 confirmed it**: **no living Elk tribespeople.** What remains is the **spirits of the Elk clan**, and unlike the Blue Bears at Stone Stand, **they talk.**
+
+**Visited S70.** From the ground the site reads as **nothing much** — the mound is a **rock you climb**. At the **top, incense was burning**; **moving the altar** opened a **passage down**, and **the relic lay below it.**
+
+**The spirits came out and asked our intentions** — a question, not an ambush. Their condition: **we could not have the relic without the blessing of [[The Golden Stag]].** We camped, **saw the Stag passing that evening**, approached, and it **questioned each of us on what we had done to restore nature's balance**. It **found us wanting but far enough along**, and blessed us **because the breaking of [[The Ordening]] is itself a disruption of that balance**. The next morning we went back beneath the altar and the spirits **gave up the relic — and their own blessing with it.**
+
+> **How this mound is actually cleared: answer the question honestly and get the Stag's blessing.** No fight, no theft. **This is the counter-example to Stone Stand** — and the model for [[Ulfgardian Mounds|Raven Rock]].
+
+**The two blessings are symbolic** — they carry **no mechanical effect** *(confirmed)*. Their value is **standing**: at a diplomacy mound like Raven Rock, being able to say the Elk dead and a power of nature vouched for us is the point.
+
+**Still unknown:** whether the Stag can be found at, or speaks for, any other mound.
 
 ### Grandfather Tree
 **Tree Ghost tribe.** Most important place for the Ulfgardians — a respected place that **saved [[Interitus]]**. **Interitus specifically asked us not to go**, so it stays a **worst-case / last-resort** target only; if we ever must, approach with respect and honor the tree guardians.

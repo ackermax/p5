@@ -56,7 +56,7 @@ Ilin's Yartar lead is corroborated from the underworld side. At the [[Council of
 
 ## Leads
 
-- ⭐ **[[Yartar]]** — current destination per [[Malkyn Serpentwind]]. Catch up to him there.
+- ⭐ **[[Yartar]] — ✅ WE ARE THERE (S70).** Flew in and were admitted through the warded gate. **Catch up to him here.** Yartar is a **[[Harpers]] stronghold** and **[[Jaak Greye|Jaak]] and [[Estelle Moonglow Platinum|Estelle]] are [[Harpers|Bright Candles]]** — a **local Harper cell is now an approach we can make in our own name.** Remember [[Sister Garaele]]'s warning that **"Ilin" may be an alias** (S63).
 - ⭐ **Ilin's old dockyard quarters in [[Waterdeep]]** *(S62, per [[Laeral Silverhand]])* — **not yet searched.** Toss it for Harper reports / leads while we're still in the city.
 - The [[Harpers]] themselves — they have his last reports; he is also looking for them, so a meet in Yartar via a Harper cell is plausible
 - [[Malkyn Serpentwind]] — saw him most recently; may know which contact in Yartar
