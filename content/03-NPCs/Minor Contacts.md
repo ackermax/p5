@@ -65,6 +65,8 @@ Met during [[The Everlund Apparitions]] *(S67–S68)*. See [[Aasimar Temple|the 
 
 - **The older gnome shipwright** — took the **[[Ignitamis]]** on our arrival to **fill the tank and make repairs**. **He gave no name.** He is currently holding our airship and everything stored aboard it.
 - *(City authority — **[[Nestra Ruthiol]]** the Waterbaron and **[[Oversword Vaelia Thann]]** of the guard — have their own files.)*
+- *(S71 — **[[Xolkin]]** the card player, **[[Garambitio]]** of Through and Through Investigators, and **[[Joanne]]** of One Foot in the Boot have their own files.)*
+- **The warner at Through and Through** *(S71)* — **told us on the side that we were in danger.** Unnamed; not recorded who.
 
 ## Beliard / Eastern Sword Coast
 

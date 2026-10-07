@@ -79,7 +79,7 @@ A merchant empire with an outpost in [[Phandalin]] (lion on a shield emblem). **
 "Bad groups" — almost certainly Zhentarim cover identities.
 
 ### [[Cardon Malefic]]'s Inquisition
-Personal to [[Var Borgal]]. Magic-purge politics. **Cardon carries an anti-magic field** (maintained by his knight). Bounty on Var now **25,000 gp, alive** (S59). **Departing for [[Yartar]] in ~3 days to meet the [[Cult of Cyric|Cult of C]]**, escorted by [[Black Network|Zhentarim]] + [[Jarlaxle]].
+Personal to [[Var Borgal]]. Magic-purge politics. **Cardon carries an anti-magic field** (maintained by his knight). Bounty on Var now **25,000 gp, alive** (S59). **Departing for [[Yartar]] in ~3 days to meet the [[Cult of Cyric|Cult of C]]**, escorted by [[Black Network|Zhentarim]] + [[Jarlaxle]]. **S73: his man [[Doctor Hadol]], who builds technology to rival magic, was working as a contractor in the [[Cult of Cyric|cult]]'s dungeon under Yartar.**
 
 ### Servants of Bahamut (Imposters)
 **Not the real Bahamut faction** — evil actors using the Platinum Dragon's symbol. Operate in [[Kryptgarden Forest]]. They talk about going to **Leeland** for the "dragon of justice." Watch for this iconography elsewhere — it's specifically *deceptive*.

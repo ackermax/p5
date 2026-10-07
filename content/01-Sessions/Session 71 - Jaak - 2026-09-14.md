@@ -16,12 +16,22 @@ session-number: 71 - Jaak
 
 ## Key Events
 
--
--
+- Played poker
+- Through and Through Investigators
+- Wanted Poster looking for Zephros, wanted by S
+- Red mages looking for all of us.
+- Hasnt seen Ilin cotton
+- Ask the one who owns the place Garambitio
+- Garambitio said Ilin in town, looking for Rulf Cloudfang. 
+- Ilin staying at One Foot in the Boot.
+- Red Mages attempting to weaken the West, the key for this is Goldenfields. They are trying to gather information about Goldenfields. 
+- Ilin asked Joanne about Rulf Cloudfang, asked about Through and Through, and Cardon Maelefic. 
+- Ilin's journal has locations of houses he was investigating.
+- Asked Larel Silverhand for advice regarding red mages.
 
 ## NPCs Met
 
-- [[]] —
+- [[Joanne]] — Proprietor at One Foot in the Boot. 
 
 ## Places Visited
 

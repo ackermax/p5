@@ -22,3 +22,7 @@ The party met Laeral in person. What she shared:
 - **[[Ilin Cotton]] helped against the cult and kept a residence in [[Waterdeep]], at the dockyard.** A new place to investigate in the city.
 - For **[[Malkyn Serpentwind]]'s curse**, she pointed us to **[[Blackstaff Academy]]** to ask around for help.
 - Context that clarified the **[[Stone of Golorr]]** / [[Commander Hawkwinter]] / [[Xanathars Guild|Xanathar]] situation.
+
+## Advice On The Red Mages (Session 71)
+
+From [[Yartar]], **we asked Laeral for advice regarding the [[Track the Red Mages|Red Mages]]** — who, the same session, turned out to be **looking for us** over [[Goldenfields]]. *(How we reached her and what she advised are not recorded — fill in.)*

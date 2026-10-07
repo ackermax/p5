@@ -58,4 +58,4 @@ We also **asked Thomas about getting an invitation to The Golden Goose** — the
 - **Allied as of S58, deepened S59.** He vouched for us inside the Council itself.
 - He's the Waterdeep information broker *and* on the Council — a direct line into the underworld power structure.
 - His alliance unblocks the **[[Harshnags Hunt|Harshnag conversation]]** (the original gate).
-- **Leads we hold through him:** the Jarlaxle favor, and a possible invite to The Golden Goose.
+- **Leads we hold through him:** the Jarlaxle favor, and a possible invite to The Golden Goose. *(S71: we **won a Golden Goose ticket** off [[Xolkin]] at poker, so we no longer need Thomas's invitation.)*

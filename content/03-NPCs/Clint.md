@@ -34,6 +34,10 @@ faction: unclear (a "Clint" in Red Larch was Zhentarim)
 - **Sold the cursed seeds to [[Sevembra]]** in [[Goldenfields]] — five of them, which would have **destroyed the region's crops**. See [[The Cursed Seeds]].
 - **S69** — the party **bought gear from him** in [[Everlund]], on the same trip we collected from [[Krowen Valharrow]]. *(Purchases not itemized — [[Jaak Greye|Jaak]] logged it as "bought some stuff.")*
 
+## Someone Else Is Looking For Him *(S71)*
+
+In [[Yartar]], **[[Xolkin]]** — a card player with a flying snake — was **looking for information on "Lamin."** **We told him where we last saw him.** Xolkin didn't say why he wants him.
+
 ## Open Questions
 
 - **⭐ What did we buy from him in S69, and should we be looking at it harder?** We now know what else he sells. **Itemize it at the table.**
@@ -42,3 +46,4 @@ faction: unclear (a "Clint" in Red Larch was Zhentarim)
 - **Is "Clint" one person, a name several people use, or a front?** The notes have always allowed the second — **and he now demonstrably works under at least two names.**
 - **If the Red Larch Clint was [[Black Network|Zhentarim]], is this one?** We are shopping with a possible Zhentarim asset while working for the [[Harpers]] — their direct opposition.
 - **He works [[Yartar]], and we are in [[Yartar]].** He may be findable here.
+- **Why is [[Xolkin]] hunting him?** *(S71)* And did we just help someone settle a score, or put a supplier back in play?

@@ -61,6 +61,19 @@ This is the cult Estelle and Jaak escaped from. Previously referred to in our no
 - This **converges with [[Find Ilin Cotton|Ilin Cotton's lead]]** — Ilin (a Harper) was already chasing the cult to Yartar, framing their work as **"end of the world stuff."** Yartar is becoming the cult's stage.
 - The **poisons** angle dovetails with the **Enhanced Torpor** commission to [[Skeemo Weirdbottle]] (now in Harper custody).
 
+### The Dungeon Under The House — Yartar (Session 72–73)
+- **A concealed dungeon** beneath a [[Yartar]] house on [[Find Ilin Cotton|Ilin's journal list]]. We fell in through the carpet (S72). **Unnamed.**
+- **S73 confirmed it's a cult site:** a **red-hooded mage** we judged **Cult of Cyric** (knocked out; interrogation got nothing; **killed when he tried to attack [[Var Borgal|Var]] during the dealmaking**), **more cult members** fighting alongside **"hell creatures,"** and a **torture room holding [[Ilin Cotton]]** — **he fell through the same carpet trap we did and was captured and interrogated**, which is **where his missing week went.**
+- **The cult hired outside help:** the red-hooded mage seemed to have **contracted [[Doctor Hadol]]**, a doctor building **technology to rival magic**, who **works for [[Cardon Malefic]]**. **This is the S59 Cardon–cult arrangement, in the flesh.**
+- **The creatures that attacked us on the way in dissolved into black goo** when killed. *(The "weird monkey creatures"; party's description.)*
+- **Children.** **Ilin believes the cult brought children here**, taken by **various methods.**
+
+### The Child-Kidnapping Operations *(confirmed S73)*
+- **[[The Exquisites Investigation|The Exquisites circus]] in [[Waterdeep]] was one of them** — doppelgangers wearing the troupe's faces, **children kept underground.** **We broke it without knowing whose it was.**
+- **[[Rulf Cloudfang|Rulf]]'s abductions** — [[Malkyn Serpentwind]] knew of them in S57; Rulf "had no choice."
+- **Ilin says "various methods"** — **there are others we haven't found.**
+- **Where the children go:** Ilin believes **here, under [[Yartar]].** **What they're for is unknown.**
+
 ### Other Possible Cyric Operations
 - **The cult [[Other Locations|Javen Tarmikos]] wants us to defeat in [[Helm's Hold]]** — likely same cult. The [[Other Locations|Order of the Gilded Eye]] is hunting them too.
 - **The Cult of Cyric is one of multiple active cults** on the Sword Coast right now (alongside [[Cult of the Dragon]], [[Howling Hatred]])
@@ -80,3 +93,7 @@ This is the cult Estelle and Jaak escaped from. Previously referred to in our no
 - Who is the Enhanced Torpor target?
 - Is the [[Death Knight Ritual]] one operation among many?
 - Is the cult tied to or competing with [[Cult of the Dragon]]?
+- **What are the children for?** *(S73)* — the cult **scouted young people with "specific qualities"** before ([[Jaak Greye|Jaak]] was one of their targets; [[Estelle Moonglow Platinum|Estelle]] was raised in that monastery). **Is Yartar the same operation, at scale?**
+- ~~**Did the cult run [[The Exquisites Investigation|the Exquisites circus]]?**~~ — **yes: one of their child-kidnapping operations (S73).** **Is [[The Beliard Mystery|Beliard]] another?**
+- **Why do they need [[Doctor Hadol]]'s technology?** *(S73)*
+- **Red hoods** *(S73)* — is that what this cell wears? The cult's look has never been recorded before.

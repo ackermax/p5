@@ -5,7 +5,7 @@ status: partially resolved
 
 # The Exquisites Investigation
 
-> **Status:** Partially resolved — circus dismantled in Waterdeep; rebranded under freed Ringmaster [[Barnaby Baxter]]; the broader face-eater operation continues
+> **Status:** Partially resolved — circus dismantled in Waterdeep; rebranded under freed Ringmaster [[Barnaby Baxter]]; the broader face-eater operation continues. **⭐ S73: confirmed one of the [[Cult of Cyric]]'s child-kidnapping operations**
 > **Original Ringmaster (impostor):** Vander
 > **Current Ringmaster (real):** [[Barnaby Baxter]] — freed from underground captivity
 > **New name:** **The Circus of New Beginnings**
@@ -27,6 +27,14 @@ The party freed the underground prisoners, but the operation extends beyond the 
 - **[[Andressa]] (the fortune teller doppelganger) in Waterdeep** — same operation? Different one?
 - The recipient of the Beliard note has not been identified
 
+## ⭐ It Was The Cult's (Session 73)
+
+In the [[Cult of Cyric]]'s dungeon under [[Yartar]], **[[Ilin Cotton]]** said he's there **to save children he believes the cult took**, by **various methods, including the doppelgangers at the circus in [[Waterdeep]].**
+
+- **Confirmed: the circus was one of the [[Cult of Cyric|cult]]'s child-kidnapping operations.** **The face-eaters weren't a separate operation; they were a cult supply line**, and **the children we freed from under the circus were being taken for the cult.**
+- It was **one of several methods** — Ilin said "various." **The others are unknown.**
+- This **doesn't yet say anything about the [[The Beliard Mystery|Beliard]] cell** — whether Beliard's face-eaters also feed the cult is **open**.
+
 ## Connections
 
 - **Lisa** (member of the circus) is the bridge to [[Other Locations|Beliard]] — she was with the troupe that came through Beliard right before **Alza** changed
@@ -34,6 +42,9 @@ The party freed the underground prisoners, but the operation extends beyond the 
 
 ## Open Threads
 
+- ✅ **Was the circus working for the [[Cult of Cyric]]?** — **yes: one of their child-kidnapping operations (S73)**
+- ⬜ **Is the [[The Beliard Mystery|Beliard]] cell the cult's too?**
+- ⬜ **Where did the children taken by the circus end up** before we broke it — and are any of them under [[Yartar]]?
 - ⬜ Track down the **note recipient** in Beliard
 - ⬜ Confront whatever has replaced **Alza** in Beliard
 - ⬜ Determine if [[Andressa]] is part of the same operation

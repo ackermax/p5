@@ -92,6 +92,7 @@ Three years later, returned with the troupe. Estelle had learned the full truth 
 This happened recently (per the Waterdeep arc). The kidnapper wants to **ascend** using **Aasimar blood / celestial blood from Mount Celestia**. **S68 reframes this:** the ancient blood is what makes a body **fit to hold a god** — so the kidnapper may not want a reagent, **they may want Jaak himself as the vessel.** See [[Blood of the Ancients]] and [[Jaaks Celestial War]].
 
 ### Find Ilin Cotton
+- ⭐ **FOUND (S73).** In [[Yartar]], **in a [[Cult of Cyric|cult]] torture room** under a house on his own investigation list — **he fell through the same carpet trap we did and was captured and interrogated.** **Freed and healed**, and **now fighting alongside the party** to save **children he believes the cult brought there.** We were interrupted before he could say much, so **what he was going to tell Jaak years ago is still unheard.** *(Jaak's S73 notes: "Found Ilin Cotton.")*
 - **[[Ilin Cotton]] is a [[Harpers|Harper]]** (confirmed session 56) — was investigating the [[Cult of Cyric]] before he was discovered. Lost contact since then.
 - **Description per Harpers:** blonde hair, skinny, problem with his legs
 - **Last seen at [[Tavern Misty Beard]]** in [[Waterdeep]]

@@ -1,11 +1,11 @@
 ---
 tags:
   - session
-date: 2026-09-14
-session-number: 71 - Estelle
+date: 2026-10-05
+session-number: 73 - Jaak
 ---
 
-# Session 71 - Estelle — 2026-09-14
+# Session 73 - Jaak — 2026-10-05
 
 > **In-game date:**
 > **Location:** [[]]
@@ -16,7 +16,8 @@ session-number: 71 - Estelle
 
 ## Key Events
 
--
+- Found [[Ilin Cotton]]
+- 
 -
 
 ## NPCs Met

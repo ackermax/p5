@@ -39,6 +39,16 @@ We attended the **[[Council of the Underworld]]** meeting in disguise, escorted 
 
 Cardon **caught up with the party at the close of S61**, and at the top of S62 **[[Var Borgal|Var]] had a private conversation with him "about the future."** The specifics of what was said or offered aren't recorded yet — but this is the **first direct, non-hostile exchange** between Var and his old lord since the night Var fled. Worth pinning down what was discussed: a threat, a bargain, an ultimatum, or an attempt to recruit Var back.
 
+## His Man Is Under Yartar — On The Cult's Payroll (Session 73)
+
+In the [[Cult of Cyric|cult]] dungeon beneath a [[Yartar]] house, just after we freed [[Ilin Cotton]], we were interrupted by **[[Doctor Hadol]]**:
+
+- A **doctor trying to build technology to rival magic**, who **works for Cardon.**
+- He was **with a red-hooded mage**, who seems to have **hired him as a contractor of sorts**. **We think the mage is [[Cult of Cyric|Cult of Cyric]].**
+- **Hadol got away using a technological dimension door.** We captured the mage but **the interrogation got us nothing.**
+
+> **This is the first time we've seen the Cardon–cult deal from S59 in practice.** Cardon came to [[Yartar]] to meet the cult. **Now one of his people is working for them** in a dungeon where **they tortured a [[Harpers|Harper]]** and where Ilin believes **they're holding kidnapped children.** **Cardon himself has not been seen in Yartar.**
+
 ## The Wanted Poster
 
 [[Estelle Moonglow Platinum]] recovered a wanted poster from [[Skeemo Weirdbottle]]'s back room. Cardon is **hunting [[Var Borgal]] specifically**:
@@ -89,4 +99,7 @@ Cardon **caught up with the party at the close of S61**, and at the top of S62 *
 - ~~Who else sits on the Council?~~ **Answered S59:** [[Davil Starsong]], [[Xanathars Guild|Xanathar]], [[Jarlaxle]], [[Thomas]]. Cardon came to *hire* them, not to lead them.
 - Who is paying Skeemo to circulate Cardon's wanted poster?
 - **What does Cardon want from the [[Cult of Cyric|Cult of C]] at [[Yartar]]?** He's escorting himself *to* a cult meeting — are they his new patrons, his quarry, or both?
+- **Why was [[Ilin Cotton]] asking about him?** *(S71)* — in [[Yartar]], Ilin asked [[Joanne]] at his inn about **Cardon**, [[Rulf Cloudfang]], and Through and Through Investigators. **Ilin is on Cardon's trail too** — and Ilin hasn't been back to his room in a week.
+- **What is [[Doctor Hadol]] building for him?** *(S73)* — **"technology to rival magic."** For a man who wanted to **purge magic users**, that's a natural thing to want. **Is it connected to the anti-magic field?** Not known.
+- **Is Hadol's cult contract Cardon's idea, or Hadol's side job?** *(S73)*
 - **How do we fight a man whose presence cancels magic?** The field is sustained by his **knight**, not him — take the knight first?

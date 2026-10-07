@@ -45,3 +45,5 @@ Rulf is the **highest-value capture target** in the entire Cult of Cyric arc. **
 ## Cross-Reference
 
 [[Ilin Cotton]] is also hunting Rulf — and is now in [[Yartar]] chasing a related cult lead. If we reach Yartar, expect to either meet Ilin or pick up his trail toward Rulf.
+
+**S71 — confirmed in [[Yartar]]:** per [[Garambitio]], **Ilin is in the city looking for Rulf**, and **he asked [[Joanne]] at One Foot in the Boot about Rulf by name.** Ilin **hasn't been in his room for a week**; his **journal lists houses he was investigating** — **Rulf may be at the end of that list.** See [[Find Ilin Cotton]].
