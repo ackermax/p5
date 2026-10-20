@@ -88,11 +88,19 @@ Three years later, returned with the troupe. Estelle had learned the full truth 
 
 ### The Kidnapping
 > **Jaak was stolen by someone who wants ascension and wants Jaak's blood. Angel blood. Celestia.**
+>
+> ⭐ **Confirmed: it was the [[Cult of Cyric]]**, the cult that wants his blood to bring [[Cyric]] back (S74).
 
 This happened recently (per the Waterdeep arc). The kidnapper wants to **ascend** using **Aasimar blood / celestial blood from Mount Celestia**. **S68 reframes this:** the ancient blood is what makes a body **fit to hold a god** — so the kidnapper may not want a reagent, **they may want Jaak himself as the vessel.** See [[Blood of the Ancients]] and [[Jaaks Celestial War]].
 
+### ⭐ What The Cult Wanted With Him *(S74)*
+- At the top of the [[Yartar]] dungeon, face to face with **[[Rulf Cloudfang|Rulf]]** — now **the [[Cult of Cyric|cult]]'s current leader** — we learned **Jaak was only ever good for his blood**, to **finish whatever ritual they're working towards.** **The ritual is meant to bring [[Cyric]] back.**
+- **[[Estelle Moonglow Platinum|Estelle]], by contrast, was being groomed to lead the cult.**
+- **Rulf killed [[Ilin Cotton|Ilin]] in front of him**, then vanished; **the body Jaak went to check dissipated as if Rulf was never there.**
+- ⭐ **The [[Cult of Cyric|cult]] is the same party that [[Jaaks Celestial War|kidnapped him for his blood]]** *(confirmed)*.
+
 ### Find Ilin Cotton
-- ⭐ **FOUND (S73).** In [[Yartar]], **in a [[Cult of Cyric|cult]] torture room** under a house on his own investigation list — **he fell through the same carpet trap we did and was captured and interrogated.** **Freed and healed**, and **now fighting alongside the party** to save **children he believes the cult brought there.** We were interrupted before he could say much, so **what he was going to tell Jaak years ago is still unheard.** *(Jaak's S73 notes: "Found Ilin Cotton.")*
+- 💀 **DEAD (S74).** **[[Rulf Cloudfang|Rulf]] stabbed and killed him** at the top of the cult dungeon. **Found S73** in a [[Cult of Cyric|cult]] torture room under a house on his own investigation list, freed and healed — and **dead a session later.** **What he was going to tell Jaak years ago was never heard.** In his belongings: **a picture of Jaak's troupe** and **his notes on the cult and his investigation.** The party is carrying his body.
 - **[[Ilin Cotton]] is a [[Harpers|Harper]]** (confirmed session 56) — was investigating the [[Cult of Cyric]] before he was discovered. Lost contact since then.
 - **Description per Harpers:** blonde hair, skinny, problem with his legs
 - **Last seen at [[Tavern Misty Beard]]** in [[Waterdeep]]
@@ -103,6 +111,7 @@ This happened recently (per the Waterdeep arc). The kidnapper wants to **ascend*
 - **[[Malkyn Serpentwind]]** is in [[Waterdeep]], can't use his legs
 
 ### Rulf
+- ⭐ **Leader of the [[Cult of Cyric]] (S74)** — met at the top of the [[Yartar]] dungeon; **killed [[Ilin Cotton|Ilin]]**; his body **dissipated** when Jaak checked it. See [[Rulf Cloudfang]]
 - Last located in **[[Other Locations|Neverwinter]]**
 - Anastas saw him return in a bad mood after beating Malkyn — "Rulf was impatient"
 - **Rulf was at the cult's sacrifices regularly** and would vanish for cult dealings

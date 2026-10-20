@@ -1,12 +1,12 @@
 ---
-tags: [quest, quest/active, jaak-arc, harpers, plot-critical]
-status: active
+tags: [quest, quest/completed, jaak-arc, harpers, plot-critical]
+status: completed
 giver: Jaak Greye (personal) + Harpers
 ---
 
 # Find Ilin Cotton
 
-> **Status:** Active. ⭐ **Ilin is FOUND (S73)**, freed from a [[Cult of Cyric|cult]] torture room under a [[Yartar]] house and fighting beside us. **The arc continues as a rescue: the children he came for**
+> **Status:** ✅ **Closed (S74).** **Found S73** in a [[Cult of Cyric|cult]] torture room under a [[Yartar]] house; 💀 **killed by [[Rulf Cloudfang]] S74.** We have **his body, a picture of the troupe, and his notes.** The rescue of **the children** carries on under [[Reckoning With The Cult Of Cyric]].
 > **For:** [[Jaak Greye]]; also [[Harpers]] (Ilin is one of theirs)
 
 ## Objective
@@ -67,6 +67,15 @@ We worked the journal, and **the first house on it dropped us into the ground.**
 
 > ⚠️ **The search has turned into a rescue.** Ilin isn't the objective anymore. **The children are.** We're still in the dungeon, and next session we keep investigating.
 
+## 💀 Ilin Is Dead (Session 74)
+
+- **Ilin went with us through the rest of the dungeon** — **flesh golems burning bodies** to the east, **more cultists** to the north, and **a book showing the young people brought here had their blood extracted for a ritual** *(oldest: 15)*.
+- At **the top of the dungeon**: **[[Rulf Cloudfang|Rulf]]**, the man Ilin came to Yartar hunting — and **the [[Cult of Cyric|cult]]'s current leader.**
+- **We thought we killed Rulf.** **His body dissipated** when [[Jaak Greye|Jaak]] checked it, and **he stabbed Ilin and killed him** as he vanished into the ether.
+- **Ilin's belongings: a picture of [[The Traveling Wilmelons|Jaak's troupe]] and notes about the cult and his investigation.** **We picked up his body** and kept looking for surviving children.
+
+> **The search is over, and it ended badly.** We found him one session before he died. **The monastery secret, what the interrogators wanted, and his real name (if "Ilin" was an alias) were never asked.** **His notes are the last thing he can tell us.**
+
 ## Yartar Confirmed As The Hot Spot (Session 59)
 
 Ilin's Yartar lead is corroborated from the underworld side. At the [[Council of the Underworld]] meeting we learned the **[[Cult of Cyric|Cult of C]] has "risen from the ashes"** and is **converging on [[Yartar]]**, gathering poisons and "trying something big" — and that **[[Cardon Malefic]] is going to Yartar in ~3 days to meet them.** Whatever Ilin is chasing, **Yartar in the next few days is where it comes to a head.** Catching up to Ilin there now also means walking into Cardon's cult meeting — high risk, high payoff.
@@ -102,7 +111,8 @@ Ilin's Yartar lead is corroborated from the underworld side. At the [[Council of
 
 ## Leads
 
-- ⭐ **Ilin himself** *(S73)* — **found, freed, healed, and fighting beside us.** **The best source we have now.** Ask him everything: the children, the cult's plan here, [[Doctor Hadol]], [[Cardon Malefic]], his journal, the monastery secret.
+- 💀 ~~**Ilin himself**~~ *(S73)* — **killed by [[Rulf Cloudfang|Rulf]], S74.**
+- ⭐ **Ilin's notes and the troupe picture** *(S74)* — in his belongings. **The best source we have now.**
 - ⭐ **The children** *(S73)* — Ilin believes the [[Cult of Cyric|cult]] brought children **here**. **Find them.**
 - ⭐ **The dungeon under the house** *(S72–S73)* — **a [[Cult of Cyric|cult]] site; we're still in it.** Torture room cleared, "hell creatures" and cultists killed. **Keep going.**
 - ~~**The red-hooded cult mage**~~ *(S73)* — **knocked out and interrogated, no result. He tried to attack [[Var Borgal|Var]] during the dealmaking and was killed.** **Dead end.**
@@ -130,11 +140,13 @@ Ilin's Yartar lead is corroborated from the underworld side. At the [[Council of
 - ✅ **Find where he's staying** — One Foot in the Boot (S71)
 - ✅ **Follow his journal's list of houses** — **S72: the first one had a dungeon under it**
 - ✅ **Find out whether Ilin is in the dungeon** — **yes: in a torture room. Freed and healed (S73)**
-- ⬜ **Hear him out** — interrupted by [[Doctor Hadol]] before he could say much
-- ⬜ **Find the children** Ilin believes the cult brought here *(S73)*
+- ❌ **Hear him out** — interrupted by [[Doctor Hadol]] (S73), then **killed by [[Rulf Cloudfang|Rulf]] (S74)** before we did
+- ⬜ **Find the children** Ilin believed the cult brought here *(S73)* — **carried on under [[Reckoning With The Cult Of Cyric]]**
 - ⬜ **Get out of the dungeon**
 - ⬜ **Work the remaining addresses in the journal**
-- ⬜ Coordinate with [[Harpers]] — **he's found**, and he was trying to reconnect with them
+- ⬜ Report to the [[Harpers]] — **he was one of theirs, and he's dead**
+- ⬜ **Read his notes** *(S74)* — on the cult and his investigation
+- ⬜ **Decide what to do with his body** *(S74)* — and **tell [[Oren]]**, his cousin, and the [[Harpers]]
 
 ## Open Questions
 

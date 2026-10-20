@@ -38,7 +38,7 @@ Detectives we worked with on the [[Kryptgarden Forest]] gold thief case. Found t
 **Originally a face-eater operation** dismantled in [[Waterdeep]]. The real Ringmaster **[[Barnaby Baxter]]** was a prisoner; we freed him. The **Circus of New Beginnings** is now the real circus, rebuilding. Barnaby Baxter is competing with us at the Brawl. The **broader face-eater operation continues** — see [[The Beliard Mystery]].
 
 ### [[The Traveling Wilmelons]]
-[[Jaak Greye]]'s former troupe. Led by **[[Rulf Cloudfang]]**, allied with [[Cult of Cyric]]. [[Anastas Glorybluff]] (defected) and [[Malkyn Serpentwind]] (broken) are surviving members the party can work with.
+[[Jaak Greye]]'s former troupe. Led by **[[Rulf Cloudfang]]**, allied with [[Cult of Cyric]] — **and as of S74, Rulf leads the cult itself.** [[Anastas Glorybluff]] (defected) and [[Malkyn Serpentwind]] (broken) are surviving members the party can work with.
 
 ### Society of the Drow / Loyalists of Lolth
 [[Nezznar]] (the Spyder) and Vyerith were members — both dead. Faction still exists. Operated underground around [[Phandalin]].

@@ -16,6 +16,7 @@ tags: [lore, items, index]
 - **Decanter of Endless Water** *(Brawl reward, S61)* — rare; on command produces fresh or salt water (stream/fountain/geyser)
 
 ### Held By [[Var Borgal]]
+- **Beads of force ×5** *(S74)* — found going back over rooms we'd passed in the [[Cult of Cyric|cult]] dungeon under [[Yartar]]. **Var has them for now.**
 - **[[Matey]]** — tressym companion (winged cat); detects magic and invisibility at proximity
 - **Robe of Useful Items** *(Brawl reward, S61)* — uncommon; patches detach into items. Beyond the standard set it carries: bag of 100 gp · 2 rowboats (12 ft) · 10 gems (100 gp each) · 4 Potions of Healing · silver coffer (500 gp) · 24-ft wooden ladder · a 2×4 ft window
 - **Sending Stones** *(Brawl reward, S61)* — rare; paired stones, cast Sending between them 1/day
@@ -45,6 +46,7 @@ tags: [lore, items, index]
 - **Magic tattoo** *(singles-champion prize, S61)* — force a creature to **roll a 1**, once per long rest, **3 uses total**
 
 ### Party Resources
+- **[[Ilin Cotton]]'s belongings** *(new, S74)* — **a picture of [[The Traveling Wilmelons|Jaak's troupe]]** and **his notes about the [[Cult of Cyric|cult]] and his investigation.** **Read the notes.** *(We are also carrying his body.)*
 - **The Flint Rock relic — the tip of a mithral spear** *(S70)* — **only the tip.** Given **freely** by the **spirits of the Elk clan** at [[Ulfgardian Mounds|Flint Rock]] once we earned **[[The Golden Stag]]'s blessing**. *(**Mithral** — the D&D spelling for the metal. Players' files render it "mythral" / "Mythril".)* **Whether the tip is a usable item or purely a relic to spend is unrecorded** — see [[Gather Ulfgardian Relics]].
 - **⭐ Two blessings — symbolic, no mechanical effect** *(S70, confirmed)* — **[[The Golden Stag]]'s blessing** (given for being *"wanting, but far enough along"* on restoring nature's balance) and **the blessing of the spirits of the Elk Tribe** (given with the relic). **They don't *do* anything.** What they are is **standing with the Ulfgardian dead and with a power of nature** — worth invoking at [[Ulfgardian Mounds|Raven Rock]], not worth a line on a character sheet.
 - **The Stone Stand relic — a giant's skull** *(S69)* — **100 pounds.** Dug out of the Blue Bears' burial ground at [[Ulfgardian Mounds|Stone Stand]] under ghost attack, then dimension-doored out. **It is confirmed a *giant's* skull — which is what makes it a giant relic the oracles can take. Whose giant, and whether the skull does anything, is unknown.** *(Relic inventory lives on [[Gather Ulfgardian Relics]]; listed here because it is a 100 lb object somebody has to carry.)*

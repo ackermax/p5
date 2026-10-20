@@ -32,9 +32,15 @@ Discover who Estelle really is — her family, her mother's identity, and the **
 - The **[[Cult of Cyric]]** scouted young people with **"specific qualities"** (per [[Rulf Cloudfang]]) and **wanted [[Jaak Greye|Jaak]] specifically.** If the quality they were screening for is **ancient blood**, then Estelle **being raised in that monastery was not an accident** — and neither was the **anonymous money** keeping her there.
 - Whoever the **benefactor** is, they may have been **paying to keep her where the cult could find her** — or **paying to keep her hidden.** Both fit the facts.
 
+## ⭐ Groomed To Lead *(new, S74)*
+
+At the top of the [[Cult of Cyric|cult]] dungeon under [[Yartar]], facing **[[Rulf Cloudfang|Rulf]]** — now the cult's leader — we learned **Estelle was being groomed to be the next leader of the cult.** **[[Jaak Greye|Jaak]], who carries the same [[Blood of the Ancients|blood]], was wanted only for his blood**, to finish a ritual to **bring [[Cyric]] back.**
+
+- **So the cult wanted her for something specific** — and it wasn't the same thing it wanted Jaak for. **Why her?** Bloodline, parentage, or something else is **not stated.**
+
 ## Open Questions
 
-- **Did the cult know what she was?** Was the monastery a nursery, not an orphanage?
+- **Did the cult know what she was?** Was the monastery a nursery, not an orphanage? **S74: they were grooming her as their next leader — they knew she mattered. Whether they knew *why* is still open.**
 - **Did her mother know?** Was she hiding Estelle from the same people who later hunted Jaak?
 
 - Was the mother running from someone? Why a strange monastery, late at night?

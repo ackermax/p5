@@ -10,7 +10,7 @@ region: Sword Coast North
 > **Region:** Sword Coast North
 > **Ruler:** **[[Nestra Ruthiol]]**, the **Waterbaron** *(named S70; not yet met)*
 > **Significance:** **[[Harpers]] stronghold**; **[[Ilin Cotton]]'s current destination** chasing a [[Cult of Cyric|Cult of C]] lead (S57)
-> **Status:** ⭐ **We are here.** Arrived and admitted [[Session 70 - Var - 2026-08-31|Session 70]]; **found [[Ilin Cotton|Ilin]]'s inn** [[Session 71 - Var - 2026-09-14|Session 71]]; ⭐ **found Ilin himself, in a [[Cult of Cyric|cult]] torture room under a house**, [[Session 73 - Var - 2026-10-05|Session 73]].
+> **Status:** ⭐ **We are here.** Arrived and admitted [[Session 70 - Var - 2026-08-31|Session 70]]; **found [[Ilin Cotton|Ilin]]'s inn** [[Session 71 - Var - 2026-09-14|Session 71]]; ⭐ **found Ilin himself, in a [[Cult of Cyric|cult]] torture room under a house**, [[Session 73 - Var - 2026-10-05|Session 73]]; 💀 **Ilin killed by [[Rulf Cloudfang|Rulf]], the cult's leader, at the top of that dungeon**, [[Session 74 - Var - 2026-10-12|Session 74]].
 
 ## Why It Matters Now
 
@@ -66,6 +66,17 @@ Per [[Malkyn Serpentwind]] at the [[Tavern Misty Beard]] (S57), **[[Ilin Cotton]
 
 > **The [[Cult of Cyric|Cult of C]]'s "something big" (S59) has a basement.** This is the first cult site we've found in [[Yartar]], and **[[Cardon Malefic]]'s people are working in it.**
 
+## ⭐ The Top Of The Dungeon — Rulf, And Ilin's Death *(S74)*
+
+- **East: flesh golems burning bodies.** Destroyed.
+- **Doubled back through rooms we'd passed** — found **five beads of force.**
+- **North: more cultists.** And **a book showing the young people brought here had their blood extracted for some sort of ritual** — **the oldest is 15.**
+- **At the top of the dungeon: [[Rulf Cloudfang|Rulf]]**, leader of [[Jaak Greye|Jaak]]'s old troupe and **the current leader of the [[Cult of Cyric]].** **[[Estelle Moonglow Platinum|Estelle]] was being groomed as the cult's next leader; Jaak was only good for his blood; the ritual is meant to bring [[Cyric]] back.**
+- **We thought we killed him.** **His body dissipated** when Jaak checked it, and **he stabbed [[Ilin Cotton|Ilin]] to death** as he vanished into the ether.
+- **We took Ilin's body** — and his **picture of the troupe** and **notes on the cult** — and kept searching the dungeon for **children still alive.**
+
+> **The [[Cult of Cyric|Cult of C]]'s "something big" under Yartar has a name now: bringing [[Cyric]] back.** **Its leader got away.**
+
 ### Getting There *(S69)*
 
 **Yartar is a node on the [[Harpers|Harper teleportation-circle network]]** that [[Krowen Valharrow]] opened to us — **500 gp of diamond dust puts six of us in the city**, attendant present. **Relevant now for leaving and coming back**, not for arriving.
@@ -103,10 +114,10 @@ Per [[Malkyn Serpentwind]] at the [[Tavern Misty Beard]] (S57), **[[Ilin Cotton]
 
 - **A house from [[Find Ilin Cotton|Ilin's journal]]**, and **where [[Ilin Cotton|Ilin]] was last seen** — *those are the same information (confirmed)*.
 - **A carpet on the floor concealed a drop** into **a dungeon or cave** below. **We fell through it while investigating** — not a door we opened.
-- **Inhabitants met so far:** **"spider wolves"** *(killed)*, **"weird monkey creatures"** *(killed S73; dissolved into black goo)*, **"hell creatures"** and **[[Cult of Cyric|cult]] members** *(killed S73)*, a **red-hooded cult mage** *(captured S73, then killed when he attacked [[Var Borgal|Var]] during the dealmaking)*, and **[[Doctor Hadol]]** *(escaped S73)*. **The creature names are the party's descriptions and the only names we have** — the DM gave no proper names *(confirmed)*.
+- **Inhabitants met so far:** **flesh golems burning bodies** *(destroyed S74)*, **[[Rulf Cloudfang|Rulf]]**, the cult's leader *("killed" S74 — body dissipated; vanished)*, **"spider wolves"** *(killed)*, **"weird monkey creatures"** *(killed S73; dissolved into black goo)*, **"hell creatures"** and **[[Cult of Cyric|cult]] members** *(killed S73)*, a **red-hooded cult mage** *(captured S73, then killed when he attacked [[Var Borgal|Var]] during the dealmaking)*, and **[[Doctor Hadol]]** *(escaped S73)*. **The creature names are the party's descriptions and the only names we have** — the DM gave no proper names *(confirmed)*.
 - **Whose it is: the [[Cult of Cyric]]'s** *(S73)*.
-- **Rooms found:** tunnels, a **torture room** (where [[Ilin Cotton|Ilin]] was held), and **further rooms** where the big fight happened.
-- **Still unknown:** **how far it runs**, and **where the children Ilin came for are.**
+- **Rooms found:** tunnels, a **torture room** (where [[Ilin Cotton|Ilin]] was held), and **further rooms** where the big fight happened. **S74:** a room to the **east** where flesh golems were burning bodies, rooms to the **north** held by cultists (where we found **the blood-extraction book**), and **the top of the dungeon**, where we met Rulf and **Ilin was killed.**
+- **Still unknown:** **how far it runs**, and **whether any of the children are still alive.**
 
 ### A large shop *(S72)*
 - **Unnamed.** Where **[[Estelle Moonglow Platinum|Estelle]]** **bought** the party's **disguise kits**. Carries adventuring supplies. **She paid** — but the sale happened, and a shopkeeper remembers it.
@@ -128,7 +139,9 @@ Per [[Malkyn Serpentwind]] at the [[Tavern Misty Beard]] (S57), **[[Ilin Cotton]
 - ✅ **Now that we're here: where do we start?** — **answered S71:** [[Xolkin]] → Through and Through → [[Garambitio]] → **Ilin's inn**
 - 🔄 **Work Ilin's journal** — **the houses he was investigating** *(S71)*. **S72: the first one had a dungeon under the carpet, and we are in it mid-fight.** The rest of the list is still unworked
 - ✅ **What is under the house, and is [[Ilin Cotton|Ilin]] down there?** *(S72)* — **a [[Cult of Cyric|cult]] dungeon, and yes: in a torture room. Freed (S73)**
-- ⭐ **Find the children** Ilin believes the cult brought here *(S73)* — **the live question**
+- ⭐ **Find the children** Ilin believed the cult brought here *(S73)* — **the live question.** **S74: their blood was being extracted for the ritual; the oldest is 15. Find any still alive**
+- ⬜ **Where did [[Rulf Cloudfang|Rulf]] go?** *(S74)* — vanished into the ether after killing [[Ilin Cotton|Ilin]]
+- ⬜ **Get Ilin's body out** *(S74)* — and decide what's done with it
 - ⬜ **Where did [[Doctor Hadol]] dimension-door to?** *(S73)* — he's loose in or near the city, and he works for [[Cardon Malefic]]
 - ⭐ **The [[Track the Red Mages|Red Mages]] are looking for us** — about [[Goldenfields]] *(S71)*. Meet them on our terms or not at all. **S72: they are searching the streets on foot and nearly caught [[Estelle Moonglow Platinum|Estelle]] near our inn; we are in disguise**
 - ⬜ **Who warned us at Through and Through, and about what?** *(S71)*
@@ -137,8 +150,8 @@ Per [[Malkyn Serpentwind]] at the [[Tavern Misty Beard]] (S57), **[[Ilin Cotton]
 - ⬜ **What is the gate ward screening for?** We passed carrying relics and a celestial sword. Something else is what it wants to catch
 - ⬜ **Approach the [[Harpers]] here as Bright Candles** — Yartar is their stronghold and we now have rank
 - ⬜ **Look for [[Clint]]'s red-and-white wagon** — he works out of Yartar, and he is the supplier behind [[The Cursed Seeds]]
-- ✅ **Catch up to [[Ilin Cotton]]** — **found S73**, in the cult dungeon; fighting with us
-- ⬜ **What is the Cult of C planning here?** — "risen from the ashes," buying poisons, "something big"; is the Golden Goose / a ship the venue? **S73: they have a dungeon under a house, a torture room, children (per Ilin), and a contractor of [[Cardon Malefic]]'s**
+- ✅ **Catch up to [[Ilin Cotton]]** — **found S73**, in the cult dungeon; 💀 **killed by Rulf S74**
+- ⬜ **What is the Cult of C planning here?** — "risen from the ashes," buying poisons, "something big"; is the Golden Goose / a ship the venue? **S73: they have a dungeon under a house, a torture room, children (per Ilin), and a contractor of [[Cardon Malefic]]'s.** ⭐ **S74: the plan is to bring [[Cyric]] back, and [[Rulf Cloudfang|Rulf]] runs it**
 - ⬜ **The Golden Goose** — **we hold a ticket (won from [[Xolkin]], S71).** Is it actually a ship? When do we use it?
 - ⬜ **Lion Shield Merchant Empire** — friend, threat, or neither?
 

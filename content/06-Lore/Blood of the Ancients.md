@@ -25,16 +25,20 @@ aliases: [Ancient Bloodlines, Blood of Ancients]
 
 ## Why It Matters
 
-- **[[Jaaks Celestial War|Jaak's kidnapper wants his blood for ascension.]]** We now know what the blood is *for*: it makes a body a god can wear. The kidnapper isn't harvesting a reagent — they may be preparing **a vessel**.
+- **[[Jaaks Celestial War|Jaak's kidnapper wants his blood for ascension.]]** *(The kidnapper is the [[Cult of Cyric]] — confirmed; S74: the blood is to finish a ritual to bring [[Cyric]] back.)* We now know what the blood is *for*: it makes a body a god can wear. The kidnapper isn't harvesting a reagent — they may be preparing **a vessel**.
 - **[[Estelle Moonglow Platinum|Estelle]] is exposed too.** She was **raised inside a [[Cult of Cyric|Cult of Cyric]] monastery** — a cult that scouted young people **with specific qualities** for sacrifice, and that **wanted [[Jaak Greye|Jaak]] specifically**. If the cult was selecting for ancient blood, then Estelle wasn't taken in by accident. See [[Estelles True Identity]].
 - **[[Bhaal]] already tried this**, which makes it a **known, repeatable method**, not a theory.
 - **[[Cyric]] was a human who ascended to godhood.** Mortals reaching for divinity is the through-line of this campaign — see [[The Second Sundering|the age of mortals]].
+
+## ⭐ The Cult Wanted Both — For Different Things *(S74)*
+
+At the top of the [[Yartar]] dungeon we learned the [[Cult of Cyric]]'s ritual is meant to **bring [[Cyric]] back**, that **[[Jaak Greye|Jaak]] was wanted only for his blood, to finish it**, and that **[[Estelle Moonglow Platinum|Estelle]] was being groomed as the cult's next leader.** The children the cult took **had their blood extracted** for the same ritual. **Whether the ritual uses the blood of the ancients specifically is not stated**.
 
 ## Leads
 
 - **The Halls of Justice, [[Waterdeep]]** — a **group of aasimar** there **may be able to help [[Jaak Greye|Jaak]]**. The [[Order of the Gauntlet]] was **created by aasimar**. *(S68 — our one concrete next step on this.)*
 - **What "Thier" means**, and what it has to do with **Celestia**.
-- **Whether the [[Cult of Cyric]] was screening for this.** Re-read [[Rulf Cloudfang]]'s scouting: *"specific qualities."*
+- **Whether the [[Cult of Cyric]] was screening for this.** Re-read [[Rulf Cloudfang]]'s scouting: *"specific qualities."* **S74: they wanted Jaak's blood for a ritual to bring [[Cyric]] back.**
 - **Estelle's mother** — an ancient bloodline is inherited. [[Estelles True Identity]] just became a bloodline question.
 
 ## Connections

@@ -10,17 +10,18 @@ tags: [lore, faction, antagonist, jaak-arc]
 
 | Member                 | Race     | Instrument          | Age*             | Loyalty                                             |
 | ---------------------- | -------- | ------------------- | ---------------- | --------------------------------------------------- |
-| **[[Rulf Cloudfang]]** | Half-elf | Fiddle              | 47               | Leader, cruel, **enemy**                            |
+| **[[Rulf Cloudfang]]** | Half-elf | Fiddle              | 47               | Leader, cruel, **enemy** — **leads the [[Cult of Cyric]] (S74)** |
 | **Malkyn Serpentwind** | Human    | Drums               | 38               | Weak-willed. Lower-half paralysis by Rulf. No cure. |
 | **Anastas Glorybluff** | Tiefling | Flute               | 34               | Weak-willed, **follows Rulf**                       |
-| **[[Ilin Cotton]]**    | Halfling | Keytar              | 22               | **Ally of Jaak — missing**                          |
+| **[[Ilin Cotton]]**    | Halfling | Keytar              | 22               | **Ally of Jaak — killed by Rulf (S74)**             |
 | **[[Jaak Greye]]**     | Aasimar  | Keytar (after Ilin) | ~18 at departure | Gone — fled with Estelle                            |
 
 *Ages are from the backstory ~10 years ago; add years for current.
 
 ## Key Plot Notes
 
-- **Rulf is allied with [[Cult of Cyric]]'s leader.** They cooperated to silence [[Ilin Cotton]].
+- **Rulf is allied with [[Cult of Cyric]]'s leader.** They cooperated to silence [[Ilin Cotton]]. **⭐ S74: Rulf *is* the cult's current leader — and he killed Ilin** at the top of the [[Yartar]] dungeon.
+- **Ilin carried a picture of the troupe** *(S74)*, found in his belongings with his notes on the cult.
 - **Malkyn and Anastas are followers, not threats.** Per Jaak's read, they are "neither kind nor cruel" — possibly recruitable away from Rulf if approached right, or at minimum not the priority targets.
 - **Performed at least twice** for the cult that raised [[Estelle Moonglow Platinum]] — long-standing relationship.
 

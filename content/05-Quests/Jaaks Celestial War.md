@@ -41,6 +41,8 @@ This happened recently (during the [[Waterdeep]] arc). Someone took Jaak. They w
 
 This is no longer just "Jaak's backstory mystery." Someone is **actively trying to become a god using Jaak's blood**.
 
+> **⭐ CONFIRMED — the kidnapper is the [[Cult of Cyric]]** *(confirmed by the user 2026-10-19)*. In S74, facing [[Rulf Cloudfang|Rulf]], the cult's current leader, under [[Yartar]], we learned the cult wants **Jaak's blood to finish a ritual to bring [[Cyric]] back.** **The cult that kidnapped Jaak is the same cult that raised [[Estelle Moonglow Platinum|Estelle]] and that Rulf scouted for.** The old "someone" in this section now has a name.
+
 ## What This Implies
 
 - Jaak's blood has unusual potency — even by Aasimar standards, this kidnapper thinks it can fuel ascension
@@ -52,7 +54,7 @@ This is no longer just "Jaak's backstory mystery." Someone is **actively trying 
 ## Investigative Angles
 
 - **[[Ilin Cotton]]'s secret** — Ilin knew something Jaak "needed to know immediately." Almost certainly related to this.
-- **The kidnapper's identity** — what do we know? Did we see them?
+- ~~**The kidnapper's identity**~~ — **the [[Cult of Cyric]] (confirmed)**, now led by [[Rulf Cloudfang]]
 - **Aasimar lore** — other Aasimar, especially ancient ones, may know what Jaak's blood actually is
 - **⭐ The Halls of Justice, [[Waterdeep]]** *(new, S68)* — **the aasimar of the [[Order of the Gauntlet]].** Althariel sent us there by name. **This is the single most actionable lead Jaak has ever had** — and it points at a city we already owe half a dozen return trips.
 - **✅ [[The Everlund Apparitions]]** *(S67–S68)* — **a mound full of dead aasimar.** Jaak's heritage made the spectrals stand down; then **[[Althariel]]** himself gave us the answers above. **Site cleared, the Angel killed.** The war Althariel was fighting was against **[[The Angel|a prisoner from another dimension]]** — not obviously Jaak's celestial war, **but ask.**

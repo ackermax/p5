@@ -21,6 +21,13 @@ The first time anyone has laid out for us **who Cyric actually is**:
 
 > *Jaak's notes render the name of the slain goddess "Mystral"; the vault spells it **[[Mystra]]**.*
 
+## ⭐ The Cult Wants Him Back *(S74)*
+
+**The [[Cult of Cyric]] is working on a ritual to bring Cyric back.** Learned at the top of the [[Yartar]] dungeon, from the encounter with the cult's leader, **[[Rulf Cloudfang]]**:
+- **The young people the cult took had their blood extracted** for the ritual *(oldest: 15)*.
+- **[[Jaak Greye|Jaak]]'s blood is wanted to finish it** — the cult is the party that [[Jaaks Celestial War|kidnapped him]] *(confirmed)*.
+- **[[Estelle Moonglow Platinum|Estelle]] was being groomed as the cult's next leader.**
+
 ## Why This Matters To Us
 
 - **A mortal human ascended to godhood.** That is the same thing **[[Jaaks Celestial War|Jaak's kidnapper]]** is trying to do — and Cyric is the proof it can be done.
@@ -29,6 +36,8 @@ The first time anyone has laid out for us **who Cyric actually is**:
 - If the [[Cult of Cyric|Cult of C]] is **"risen from the ashes"** and massing at [[Yartar]], it's worth knowing their god has **already tried to unmake the world once.**
 
 ## Open Questions
+
+- **"Bring Cyric back" — back from where?** *(S74)* We've never been told what happened to him after Mystra.
 
 - **Is the cult trying to do for someone else what Cyric did for himself** — walk a mortal up into godhood?
 - Was **killing Mystra** a one-off, or the template for what "the age of mortals" ([[The Second Sundering]]) makes possible again?

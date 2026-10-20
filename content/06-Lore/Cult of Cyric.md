@@ -23,6 +23,14 @@ This is the cult Estelle and Jaak escaped from. Previously referred to in our no
 
 **Why it matters to us:** the cult serves a god who **climbed up from mortal**, and the cult **scouted young people with specific qualities** — including [[Jaak Greye|Jaak]], who we now know carries the **[[Blood of the Ancients|blood of the ancients]]**, *the blood that makes a body fit to hold a god.* See [[Cyric]].
 
+## ⭐ Leader And Goal *(S74)*
+
+- **Current leader: [[Rulf Cloudfang]]** — the half-elf fiddler who led [[Jaak Greye|Jaak]]'s old troupe. Met at **the top of the [[Yartar]] dungeon**; **"killed," but his body dissipated and he vanished into the ether**, after **killing [[Ilin Cotton]].**
+- **Goal: bringing [[Cyric]] back.** That's the ritual.
+- **[[Estelle Moonglow Platinum|Estelle]] was being groomed to be the cult's next leader.**
+- **[[Jaak Greye|Jaak]] was only good for his blood** — to **finish the ritual.** ⭐ **The cult is the party that [[Jaaks Celestial War|kidnapped Jaak]]** *(confirmed)*.
+- **The young people they took had their blood extracted for the ritual** — per a book in the dungeon. **The oldest is 15.**
+
 ## Operations We Know About
 
 ### The Monastery
@@ -66,13 +74,14 @@ This is the cult Estelle and Jaak escaped from. Previously referred to in our no
 - **S73 confirmed it's a cult site:** a **red-hooded mage** we judged **Cult of Cyric** (knocked out; interrogation got nothing; **killed when he tried to attack [[Var Borgal|Var]] during the dealmaking**), **more cult members** fighting alongside **"hell creatures,"** and a **torture room holding [[Ilin Cotton]]** — **he fell through the same carpet trap we did and was captured and interrogated**, which is **where his missing week went.**
 - **The cult hired outside help:** the red-hooded mage seemed to have **contracted [[Doctor Hadol]]**, a doctor building **technology to rival magic**, who **works for [[Cardon Malefic]]**. **This is the S59 Cardon–cult arrangement, in the flesh.**
 - **The creatures that attacked us on the way in dissolved into black goo** when killed. *(The "weird monkey creatures"; party's description.)*
-- **Children.** **Ilin believes the cult brought children here**, taken by **various methods.**
+- **Children.** **Ilin believed the cult brought children here**, taken by **various methods.**
+- **S74:** **flesh golems burning bodies** (destroyed), **more cultists**, and **a book recording the extraction of the young people's blood** for the ritual *(oldest: 15)*. At **the top of the dungeon: [[Rulf Cloudfang|Rulf]]**, the cult's leader — who **killed [[Ilin Cotton|Ilin]]** and vanished. **We're still searching for children alive.**
 
 ### The Child-Kidnapping Operations *(confirmed S73)*
 - **[[The Exquisites Investigation|The Exquisites circus]] in [[Waterdeep]] was one of them** — doppelgangers wearing the troupe's faces, **children kept underground.** **We broke it without knowing whose it was.**
 - **[[Rulf Cloudfang|Rulf]]'s abductions** — [[Malkyn Serpentwind]] knew of them in S57; Rulf "had no choice."
 - **Ilin says "various methods"** — **there are others we haven't found.**
-- **Where the children go:** Ilin believes **here, under [[Yartar]].** **What they're for is unknown.**
+- **Where the children go:** Ilin believed **here, under [[Yartar]].** **What they're for: their blood, extracted for the ritual to bring [[Cyric]] back (S74).**
 
 ### Other Possible Cyric Operations
 - **The cult [[Other Locations|Javen Tarmikos]] wants us to defeat in [[Helm's Hold]]** — likely same cult. The [[Other Locations|Order of the Gilded Eye]] is hunting them too.
@@ -82,18 +91,22 @@ This is the cult Estelle and Jaak escaped from. Previously referred to in our no
 
 - **Estelle and Jaak are personally targeted** — both fled the cult, Estelle stole from them
 - **Jaak may be a high-value target** specifically — he was already scouted before he and Estelle ran
-- **The cult is well-resourced** — necromancy, networks, a mobile recruiter (Rulf), influence at Helm's Hold, **an inner body called the [[The Circle|Circle]]**, **Waterdeep operations**
+- **The cult wants its god back** *(S74)* — and **its leader groomed Estelle to succeed him and wanted Jaak's blood to finish the ritual**
+- **The cult is well-resourced** — necromancy, networks, a mobile recruiter turned leader (Rulf), influence at Helm's Hold, **an inner body called the [[The Circle|Circle]]**, **Waterdeep operations**
 - **Cyric himself is a god of betrayal** — assume cult members will betray each other and us
 
 ## Open Questions
 
-- Who is the cult leader at the monastery (name still unknown)?
+- Who led the cult at the monastery in Jaak's day (name still unknown)? **The current leader is [[Rulf Cloudfang|Rulf]] (S74).**
+- **⭐ What does bringing [[Cyric]] back require, and how close are they?** *(S74)*
+- **⭐ Why groom [[Estelle Moonglow Platinum|Estelle]] as the next leader?** *(S74)*
+- **Did Rulf die?** *(S74)* — the body dissipated.
 - Does the cult know Estelle's true identity / who her mother was?
 - Who is the **Circle** — inner priesthood, council body, ritual structure?
 - Who is the Enhanced Torpor target?
 - Is the [[Death Knight Ritual]] one operation among many?
 - Is the cult tied to or competing with [[Cult of the Dragon]]?
-- **What are the children for?** *(S73)* — the cult **scouted young people with "specific qualities"** before ([[Jaak Greye|Jaak]] was one of their targets; [[Estelle Moonglow Platinum|Estelle]] was raised in that monastery). **Is Yartar the same operation, at scale?**
+- ~~**What are the children for?**~~ *(S73)* — **their blood, for the ritual (S74).** *(Original question:)* — the cult **scouted young people with "specific qualities"** before ([[Jaak Greye|Jaak]] was one of their targets; [[Estelle Moonglow Platinum|Estelle]] was raised in that monastery). **Is Yartar the same operation, at scale?**
 - ~~**Did the cult run [[The Exquisites Investigation|the Exquisites circus]]?**~~ — **yes: one of their child-kidnapping operations (S73).** **Is [[The Beliard Mystery|Beliard]] another?**
 - **Why do they need [[Doctor Hadol]]'s technology?** *(S73)*
 - **Red hoods** *(S73)* — is that what this cell wears? The cult's look has never been recorded before.

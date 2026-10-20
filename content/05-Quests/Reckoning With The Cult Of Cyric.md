@@ -13,8 +13,10 @@ giver: Estelle Moonglow Platinum / Jaak Greye
 
 Bring down the **[[Cult of Cyric]]** and its leadership. They:
 - Raised [[Estelle Moonglow Platinum|Estelle]] in deprivation while hoarding her inheritance
-- Allied with [[Rulf Cloudfang]] to silence [[Ilin Cotton]]
+- Allied with [[Rulf Cloudfang]] to silence [[Ilin Cotton]] — **and Rulf now leads them, and killed Ilin (S74)**
+- **Are working to bring [[Cyric]] back** *(S74)*, using **children's blood** and needing **[[Jaak Greye|Jaak]]'s blood to finish**
 - **Scouted [[Jaak Greye]] (and others) for sacrifice** — Jaak was a high-value target
+- **Kidnapped Jaak for his blood** *(confirmed)* — see [[Jaaks Celestial War]]
 - Have been hunting both since the heist
 - Ran the [[The Death Knight Ritual]] in [[Kryptgarden Forest]] (party stopped this cell)
 - Are *likely* the cult [[Other Locations|Javen Tarmikos]] wants destroyed at [[Helm's Hold]]
@@ -23,9 +25,11 @@ Bring down the **[[Cult of Cyric]]** and its leadership. They:
 
 ✅ **One Death Knight ritual stopped** (Kryptgarden Forest, before completion)
 ⬜ The mother monastery still operates
-⬜ The cult leader still lives
+⬜ The cult leader still lives — **it's [[Rulf Cloudfang|Rulf]] (S74).** "Killed," but his body dissipated and he vanished
+⬜ **The ritual to bring [[Cyric]] back** is still in progress *(S74)*
+⬜ **Children still unaccounted for** in the [[Yartar]] dungeon *(S74)*
 ⬜ Jaak's blood may already have been collected during the [[Jaaks Celestial War|kidnapping]]
-⬜ Rulf Cloudfang still at large (last seen [[Other Locations|Neverwinter]])
+⬜ Rulf Cloudfang still at large (**last seen S74, vanishing at the top of the [[Yartar]] dungeon**)
 
 ## Session 59 — The Cult Resurfaces At Yartar
 
@@ -50,12 +54,25 @@ The dungeon under the house on [[Find Ilin Cotton|Ilin's list]] (S72) **is the c
 
 > **Garaele said in S63 that the cult was too well hidden to track. We fell into one of their sites through a carpet.** This is **the first hard contact with the cult's [[Yartar]] operation**, and **the first time we've seen Cardon's deal with them in practice.**
 
+## ⭐ Session 74 — The Leader, The Goal, And What They Wanted With Us
+
+- **Flesh golems were burning bodies** east of where we were. **Destroyed.** Then **more cultists** to the north.
+- **A book** showed that **the young people brought here had their blood extracted for some sort of ritual.** **The oldest is 15.**
+- **At the top of the dungeon: [[Rulf Cloudfang|Rulf]], the cult's current leader.**
+- **[[Estelle Moonglow Platinum|Estelle]] was being groomed to be the next leader of the cult.**
+- **[[Jaak Greye|Jaak]] was only good for his blood** — to **finish whatever ritual they're working towards.**
+- **The goal: bringing [[Cyric]] back.**
+- **We thought we killed Rulf;** his **body dissipated** when Jaak checked it, and **he stabbed [[Ilin Cotton|Ilin]] to death** as he vanished into the ether.
+- **Ilin's belongings:** a **picture of [[The Traveling Wilmelons|Jaak's troupe]]** and **his notes about the cult and his investigation.** We're carrying his body and **searching the rest of the dungeon for children still alive.**
+
+> **This is the biggest single reveal of the cult arc.** We have its **leader**, its **goal**, and **why it wanted Estelle and Jaak** — and the two people it wanted most are **standing in its dungeon.** See [[Blood of the Ancients]] for what Althariel said that blood can do.
+
 ## Convergence Points
 
 This quest may collapse multiple arcs at once:
 - **[[The Cult in Helms Hold]]** — likely same cult
 - **Find [[Ilin Cotton]]** — Ilin's "urgent secret" almost certainly tied to the cult; he's chasing them to [[Yartar]]
-- **[[Jaaks Celestial War|Jaak's kidnapping]]** — possibly a Cyric operation
+- **[[Jaaks Celestial War|Jaak's kidnapping]]** — ✅ **a Cult of Cyric operation** *(confirmed)*
 - **[[Find Rulf Cloudfang|Take down Rulf]]** — cult lieutenant
 - **[[Var Borgal|Var]] vs [[Cardon Malefic]]** — Cardon is now dealing with the cult; the Var arc and the Cyric arc point at the *same* Yartar meeting. **S73: Cardon's man [[Doctor Hadol]] was working for the cult in their dungeon**
 - **[[The Exquisites Investigation]]** — ⭐ **S73: confirmed one of the cult's child-kidnapping operations.** The doppelganger circus was **a cult supply line**
@@ -63,10 +80,11 @@ This quest may collapse multiple arcs at once:
 
 ## Leads
 
-- ⭐ **[[Ilin Cotton]]** *(S73)* — **freed, and the cult held him.** He's the closest thing we have to an expert on this operation. **Debrief him.**
-- ⭐ **The children** *(S73)* — Ilin believes they're **here**, in or around the dungeon
+- 💀 ~~**[[Ilin Cotton]]**~~ *(S73)* — **killed by Rulf, S74.** ⭐ **His notes on the cult and his investigation** are what's left — **read them.**
+- ⭐ **The children** *(S73)* — Ilin believed they're **here**, in or around the dungeon. **S74: their blood was being drawn for the ritual; the oldest is 15. Find any still alive.**
+- ⭐ **The book** *(S74)* — the cult's own record of the blood extraction
 - ~~**The red-hooded mage**~~ *(S73)* — **captured, interrogation failed; killed when he attacked [[Var Borgal|Var]] mid-deal.** Dead end.
 
 - Estelle and Jaak know the monastery's location — confirm with players/DM
-- **[[Rulf Cloudfang]]** knows the cult leader personally — capturing him would crack it open
+- **[[Rulf Cloudfang]]** — ~~knows the cult leader personally~~ **is the cult leader (S74)**. Vanished into the ether; **find out whether he's dead**
 - **The note Jaak found** mentioning "the girl will be enough, faces to go around" — wait that's from the [[The Beliard Mystery|face-eater operation]], not Cyric. Different threads. Keep separate.

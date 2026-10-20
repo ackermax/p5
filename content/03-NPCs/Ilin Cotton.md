@@ -1,6 +1,7 @@
 ---
-tags: [npc, status/active, harpers, jaak-arc, plot-critical]
-status: found (session 73) — freed from a Cult of Cyric torture room under a Yartar house; fighting alongside the party
+tags: [npc, deceased, harpers, jaak-arc, plot-critical]
+aliases: [Ilyn]
+status: dead — killed by Rulf Cloudfang (session 74); found and freed session 73. The party is carrying his body
 race: Halfling
 faction: Harpers
 ---
@@ -10,10 +11,12 @@ faction: Harpers
 > **Race:** Halfling
 > **Role / Instrument:** Keytarist — "the only keytar player anyone had ever seen"
 > **Affiliation:** **[[Harpers]]** (confirmed session 56)
-> **Status (S73):** ⭐ **FOUND.** **Held in a torture room** in the [[Cult of Cyric|cult]] dungeon under a house on his own journal's list, in [[Yartar]]. **We freed and healed him**, and **he's fighting alongside us** to save **children he believes the cult brought here.**
+> **Status (S74):** 💀 **DEAD.** **[[Rulf Cloudfang|Rulf]] stabbed and killed him** at the top of the [[Cult of Cyric|cult]] dungeon under [[Yartar]], as Rulf vanished into the ether. **We picked up his body and are carrying it.** Among his belongings: **a picture of [[The Traveling Wilmelons|Jaak's troupe]]** and **his notes about the cult and his investigation.**
+> **Previous status (S73):** **FOUND.** **Held in a torture room** in the [[Cult of Cyric|cult]] dungeon under a house on his own journal's list, in [[Yartar]]. **We freed and healed him**, and **he fought alongside us** to save **children he believed the cult brought here.**
 > **Previous status (S71–S72):** lodging at One Foot in the Boot, **absent from his room for a week**
 > **Earlier status:** **Alive and active as of a few weeks ago** — was at [[Tavern Misty Beard]] looking for [[Rulf Cloudfang]] and [[Malkyn Serpentwind]]; has since **departed for [[Yartar]]** to chase a [[Cult of Cyric|Cult of C]] lead (per Malkyn, session 57)
-> **Disposition:** Ally — **fighting at our side (S73)**
+> **Disposition:** Ally — **fought at our side (S73–S74) until he was killed**
+> *Var's S74 notes spell him "Ilyn" — a guess; **Ilin** is correct (confirmed 2026-10-19). Kept as an alias so Var's spelling still resolves.*
 
 ## Major Revelation (Session 56)
 
@@ -72,9 +75,18 @@ We started working the journal. **The house where Ilin was last seen — one of 
 - **[[Doctor Hadol]] interrupted** before we got far: a doctor working for **[[Cardon Malefic]]**, there with a **red-hooded [[Cult of Cyric|cult]] mage**. Hadol escaped; we took the mage, who gave us nothing and was **killed when he tried to attack [[Var Borgal|Var]] during the dealmaking.**
 - **Ilin is fighting with us.** He's here **to save the children he believes the cult brought to this place**, taken by **various methods** — and **the Exquisites circus in [[Waterdeep]] was one of the [[Cult of Cyric|cult]]'s child-kidnapping operations** *(confirmed)* ([[The Exquisites Investigation]]).
 
-> **Still unasked, or unrecorded:** what he's found, **what the cult's interrogators wanted out of him**, the **"something urgent"** he was going to tell [[Jaak Greye|Jaak]] years ago, and whether **"Ilin" is his real name** (S63).
+> **Never asked — he died in S74 before we could:** what he's found, **what the cult's interrogators wanted out of him**, the **"something urgent"** he was going to tell [[Jaak Greye|Jaak]] years ago, and whether **"Ilin" is his real name** (S63).
 
 See [[Find Ilin Cotton]].
+
+## 💀 Killed By Rulf (Session 74)
+
+- **He went with us through the rest of the dungeon** — past the **flesh golems burning bodies**, through **more cultists**, to **the top**, where the hooded figure was **[[Rulf Cloudfang|Rulf]]**: the man Ilin had been hunting since at least the Misty Beard, and **the [[Cult of Cyric|cult]]'s current leader.**
+- **We thought we'd killed Rulf.** When [[Jaak Greye|Jaak]] went to check the body, **it dissipated as if he was never there**, and **Rulf stabbed Ilin and killed him** as he disappeared into the ether.
+- **In his belongings:** **a picture of [[The Traveling Wilmelons|Jaak's troupe]]**, and **notes about the cult and his investigation.**
+- **We picked up his body** and kept searching the dungeon for any children still alive.
+
+> **What died with him:** the **"something urgent"** he tried to tell [[Jaak Greye|Jaak]] at the monastery, **what the cult's interrogators wanted**, and whether **"Ilin" was his real name** (S63). **His notes are all that's left of his Harper intelligence.** The [[Harpers]] lost one of theirs — and **[[Oren]], his cousin, doesn't know yet.**
 
 ## Description (Per Harper Intel)
 
@@ -113,8 +125,9 @@ That night, when it was time to perform, **Ilin was nowhere to be found**. He ha
 - ~~Was he captured by the cult?~~ — **no, he extracted himself and kept investigating**
 - ~~Is he free?~~ — **no: the [[Cult of Cyric|cult]] had him in a torture room under a [[Yartar]] house. Freed by us, S73**
 - What's the "**problem with his legs**" — injury from his investigation?
-- **What was he going to tell Jaak?** We have him now, so ask
-- **Where are the children he came for?** *(S73)*
+- **What was he going to tell Jaak?** *(S74: he died before we asked. His notes may hold it.)*
+- **Where are the children he came for?** *(S73)* — **S74: the cult was extracting their blood for a ritual to bring [[Cyric]] back; the oldest is 15.** We're still looking for survivors
+- **What do his notes say?** *(S74)* — and **why was he carrying a picture of the troupe?**
 - Were he and [[Estelle Moonglow Platinum]] (also a Harper) in contact?
 - **What's the [[Yartar]] lead specifically?** — a cell? a person? the location of the "end of the world" event? **Part-answered S73: a [[Cult of Cyric|cult]] dungeon under a house, and the children he believes were taken there.**
 

@@ -9,7 +9,7 @@ location: Goldenfields (last known)
 # Oren
 
 > **Race:** Halfling bard
-> **Relation:** Cousin of **[[Ilin Cotton]]**
+> **Relation:** Cousin of **[[Ilin Cotton]]** — 💀 **Ilin was killed by [[Rulf Cloudfang]] in S74. Oren hasn't been told.**
 > **Disposition:** Friendly to the party
 
 ## How We Met
