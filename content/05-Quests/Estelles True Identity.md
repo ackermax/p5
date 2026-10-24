@@ -38,6 +38,10 @@ At the top of the [[Cult of Cyric|cult]] dungeon under [[Yartar]], facing **[[Ru
 
 - **So the cult wanted her for something specific** — and it wasn't the same thing it wanted Jaak for. **Why her?** Bloodline, parentage, or something else is **not stated.**
 
+## The "Mother" *(S75)*
+
+In the same dungeon, an **older woman** — **the cult's "mother"** — **seemed to have affection for Estelle.** It came to a fight and **she died**; Estelle **died too, and was revived** by [[Sir Joseph Gordon Die Hard|Sir Joseph]]. **The cult was grooming Estelle to lead, and [[Jaak Greye|Jaak]] to be [[Cyric]]'s vessel** *(confirmed)*. **"Mother" is a cult title as far as we know** — **nothing recorded says she was Estelle's mother.** Var took **papers off her body**; they're about [[Cardon Malefic]], not Estelle — **as far as Var's notes go.**
+
 ## Open Questions
 
 - **Did the cult know what she was?** Was the monastery a nursery, not an orphanage? **S74: they were grooming her as their next leader — they knew she mattered. Whether they knew *why* is still open.**

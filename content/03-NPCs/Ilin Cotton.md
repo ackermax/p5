@@ -11,7 +11,7 @@ faction: Harpers
 > **Race:** Halfling
 > **Role / Instrument:** Keytarist — "the only keytar player anyone had ever seen"
 > **Affiliation:** **[[Harpers]]** (confirmed session 56)
-> **Status (S74):** 💀 **DEAD.** **[[Rulf Cloudfang|Rulf]] stabbed and killed him** at the top of the [[Cult of Cyric|cult]] dungeon under [[Yartar]], as Rulf vanished into the ether. **We picked up his body and are carrying it.** Among his belongings: **a picture of [[The Traveling Wilmelons|Jaak's troupe]]** and **his notes about the cult and his investigation.**
+> **Status (S74):** 💀 **DEAD.** **[[Rulf Cloudfang|Rulf]] stabbed and killed him** at the top of the [[Cult of Cyric|cult]] dungeon under [[Yartar]], as Rulf vanished into the ether. **We picked up his body and are carrying it** — **[[Gotrek Runehammer|Gotrek]] has him over his shoulder (S75).** Among his belongings: **a picture of [[The Traveling Wilmelons|Jaak's troupe]]** and **his notes about the cult and his investigation.**
 > **Previous status (S73):** **FOUND.** **Held in a torture room** in the [[Cult of Cyric|cult]] dungeon under a house on his own journal's list, in [[Yartar]]. **We freed and healed him**, and **he fought alongside us** to save **children he believed the cult brought here.**
 > **Previous status (S71–S72):** lodging at One Foot in the Boot, **absent from his room for a week**
 > **Earlier status:** **Alive and active as of a few weeks ago** — was at [[Tavern Misty Beard]] looking for [[Rulf Cloudfang]] and [[Malkyn Serpentwind]]; has since **departed for [[Yartar]]** to chase a [[Cult of Cyric|Cult of C]] lead (per Malkyn, session 57)

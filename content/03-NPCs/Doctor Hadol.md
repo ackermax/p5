@@ -21,6 +21,10 @@ first-met: Session 73
 - **He walked in on us** just after we freed and healed [[Ilin Cotton|Ilin]] in the torture room, before Ilin could tell us much.
 - **He escaped with a technological dimension door.** It was a device, not a spell. **We knocked out the red-hooded mage instead**, but got nothing out of him, and **he was killed when he tried to attack [[Var Borgal|Var]] during the dealmaking.** **So the one man who could tell us what Hadol was hired for is dead.**
 
+## Session 75 — The Golem Was A Gift
+
+**Papers off the corpse of the cult's "mother"** say **[[Cardon Malefic|Cardon]] and "the doctor" — Hadol *(confirmed)* — gave the [[Cult of Cyric|cult]] the anti-magic golem as a "gift"**, to help **expand the cult's reach.** **It's the thing guarding the prison block** in the dungeon. So the S73 picture — **Hadol as a hired contractor** — is only half of it: **Cardon's side is also *giving* the cult things.**
+
 ## What They Want
 
 - **Technology to rival magic.** Beyond that, unknown.
@@ -39,6 +43,6 @@ first-met: Session 73
 
 - **Is this what [[Cardon Malefic]] and the [[Cult of Cyric|cult]] agreed to at [[Yartar]]?** Cardon came here to meet them (S59). **Now a man who works for Cardon is on the cult's payroll, under the city.**
 - **What was the cult paying him to build or do down here?**
-- **Does his technology have anything to do with Cardon's anti-magic field?** That field is maintained by Cardon's **knight** (S59). **Nothing connects the two yet**; it's a question, not a theory.
+- ~~**Does his technology have anything to do with Cardon's anti-magic field?**~~ — **S75: he and Cardon gave the cult an *anti-magic golem*.** **The golem guards a prison block in the dungeon.** Whether he also built the **knight that sustains Cardon's own field** (S59) is not recorded.
 - **Where did his dimension door take him?** He knows our faces now, and **he answers to the man with a 25,000 gp bounty on [[Var Borgal|Var]].**
 - **Did he recognize Var?** *(Not recorded. We were in disguise, S72.)*

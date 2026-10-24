@@ -14,7 +14,7 @@ giver: Estelle Moonglow Platinum / Jaak Greye
 Bring down the **[[Cult of Cyric]]** and its leadership. They:
 - Raised [[Estelle Moonglow Platinum|Estelle]] in deprivation while hoarding her inheritance
 - Allied with [[Rulf Cloudfang]] to silence [[Ilin Cotton]] — **and Rulf now leads them, and killed Ilin (S74)**
-- **Are working to bring [[Cyric]] back** *(S74)*, using **children's blood** and needing **[[Jaak Greye|Jaak]]'s blood to finish**
+- **Are working to bring [[Cyric]] back** *(S74)*, using **children's blood** and needing **[[Jaak Greye|Jaak]]'s blood to finish** — **and Jaak himself as Cyric's vessel (S75)**
 - **Scouted [[Jaak Greye]] (and others) for sacrifice** — Jaak was a high-value target
 - **Kidnapped Jaak for his blood** *(confirmed)* — see [[Jaaks Celestial War]]
 - Have been hunting both since the heist
@@ -27,7 +27,8 @@ Bring down the **[[Cult of Cyric]]** and its leadership. They:
 ⬜ The mother monastery still operates
 ⬜ The cult leader still lives — **it's [[Rulf Cloudfang|Rulf]] (S74).** "Killed," but his body dissipated and he vanished
 ⬜ **The ritual to bring [[Cyric]] back** is still in progress *(S74)*
-⬜ **Children still unaccounted for** in the [[Yartar]] dungeon *(S74)*
+⬜ **Children still unaccounted for** in the [[Yartar]] dungeon *(S74)* — **S75: a prison block guarded by the anti-magic golem is the one place we haven't been past**
+✅ **The cult's "mother" is dead** *(S75)*
 ⬜ Jaak's blood may already have been collected during the [[Jaaks Celestial War|kidnapping]]
 ⬜ Rulf Cloudfang still at large (**last seen S74, vanishing at the top of the [[Yartar]] dungeon**)
 
@@ -67,6 +68,19 @@ The dungeon under the house on [[Find Ilin Cotton|Ilin's list]] (S72) **is the c
 
 > **This is the biggest single reveal of the cult arc.** We have its **leader**, its **goal**, and **why it wanted Estelle and Jaak** — and the two people it wanted most are **standing in its dungeon.** See [[Blood of the Ancients]] for what Althariel said that blood can do.
 
+## ⭐ Session 75 — The Mother, A Death, And Cardon's Papers
+
+- **[[Gotrek Runehammer|Gotrek]] threw [[Ilin Cotton|Ilin]]'s body over his shoulder** and we went looking for the children.
+- **A prison block, guarded by the anti-magic golem [[Cardon Malefic|Cardon]] gave the cult** — it **seemed bound to the space with some sort of mission.** **We didn't want the fight and backed out.**
+- **A large room, and an older woman waiting: the cult's "mother."** **She seemed to have affection for [[Estelle Moonglow Platinum|Estelle]].** **Estelle would be the leader, and [[Jaak Greye|Jaak]] was being set up to be [[Cyric]]'s vessel** *(confirmed)*.
+- **Fight, then an ambush by more cultists.** **We barely made it out alive — Estelle died as she killed the last enemy.** **[[Sir Joseph Gordon Die Hard|Sir Joseph]] took the *revivify* scroll she was carrying and, with Var walking him through it from one of his necromancy books, brought her back.**
+- **Var took papers off the mother's corpse** and read them while we hid for a short rest:
+  - **Cardon and [[Doctor Hadol]] gave the cult the anti-magic golem as a "gift"** to help **expand the cult's reach.**
+  - **Cardon was looking for information on how [[Cyric]] became a god.** **Next clue: [[The Netherese|the Netherese]]** — **Karsus** and ***Karsus' Avatar***, which **failed and caused magic to leave the world for a time.**
+  - **Cardon is here with mercenaries of [[Jarlaxle|Jarlaxle Baenre]].**
+
+> **Cardon isn't just doing business with the cult — he's arming it**, and **studying the one thing the cult's god did that no one else managed: becoming a god.** The cult wants **Cyric back**; **Cardon wants to know how Cyric got there.** **Those may not be the same goal.**
+
 ## Convergence Points
 
 This quest may collapse multiple arcs at once:
@@ -83,6 +97,8 @@ This quest may collapse multiple arcs at once:
 - 💀 ~~**[[Ilin Cotton]]**~~ *(S73)* — **killed by Rulf, S74.** ⭐ **His notes on the cult and his investigation** are what's left — **read them.**
 - ⭐ **The children** *(S73)* — Ilin believed they're **here**, in or around the dungeon. **S74: their blood was being drawn for the ritual; the oldest is 15. Find any still alive.**
 - ⭐ **The book** *(S74)* — the cult's own record of the blood extraction
+- ⭐ **The guarded prison block** *(S75)* — **the anti-magic golem Cardon gave the cult**, bound there. **Magic won't help us past it.** **Likeliest place for the children.**
+- ⭐ **The mother's papers** *(S75)* — **Var has them.** Cardon, the golem, and [[The Netherese|the Netherese]].
 - ~~**The red-hooded mage**~~ *(S73)* — **captured, interrogation failed; killed when he attacked [[Var Borgal|Var]] mid-deal.** Dead end.
 
 - Estelle and Jaak know the monastery's location — confirm with players/DM

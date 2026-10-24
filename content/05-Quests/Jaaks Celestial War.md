@@ -42,6 +42,8 @@ This happened recently (during the [[Waterdeep]] arc). Someone took Jaak. They w
 This is no longer just "Jaak's backstory mystery." Someone is **actively trying to become a god using Jaak's blood**.
 
 > **⭐ CONFIRMED — the kidnapper is the [[Cult of Cyric]]** *(confirmed by the user 2026-10-19)*. In S74, facing [[Rulf Cloudfang|Rulf]], the cult's current leader, under [[Yartar]], we learned the cult wants **Jaak's blood to finish a ritual to bring [[Cyric]] back.** **The cult that kidnapped Jaak is the same cult that raised [[Estelle Moonglow Platinum|Estelle]] and that Rulf scouted for.** The old "someone" in this section now has a name.
+>
+> **⭐ S75 — confirmed:** **Jaak was being set up to be [[Cyric]]'s vessel** — not just a blood donor. **The S68 reframe was right: they want *him*.**
 
 ## What This Implies
 

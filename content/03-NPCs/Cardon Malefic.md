@@ -8,7 +8,7 @@ location: Waterdeep (recently arrived)
 
 > **Role:** Var's former lord, now his enemy
 > **Disposition:** Hostile
-> **Current Status:** In [[Waterdeep]]; **departing for [[Yartar]] in ~3 days (as of S59)** to meet the [[Cult of Cyric|Cult of C]], guarded by [[Black Network|Zhentarim]] + [[Jarlaxle]]. Bounty on [[Var Borgal|Var]] now **25,000 gp, alive.** Carries an **anti-magic field** (maintained by his knight).
+> **Current Status:** **In [[Yartar]], with mercenaries of [[Jarlaxle|Jarlaxle Baenre]]** — per the papers of the [[Cult of Cyric|cult]]'s "mother" (S75). *(S59: departed [[Waterdeep]] to meet the cult there, guarded by [[Black Network|Zhentarim]] + Jarlaxle.)* Bounty on [[Var Borgal|Var]] now **25,000 gp, alive.** Carries an **anti-magic field** (maintained by his knight).
 
 ## Background
 
@@ -48,6 +48,23 @@ In the [[Cult of Cyric|cult]] dungeon beneath a [[Yartar]] house, just after we 
 - **Hadol got away using a technological dimension door.** We captured the mage but **the interrogation got us nothing.**
 
 > **This is the first time we've seen the Cardon–cult deal from S59 in practice.** Cardon came to [[Yartar]] to meet the cult. **Now one of his people is working for them** in a dungeon where **they tortured a [[Harpers|Harper]]** and where Ilin believes **they're holding kidnapped children.** **Cardon himself has not been seen in Yartar.**
+
+## ⭐ He's Arming The Cult — And Studying Godhood (Session 75)
+
+From **papers [[Var Borgal|Var]] took off the corpse of the cult's "mother"** in the dungeon under [[Yartar]]:
+
+- **Cardon and [[Doctor Hadol]] gave the [[Cult of Cyric|cult]] the anti-magic golem as a "gift"** — to help **expand the cult's reach.**
+- **Cardon was looking for information on how [[Cyric]] became a god.**
+- **The next clue is with [[The Netherese|the Netherese]]**, an ancient civilization of incredible magic — specifically **Karsus**, who **wanted to be the god of magic** and created ***Karsus' Avatar*** to do it. **It failed and caused magic to leave the world for a time.**
+- **Cardon is here with mercenaries of [[Jarlaxle|Jarlaxle Baenre]].**
+
+And in the dungeon itself: **that golem, guarding a prison block**, **seemingly bound to the space with some sort of mission.** We backed out rather than fight it. *(Var's notes called it "one of Cardon's anti-magic knights"; **it's the golem** — confirmed. Whether it has anything to do with the knight that sustains Cardon's own field (S59) is not recorded.)*
+
+**Var's questions, as he wrote them:**
+- **Is Cardon trying to follow in Cyric's footsteps** — **kill the god behind the Weave ([[Mystra]]) and become a god himself?** **Does he need to kill Mystra to do that?**
+- **Or is he looking to replicate it without the godhood part?**
+
+> **This is the first time we've seen what Cardon wants beyond Var.** A man who raised Var to **purge magic users**, who walks in an **anti-magic field**, is studying **the two times magic left the world** — and both were **mortals reaching for the godhood behind magic.**
 
 ## The Wanted Poster
 
@@ -102,4 +119,7 @@ In the [[Cult of Cyric|cult]] dungeon beneath a [[Yartar]] house, just after we 
 - **Why was [[Ilin Cotton]] asking about him?** *(S71)* — in [[Yartar]], Ilin asked [[Joanne]] at his inn about **Cardon**, [[Rulf Cloudfang]], and Through and Through Investigators. **Ilin is on Cardon's trail too** — and Ilin hasn't been back to his room in a week.
 - **What is [[Doctor Hadol]] building for him?** *(S73)* — **"technology to rival magic."** For a man who wanted to **purge magic users**, that's a natural thing to want. **Is it connected to the anti-magic field?** Not known.
 - **Is Hadol's cult contract Cardon's idea, or Hadol's side job?** *(S73)*
-- **How do we fight a man whose presence cancels magic?** The field is sustained by his **knight**, not him — take the knight first?
+- **How do we fight a man whose presence cancels magic?** The field is sustained by his **knight**, not him — take the knight first? **S75: the anti-magic golem he gave the cult guards a prison block under [[Yartar]].**
+- **⭐ What does he want with how [[Cyric]] became a god?** *(S75)* — godhood for himself, or the **method** without it? **Does it require killing [[Mystra]]?** See [[The Netherese]].
+- **What does he get from the cult in exchange for the golem?** *(S75)*
+- ~~**Is it connected to the anti-magic field?**~~ *(S73)* — **S75: Cardon and [[Doctor Hadol|Hadol]] gave the cult an anti-magic golem.** Hadol's work and anti-magic are connected.

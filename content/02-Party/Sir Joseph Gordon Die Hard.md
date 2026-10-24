@@ -46,6 +46,7 @@ Soldier background + Lord's Alliance affiliation + sworn hatred of orcs reads as
 
 ## Threads To Watch
 
+- **⚕️ He brought Estelle back** *(S75)* — when [[Estelle Moonglow Platinum|Estelle]] died finishing the last enemy of a [[Cult of Cyric|cult]] ambush, **Joseph took the *revivify* scroll she was carrying and cast it**, with **[[Var Borgal|Var]] walking him through it from a necromancy book.** **A ranger reading a scroll he'd never cast, coached out of a necromancy text — and it worked.**
 - **The Stone Stand grave robbery** *(S69)* — Joseph and [[Estelle Moonglow Platinum|Estelle]] were the **two-person team** sent into the Blue Bears' burial ground at [[Ulfgardian Mounds|Stone Stand]]: locate the relic by spell, dig, and **dimension door out of the burial ground entirely** so the pursuit would have nothing to follow. **The tribe's ghosts rose while they dug.** They got out with the relic — **a 100 lb giant's skull**. See [[Gather Ulfgardian Relics]].
 
 - ✅ **Wyvern Tor orcs handled** — 5 orcs + 1 troll cleared

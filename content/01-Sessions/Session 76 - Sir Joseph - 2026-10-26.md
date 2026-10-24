@@ -1,11 +1,11 @@
 ---
 tags:
   - session
-date: 2026-10-19
-session-number: 75 - Sir Joseph
+date: 2026-10-26
+session-number: 76 - Sir Joseph
 ---
 
-# Session 75 - Sir Joseph — 2026-10-19
+# Session 76 - Sir Joseph — 2026-10-26
 
 > **In-game date:**
 > **Location:** [[]]

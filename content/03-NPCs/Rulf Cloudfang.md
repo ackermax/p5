@@ -68,5 +68,6 @@ This doesn't make him less dangerous, and doesn't change that he beats people an
 - **How did he become the cult's leader?** *(S74)* — and **what happened to the leader from Jaak's monastery years?**
 - **What is the leverage holding Rulf?** (per Malkyn's "puppet" read)
 - ~~What is Rulf's relationship to the cult leader specifically?~~ — **he *is* the leader now (S74)**
+- **Where did the cult's "mother" stand relative to him?** *(S75)* — she's dead, in the same dungeon; leader and "mother" both, and **nothing recorded says who answered to whom.**
 - How many of the Wilmelons are still loyal to him?
 - **Where is Rulf now?** — **last seen S74 at the top of the cult dungeon under [[Yartar]], vanishing into the ether.** Current location unknown.

@@ -1,7 +1,8 @@
 ---
 tags: [npc, status/active]
+aliases: [Jarlaxle Baenre]
 status: active
-location: Waterdeep
+location: Yartar? (his mercenaries are with Cardon, S75)
 faction: unknown (leads his own brigade)
 first-met: Session 59
 ---
@@ -24,6 +25,8 @@ A **drow dressed as an admiral / pirate**. **Very laid back** — bored, almost 
 - **Bored** — came to the meeting "looking for someone interesting to work with," someone who "could use his brigade." **[[Thomas]] offered to assist** his search.
 - **In town on a search of his own** (target unstated)
 - **Accepted [[Cardon Malefic]]'s offer** to escort him to [[Yartar]] — but is **afraid of Yartar because of krakens(?)**
+- **Full name: Jarlaxle Baenre** *(as [[Var Borgal|Var]] logged it, S75)*
+- **S75: [[Cardon Malefic|Cardon]] is in [[Yartar]] "with mercenaries of Jarlaxle Baenre"** — per the papers of the [[Cult of Cyric|cult]]'s "mother." **He took the escort job.** Whether Jarlaxle himself is in the city is not recorded.
 - Var places him as **the pirate seen earlier at the gambling den** (the animal-fights den in [[Waterdeep]]) — so he's been moving in our orbit for a while
 
 ## What He Wants

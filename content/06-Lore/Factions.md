@@ -46,7 +46,7 @@ Detectives we worked with on the [[Kryptgarden Forest]] gold thief case. Found t
 ## Hostile — Active Threats
 
 ### [[Cult of Cyric]]
-Estelle and Jaak's enemy. Mother monastery still active. Ran [[The Death Knight Ritual]] (we stopped one cell). Likely the [[The Cult in Helms Hold|Helm's Hold cult]]. Operates an inner body called **[[The Circle]]** (confirmed session 56) — commissioning [[Skeemo Weirdbottle]] for Enhanced Torpor. **S59: "risen from the ashes," gathering poisons, "trying something big," converging on [[Yartar]] — and [[Cardon Malefic]] is meeting them there.**
+Estelle and Jaak's enemy. Mother monastery still active. Ran [[The Death Knight Ritual]] (we stopped one cell). Likely the [[The Cult in Helms Hold|Helm's Hold cult]]. Operates an inner body called **[[The Circle]]** (confirmed session 56) — commissioning [[Skeemo Weirdbottle]] for Enhanced Torpor. **S59: "risen from the ashes," gathering poisons, "trying something big," converging on [[Yartar]] — and [[Cardon Malefic]] is meeting them there.** **S74: led by [[Rulf Cloudfang|Rulf]]; goal is to bring [[Cyric]] back.** **S75: their "mother" is dead; Cardon gave them an anti-magic golem.**
 
 ### [[The Circle]]
 **Inner ranks of the [[Cult of Cyric]].** Referenced in the recovered cult letter ("The Circle turns... the Circle will remember"). Specific members and meeting place unknown.
@@ -79,7 +79,7 @@ A merchant empire with an outpost in [[Phandalin]] (lion on a shield emblem). **
 "Bad groups" — almost certainly Zhentarim cover identities.
 
 ### [[Cardon Malefic]]'s Inquisition
-Personal to [[Var Borgal]]. Magic-purge politics. **Cardon carries an anti-magic field** (maintained by his knight). Bounty on Var now **25,000 gp, alive** (S59). **Departing for [[Yartar]] in ~3 days to meet the [[Cult of Cyric|Cult of C]]**, escorted by [[Black Network|Zhentarim]] + [[Jarlaxle]]. **S73: his man [[Doctor Hadol]], who builds technology to rival magic, was working as a contractor in the [[Cult of Cyric|cult]]'s dungeon under Yartar.**
+Personal to [[Var Borgal]]. Magic-purge politics. **Cardon carries an anti-magic field** (maintained by his knight). Bounty on Var now **25,000 gp, alive** (S59). **Departing for [[Yartar]] in ~3 days to meet the [[Cult of Cyric|Cult of C]]**, escorted by [[Black Network|Zhentarim]] + [[Jarlaxle]]. **S73: his man [[Doctor Hadol]], who builds technology to rival magic, was working as a contractor in the [[Cult of Cyric|cult]]'s dungeon under Yartar.** **S75: Cardon is in Yartar with [[Jarlaxle|Jarlaxle Baenre]]'s mercenaries; he and [[Doctor Hadol]] gave the cult an anti-magic golem (it guards a prison block in the dungeon); and he's researching how [[Cyric]] became a god** ([[The Netherese]]).
 
 ### Servants of Bahamut (Imposters)
 **Not the real Bahamut faction** — evil actors using the Platinum Dragon's symbol. Operate in [[Kryptgarden Forest]]. They talk about going to **Leeland** for the "dragon of justice." Watch for this iconography elsewhere — it's specifically *deceptive*.

@@ -89,15 +89,16 @@ Three years later, returned with the troupe. Estelle had learned the full truth 
 ### The Kidnapping
 > **Jaak was stolen by someone who wants ascension and wants Jaak's blood. Angel blood. Celestia.**
 >
-> ⭐ **Confirmed: it was the [[Cult of Cyric]]**, the cult that wants his blood to bring [[Cyric]] back (S74).
+> ⭐ **Confirmed: it was the [[Cult of Cyric]]**, the cult that wants his blood to bring [[Cyric]] back (S74) — **and was setting him up to be Cyric's vessel (S75, confirmed).**
 
-This happened recently (per the Waterdeep arc). The kidnapper wants to **ascend** using **Aasimar blood / celestial blood from Mount Celestia**. **S68 reframes this:** the ancient blood is what makes a body **fit to hold a god** — so the kidnapper may not want a reagent, **they may want Jaak himself as the vessel.** See [[Blood of the Ancients]] and [[Jaaks Celestial War]].
+This happened recently (per the Waterdeep arc). The kidnapper wants to **ascend** using **Aasimar blood / celestial blood from Mount Celestia**. **S68 reframes this:** the ancient blood is what makes a body **fit to hold a god** — so the kidnapper may not want a reagent, **they may want Jaak himself as the vessel.** **⭐ S75: confirmed — Cyric's vessel.** See [[Blood of the Ancients]] and [[Jaaks Celestial War]].
 
 ### ⭐ What The Cult Wanted With Him *(S74)*
 - At the top of the [[Yartar]] dungeon, face to face with **[[Rulf Cloudfang|Rulf]]** — now **the [[Cult of Cyric|cult]]'s current leader** — we learned **Jaak was only ever good for his blood**, to **finish whatever ritual they're working towards.** **The ritual is meant to bring [[Cyric]] back.**
 - **[[Estelle Moonglow Platinum|Estelle]], by contrast, was being groomed to lead the cult.**
 - **Rulf killed [[Ilin Cotton|Ilin]] in front of him**, then vanished; **the body Jaak went to check dissipated as if Rulf was never there.**
 - ⭐ **The [[Cult of Cyric|cult]] is the same party that [[Jaaks Celestial War|kidnapped him for his blood]]** *(confirmed)*.
+- **⭐ Cyric's vessel** *(S75, confirmed)* — **Jaak was being set up to be [[Cyric]]'s vessel**. **Not only a blood source, as S74 had it: the cult meant to put its god *in him*.** That's exactly what [[Blood of the Ancients|Althariel said the blood is for]] — a body strong enough to hold a god.
 
 ### Find Ilin Cotton
 - 💀 **DEAD (S74).** **[[Rulf Cloudfang|Rulf]] stabbed and killed him** at the top of the cult dungeon. **Found S73** in a [[Cult of Cyric|cult]] torture room under a house on his own investigation list, freed and healed — and **dead a session later.** **What he was going to tell Jaak years ago was never heard.** In his belongings: **a picture of Jaak's troupe** and **his notes on the cult and his investigation.** The party is carrying his body.

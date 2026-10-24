@@ -77,6 +77,15 @@ Per [[Malkyn Serpentwind]] at the [[Tavern Misty Beard]] (S57), **[[Ilin Cotton]
 
 > **The [[Cult of Cyric|Cult of C]]'s "something big" under Yartar has a name now: bringing [[Cyric]] back.** **Its leader got away.**
 
+## ⭐ The Prison Block, The Mother, And A Death *(S75)*
+
+- **[[Gotrek Runehammer|Gotrek]] threw [[Ilin Cotton|Ilin]]'s body over his shoulder**; we went looking for the children.
+- **A prison block guarded by the anti-magic golem [[Cardon Malefic|Cardon]] gave the cult** — **bound to the space with some sort of mission.** **We backed out.**
+- **Another large room: the cult's "mother,"** an older woman with **affection for [[Estelle Moonglow Platinum|Estelle]].** Fight, then **an ambush of more cultists.** **She died. So did Estelle — killing the last enemy — and [[Sir Joseph Gordon Die Hard|Sir Joseph]] revived her** from a *revivify* scroll, coached by [[Var Borgal|Var]].
+- **We hid for a short rest** while Var read **the mother's papers**: **Cardon and [[Doctor Hadol]] gave the cult an anti-magic golem** — **the thing guarding the prison block**, **Cardon is researching how [[Cyric]] became a god** ([[The Netherese]]), and **Cardon is here with [[Jarlaxle|Jarlaxle Baenre]]'s mercenaries.**
+
+> **Cardon is in this city.** The man with **25,000 gp on [[Var Borgal|Var]]'s head** is in [[Yartar]] with a drow's mercenaries, and **the golem he gave the cult is standing in the dungeon we're hiding in.**
+
 ### Getting There *(S69)*
 
 **Yartar is a node on the [[Harpers|Harper teleportation-circle network]]** that [[Krowen Valharrow]] opened to us — **500 gp of diamond dust puts six of us in the city**, attendant present. **Relevant now for leaving and coming back**, not for arriving.
@@ -139,9 +148,11 @@ Per [[Malkyn Serpentwind]] at the [[Tavern Misty Beard]] (S57), **[[Ilin Cotton]
 - ✅ **Now that we're here: where do we start?** — **answered S71:** [[Xolkin]] → Through and Through → [[Garambitio]] → **Ilin's inn**
 - 🔄 **Work Ilin's journal** — **the houses he was investigating** *(S71)*. **S72: the first one had a dungeon under the carpet, and we are in it mid-fight.** The rest of the list is still unworked
 - ✅ **What is under the house, and is [[Ilin Cotton|Ilin]] down there?** *(S72)* — **a [[Cult of Cyric|cult]] dungeon, and yes: in a torture room. Freed (S73)**
-- ⭐ **Find the children** Ilin believed the cult brought here *(S73)* — **the live question.** **S74: their blood was being extracted for the ritual; the oldest is 15. Find any still alive**
+- ⭐ **Find the children** Ilin believed the cult brought here *(S73)* — **the live question.** **S74: their blood was being extracted for the ritual; the oldest is 15. Find any still alive.** **S75: the guarded prison block is the one place we haven't been past**
 - ⬜ **Where did [[Rulf Cloudfang|Rulf]] go?** *(S74)* — vanished into the ether after killing [[Ilin Cotton|Ilin]]
 - ⬜ **Get Ilin's body out** *(S74)* — and decide what's done with it
+- ⬜ **Get past the anti-magic golem at the prison block** *(S75)* — **magic won't work near it**; it seems bound there on a mission
+- ⬜ **Where is [[Cardon Malefic|Cardon]] in the city?** *(S75)* — **here, with [[Jarlaxle|Jarlaxle Baenre]]'s mercenaries**, per the mother's papers
 - ⬜ **Where did [[Doctor Hadol]] dimension-door to?** *(S73)* — he's loose in or near the city, and he works for [[Cardon Malefic]]
 - ⭐ **The [[Track the Red Mages|Red Mages]] are looking for us** — about [[Goldenfields]] *(S71)*. Meet them on our terms or not at all. **S72: they are searching the streets on foot and nearly caught [[Estelle Moonglow Platinum|Estelle]] near our inn; we are in disguise**
 - ⬜ **Who warned us at Through and Through, and about what?** *(S71)*
