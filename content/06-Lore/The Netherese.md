@@ -5,7 +5,7 @@ aliases: [Netherese]
 
 # The Netherese
 
-> **An ancient civilization — a race of incredible magic.** Everything we know comes from **papers [[Var Borgal|Var]] took off the corpse of the [[Cult of Cyric|cult]]'s "mother"** in the dungeon under [[Yartar]] — [[Session 75 - Var - 2026-10-19|Session 75]]. **The papers are about [[Cardon Malefic]]'s research**, so this is *his* trail we're reading.
+> **An ancient civilization — a race of incredible magic.** Everything we know comes from **papers [[Var Borgal|Var]] took off the corpse of the Great Mother** in the dungeon under [[Yartar]] — [[Session 75 - Var - 2026-10-19|Session 75]]. **The papers are about [[Cardon Malefic]]'s research**, so this is *his* trail we're reading.
 
 ## What The Papers Say *(S75)*
 

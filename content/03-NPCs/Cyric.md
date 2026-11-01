@@ -30,7 +30,7 @@ The first time anyone has laid out for us **who Cyric actually is**:
 
 ## ⭐ Cardon Is Studying How He Did It *(S75)*
 
-- **Papers off the corpse of the cult's "mother"** say **[[Cardon Malefic]] was looking for information on how Cyric became a god.** The trail runs to **[[The Netherese|the Netherese]]** and **Karsus**, who tried to become **god of magic** with ***Karsus' Avatar*** — and **drove magic out of the world for a time.**
+- **Papers off the corpse of the Great Mother** say **[[Cardon Malefic]] was looking for information on how Cyric became a god.** The trail runs to **[[The Netherese|the Netherese]]** and **Karsus**, who tried to become **god of magic** with ***Karsus' Avatar*** — and **drove magic out of the world for a time.**
 - [[Var Borgal|Var]]'s question: **is Cardon trying to follow in Cyric's footsteps — kill the god behind the Weave ([[Mystra]]) and become a god himself?**
 - **⭐ [[Jaak Greye|Jaak]] was being set up to be Cyric's vessel** *(S75, confirmed)*, with [[Estelle Moonglow Platinum|Estelle]] to lead the cult. That is the [[Blood of the Ancients|blood of the ancients]] doing exactly what Althariel said it does — **a body strong enough to hold a god.**
 

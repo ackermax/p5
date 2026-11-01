@@ -27,8 +27,8 @@ Bring down the **[[Cult of Cyric]]** and its leadership. They:
 ⬜ The mother monastery still operates
 ⬜ The cult leader still lives — **it's [[Rulf Cloudfang|Rulf]] (S74).** "Killed," but his body dissipated and he vanished
 ⬜ **The ritual to bring [[Cyric]] back** is still in progress *(S74)*
-⬜ **Children still unaccounted for** in the [[Yartar]] dungeon *(S74)* — **S75: a prison block guarded by the anti-magic golem is the one place we haven't been past**
-✅ **The cult's "mother" is dead** *(S75)*
+✅ **Children and adults freed from the prison cells** in the [[Yartar]] dungeon *(S76)* — whether that's all of them isn't recorded
+✅ **The Great Mother is dead** *(S75)*
 ⬜ Jaak's blood may already have been collected during the [[Jaaks Celestial War|kidnapping]]
 ⬜ Rulf Cloudfang still at large (**last seen S74, vanishing at the top of the [[Yartar]] dungeon**)
 
@@ -68,18 +68,27 @@ The dungeon under the house on [[Find Ilin Cotton|Ilin's list]] (S72) **is the c
 
 > **This is the biggest single reveal of the cult arc.** We have its **leader**, its **goal**, and **why it wanted Estelle and Jaak** — and the two people it wanted most are **standing in its dungeon.** See [[Blood of the Ancients]] for what Althariel said that blood can do.
 
-## ⭐ Session 75 — The Mother, A Death, And Cardon's Papers
+## ⭐ Session 75 — The Great Mother, A Death, And Cardon's Papers
 
 - **[[Gotrek Runehammer|Gotrek]] threw [[Ilin Cotton|Ilin]]'s body over his shoulder** and we went looking for the children.
-- **A prison block, guarded by the anti-magic golem [[Cardon Malefic|Cardon]] gave the cult** — it **seemed bound to the space with some sort of mission.** **We didn't want the fight and backed out.**
-- **A large room, and an older woman waiting: the cult's "mother."** **She seemed to have affection for [[Estelle Moonglow Platinum|Estelle]].** **Estelle would be the leader, and [[Jaak Greye|Jaak]] was being set up to be [[Cyric]]'s vessel** *(confirmed)*.
+- **A prison block, guarded by the anti-magic knight [[Cardon Malefic|Cardon]] gave the cult** — it **seemed bound to the space with some sort of mission.** **We didn't want the fight and backed out.**
+- **A large room, and an older woman waiting: the Great Mother.** **She seemed to have affection for [[Estelle Moonglow Platinum|Estelle]].** **Estelle would be the leader, and [[Jaak Greye|Jaak]] was being set up to be [[Cyric]]'s vessel** *(confirmed)*.
 - **Fight, then an ambush by more cultists.** **We barely made it out alive — Estelle died as she killed the last enemy.** **[[Sir Joseph Gordon Die Hard|Sir Joseph]] took the *revivify* scroll she was carrying and, with Var walking him through it from one of his necromancy books, brought her back.**
-- **Var took papers off the mother's corpse** and read them while we hid for a short rest:
-  - **Cardon and [[Doctor Hadol]] gave the cult the anti-magic golem as a "gift"** to help **expand the cult's reach.**
+- **Var took papers off the Great Mother's corpse** and read them while we hid for a short rest:
+  - **Cardon and [[Doctor Hadol]] gave the cult the anti-magic knight as a "gift"** to help **expand the cult's reach.**
   - **Cardon was looking for information on how [[Cyric]] became a god.** **Next clue: [[The Netherese|the Netherese]]** — **Karsus** and ***Karsus' Avatar***, which **failed and caused magic to leave the world for a time.**
   - **Cardon is here with mercenaries of [[Jarlaxle|Jarlaxle Baenre]].**
 
 > **Cardon isn't just doing business with the cult — he's arming it**, and **studying the one thing the cult's god did that no one else managed: becoming a god.** The cult wants **Cyric back**; **Cardon wants to know how Cyric got there.** **Those may not be the same goal.**
+
+## Session 76 — The Cells
+
+- **[[Var Borgal|Var]] disguised himself as [[Cardon Malefic|Cardon]] and dismissed the anti-magic knight, which worked.**
+- **The cells held children as well as adults.** **We got them all out**, took **a necrotic wave from a trap** on the ladder, and left them **at the nearest bell tower.**
+- **The Great Mother is officially known as the Great Mother.**
+- **[[Ilin Cotton|Ilin]]'s body went to a [[Harpers|Harper]]** at the [[Through and Through Detective Agency]].
+
+> **The cult lost its Great Mother, its prisoners, and this dungeon's guard.** **It did not lose [[Rulf Cloudfang|Rulf]] or the ritual.**
 
 ## Convergence Points
 
@@ -95,10 +104,10 @@ This quest may collapse multiple arcs at once:
 ## Leads
 
 - 💀 ~~**[[Ilin Cotton]]**~~ *(S73)* — **killed by Rulf, S74.** ⭐ **His notes on the cult and his investigation** are what's left — **read them.**
-- ⭐ **The children** *(S73)* — Ilin believed they're **here**, in or around the dungeon. **S74: their blood was being drawn for the ritual; the oldest is 15. Find any still alive.**
+- ⭐ **The children** *(S73)* — Ilin believed they're **here**, in or around the dungeon. **S74: their blood was being drawn for the ritual; the oldest is 15.** **✅ S76: found and freed. Were there more?**
 - ⭐ **The book** *(S74)* — the cult's own record of the blood extraction
-- ⭐ **The guarded prison block** *(S75)* — **the anti-magic golem Cardon gave the cult**, bound there. **Magic won't help us past it.** **Likeliest place for the children.**
-- ⭐ **The mother's papers** *(S75)* — **Var has them.** Cardon, the golem, and [[The Netherese|the Netherese]].
+- ✅ **The guarded prison block** *(S75)* — **emptied S76.**
+- ⭐ **The Great Mother's papers** *(S75)* — **Var has them.** Cardon, the anti-magic knight, and [[The Netherese|the Netherese]].
 - ~~**The red-hooded mage**~~ *(S73)* — **captured, interrogation failed; killed when he attacked [[Var Borgal|Var]] mid-deal.** Dead end.
 
 - Estelle and Jaak know the monastery's location — confirm with players/DM

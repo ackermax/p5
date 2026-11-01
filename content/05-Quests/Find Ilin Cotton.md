@@ -6,7 +6,7 @@ giver: Jaak Greye (personal) + Harpers
 
 # Find Ilin Cotton
 
-> **Status:** ✅ **Closed (S74).** **Found S73** in a [[Cult of Cyric|cult]] torture room under a [[Yartar]] house; 💀 **killed by [[Rulf Cloudfang]] S74.** We have **his body, a picture of the troupe, and his notes.** The rescue of **the children** carries on under [[Reckoning With The Cult Of Cyric]].
+> **Status:** ✅ **Closed (S74).** **Found S73** in a [[Cult of Cyric|cult]] torture room under a [[Yartar]] house; 💀 **killed by [[Rulf Cloudfang]] S74.** We have **a picture of the troupe and his notes**; **only his body went to a [[Harpers|Harper]] (S76).** The rescue of **the children** carries on under [[Reckoning With The Cult Of Cyric]].
 > **For:** [[Jaak Greye]]; also [[Harpers]] (Ilin is one of theirs)
 
 ## Objective
@@ -146,7 +146,8 @@ Ilin's Yartar lead is corroborated from the underworld side. At the [[Council of
 - ⬜ **Work the remaining addresses in the journal**
 - ⬜ Report to the [[Harpers]] — **he was one of theirs, and he's dead**
 - ⬜ **Read his notes** *(S74)* — on the cult and his investigation
-- ⬜ **Decide what to do with his body** *(S74)* — and **tell [[Oren]]**, his cousin, and the [[Harpers]]
+- ✅ **Decide what to do with his body** *(S74)* — **S76: given to a [[Harpers|Harper]] at the [[Through and Through Detective Agency]].**
+- ⬜ **Tell [[Oren]]**, his cousin
 
 ## Open Questions
 

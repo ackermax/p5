@@ -1,14 +1,14 @@
 ---
 tags: [npc, status/active, antagonist, var-arc]
-status: hostile (active in Waterdeep)
-location: Waterdeep (recently arrived)
+status: hostile (active near Yartar)
+location: northeast of Yartar (per Jarlaxle, S76)
 ---
 
 # Cardon Malefic
 
 > **Role:** Var's former lord, now his enemy
 > **Disposition:** Hostile
-> **Current Status:** **In [[Yartar]], with mercenaries of [[Jarlaxle|Jarlaxle Baenre]]** — per the papers of the [[Cult of Cyric|cult]]'s "mother" (S75). *(S59: departed [[Waterdeep]] to meet the cult there, guarded by [[Black Network|Zhentarim]] + Jarlaxle.)* Bounty on [[Var Borgal|Var]] now **25,000 gp, alive.** Carries an **anti-magic field** (maintained by his knight).
+> **Current Status:** **Northeast of [[Yartar]]**, per [[Jarlaxle|Jarlaxle Baenre]] (S76) — **we're inside what we think is [[Other Locations#Cardon's Hideout (working name)|Cardon's hideout]].** With Jarlaxle's mercenaries, per the Great Mother's papers (S75). *(S59: departed [[Waterdeep]] to meet the cult there, guarded by [[Black Network|Zhentarim]] + Jarlaxle.)* Bounty on [[Var Borgal|Var]] now **25,000 gp, alive.** Carries an **anti-magic field** (maintained by his knight).
 
 ## Background
 
@@ -51,20 +51,27 @@ In the [[Cult of Cyric|cult]] dungeon beneath a [[Yartar]] house, just after we 
 
 ## ⭐ He's Arming The Cult — And Studying Godhood (Session 75)
 
-From **papers [[Var Borgal|Var]] took off the corpse of the cult's "mother"** in the dungeon under [[Yartar]]:
+From **papers [[Var Borgal|Var]] took off the corpse of the Great Mother** in the dungeon under [[Yartar]]:
 
-- **Cardon and [[Doctor Hadol]] gave the [[Cult of Cyric|cult]] the anti-magic golem as a "gift"** — to help **expand the cult's reach.**
+- **Cardon and [[Doctor Hadol]] gave the [[Cult of Cyric|cult]] the anti-magic knight as a "gift"** — to help **expand the cult's reach.**
 - **Cardon was looking for information on how [[Cyric]] became a god.**
 - **The next clue is with [[The Netherese|the Netherese]]**, an ancient civilization of incredible magic — specifically **Karsus**, who **wanted to be the god of magic** and created ***Karsus' Avatar*** to do it. **It failed and caused magic to leave the world for a time.**
 - **Cardon is here with mercenaries of [[Jarlaxle|Jarlaxle Baenre]].**
 
-And in the dungeon itself: **that golem, guarding a prison block**, **seemingly bound to the space with some sort of mission.** We backed out rather than fight it. *(Var's notes called it "one of Cardon's anti-magic knights"; **it's the golem** — confirmed. Whether it has anything to do with the knight that sustains Cardon's own field (S59) is not recorded.)*
+And in the dungeon itself: **that knight, guarding a prison block**, **seemingly bound to the space with some sort of mission.** We backed out rather than fight it. *(The vault called these "golems" until S76; **they're anti-magic knights** — confirmed. Whether the knight that sustains Cardon's own field (S59) is one of them is not recorded.)*
 
 **Var's questions, as he wrote them:**
 - **Is Cardon trying to follow in Cyric's footsteps** — **kill the god behind the Weave ([[Mystra]]) and become a god himself?** **Does he need to kill Mystra to do that?**
 - **Or is he looking to replicate it without the godhood part?**
 
 > **This is the first time we've seen what Cardon wants beyond Var.** A man who raised Var to **purge magic users**, who walks in an **anti-magic field**, is studying **the two times magic left the world** — and both were **mortals reaching for the godhood behind magic.**
+
+## ⭐ We Used His Face, And We're At His Door (Session 76)
+
+- **[[Var Borgal|Var]] disguised himself as Cardon and dismissed the anti-magic knight guarding the prison block — and it worked.** **Var's old lord's authority opened the cells.**
+- **A [[Track the Red Mages|Red Mage]] read Var's mind for everything about Cardon** — so **assume the Red Mages know what Var knows about him.**
+- **[[Jarlaxle|Jarlaxle Baenre]] told us where Cardon and [[Doctor Hadol]] are: northeast of [[Yartar]]**, for **a like-for-like favor from Var.**
+- **We reached what we think is [[Other Locations#Cardon's Hideout (working name)|Cardon's hideout]]**: **lamps not powered by fire but by some sort of technology**, a secret way in, and **copper cylinders where it looked like power is stored.** **Cardon himself hasn't been sighted there.** **The session ended inside.**
 
 ## The Wanted Poster
 
@@ -119,7 +126,9 @@ And in the dungeon itself: **that golem, guarding a prison block**, **seemingly 
 - **Why was [[Ilin Cotton]] asking about him?** *(S71)* — in [[Yartar]], Ilin asked [[Joanne]] at his inn about **Cardon**, [[Rulf Cloudfang]], and Through and Through Investigators. **Ilin is on Cardon's trail too** — and Ilin hasn't been back to his room in a week.
 - **What is [[Doctor Hadol]] building for him?** *(S73)* — **"technology to rival magic."** For a man who wanted to **purge magic users**, that's a natural thing to want. **Is it connected to the anti-magic field?** Not known.
 - **Is Hadol's cult contract Cardon's idea, or Hadol's side job?** *(S73)*
-- **How do we fight a man whose presence cancels magic?** The field is sustained by his **knight**, not him — take the knight first? **S75: the anti-magic golem he gave the cult guards a prison block under [[Yartar]].**
+- **How do we fight a man whose presence cancels magic?** The field is sustained by his **knight**, not him — take the knight first? **S75: the anti-magic knight he gave the cult guards a prison block under [[Yartar]]. S76: Var dismissed it by posing as Cardon. Does the same trick work on his own?**
 - **⭐ What does he want with how [[Cyric]] became a god?** *(S75)* — godhood for himself, or the **method** without it? **Does it require killing [[Mystra]]?** See [[The Netherese]].
-- **What does he get from the cult in exchange for the golem?** *(S75)*
-- ~~**Is it connected to the anti-magic field?**~~ *(S73)* — **S75: Cardon and [[Doctor Hadol|Hadol]] gave the cult an anti-magic golem.** Hadol's work and anti-magic are connected.
+- **What does he get from the cult in exchange for the anti-magic knight?** *(S75)*
+- **What's inside an anti-magic knight?** *(S76)* — a [[Track the Red Mages|Red Mage]] wants it badly enough to trade [[Var Borgal|Var]]'s life for it.
+- **Why did [[Jarlaxle]] give up his employer's location?** *(S76)*
+- ~~**Is it connected to the anti-magic field?**~~ *(S73)* — **S75: Cardon and [[Doctor Hadol|Hadol]] gave the cult an anti-magic knight.** Hadol's work and anti-magic are connected.

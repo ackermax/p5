@@ -26,7 +26,7 @@ That is all. We do not know when this happened, how magic came back, or whether 
 ## Session 75 — "The God Behind The Weave"
 
 - [[Var Borgal|Var]]'s notes call her **the god behind the Weave.**
-- **Papers off the cult's "mother"** say **[[Cardon Malefic]] is researching how [[Cyric]] became a god.** Var asks: **is Cardon following Cyric's footsteps — and does he need to kill Mystra to do it?** *(A question, not a finding.)*
+- **Papers off the Great Mother** say **[[Cardon Malefic]] is researching how [[Cyric]] became a god.** Var asks: **is Cardon following Cyric's footsteps — and does he need to kill Mystra to do it?** *(A question, not a finding.)*
 - **The second time we've heard of magic leaving the world:** **Karsus** of [[The Netherese|the Netherese]] tried to become **god of magic** with ***Karsus' Avatar***; **it failed, and magic left the world for a time.**
 
 ## Open Questions

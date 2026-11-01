@@ -101,7 +101,7 @@ This happened recently (per the Waterdeep arc). The kidnapper wants to **ascend*
 - **⭐ Cyric's vessel** *(S75, confirmed)* — **Jaak was being set up to be [[Cyric]]'s vessel**. **Not only a blood source, as S74 had it: the cult meant to put its god *in him*.** That's exactly what [[Blood of the Ancients|Althariel said the blood is for]] — a body strong enough to hold a god.
 
 ### Find Ilin Cotton
-- 💀 **DEAD (S74).** **[[Rulf Cloudfang|Rulf]] stabbed and killed him** at the top of the cult dungeon. **Found S73** in a [[Cult of Cyric|cult]] torture room under a house on his own investigation list, freed and healed — and **dead a session later.** **What he was going to tell Jaak years ago was never heard.** In his belongings: **a picture of Jaak's troupe** and **his notes on the cult and his investigation.** The party is carrying his body.
+- 💀 **DEAD (S74).** **[[Rulf Cloudfang|Rulf]] stabbed and killed him** at the top of the cult dungeon. **Found S73** in a [[Cult of Cyric|cult]] torture room under a house on his own investigation list, freed and healed — and **dead a session later.** **What he was going to tell Jaak years ago was never heard.** In his belongings: **a picture of Jaak's troupe** and **his notes on the cult and his investigation.** The party is carrying his body. **S76: we gave the body to a [[Harpers|Harper]] at the [[Through and Through Detective Agency]], and kept the notes and the picture.**
 - **[[Ilin Cotton]] is a [[Harpers|Harper]]** (confirmed session 56) — was investigating the [[Cult of Cyric]] before he was discovered. Lost contact since then.
 - **Description per Harpers:** blonde hair, skinny, problem with his legs
 - **Last seen at [[Tavern Misty Beard]]** in [[Waterdeep]]

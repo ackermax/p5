@@ -36,7 +36,7 @@ At the top of the [[Yartar]] dungeon we learned the [[Cult of Cyric]]'s ritual i
 
 ## ⭐ Jaak Was To Be Cyric's Vessel *(S75 — confirmed)*
 
-**[[Jaak Greye|Jaak]] was being set up to be [[Cyric]]'s vessel** — confirmed after S75, when the party met **the cult's "mother"**. That is **exactly** what Althariel said this blood is for — **a body strong enough to hold a god.** S74 had Jaak wanted for his blood only; **it was more than that.** *(Whether the ritual itself specifically uses the blood of the ancients is still not stated.)*
+**[[Jaak Greye|Jaak]] was being set up to be [[Cyric]]'s vessel** — confirmed after S75, when the party met **the Great Mother**. That is **exactly** what Althariel said this blood is for — **a body strong enough to hold a god.** S74 had Jaak wanted for his blood only; **it was more than that.** *(Whether the ritual itself specifically uses the blood of the ancients is still not stated.)*
 
 ## Leads
 

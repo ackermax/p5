@@ -97,6 +97,14 @@ Shorter location notes. Promote any of these to their own file when content grow
 ### The Aasimar Temple (working name)
 - **→ Promoted to its own note: [[Aasimar Temple]]** *(entered S67, **cleared S68**)*. The mound in the forest **northeast of [[Everlund]]**; site of [[The Everlund Apparitions]]. **Its true name is unknown.**
 
+### Cardon's Hideout (working name)
+- *Working name: the party has no true name for it, and it's only **what we think** is [[Cardon Malefic|Cardon]]'s hideout. Rename when a real name surfaces.*
+- **Northeast of [[Yartar]]**, per [[Jarlaxle|Jarlaxle Baenre]] (S76)
+- **Lamps outside, powered not by fire but by some sort of technology**
+- **A secret way in**; the party entered quietly
+- **Copper cylinders inside, where it looked like power is stored**
+- **The party was inside when [[Session 76 - Var - 2026-10-26|Session 76]] ended**
+
 ### Kryptgarden Forest
 - See [[The Death Knight Ritual]] — the necromancer's lair was here
 - [[Interitus]] resides here

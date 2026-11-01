@@ -31,13 +31,13 @@ This is the cult Estelle and Jaak escaped from. Previously referred to in our no
 - **[[Jaak Greye|Jaak]] was only good for his blood** — to **finish the ritual.** **S75 correction: he was being set up to be [[Cyric]]'s vessel** *(confirmed)*. ⭐ **The cult is the party that [[Jaaks Celestial War|kidnapped Jaak]]** *(confirmed)*.
 - **The young people they took had their blood extracted for the ritual** — per a book in the dungeon. **The oldest is 15.**
 
-## The "Mother" Of The Cult *(S75 — dead)*
+## The Great Mother *(S75 — dead)*
 
-- An **older woman** waiting in **a large room** of the [[Yartar]] dungeon — the **"mother" of the cult.** **Unnamed.**
+- An **older woman** waiting in **a large room** of the [[Yartar]] dungeon — officially known as **the Great Mother** *(S76; S75 had her only as the Great Mother)*.
 - **She seemed to have affection for [[Estelle Moonglow Platinum|Estelle]].** [[Var Borgal|Var]]'s read: because the cult was grooming Estelle to **lead** — and **[[Jaak Greye|Jaak]] was being set up to be [[Cyric]]'s vessel** *(confirmed)*.
 - **It came to a fight; more cultists appeared to ambush us.** **She died.** We barely survived — **Estelle died killing the last enemy** and was **revived by [[Sir Joseph Gordon Die Hard|Sir Joseph]]** from a *revivify* scroll.
 - **Her papers** (taken by Var):
-  - **[[Cardon Malefic|Cardon]] and [[Doctor Hadol]] gave the cult the anti-magic golem as a "gift"**, to help **expand the cult's reach.**
+  - **[[Cardon Malefic|Cardon]] and [[Doctor Hadol]] gave the cult the anti-magic knight as a "gift"**, to help **expand the cult's reach.**
   - **Cardon was looking for information on how [[Cyric]] became a god** — a trail that leads to **[[The Netherese|the Netherese]]** and **Karsus' Avatar**.
   - **Cardon is here with mercenaries of [[Jarlaxle|Jarlaxle Baenre]].**
 - **How she ranked against [[Rulf Cloudfang|Rulf]]**, the current leader, is not recorded.
@@ -87,13 +87,15 @@ This is the cult Estelle and Jaak escaped from. Previously referred to in our no
 - **The creatures that attacked us on the way in dissolved into black goo** when killed. *(The "weird monkey creatures"; party's description.)*
 - **Children.** **Ilin believed the cult brought children here**, taken by **various methods.**
 - **S74:** **flesh golems burning bodies** (destroyed), **more cultists**, and **a book recording the extraction of the young people's blood** for the ritual *(oldest: 15)*. At **the top of the dungeon: [[Rulf Cloudfang|Rulf]]**, the cult's leader — who **killed [[Ilin Cotton|Ilin]]** and vanished. **We're still searching for children alive.**
-- **S75:** **a prison block guarded by the anti-magic golem [[Cardon Malefic|Cardon]] gave the cult**, **bound to the space on some mission** — **we backed out**; then **the cult's "mother"** and **an ambush by more cultists.** **She's dead.** Her papers tie **Cardon** to the cult as a **patron**: he **gave them an anti-magic golem.**
+- **S75:** **a prison block guarded by the anti-magic knight [[Cardon Malefic|Cardon]] gave the cult**, **bound to the space on some mission** — **we backed out**; then **the Great Mother** and **an ambush by more cultists.** **She's dead.** Her papers tie **Cardon** to the cult as a **patron**: he **gave them an anti-magic knight.**
+
+- **S76:** **[[Var Borgal|Var]], disguised as [[Cardon Malefic|Cardon]], dismissed the anti-magic knight.** **We freed the prisoners from the cells, children and adults**, and escaped up **a ladder with a necrotic trap**; they went to **the nearest bell tower.**
 
 ### The Child-Kidnapping Operations *(confirmed S73)*
 - **[[The Exquisites Investigation|The Exquisites circus]] in [[Waterdeep]] was one of them** — doppelgangers wearing the troupe's faces, **children kept underground.** **We broke it without knowing whose it was.**
 - **[[Rulf Cloudfang|Rulf]]'s abductions** — [[Malkyn Serpentwind]] knew of them in S57; Rulf "had no choice."
 - **Ilin says "various methods"** — **there are others we haven't found.**
-- **Where the children go:** Ilin believed **here, under [[Yartar]].** **What they're for: their blood, extracted for the ritual to bring [[Cyric]] back (S74).**
+- **Where the children go:** Ilin believed **here, under [[Yartar]].** **What they're for: their blood, extracted for the ritual to bring [[Cyric]] back (S74).** **S76: we freed the children we found in the prison cells.**
 
 ### Other Possible Cyric Operations
 - **The cult [[Other Locations|Javen Tarmikos]] wants us to defeat in [[Helm's Hold]]** — likely same cult. The [[Other Locations|Order of the Gilded Eye]] is hunting them too.
@@ -120,8 +122,8 @@ This is the cult Estelle and Jaak escaped from. Previously referred to in our no
 - Is the cult tied to or competing with [[Cult of the Dragon]]?
 - ~~**What are the children for?**~~ *(S73)* — **their blood, for the ritual (S74).** *(Original question:)* — the cult **scouted young people with "specific qualities"** before ([[Jaak Greye|Jaak]] was one of their targets; [[Estelle Moonglow Platinum|Estelle]] was raised in that monastery). **Is Yartar the same operation, at scale?**
 - ~~**Did the cult run [[The Exquisites Investigation|the Exquisites circus]]?**~~ — **yes: one of their child-kidnapping operations (S73).** **Is [[The Beliard Mystery|Beliard]] another?**
-- **Why do they need [[Doctor Hadol]]'s technology?** *(S73)* — **S75: Cardon and [[Doctor Hadol|Hadol]] *gave* them an anti-magic golem, "to expand the cult's reach."** What does Cardon get back?
+- **Why do they need [[Doctor Hadol]]'s technology?** *(S73)* — **S75: Cardon and [[Doctor Hadol|Hadol]] *gave* them an anti-magic knight, "to expand the cult's reach."** What does Cardon get back?
 - ~~**Is [[Jaak Greye|Jaak]] the vessel?**~~ *(S75)* — **yes: he was being set up to be Cyric's vessel** *(confirmed)*.
-- **Who was the "mother," and why her affection for [[Estelle Moonglow Platinum|Estelle]]?** *(S75)*
-- **What is in the guarded prison block?** *(S75)*
+- **Why did the Great Mother have affection for [[Estelle Moonglow Platinum|Estelle]]?** *(S75)*
+- ~~**What is in the guarded prison block?**~~ *(S75)* — **prisoners, children and adults; freed S76.**
 - **Red hoods** *(S73)* — is that what this cell wears? The cult's look has never been recorded before.

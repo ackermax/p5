@@ -2,15 +2,15 @@
 tags: [npc, status/active, yartar]
 status: active
 location: Yartar
-faction: Through and Through Investigators
+faction: Through and Through Detective Agency
 first-met: Session 71
 ---
 
 # Garambitio
 
-> **Role:** **Owner of Through and Through Investigators** in [[Yartar]] *("the one who owns the place," per [[Jaak Greye|Jaak]])*
+> **Role:** **Owner of the [[Through and Through Detective Agency]]** in [[Yartar]] *("the one who owns the place," per [[Jaak Greye|Jaak]])*
 > **Disposition toward party:** **Helpful.** Gave us the best [[Find Ilin Cotton|Ilin]] lead we've had since the Misty Beard.
-> **First met:** [[Session 71 - Jaak - 2026-09-14|Session 71]] at **Through and Through Investigators**, [[Yartar]]
+> **First met:** [[Session 71 - Jaak - 2026-09-14|Session 71]] at the **[[Through and Through Detective Agency]]**, [[Yartar]]
 
 ## What We Know
 
@@ -20,7 +20,7 @@ first-met: Session 71
 
 ## Relationships
 
-- Runs **Through and Through Investigators** — see [[Yartar]]
+- Runs the **[[Through and Through Detective Agency]]** — **at least one [[Harpers|Harper]] is there (S76)**
 - **[[Ilin Cotton]] asked about Through and Through** at his inn *(per [[Joanne]])* — so Ilin knew of the agency, and may have used it
 
 ## Open Questions

@@ -45,7 +45,7 @@ tags: [lore, faction, ally]
 ## Strongholds & Concentrations
 
 - **[[Moongleam Tower]]** — outside [[Everlund]]; **[[Krowen Valharrow]]**'s seat. **Visited S66.**
-- **[[Yartar]]** — Harper stronghold
+- **[[Yartar]]** — Harper stronghold; **at least one Harper is at the [[Through and Through Detective Agency]]**, who took [[Ilin Cotton|Ilin]]'s body *(S76)*
 - **[[Waterdeep]]** — many Harpers; **Tribourgh** is named; **Harpers Den entrance is on the coastal side of the city**
 - **Baldur's Gate** — Jaheira and others
 - [[Everlund]] 

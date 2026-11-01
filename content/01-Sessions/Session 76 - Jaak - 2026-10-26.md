@@ -16,8 +16,12 @@ session-number: 76 - Jaak
 
 ## Key Events
 
--
--
+- Escaped from Cult of Cyric hideout
+- Got captured by red mage woman, she extracted Goldenfield wards locations from us
+- Gave [[Ilin Cotton]] body to harper at [[Through and Through Detective Agency]]
+- Bought supplies
+- Spoke to [[Jarlaxle|Jarlaxle Baenre]]
+- 
 
 ## NPCs Met
 

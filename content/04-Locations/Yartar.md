@@ -10,7 +10,7 @@ region: Sword Coast North
 > **Region:** Sword Coast North
 > **Ruler:** **[[Nestra Ruthiol]]**, the **Waterbaron** *(named S70; not yet met)*
 > **Significance:** **[[Harpers]] stronghold**; **[[Ilin Cotton]]'s current destination** chasing a [[Cult of Cyric|Cult of C]] lead (S57)
-> **Status:** ⭐ **We are here.** Arrived and admitted [[Session 70 - Var - 2026-08-31|Session 70]]; **found [[Ilin Cotton|Ilin]]'s inn** [[Session 71 - Var - 2026-09-14|Session 71]]; ⭐ **found Ilin himself, in a [[Cult of Cyric|cult]] torture room under a house**, [[Session 73 - Var - 2026-10-05|Session 73]]; 💀 **Ilin killed by [[Rulf Cloudfang|Rulf]], the cult's leader, at the top of that dungeon**, [[Session 74 - Var - 2026-10-12|Session 74]].
+> **Status:** ⭐ **We are here.** Arrived and admitted [[Session 70 - Var - 2026-08-31|Session 70]]; **found [[Ilin Cotton|Ilin]]'s inn** [[Session 71 - Var - 2026-09-14|Session 71]]; ⭐ **found Ilin himself, in a [[Cult of Cyric|cult]] torture room under a house**, [[Session 73 - Var - 2026-10-05|Session 73]]; 💀 **Ilin killed by [[Rulf Cloudfang|Rulf]], the cult's leader, at the top of that dungeon**, [[Session 74 - Var - 2026-10-12|Session 74]]. ✅ **Got out of the dungeon and freed the prisoners**, [[Session 76 - Var - 2026-10-26|Session 76]] — and **left for [[Other Locations#Cardon's Hideout (working name)|Cardon's hideout]], northeast of the city.**
 
 ## Why It Matters Now
 
@@ -77,14 +77,24 @@ Per [[Malkyn Serpentwind]] at the [[Tavern Misty Beard]] (S57), **[[Ilin Cotton]
 
 > **The [[Cult of Cyric|Cult of C]]'s "something big" under Yartar has a name now: bringing [[Cyric]] back.** **Its leader got away.**
 
-## ⭐ The Prison Block, The Mother, And A Death *(S75)*
+## ⭐ The Prison Block, The Great Mother, And A Death *(S75)*
 
 - **[[Gotrek Runehammer|Gotrek]] threw [[Ilin Cotton|Ilin]]'s body over his shoulder**; we went looking for the children.
-- **A prison block guarded by the anti-magic golem [[Cardon Malefic|Cardon]] gave the cult** — **bound to the space with some sort of mission.** **We backed out.**
-- **Another large room: the cult's "mother,"** an older woman with **affection for [[Estelle Moonglow Platinum|Estelle]].** Fight, then **an ambush of more cultists.** **She died. So did Estelle — killing the last enemy — and [[Sir Joseph Gordon Die Hard|Sir Joseph]] revived her** from a *revivify* scroll, coached by [[Var Borgal|Var]].
-- **We hid for a short rest** while Var read **the mother's papers**: **Cardon and [[Doctor Hadol]] gave the cult an anti-magic golem** — **the thing guarding the prison block**, **Cardon is researching how [[Cyric]] became a god** ([[The Netherese]]), and **Cardon is here with [[Jarlaxle|Jarlaxle Baenre]]'s mercenaries.**
+- **A prison block guarded by the anti-magic knight [[Cardon Malefic|Cardon]] gave the cult** — **bound to the space with some sort of mission.** **We backed out.**
+- **Another large room: the Great Mother,** an older woman with **affection for [[Estelle Moonglow Platinum|Estelle]].** Fight, then **an ambush of more cultists.** **She died. So did Estelle — killing the last enemy — and [[Sir Joseph Gordon Die Hard|Sir Joseph]] revived her** from a *revivify* scroll, coached by [[Var Borgal|Var]].
+- **We hid for a short rest** while Var read **the Great Mother's papers**: **Cardon and [[Doctor Hadol]] gave the cult an anti-magic knight** — **the thing guarding the prison block**, **Cardon is researching how [[Cyric]] became a god** ([[The Netherese]]), and **Cardon is here with [[Jarlaxle|Jarlaxle Baenre]]'s mercenaries.**
 
-> **Cardon is in this city.** The man with **25,000 gp on [[Var Borgal|Var]]'s head** is in [[Yartar]] with a drow's mercenaries, and **the golem he gave the cult is standing in the dungeon we're hiding in.**
+> **Cardon is in this city.** The man with **25,000 gp on [[Var Borgal|Var]]'s head** is in [[Yartar]] with a drow's mercenaries, and **the anti-magic knight he gave the cult is standing in the dungeon we're hiding in.**
+
+## ⭐ The Cells, The Red Mage, And The Docks *(S76)*
+
+- **[[Var Borgal|Var]] disguised himself as [[Cardon Malefic|Cardon]] and dismissed the anti-magic knight, which worked.** **We went back to the now-unguarded cells: children as well as adults.** We unlocked them and got everyone out.
+- **A trap on the ladder out sent a necrotic wave at everyone.** **All the prisoners lived; so did we.** Out through the house.
+- **We left the children and civilians at the nearest bell tower** and snuck back to the inn to heal.
+- **As we slept, a female [[Track the Red Mages|Red Mage]] and others appeared in our room and shackled us.** She **read Var's mind** on Cardon and [[Goldenfields]], **got the ward locations**, and offered a deal: **what's inside an anti-magic knight, for Var's life.** **We had no choice but to accept.**
+- **In the morning [[Jaak Greye|Jaak]] told [[Naxene Drathkala|Naxene]] everything.** **We gave [[Ilin Cotton|Ilin]]'s body to a [[Harpers|Harper]] at the [[Through and Through Detective Agency]].**
+- **After shopping, at the docks: [[Jarlaxle|Jarlaxle Baenre]].** **Var agreed to a like-for-like favor** for the location of Cardon and [[Doctor Hadol]]: **northeast of Yartar.**
+- **We reached what we think is [[Other Locations#Cardon's Hideout (working name)|Cardon's hideout]].** **The session ended inside.**
 
 ### Getting There *(S69)*
 
@@ -107,26 +117,25 @@ Per [[Malkyn Serpentwind]] at the [[Tavern Misty Beard]] (S57), **[[Ilin Cotton]
 - **S59: we asked [[Thomas]] to get us an invitation** — a possible legitimate way into Yartar's high-society underground just as the cult/Cardon descend on the city
 - **✅ S71: we have a ticket** — **won at poker from [[Xolkin]]**, who put it up as the stake. We got in without Thomas.
 
-### Through and Through Investigators *(S71)*
-- **An investigation agency**, owned by **[[Garambitio]]**
-- [[Xolkin]] sent us here for [[Find Ilin Cotton|Ilin]]; **Garambitio told us where Ilin is staying**
-- **Someone here warned us on the side that we were in danger**
-- **[[Ilin Cotton|Ilin]] asked about Through and Through** himself
+### [[Through and Through Detective Agency]] *(S71, S76)*
+- **An investigation agency**, owned by **[[Garambitio]]**; **at least one [[Harpers|Harper]] is here.** **Took [[Ilin Cotton|Ilin]]'s body (S76).** Details on its own page.
 
 ### One Foot in the Boot *(S71)*
 - **Inn**, run by **[[Joanne]]** — **we have a room here**
 - **[[Ilin Cotton]]'s lodging — but he hasn't been in his room for a week.** Jaak got the key and found his journal
 - ⚠️ *(S72)* **[[Estelle Moonglow Platinum|Estelle]] nearly ran into the [[Track the Red Mages|Red Mages]] returning here.** **Treat this address as compromised.**
+- ⚠️ *(S76)* **A [[Track the Red Mages|Red Mage]] appeared in our room at "the inn" and shackled us.** *(Var's notes say only "the inn"; it's the one we've been staying at — confirmed.)*
 
 ### The House on Ilin's List — and the dungeon under it *(S72–S73)*
 > **Neither the house nor the dungeon under it has a name** *(confirmed — the DM gave none)*. **Don't keep prompting for one.** Kept as a section here rather than given its own note; it can be promoted if a real name or more of the layout surfaces.
 
 - **A house from [[Find Ilin Cotton|Ilin's journal]]**, and **where [[Ilin Cotton|Ilin]] was last seen** — *those are the same information (confirmed)*.
 - **A carpet on the floor concealed a drop** into **a dungeon or cave** below. **We fell through it while investigating** — not a door we opened.
-- **Inhabitants met so far:** **flesh golems burning bodies** *(destroyed S74)*, **[[Rulf Cloudfang|Rulf]]**, the cult's leader *("killed" S74 — body dissipated; vanished)*, **"spider wolves"** *(killed)*, **"weird monkey creatures"** *(killed S73; dissolved into black goo)*, **"hell creatures"** and **[[Cult of Cyric|cult]] members** *(killed S73)*, a **red-hooded cult mage** *(captured S73, then killed when he attacked [[Var Borgal|Var]] during the dealmaking)*, and **[[Doctor Hadol]]** *(escaped S73)*. **The creature names are the party's descriptions and the only names we have** — the DM gave no proper names *(confirmed)*.
+- **Inhabitants met so far:** **the Great Mother** *(killed S75)*, **an anti-magic knight** *(dismissed S76)*, **flesh golems burning bodies** *(destroyed S74)*, **[[Rulf Cloudfang|Rulf]]**, the cult's leader *("killed" S74 — body dissipated; vanished)*, **"spider wolves"** *(killed)*, **"weird monkey creatures"** *(killed S73; dissolved into black goo)*, **"hell creatures"** and **[[Cult of Cyric|cult]] members** *(killed S73)*, a **red-hooded cult mage** *(captured S73, then killed when he attacked [[Var Borgal|Var]] during the dealmaking)*, and **[[Doctor Hadol]]** *(escaped S73)*. **The creature names are the party's descriptions and the only names we have** — the DM gave no proper names *(confirmed)*.
 - **Whose it is: the [[Cult of Cyric]]'s** *(S73)*.
 - **Rooms found:** tunnels, a **torture room** (where [[Ilin Cotton|Ilin]] was held), and **further rooms** where the big fight happened. **S74:** a room to the **east** where flesh golems were burning bodies, rooms to the **north** held by cultists (where we found **the blood-extraction book**), and **the top of the dungeon**, where we met Rulf and **Ilin was killed.**
-- **Still unknown:** **how far it runs**, and **whether any of the children are still alive.**
+- **S76:** the **prison cells**, and a **ladder out with a necrotic trap on it.** **Our way out led back to the house.**
+- **Still unknown:** **how far it runs**, and **whether the children we freed were all of them.**
 
 ### A large shop *(S72)*
 - **Unnamed.** Where **[[Estelle Moonglow Platinum|Estelle]]** **bought** the party's **disguise kits**. Carries adventuring supplies. **She paid** — but the sale happened, and a shopkeeper remembers it.
@@ -138,7 +147,9 @@ Per [[Malkyn Serpentwind]] at the [[Tavern Misty Beard]] (S57), **[[Ilin Cotton]
 - **The older gnome shipwright** — **has the [[Ignitamis]]**, refuelling and repairing it *(S70)*. **He gave no name.** We can find him again only by going back to where we left the ship
 - ⭐ **[[Clint]]**, trading here as **"Lamin"** — vendor of exotic flora; **sold the cursed seeds to [[Sevembra]]** ([[The Cursed Seeds]]). Fedora and coat; shady, high-charisma; **red-and-white wagon with a black dove symbol**. *(Lamin and Clint are the same man — confirmed 2026-09-02.)* **We have shopped with him twice. He works this city — and we are in this city.**
 - **[[Xolkin]]** — card player with a flying snake; **lost us his Golden Goose ticket**; **hunting [[Clint]]** *(S71)*
-- **[[Garambitio]]** — owner of **Through and Through Investigators**; told us where Ilin is staying *(S71)*
+- **[[Garambitio]]** — owner of the **[[Through and Through Detective Agency]]**; told us where Ilin is staying *(S71)*
+- **[[Jarlaxle|Jarlaxle Baenre]]** — at the docks *(S76)*; **[[Var Borgal|Var]] owes him a like-for-like favor**
+- **A [[Harpers|Harper]] at the [[Through and Through Detective Agency]]** — took Ilin's body *(S76)*; name not recorded
 - **[[Joanne]]** — proprietor of **One Foot in the Boot**; Ilin's landlady, and ours *(S71)*
 - **Lion Shield leader** — name not yet known to us
 
@@ -148,13 +159,13 @@ Per [[Malkyn Serpentwind]] at the [[Tavern Misty Beard]] (S57), **[[Ilin Cotton]
 - ✅ **Now that we're here: where do we start?** — **answered S71:** [[Xolkin]] → Through and Through → [[Garambitio]] → **Ilin's inn**
 - 🔄 **Work Ilin's journal** — **the houses he was investigating** *(S71)*. **S72: the first one had a dungeon under the carpet, and we are in it mid-fight.** The rest of the list is still unworked
 - ✅ **What is under the house, and is [[Ilin Cotton|Ilin]] down there?** *(S72)* — **a [[Cult of Cyric|cult]] dungeon, and yes: in a torture room. Freed (S73)**
-- ⭐ **Find the children** Ilin believed the cult brought here *(S73)* — **the live question.** **S74: their blood was being extracted for the ritual; the oldest is 15. Find any still alive.** **S75: the guarded prison block is the one place we haven't been past**
+- ✅ **Find the children** Ilin believed the cult brought here *(S73)* — **S76: found in the prison cells and freed, with adult prisoners.** Whether that's all of them isn't recorded. **S74: their blood was being extracted for the ritual; the oldest is 15. Find any still alive.** **S75: the guarded prison block is the one place we haven't been past**
 - ⬜ **Where did [[Rulf Cloudfang|Rulf]] go?** *(S74)* — vanished into the ether after killing [[Ilin Cotton|Ilin]]
-- ⬜ **Get Ilin's body out** *(S74)* — and decide what's done with it
-- ⬜ **Get past the anti-magic golem at the prison block** *(S75)* — **magic won't work near it**; it seems bound there on a mission
-- ⬜ **Where is [[Cardon Malefic|Cardon]] in the city?** *(S75)* — **here, with [[Jarlaxle|Jarlaxle Baenre]]'s mercenaries**, per the mother's papers
-- ⬜ **Where did [[Doctor Hadol]] dimension-door to?** *(S73)* — he's loose in or near the city, and he works for [[Cardon Malefic]]
-- ⭐ **The [[Track the Red Mages|Red Mages]] are looking for us** — about [[Goldenfields]] *(S71)*. Meet them on our terms or not at all. **S72: they are searching the streets on foot and nearly caught [[Estelle Moonglow Platinum|Estelle]] near our inn; we are in disguise**
+- ✅ **Get Ilin's body out** *(S74)* — **S76: given to a [[Harpers|Harper]].**
+- ✅ **Get past the anti-magic knight at the prison block** *(S75)* — **S76: Var dismissed it, disguised as Cardon.** Where it went isn't recorded.
+- ✅ **Where is [[Cardon Malefic|Cardon]]?** *(S75)* — **S76: northeast of the city, per [[Jarlaxle|Jarlaxle Baenre]].** We're inside what we think is [[Other Locations#Cardon's Hideout (working name)|Cardon's hideout]].
+- ✅ **Where did [[Doctor Hadol]] dimension-door to?** *(S73)* — **S76: he's with Cardon, northeast of the city, per Jarlaxle.**
+- ⭐ **The [[Track the Red Mages|Red Mages]] are looking for us** — about [[Goldenfields]] *(S71)*. Meet them on our terms or not at all. **S72: they are searching the streets on foot and nearly caught [[Estelle Moonglow Platinum|Estelle]] near our inn; we are in disguise.** **S76: they caught us in our room, took the ward locations from Var's mind, and offered a deal**
 - ⬜ **Who warned us at Through and Through, and about what?** *(S71)*
 - ⬜ **"Zephros," wanted by "S"** — the wanted poster *(S71)*
 - ⬜ **Get the [[Ignitamis]] back** — with a **full tank** and a **repair bill** we haven't been quoted
@@ -168,4 +179,4 @@ Per [[Malkyn Serpentwind]] at the [[Tavern Misty Beard]] (S57), **[[Ilin Cotton]
 
 ## See Also
 
-- [[Harpers]] · [[Find Ilin Cotton]] · [[Find Rulf Cloudfang]] · [[Track the Red Mages]] · [[The Cursed Seeds]] · [[Cult of Cyric]] · [[The Waterdeep Wazoo Issue 496]] · [[Nestra Ruthiol]] · [[Oversword Vaelia Thann]] · [[Xolkin]] · [[Garambitio]] · [[Joanne]] · [[Ignitamis]] · [[Doctor Hadol]]
+- [[Harpers]] · [[Find Ilin Cotton]] · [[Find Rulf Cloudfang]] · [[Track the Red Mages]] · [[The Cursed Seeds]] · [[Cult of Cyric]] · [[The Waterdeep Wazoo Issue 496]] · [[Nestra Ruthiol]] · [[Oversword Vaelia Thann]] · [[Xolkin]] · [[Garambitio]] · [[Through and Through Detective Agency]] · [[Jarlaxle]] · [[Naxene Drathkala]] · [[Joanne]] · [[Ignitamis]] · [[Doctor Hadol]]

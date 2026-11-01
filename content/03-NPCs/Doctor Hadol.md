@@ -1,7 +1,7 @@
 ---
 tags: [npc, status/active, antagonist, var-arc, yartar]
 status: escaped (session 73)
-location: Yartar (last seen in the dungeon under the house on Ilin's list)
+location: northeast of Yartar, with Cardon (per Jarlaxle, S76); last seen in the dungeon under the house on Ilin's list
 faction: Cardon Malefic
 first-met: Session 73
 ---
@@ -21,9 +21,13 @@ first-met: Session 73
 - **He walked in on us** just after we freed and healed [[Ilin Cotton|Ilin]] in the torture room, before Ilin could tell us much.
 - **He escaped with a technological dimension door.** It was a device, not a spell. **We knocked out the red-hooded mage instead**, but got nothing out of him, and **he was killed when he tried to attack [[Var Borgal|Var]] during the dealmaking.** **So the one man who could tell us what Hadol was hired for is dead.**
 
-## Session 75 — The Golem Was A Gift
+## Session 75 — The Knight Was A Gift
 
-**Papers off the corpse of the cult's "mother"** say **[[Cardon Malefic|Cardon]] and "the doctor" — Hadol *(confirmed)* — gave the [[Cult of Cyric|cult]] the anti-magic golem as a "gift"**, to help **expand the cult's reach.** **It's the thing guarding the prison block** in the dungeon. So the S73 picture — **Hadol as a hired contractor** — is only half of it: **Cardon's side is also *giving* the cult things.**
+**Papers off the corpse of the Great Mother** say **[[Cardon Malefic|Cardon]] and "the doctor" — Hadol *(confirmed)* — gave the [[Cult of Cyric|cult]] the anti-magic knight as a "gift"**, to help **expand the cult's reach.** **It's the thing guarding the prison block** in the dungeon. So the S73 picture — **Hadol as a hired contractor** — is only half of it: **Cardon's side is also *giving* the cult things.**
+
+## Session 76 — Northeast Of The City
+
+**[[Jarlaxle|Jarlaxle Baenre]] told [[Var Borgal|Var]] that Cardon and Hadol are northeast of [[Yartar]].** In what we think is [[Other Locations#Cardon's Hideout (working name)|Cardon's hideout]] we found **lamps run on some sort of technology** and **copper cylinders that look like they store power.** **Whether those are Hadol's work is not recorded, but it's what he builds.**
 
 ## What They Want
 
@@ -43,6 +47,6 @@ first-met: Session 73
 
 - **Is this what [[Cardon Malefic]] and the [[Cult of Cyric|cult]] agreed to at [[Yartar]]?** Cardon came here to meet them (S59). **Now a man who works for Cardon is on the cult's payroll, under the city.**
 - **What was the cult paying him to build or do down here?**
-- ~~**Does his technology have anything to do with Cardon's anti-magic field?**~~ — **S75: he and Cardon gave the cult an *anti-magic golem*.** **The golem guards a prison block in the dungeon.** Whether he also built the **knight that sustains Cardon's own field** (S59) is not recorded.
-- **Where did his dimension door take him?** He knows our faces now, and **he answers to the man with a 25,000 gp bounty on [[Var Borgal|Var]].**
+- ~~**Does his technology have anything to do with Cardon's anti-magic field?**~~ — **S75: he and Cardon gave the cult an *anti-magic knight*.** **The anti-magic knight guards a prison block in the dungeon.** Whether he also built the **knight that sustains Cardon's own field** (S59) is not recorded.
+- **Where did his dimension door take him?** **S76: he's northeast of the city now, per Jarlaxle.** He knows our faces now, and **he answers to the man with a 25,000 gp bounty on [[Var Borgal|Var]].**
 - **Did he recognize Var?** *(Not recorded. We were in disguise, S72.)*
