@@ -1,14 +1,14 @@
 ---
 tags: [npc, status/active, antagonist, var-arc]
-status: hostile (active near Yartar)
-location: northeast of Yartar (per Jarlaxle, S76)
+status: hostile — a Cardon was killed S77 and became a flesh blob; the party assumes an original exists somewhere, location unknown
+location: northeast of Yartar (per Jarlaxle, S76) — his hideout/facility, S76–S77
 ---
 
 # Cardon Malefic
 
 > **Role:** Var's former lord, now his enemy
 > **Disposition:** Hostile
-> **Current Status:** **Northeast of [[Yartar]]**, per [[Jarlaxle|Jarlaxle Baenre]] (S76) — **we're inside what we think is [[Other Locations#Cardon's Hideout (working name)|Cardon's hideout]].** With Jarlaxle's mercenaries, per the Great Mother's papers (S75). *(S59: departed [[Waterdeep]] to meet the cult there, guarded by [[Black Network|Zhentarim]] + Jarlaxle.)* Bounty on [[Var Borgal|Var]] now **25,000 gp, alive.** Carries an **anti-magic field** (maintained by his knight).
+> **Current Status:** ⚠️ **S77: we killed a Cardon in [[Other Locations#Cardon's Hideout (working name)|his hideout]] and he turned into a flesh-like blob; downstairs were tubes of more Cardons in various states of completion, which we destroyed.** **We assume there must be an original Cardon somewhere; where, we don't know yet.** *(Previously:)* **northeast of [[Yartar]]**, per [[Jarlaxle|Jarlaxle Baenre]] (S76). With Jarlaxle's mercenaries, per the Great Mother's papers (S75). *(S59: departed [[Waterdeep]] to meet the cult there, guarded by [[Black Network|Zhentarim]] + Jarlaxle.)* Bounty on [[Var Borgal|Var]] now **25,000 gp, alive.** Carries an **anti-magic field** (maintained by his knight).
 
 ## Background
 
@@ -73,6 +73,19 @@ And in the dungeon itself: **that knight, guarding a prison block**, **seemingly
 - **[[Jarlaxle|Jarlaxle Baenre]] told us where Cardon and [[Doctor Hadol]] are: northeast of [[Yartar]]**, for **a like-for-like favor from Var.**
 - **We reached what we think is [[Other Locations#Cardon's Hideout (working name)|Cardon's hideout]]**: **lamps not powered by fire but by some sort of technology**, a secret way in, and **copper cylinders where it looked like power is stored.** **Cardon himself hasn't been sighted there.** **The session ended inside.**
 
+## ⭐ He Asked, Var Refused — And He Died A Flesh Blob (Session 77)
+
+- **We turned off the energy capsules** (the copper cylinders from S76), **which tripped an alarm**, and we **hid to see who showed up.**
+- **We ended up fighting an anti-magic knight, [[Doctor Hadol]], and Cardon.**
+- **With the knight and the doctor down, [[Var Borgal|Var]] appeared in front of Cardon.** **Cardon asked Var to join him. Var refused.**
+- **When we killed Hadol and Cardon, they became flesh-like blobs.**
+- **Var took a laser pistol off Cardon's blob.** See [[Items and References]].
+- **Downstairs: a chamber of tubes filled with more Cardons in various states of completion.** **We destroyed the tubes and the Cardons until they became flesh blobs**, then **destroyed the emergency generator**, killing the facility's power and alarm.
+- **Upstairs again: an anti-magic knight and three Hadols** — the Hadols were blobs too. See [[Doctor Hadol]].
+- **The anti-magic knight was one of the flesh golems the [[Cult of Cyric|cult]] was using, wired up in some way to dampen magic.**
+
+> **What this changes:** **the Cardon we fought was a flesh blob, and someone was growing more.** **We assume there must be an original Cardon somewhere, but we don't know where yet**, or whether any Cardon we've met (at the Council, S59; in Var's private talk, S62; or here) was him. And **the knights that carry anti-magic are cult flesh golems with wiring.** Whether the knight that sustains his own field (S59) is one is still not recorded.
+
 ## The Wanted Poster
 
 [[Estelle Moonglow Platinum]] recovered a wanted poster from [[Skeemo Weirdbottle]]'s back room. Cardon is **hunting [[Var Borgal]] specifically**:
@@ -129,6 +142,9 @@ And in the dungeon itself: **that knight, guarding a prison block**, **seemingly
 - **How do we fight a man whose presence cancels magic?** The field is sustained by his **knight**, not him — take the knight first? **S75: the anti-magic knight he gave the cult guards a prison block under [[Yartar]]. S76: Var dismissed it by posing as Cardon. Does the same trick work on his own?**
 - **⭐ What does he want with how [[Cyric]] became a god?** *(S75)* — godhood for himself, or the **method** without it? **Does it require killing [[Mystra]]?** See [[The Netherese]].
 - **What does he get from the cult in exchange for the anti-magic knight?** *(S75)*
-- **What's inside an anti-magic knight?** *(S76)* — a [[Track the Red Mages|Red Mage]] wants it badly enough to trade [[Var Borgal|Var]]'s life for it.
+- **What's inside an anti-magic knight?** *(S76)* — a [[Track the Red Mages|Red Mage]] wants it badly enough to trade [[Var Borgal|Var]]'s life for it. **S77: a knight is a cult flesh golem wired up to dampen magic.**
+- **⭐ Where is the real Cardon?** *(S77)* — the one we killed **became a flesh-like blob**, and **more were growing in tubes.** **We assume an original exists somewhere.** **Where is he, who is making the copies, and was any Cardon we've met the original?**
+- **What was he offering when he asked Var to join him?** *(S77)* — **Var refused; the terms aren't recorded.**
+- **What else was in the facility?** *(S77)* — we destroyed the tubes and the generator; **anything else we found is not recorded.**
 - **Why did [[Jarlaxle]] give up his employer's location?** *(S76)*
 - ~~**Is it connected to the anti-magic field?**~~ *(S73)* — **S75: Cardon and [[Doctor Hadol|Hadol]] gave the cult an anti-magic knight.** Hadol's work and anti-magic are connected.

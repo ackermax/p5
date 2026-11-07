@@ -98,12 +98,17 @@ Shorter location notes. Promote any of these to their own file when content grow
 - **→ Promoted to its own note: [[Aasimar Temple]]** *(entered S67, **cleared S68**)*. The mound in the forest **northeast of [[Everlund]]**; site of [[The Everlund Apparitions]]. **Its true name is unknown.**
 
 ### Cardon's Hideout (working name)
-- *Working name: the party has no true name for it, and it's only **what we think** is [[Cardon Malefic|Cardon]]'s hideout. Rename when a real name surfaces.*
+- *Working name: **Cardon's hideout** or **Cardon's bunker** — no real name yet (confirmed after S77). Var calls it "the facility." Rename when a real name surfaces.*
 - **Northeast of [[Yartar]]**, per [[Jarlaxle|Jarlaxle Baenre]] (S76)
 - **Lamps outside, powered not by fire but by some sort of technology**
 - **A secret way in**; the party entered quietly
-- **Copper cylinders inside, where it looked like power is stored**
+- **Copper cylinders inside, where it looked like power is stored** — **S77: Var calls them energy capsules.** **Turning them off tripped the alarm.**
 - **The party was inside when [[Session 76 - Var - 2026-10-26|Session 76]] ended**
+- **S77 — what's in it** *([[Session 77 - Var - 2026-11-02|Session 77]]; Var calls it "the facility")*:
+  - **An upstairs room** where we fought **an anti-magic knight, [[Doctor Hadol]], and [[Cardon Malefic|Cardon]]** — both men **became flesh-like blobs** when killed. Later, **a second knight and three Hadols** came down on the same room.
+  - **A downstairs chamber of tubes** holding **more Cardons in various states of completion** — **destroyed.**
+  - **The emergency generator** powering the facility and the alarm — **destroyed; power and alarm are dead throughout.**
+  - **At session end: two knights and three Hadols dead, one Hadol knocked out and in our hands.**
 
 ### Kryptgarden Forest
 - See [[The Death Knight Ritual]] — the necromancer's lair was here

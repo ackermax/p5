@@ -1,11 +1,11 @@
 ---
 tags:
   - session
-date: 2026-11-02
-session-number: 77 - Estelle
+date: 2026-11-09
+session-number: 78 - Gotrek
 ---
 
-# Session 77 - Estelle — 2026-11-02
+# Session 78 - Gotrek — 2026-11-09
 
 > **In-game date:**
 > **Location:** [[]]

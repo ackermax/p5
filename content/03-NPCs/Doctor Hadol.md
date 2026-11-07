@@ -1,7 +1,7 @@
 ---
 tags: [npc, status/active, antagonist, var-arc, yartar]
-status: escaped (session 73)
-location: northeast of Yartar, with Cardon (per Jarlaxle, S76); last seen in the dungeon under the house on Ilin's list
+status: three Hadols killed S77 (all flesh blobs); a fourth knocked out and held by the party, also a blob; the party assumes an original exists somewhere, location unknown
+location: Cardon's hideout, northeast of Yartar (S76–S77)
 faction: Cardon Malefic
 first-met: Session 73
 ---
@@ -29,6 +29,15 @@ first-met: Session 73
 
 **[[Jarlaxle|Jarlaxle Baenre]] told [[Var Borgal|Var]] that Cardon and Hadol are northeast of [[Yartar]].** In what we think is [[Other Locations#Cardon's Hideout (working name)|Cardon's hideout]] we found **lamps run on some sort of technology** and **copper cylinders that look like they store power.** **Whether those are Hadol's work is not recorded, but it's what he builds.**
 
+## ⭐ Session 77 — Four Hadols, All Flesh Blobs
+
+- **The alarm brought an anti-magic knight, Hadol, and [[Cardon Malefic|Cardon]].** **We took out the knight and the doctor**, and **when we killed him, Hadol became a flesh-like blob**, and so did Cardon.
+- **Later, upstairs: a single anti-magic knight and three more Hadols.** **We killed the knight and two of the Hadols; both turned into flesh blobs.**
+- **We knocked the third one out**, and **were able to tell it was a flesh blob as well.** **It's the only one left alive, and we have it. What we do with it is undecided.**
+- **Downstairs we'd found tubes of Cardons in various states of completion.** **No Hadols in tubes are recorded.**
+
+> **So every Hadol we met here was a flesh blob, and there are several of him.** **We assume there must be an original Hadol somewhere, but we don't know where yet.** Which Hadol escaped us in S73 is not recorded. The **knocked-out one is our first chance to question one of these copies.**
+
 ## What They Want
 
 - **Technology to rival magic.** Beyond that, unknown.
@@ -50,3 +59,5 @@ first-met: Session 73
 - ~~**Does his technology have anything to do with Cardon's anti-magic field?**~~ — **S75: he and Cardon gave the cult an *anti-magic knight*.** **The anti-magic knight guards a prison block in the dungeon.** Whether he also built the **knight that sustains Cardon's own field** (S59) is not recorded.
 - **Where did his dimension door take him?** **S76: he's northeast of the city now, per Jarlaxle.** He knows our faces now, and **he answers to the man with a 25,000 gp bounty on [[Var Borgal|Var]].**
 - **Did he recognize Var?** *(Not recorded. We were in disguise, S72.)*
+- **⭐ Where is the real Hadol?** *(S77)* — **four Hadols, all flesh blobs.** **We assume an original exists somewhere.** Who makes the copies, and are they also grown in tubes?
+- **What do we do with the knocked-out Hadol, and what can it tell us?** *(S77 — undecided)*

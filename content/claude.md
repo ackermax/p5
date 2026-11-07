@@ -102,7 +102,15 @@ The standing weekly task:
   - **Only Ilin's body went to the Harper (confirmed 2026-11-01).** The party still has his notes and the troupe picture.
   - **"The inn" where the Red Mage caught the party is the one they've been staying at in town (confirmed 2026-11-01)**, which the vault records as One Foot in the Boot.
 - **S76 canon (Var's and Jaak's files):** the cult's "mother" is **officially the Great Mother**. **"Through and Through Detective Agency"** (Jaak's S76 name) is the file; **Through and Through Investigators** is an alias. Var's **"Naxine"** is a phonetic guess at [[Naxene Drathkala]] — alias only. **The female Red Mage is unnamed**, so she has no NPC file; she lives in [[Track the Red Mages]]. **Var owes [[Jarlaxle]] a like-for-like favor.** **Her deal is what's inside the anti-magic knight, for Var's life.** **The party had no choice but to accept (confirmed 2026-11-01).** No deadline; **the party assumes the Red Mages are watching and will know when it's done, and that any knight will do if there are several.** Those two are the party's assumptions, not facts she stated.
-- **Working names for unnamed places** are allowed when the party has no true name yet — file them under the working name with an explicit callout that it's provisional, and rename when the real name surfaces. Current examples: the **Aasimar Temple** (S67, northeast of Everlund) and **Cardon's hideout** (S76, northeast of Yartar, in [[Other Locations]]).
+- **S77 canon (Var's file is the only S77 source; the four empty S77 files were deleted). Rulings confirmed by the user 2026-11-07:**
+  - **The party turned the energy capsules (the S76 copper cylinders) *off*, and that tripped the alarm.** Var wrote "turned down"; the vault says **off**.
+  - **Cardon asked Var to join *him*; Var refused.** What he offered is not recorded.
+  - **The Cardon and the Hadols the party killed became flesh-like blobs**, and **more Cardons were growing in tubes** (destroyed). **⭐ The party assumes an original Cardon and an original Hadol exist somewhere, location unknown.** Write it as the party's assumption, not as fact.
+  - **⭐ An anti-magic knight is one of the cult's flesh golems, wired up in some way to dampen magic.** Two were killed in S77.
+  - **The Red Mage's deal is still in progress** ("still working on it"). Nothing has been delivered.
+  - **The party holds the knocked-out Hadol (also a blob); what they'll do with it is undecided.** Don't prompt for plans.
+  - **Var holds a laser pistol** off Cardon's blob; properties unrecorded.
+- **Working names for unnamed places** are allowed when the party has no true name yet — file them under the working name with an explicit callout that it's provisional, and rename when the real name surfaces. Current examples: the **Aasimar Temple** (S67, northeast of Everlund) and **Cardon's hideout** (S76, northeast of Yartar, in [[Other Locations]]; **"Cardon's bunker" is an equally fine working name**, per the user 2026-11-07, and Var calls it "the facility").
 
 ## Folder structure
 

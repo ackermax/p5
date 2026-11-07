@@ -16,6 +16,7 @@ tags: [lore, items, index]
 - **Decanter of Endless Water** *(Brawl reward, S61)* — rare; on command produces fresh or salt water (stream/fountain/geyser)
 
 ### Held By [[Var Borgal]]
+- **Laser pistol** *(new, S77)* — **taken off [[Cardon Malefic|Cardon]]'s flesh blob** in [[Other Locations#Cardon's Hideout (working name)|his hideout]]. **Properties not recorded — get the stats.**
 - **Beads of force ×5** *(S74)* — found going back over rooms we'd passed in the [[Cult of Cyric|cult]] dungeon under [[Yartar]]. **Var has them for now.**
 - **Necromancy books** *(S75)* — Var used **"one of my necromancy books"** to walk [[Sir Joseph Gordon Die Hard|Sir Joseph]] through a *revivify*. Count and titles unrecorded.
 - **The Great Mother's papers** *(S75)* — taken off her corpse in the [[Yartar]] dungeon. **[[Cardon Malefic|Cardon]] and [[Doctor Hadol]] gave the cult an anti-magic knight; Cardon is researching how [[Cyric]] became a god** ([[The Netherese]]); **Cardon is here with [[Jarlaxle|Jarlaxle Baenre]]'s mercenaries.**

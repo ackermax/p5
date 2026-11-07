@@ -37,7 +37,7 @@ This is the cult Estelle and Jaak escaped from. Previously referred to in our no
 - **She seemed to have affection for [[Estelle Moonglow Platinum|Estelle]].** [[Var Borgal|Var]]'s read: because the cult was grooming Estelle to **lead** — and **[[Jaak Greye|Jaak]] was being set up to be [[Cyric]]'s vessel** *(confirmed)*.
 - **It came to a fight; more cultists appeared to ambush us.** **She died.** We barely survived — **Estelle died killing the last enemy** and was **revived by [[Sir Joseph Gordon Die Hard|Sir Joseph]]** from a *revivify* scroll.
 - **Her papers** (taken by Var):
-  - **[[Cardon Malefic|Cardon]] and [[Doctor Hadol]] gave the cult the anti-magic knight as a "gift"**, to help **expand the cult's reach.**
+  - **[[Cardon Malefic|Cardon]] and [[Doctor Hadol]] gave the cult the anti-magic knight as a "gift"**, to help **expand the cult's reach.** **S77: an anti-magic knight is one of the flesh golems the cult was using, wired up in some way to dampen magic** — seen in [[Other Locations#Cardon's Hideout (working name)|Cardon's hideout]]. So **the "gift" is built on the cult's own flesh golems.**
   - **Cardon was looking for information on how [[Cyric]] became a god** — a trail that leads to **[[The Netherese|the Netherese]]** and **Karsus' Avatar**.
   - **Cardon is here with mercenaries of [[Jarlaxle|Jarlaxle Baenre]].**
 - **How she ranked against [[Rulf Cloudfang|Rulf]]**, the current leader, is not recorded.
@@ -123,6 +123,7 @@ This is the cult Estelle and Jaak escaped from. Previously referred to in our no
 - ~~**What are the children for?**~~ *(S73)* — **their blood, for the ritual (S74).** *(Original question:)* — the cult **scouted young people with "specific qualities"** before ([[Jaak Greye|Jaak]] was one of their targets; [[Estelle Moonglow Platinum|Estelle]] was raised in that monastery). **Is Yartar the same operation, at scale?**
 - ~~**Did the cult run [[The Exquisites Investigation|the Exquisites circus]]?**~~ — **yes: one of their child-kidnapping operations (S73).** **Is [[The Beliard Mystery|Beliard]] another?**
 - **Why do they need [[Doctor Hadol]]'s technology?** *(S73)* — **S75: Cardon and [[Doctor Hadol|Hadol]] *gave* them an anti-magic knight, "to expand the cult's reach."** What does Cardon get back?
+- **Where did the flesh golems inside the anti-magic knights come from?** *(S77)* — they're **the kind the cult was using**. Did the cult supply them to Cardon's side, or did Cardon's side make its own?
 - ~~**Is [[Jaak Greye|Jaak]] the vessel?**~~ *(S75)* — **yes: he was being set up to be Cyric's vessel** *(confirmed)*.
 - **Why did the Great Mother have affection for [[Estelle Moonglow Platinum|Estelle]]?** *(S75)*
 - ~~**What is in the guarded prison block?**~~ *(S75)* — **prisoners, children and adults; freed S76.**

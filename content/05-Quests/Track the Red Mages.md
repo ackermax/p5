@@ -77,6 +77,14 @@ We answered the "talk or trap?" question by **not answering it**: we went into d
 
 > **What this changes:** **[[Goldenfields]] is their key to weakening the West, and they now have the ward locations.** **The disguises didn't stop them.** And **they care about Cardon too** — this is the first time we've seen them want anything of his.
 
+## S77 — We Know What A Knight Is
+
+- In [[Other Locations#Cardon's Hideout (working name)|Cardon's hideout]] **we fought and killed two anti-magic knights.**
+- **An anti-magic knight is one of the flesh golems the [[Cult of Cyric|cult]] was using, wired up in some way to dampen magic.**
+- **We went downstairs to look for something to contain and dampen a knight, to help with her deal.** What we found was **the tube chamber of Cardons and the emergency generator**, which we destroyed. **We haven't found a way yet; still working on it.**
+
+> **Where the deal stands:** **we know what a knight is made of, and there's more than one.** **We're still working on getting it to her**, and which part of a knight she means by "what's inside" is still open.
+
 ## Connections
 
 - **[[Hamun Kost]]** — the Red Mage we already met at [[Old Owl Well]] (we hold Dresina's journal). Likely the same order.
@@ -91,7 +99,8 @@ We answered the "talk or trap?" question by **not answering it**: we went into d
 - Are the Red Mages working *with* the cult, *against* it, or on their own hunt for relics/people?
 - **What do they want to know about our time in [[Goldenfields]]** — and **what does "weakening the West" through it look like?** *(S71)*
 - ~~**Talk, or trap?**~~ — **S76: they picked the place: our room, in shackles.**
-- **⭐ What's inside the anti-magic knight, and what does she want it for?** *(S76)*
+- **⭐ What's inside the anti-magic knight, and what does she want it for?** *(S76)* — **S77: a knight is a cult flesh golem, wired to dampen magic.** Why she wants it is still open.
+- **How do we contain a knight, or carry what she wants out of one?** *(S77)* — **still working on it.**
 - ~~**Did [[Var Borgal|Var]] take her deal, and is there a deadline?**~~ *(S76)* — **yes, we had no choice; no deadline, but we assume they're watching.**
 - **What will they do with the ward locations?** *(S76)* — and **has [[Naxene Drathkala|Naxene]] done anything about it?**
 - ~~**How long do the disguises hold?**~~ *(S72)* — **S76: not long enough.**

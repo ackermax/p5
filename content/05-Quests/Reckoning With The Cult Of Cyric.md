@@ -90,6 +90,11 @@ The dungeon under the house on [[Find Ilin Cotton|Ilin's list]] (S72) **is the c
 
 > **The cult lost its Great Mother, its prisoners, and this dungeon's guard.** **It did not lose [[Rulf Cloudfang|Rulf]] or the ritual.**
 
+## Session 77 — The Knights Are Cult Flesh Golems
+
+- Not in the cult's dungeon this time, but in [[Other Locations#Cardon's Hideout (working name)|Cardon's hideout]]: **an anti-magic knight turned out to be one of the flesh golems the cult was using, wired up in some way to dampen magic.**
+- **The [[Cardon Malefic|Cardon]] and [[Doctor Hadol|Hadols]] we killed there turned into flesh-like blobs.** Whether that has anything to do with the cult is not recorded. See [[Cardon Malefic]].
+
 ## Convergence Points
 
 This quest may collapse multiple arcs at once:
