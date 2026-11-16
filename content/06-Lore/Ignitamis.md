@@ -7,7 +7,7 @@ status: active
 
 > **What:** The party's **airship** — our primary means of travel
 > **Patron:** a gift of **[[Klauth]]**, the ancient red dragon, the Great Dragon of the North
-> **Status:** ⚙️ **In the shop.** Handed over to an **older gnome in [[Yartar]]** (S70) to be **refuelled and repaired** — the first time both open items have been actioned at once
+> **Status:** ✅ **Back in our hands and flying** *(S78)*. It was with an **older gnome in [[Yartar]]** (S70–S77) to be **refuelled and repaired**; **S78: we collected it and flew Yartar → [[Phandalin]] → [[Ulfgardian Mounds#Morgur's Mound|Morgur's Mound]]**, where it's **parked**
 
 ## Where It Came From
 
@@ -41,6 +41,7 @@ status: active
 - **S65–66 — the mounds:** based out of the ship while working [[Ulfgardian Mounds|One Stone]].
 - **S69 — grounded by fuel.** After collecting at [[Moongleam Tower]] we went to [[Ulfgardian Mounds|Stone Stand]] **on foot**: not enough oil to fly there and still make the following leg. **First time the ship's range has actually dictated the party's route.**
 - **S70 — [[Ulfgardian Mounds|Stone Stand]] → [[Ulfgardian Mounds|Flint Rock]] → [[Yartar]].** Loaded the **100 lb giant's skull** aboard and flew the leg the ship couldn't afford in S69. At Yartar, **handed over for fuel and repairs.**
+- **S78 — [[Yartar]] → [[Phandalin]] → [[Ulfgardian Mounds#Morgur's Mound|Morgur's Mound]]:** **back aboard after the gnome's work**, with **the items the guards had been holding**. Home to the manor, then out to the Thunder Beast mound, **parked nearby while we walked in.** **The bill, and how much range the tank had, aren't recorded.**
 - **S66 — [[Ulfgardian Mounds|One Stone]] → [[Everlund]] → back:** carried the dying chieftain **[[Arnzan Vashk]]** to Everlund to be cured, then home again. **The ship is why that rescue was possible at all** — and why we could then return him and ask for the relic in person.
 
 ## What It Carries
@@ -51,7 +52,7 @@ status: active
 ## Open Questions
 
 - **Does the repair list still stand**, or has the ship effectively been fine this whole time? **The gnome in [[Yartar]] is the person who can finally tell us (S70).**
-- **What does the refuel and repair cost, and how long is the ship out of our hands?** *(S70 — unquoted. We are on foot in a city where three hostile threads converge.)*
+- **What did the refuel and repair cost?** *(S70 — unquoted. **S78: we have the ship back**; the price still isn't recorded, and neither is whether the repair list is done.)*
 - **Who is the gnome?** **He gave no name** — we handed our dragon-gifted airship, **and everything aboard it**, to a stranger we can only describe as an older gnome. *(The [[Stronmaus]] statue and our relics ride on this ship — see What It Carries.)*
 - **What does [[Klauth]] want for it?** He gave it freely and asked only for a visit. Old red dragons don't do altruism.
 - Are there other skyships in the world we should know about? *(The [[The Waterdeep Wazoo Issue 496|Wazoo]] reported **skyship wreckage east of Baldur's Gate** — noted in [[Other Locations]] as a **DM easter egg, not a real lead**.)*

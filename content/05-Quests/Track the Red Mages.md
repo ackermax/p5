@@ -85,6 +85,15 @@ We answered the "talk or trap?" question by **not answering it**: we went into d
 
 > **Where the deal stands:** **we know what a knight is made of, and there's more than one.** **We're still working on getting it to her**, and which part of a knight she means by "what's inside" is still open.
 
+## ✅ S78 — Paid, And A Truce
+
+- **We got one sussur extract out of an anti-magic knight** in [[Other Locations#Cardon's Hideout (working name)|Cardon's bunker]]. *(Var: "one sussur extract, which is what we were able to get inside of the anti-magic knight." Jaak: "extracted an anti-magic heart from an armored guy." Same thing.)*
+- **Back in [[Yartar]], we handed the essence to the Red Mages and struck a temporary truce with them, for now.**
+- Var's next line: **"Evermoors is where the flying castle is. Zephros there?"** *(Who told us isn't recorded.)*
+- **In [[Phandalin]], [[Jaak Greye|Jaak]] and [[Estelle Moonglow Platinum|Estelle]] saw [[Sister Garaele]] again**, the Harper who gave them this mission. **Whether they asked who her [[Moongleam Tower]] contact was isn't recorded.**
+
+> **Where it stands:** **the deal is done and [[Var Borgal|Var]] lives.** **The truce is temporary.** **They still have the [[Goldenfields]] ward locations**, still want to weaken the West, and now have **a piece of anti-magic** too. **Garaele's original ask, finding out what they're doing, is still open.**
+
 ## Connections
 
 - **[[Hamun Kost]]** — the Red Mage we already met at [[Old Owl Well]] (we hold Dresina's journal). Likely the same order.
@@ -99,8 +108,9 @@ We answered the "talk or trap?" question by **not answering it**: we went into d
 - Are the Red Mages working *with* the cult, *against* it, or on their own hunt for relics/people?
 - **What do they want to know about our time in [[Goldenfields]]** — and **what does "weakening the West" through it look like?** *(S71)*
 - ~~**Talk, or trap?**~~ — **S76: they picked the place: our room, in shackles.**
-- **⭐ What's inside the anti-magic knight, and what does she want it for?** *(S76)* — **S77: a knight is a cult flesh golem, wired to dampen magic.** Why she wants it is still open.
-- **How do we contain a knight, or carry what she wants out of one?** *(S77)* — **still working on it.**
+- **⭐ What's inside the anti-magic knight, and what does she want it for?** *(S76)* — **S77: a knight is a cult flesh golem, wired to dampen magic.** **S78: a sussur extract, and she has it.** **Why she wants it is still open.**
+- ~~**How do we contain a knight, or carry what she wants out of one?**~~ *(S77)* — **S78: we got a sussur extract out of one and delivered it.**
+- **How long does the truce last, and what are its terms?** *(S78)* — "temporary," "for now."
 - ~~**Did [[Var Borgal|Var]] take her deal, and is there a deadline?**~~ *(S76)* — **yes, we had no choice; no deadline, but we assume they're watching.**
 - **What will they do with the ward locations?** *(S76)* — and **has [[Naxene Drathkala|Naxene]] done anything about it?**
 - ~~**How long do the disguises hold?**~~ *(S72)* — **S76: not long enough.**

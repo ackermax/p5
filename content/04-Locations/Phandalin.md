@@ -25,7 +25,7 @@ region: Sword Coast
 - **Miners Exchange** — Halia Thorton's
 - **Shrine of Luck** — town center, dedicated to **Lady Tymora**
 - **Tresendar Manor** — south of town; former [[The Red Brands|Red Brand]] base; **basement led down and to the side** with rot smell; **sword buried in orchard** (unexplored)
-- **The party's bastion** — at the manor; options walked through with [[Gundren Rockseeker]] in S63, **not all chosen yet**. **As of S69 it is getting a [[Harpers|Harper teleportation circle]]** — [[Krowen Valharrow]]'s payment for [[The Everlund Apparitions]] — **pending materials**, with **[[Droop]]** installed as the resident mage who attends it
+- **The party's bastion** — at the manor; options walked through with [[Gundren Rockseeker]] in S63, **not all chosen yet**. **It has a [[Harpers|Harper teleportation circle]]** — [[Krowen Valharrow]]'s payment for [[The Everlund Apparitions]] (S69), **set up S78** — with **[[Droop]]** as the resident mage who attends it
 - **Sleeping Giant Tavern** — former Red Brands hangout
 - **The orchard** — Daran Edermath lives here
 - **The Lion Shield Merchant Empire outpost** — emblem: lion on a shield
@@ -38,7 +38,8 @@ region: Sword Coast
 ## Ongoing Threads
 
 - **Party returned to Phandalin (S63)** — flew the [[Ignitamis]] home from [[Waterdeep]]. On arrival: [[Gotrek Runehammer]] & [[Sir Joseph Gordon Die Hard]] reported to [[Sildar Hallwinter]]; [[Jaak Greye]] & [[Estelle Moonglow Platinum]] took the **[[Track the Red Mages|Red Mages]]** mission from [[Sister Garaele]] (pointing to [[Everlund]]); [[Var Borgal|Var]] reviewed **bastion** options with [[Gundren Rockseeker]] at the manor (not all chosen yet).
-- **The bastion teleportation circle** *(S69)* — granted by [[Krowen Valharrow]], **still needs materials gathered** before it works. Once it does, **Phandalin is one hop from [[Everlund]], [[Waterdeep]], [[Yartar]] and [[Other Locations#Mirabar|Mirabar]]** — it stops being the far corner of the map. See [[Harpers]].
+- **✅ The bastion teleportation circle** *(S69 — **set up S78**)* — granted by [[Krowen Valharrow]]. **We flew home from [[Yartar]] and got it set up.** **Phandalin is now one hop from [[Everlund]], [[Waterdeep]], [[Yartar]] and [[Other Locations#Mirabar|Mirabar]].** See [[Harpers]]. *(What the materials cost isn't recorded.)*
+- **Back home, briefly** *(S78)* — flew in on the [[Ignitamis]], set up the circle, and **[[Jaak Greye|Jaak]] and [[Estelle Moonglow Platinum|Estelle]] went to [[Sister Garaele]], who comforted Jaak as he questioned whether he should be a [[Harpers|Harper]].** Then out again to [[Ulfgardian Mounds#Morgur's Mound|Morgur's Mound]].
 - **[[Sildar Hallwinter]] is building a militia** to protect the town *(S63)*.
 - **Undead activity** north of Phandalin — Daran Edermath has been investigating
 - The drow movement under the town isn't fully resolved (Nezznar and Vyerith are dead, but the Loyalists of Lolth still exist)

@@ -15,6 +15,10 @@ aliases: [Netherese]
 - He **created a spell called *Karsus' Avatar*** that would make him **the god of magic**.
 - **It failed**, and **caused magic to leave the world for a time.**
 
+## Cardon's Facility Was On It Too *(S78)*
+
+- **We investigated the rest of [[Other Locations#Cardon's Hideout (working name)|Cardon's bunker]]**, northeast of [[Yartar]]. **Not a lot of information, but they were looking into the Netherese.** That's a second source, after the Great Mother's papers, putting **Cardon's people on this trail.** What exactly they had on it isn't recorded.
+
 ## Why It Matters
 
 - **Cyric climbed from mortal to god** ([[Althariel]], S68) — and **killed [[Mystra]]**, the goddess of magic, after which **all magic ceased to exist.** **Karsus tried to *become* the god of magic**, and **magic left the world.** Two stories, **one shape**: a mortal reaches for the godhood behind magic, and **magic breaks.**

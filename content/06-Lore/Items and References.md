@@ -72,6 +72,7 @@ tags: [lore, items, index]
 
 ## Spent / Inert
 
+- **One sussur extract** *(got and handed over S78)* — **what's inside an anti-magic knight**, taken from one in [[Other Locations#Cardon's Hideout (working name)|Cardon's bunker]]. *(Jaak: "extracted an anti-magic heart from an armored guy.")* **Given to the [[Track the Red Mages|Red Mages]] in [[Yartar]] as the price of [[Var Borgal|Var]]'s life.** **Gone.**
 - **Scroll of *Revivify*** *(used S75)* — [[Estelle Moonglow Platinum|Estelle]] was carrying it; **[[Sir Joseph Gordon Die Hard|Sir Joseph]] cast it to bring her back** after she died in the [[Cult of Cyric|cult]] dungeon under [[Yartar]]. **Gone.** *(Where she got it was never logged.)*
 - **The four keystones** *(S67–S68)* — opened the altar portal at [[Aasimar Temple|the Aasimar Temple]]. **We kept them, but they are spent and cannot be used again** — whatever they’re **worth as goods** is all that’s left. **Get them appraised.**
 
@@ -135,7 +136,7 @@ tags: [lore, items, index]
 Granted by [[Krowen Valharrow]] as payment for [[The Everlund Apparitions]]. **Harper secret — Bright Candles and High Harpers only.** Full details on [[Harpers]].
 
 - **Cost:** **500 gp in diamond dust** per use, moving **6 people**
-- **Requirement:** **the attendant must be present** — ours will be **[[Droop]]**, at the [[Phandalin|bastion]] circle *(pending materials)*
+- **Requirement:** **the attendant must be present** — ours is **[[Droop]]**, at the [[Phandalin|bastion]] circle *(set up S78)*
 - **Connected:** [[Everlund]] · [[Waterdeep]] · [[Other Locations#Mirabar|Mirabar]] · [[Yartar]] · **our bastion** · "and others"
 - **Not connected:** [[Other Locations#Neverwinter|Neverwinter]] *(closed off because of **Neverember**)* · [[Other Locations#Baldur's Gate|Baldur's Gate]]
 

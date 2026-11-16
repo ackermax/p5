@@ -110,6 +110,11 @@ The standing weekly task:
   - **The Red Mage's deal is still in progress** ("still working on it"). Nothing has been delivered.
   - **The party holds the knocked-out Hadol (also a blob); what they'll do with it is undecided.** Don't prompt for plans.
   - **Var holds a laser pistol** off Cardon's blob; properties unrecorded.
+- **S78 canon (Var's and Jaak's files; the three empty S78 files were deleted 2026-11-09):**
+  - **Var's "sussur extract" and Jaak's "anti-magic heart" are the same thing**: what's inside an anti-magic knight. The vault says **sussur extract** in its own voice. **It was handed to the Red Mages in Yartar; the deal is paid and there's a temporary truce "for now."** Terms and duration not recorded.
+  - **The bastion's teleportation circle is set up** (Phandalin is on the network). **The Ignitamis is back in the party's hands.**
+  - **Morgur's Mound (S78):** a buried-dragon-shaped hill with rock gravestones; runes on the hilltop rocks, the centre one magical; **digging for the relic made the rune flare and giant lizard skeletons rose** (cliffhanger). Harthulk and the tribe not seen.
+  - **"Evermoors is where the flying castle is. Zephros there?"** is logged as **Var's question**, not linked to [[Zephyros]] until the user confirms they're the same.
 - **Working names for unnamed places** are allowed when the party has no true name yet — file them under the working name with an explicit callout that it's provisional, and rename when the real name surfaces. Current examples: the **Aasimar Temple** (S67, northeast of Everlund) and **Cardon's hideout** (S76, northeast of Yartar, in [[Other Locations]]; **"Cardon's bunker" is an equally fine working name**, per the user 2026-11-07, and Var calls it "the facility").
 
 ## Folder structure

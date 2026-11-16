@@ -109,6 +109,11 @@ Shorter location notes. Promote any of these to their own file when content grow
   - **A downstairs chamber of tubes** holding **more Cardons in various states of completion** — **destroyed.**
   - **The emergency generator** powering the facility and the alarm — **destroyed; power and alarm are dead throughout.**
   - **At session end: two knights and three Hadols dead, one Hadol knocked out and in our hands.**
+- **S78 — the rest of it** *([[Session 78 - Var - 2026-11-09|Session 78]])*:
+  - **We investigated the rest of the facility.** **Not a lot of information, but they were looking into [[The Netherese|the Netherese]].**
+  - **A few fights with some test subjects, "nothing crazy."**
+  - **We got one sussur extract out of an anti-magic knight** *(Jaak: an "anti-magic heart")* — the [[Track the Red Mages|Red Mages]]' price. **Delivered.**
+  - **Then we went back to [[Yartar]].** What became of the knocked-out Hadol isn't recorded.
 
 ### Kryptgarden Forest
 - See [[The Death Knight Ritual]] — the necromancer's lair was here

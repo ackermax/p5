@@ -86,6 +86,12 @@ And in the dungeon itself: **that knight, guarding a prison block**, **seemingly
 
 > **What this changes:** **the Cardon we fought was a flesh blob, and someone was growing more.** **We assume there must be an original Cardon somewhere, but we don't know where yet**, or whether any Cardon we've met (at the Council, S59; in Var's private talk, S62; or here) was him. And **the knights that carry anti-magic are cult flesh golems with wiring.** Whether the knight that sustains his own field (S59) is one is still not recorded.
 
+## The Rest Of His Facility (Session 78)
+
+- **We investigated the rest of the bunker.** **Not a lot of information, but they were looking into [[The Netherese|the Netherese]]**, matching the Great Mother's papers (S75).
+- **A few fights with some test subjects, "nothing crazy."**
+- **We got one sussur extract out of an anti-magic knight** and **paid the [[Track the Red Mages|Red Mages]] with it** back in [[Yartar]].
+
 ## The Wanted Poster
 
 [[Estelle Moonglow Platinum]] recovered a wanted poster from [[Skeemo Weirdbottle]]'s back room. Cardon is **hunting [[Var Borgal]] specifically**:
@@ -145,6 +151,6 @@ And in the dungeon itself: **that knight, guarding a prison block**, **seemingly
 - **What's inside an anti-magic knight?** *(S76)* — a [[Track the Red Mages|Red Mage]] wants it badly enough to trade [[Var Borgal|Var]]'s life for it. **S77: a knight is a cult flesh golem wired up to dampen magic.**
 - **⭐ Where is the real Cardon?** *(S77)* — the one we killed **became a flesh-like blob**, and **more were growing in tubes.** **We assume an original exists somewhere.** **Where is he, who is making the copies, and was any Cardon we've met the original?**
 - **What was he offering when he asked Var to join him?** *(S77)* — **Var refused; the terms aren't recorded.**
-- **What else was in the facility?** *(S77)* — we destroyed the tubes and the generator; **anything else we found is not recorded.**
+- **What else was in the facility?** *(S77)* — we destroyed the tubes and the generator. **S78: we searched the rest — test subjects, and signs they were looking into [[The Netherese|the Netherese]].** Little else.
 - **Why did [[Jarlaxle]] give up his employer's location?** *(S76)*
 - ~~**Is it connected to the anti-magic field?**~~ *(S73)* — **S75: Cardon and [[Doctor Hadol|Hadol]] gave the cult an anti-magic knight.** Hadol's work and anti-magic are connected.

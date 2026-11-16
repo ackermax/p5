@@ -16,7 +16,7 @@ tags: [lore, faction, ally]
 
 **Harper secret.** Its existence is known **only to Bright Candles and High Harpers** — which is why the promotion and the reveal happened in the same conversation.
 
-[[Krowen Valharrow]] granted the party **access to the network**, and **a circle of our own in the [[Phandalin|bastion]]** (still needs materials gathered), with **[[Droop]] as the resident mage who attends it**.
+[[Krowen Valharrow]] granted the party **access to the network**, and **a circle of our own in the [[Phandalin|bastion]]** (**set up S78**), with **[[Droop]] as the resident mage who attends it**.
 
 | | |
 |---|---|
@@ -45,7 +45,8 @@ tags: [lore, faction, ally]
 ## Strongholds & Concentrations
 
 - **[[Moongleam Tower]]** — outside [[Everlund]]; **[[Krowen Valharrow]]**'s seat. **Visited S66.**
-- **[[Yartar]]** — Harper stronghold; **at least one Harper is at the [[Through and Through Detective Agency]]**, who took [[Ilin Cotton|Ilin]]'s body *(S76)*
+- **[[Yartar]]** — Harper stronghold
+; **at least one Harper is at the [[Through and Through Detective Agency]]**, who took [[Ilin Cotton|Ilin]]'s body *(S76)*
 - **[[Waterdeep]]** — many Harpers; **Tribourgh** is named; **Harpers Den entrance is on the coastal side of the city**
 - **Baldur's Gate** — Jaheira and others
 - [[Everlund]] 
@@ -56,6 +57,7 @@ tags: [lore, faction, ally]
 
 ## Open Questions
 
+- **Does Jaak want to stay a Harper?** *(new, S78)* — back in [[Phandalin]], [[Jaak Greye|Jaak]] **questioned whether he should truly be a Harper**, and **[[Sister Garaele]] comforted him and [[Estelle Moonglow Platinum|Estelle]].** What brought it on, and what she said, aren't recorded.
 - **What does a High Harper want with two Bright Candles?** *(S69)* Valharrow paid a mercenary job in **rank and infrastructure**. He did not buy a service; he **kitted out two members** — and then said nothing further. **The promotion was the entire audience.**
 - **Who was [[Sister Garaele]]'s [[Moongleam Tower]] contact?** *(S63)* She promised Jaak and Estelle a meeting there about the [[Track the Red Mages|Red Mages]]. Valharrow has now met them twice and **never raised the Red Mages.** **Someone else in that tower, or a lead we still haven't collected.**
 - **Are Estelle and Jaak knowingly Harpers, or being moved into position by someone above them?** The pins didn't come from nowhere. **S69 settles half of it — they are formally *in*, at rank 2 of 3.** It does not settle who put them on the ladder.

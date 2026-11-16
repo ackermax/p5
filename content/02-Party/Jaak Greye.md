@@ -72,6 +72,7 @@ Three years later, returned with the troupe. Estelle had learned the full truth 
 - **The audience [[Krowen Valharrow]] held back since S66 finally happened — and it was a promotion.** Jaak and [[Estelle Moonglow Platinum|Estelle]] are now **[[Harpers|Bright Candles]]**, the **2nd of three Harper ranks** (Harp Shadow → **Bright Candle** → High Harper).
 - **The rank came with a secret**: the **[[Harpers|Harper teleportation-circle network]]**, which **only Bright Candles and High Harpers know exists.** The promotion is what made them cleared to be told.
 - **The pin question is settled.** He is not "probably affiliated" any more — he is **formally in, at rank 2 of 3.** Who put him on the ladder in the first place is still unanswered.
+- **⚠️ S78 — he's questioning it.** Back in [[Phandalin]], Jaak **questioned whether he should truly be a Harper**, and **[[Sister Garaele]] comforted him and [[Estelle Moonglow Platinum|Estelle]]** in his time of need. What prompted it, and where he landed, aren't recorded.
 - **The audience is closed — the promotion was all of it.** Valharrow is not holding a further conversation. **And the [[Track the Red Mages|Red Mages]] never came up, across two meetings**, so [[Sister Garaele]]'s S63 promise of a [[Moongleam Tower]] contact is **either someone else in that tower, or still unfulfilled.**
 
 ### ⭐ The Aasimar At The Mound — And What They Told Him *(S67–S68)*

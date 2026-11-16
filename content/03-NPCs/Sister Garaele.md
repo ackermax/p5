@@ -23,3 +23,12 @@ Back in [[Phandalin]], Garaele briefed [[Jaak Greye]] and [[Estelle Moonglow Pla
 - Instead, she's redirecting us onto **[[Track the Red Mages|the Red Mages]]** — spotted in numbers across the Sword Coast, **hunting "curious relics" and important people**. Identifying marks: **bald, tattoos on their heads, many are necromancers.** The ask: **get their papers/documents, find their hideouts, learn what they're doing.**
 - **[[Ilin Cotton]] may go by another name — "Ilin" could be an alias.**
 - **Someone at [[Moongleam Tower]] wants to meet Jaak and Estelle in [[Everlund]].**
+
+## Session 78 — Comfort For Jaak
+
+Back in [[Phandalin]], [[Jaak Greye]] and [[Estelle Moonglow Platinum]] went to talk to her. **She comforted them as Jaak questioned whether he should truly be a [[Harpers|Harper]].** What she said isn't recorded.
+
+## Open Questions
+
+- **Who was the [[Moongleam Tower]] contact she meant?** *(S63)* — **not [[Krowen Valharrow]]** (ruled out S69). **Whether Jaak and Estelle asked her in S78 isn't recorded.** See [[Track the Red Mages]].
+- **What did she tell Jaak about staying a Harper?** *(S78)*

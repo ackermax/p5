@@ -10,7 +10,7 @@ region: Sword Coast North
 > **Region:** Sword Coast North
 > **Ruler:** **[[Nestra Ruthiol]]**, the **Waterbaron** *(named S70; not yet met)*
 > **Significance:** **[[Harpers]] stronghold**; **[[Ilin Cotton]]'s current destination** chasing a [[Cult of Cyric|Cult of C]] lead (S57)
-> **Status:** ⭐ **We are here.** Arrived and admitted [[Session 70 - Var - 2026-08-31|Session 70]]; **found [[Ilin Cotton|Ilin]]'s inn** [[Session 71 - Var - 2026-09-14|Session 71]]; ⭐ **found Ilin himself, in a [[Cult of Cyric|cult]] torture room under a house**, [[Session 73 - Var - 2026-10-05|Session 73]]; 💀 **Ilin killed by [[Rulf Cloudfang|Rulf]], the cult's leader, at the top of that dungeon**, [[Session 74 - Var - 2026-10-12|Session 74]]. ✅ **Got out of the dungeon and freed the prisoners**, [[Session 76 - Var - 2026-10-26|Session 76]] — and **left for [[Other Locations#Cardon's Hideout (working name)|Cardon's hideout]], northeast of the city.**
+> **Status:** **We've left.** *(S78: came back from [[Other Locations#Cardon's Hideout (working name)|Cardon's bunker]], **paid the [[Track the Red Mages|Red Mages]]**, collected the ship and the items the guards held, and **flew to [[Phandalin]]**.)* Arrived and admitted [[Session 70 - Var - 2026-08-31|Session 70]]; **found [[Ilin Cotton|Ilin]]'s inn** [[Session 71 - Var - 2026-09-14|Session 71]]; ⭐ **found Ilin himself, in a [[Cult of Cyric|cult]] torture room under a house**, [[Session 73 - Var - 2026-10-05|Session 73]]; 💀 **Ilin killed by [[Rulf Cloudfang|Rulf]], the cult's leader, at the top of that dungeon**, [[Session 74 - Var - 2026-10-12|Session 74]]. ✅ **Got out of the dungeon and freed the prisoners**, [[Session 76 - Var - 2026-10-26|Session 76]] — and **left for [[Other Locations#Cardon's Hideout (working name)|Cardon's hideout]], northeast of the city.**
 
 ## Why It Matters Now
 
@@ -96,6 +96,13 @@ Per [[Malkyn Serpentwind]] at the [[Tavern Misty Beard]] (S57), **[[Ilin Cotton]
 - **After shopping, at the docks: [[Jarlaxle|Jarlaxle Baenre]].** **Var agreed to a like-for-like favor** for the location of Cardon and [[Doctor Hadol]]: **northeast of Yartar.**
 - **We reached what we think is [[Other Locations#Cardon's Hideout (working name)|Cardon's hideout]].** **The session ended inside.**
 
+## Paid Up, And Out *(S78)*
+
+- **We made it back to town from [[Other Locations#Cardon's Hideout (working name)|Cardon's bunker]]** with **one sussur extract**, the thing inside an anti-magic knight.
+- **We handed it to the [[Track the Red Mages|Red Mages]] and struck a temporary truce with them, for now.** **[[Var Borgal|Var]]'s life is no longer the stake.**
+- Var's note: **"Evermoors is where the flying castle is. Zephros there?"** *(Zephros is the name on the S71 wanted poster; this is his question, not an answer.)*
+- **We went back to the [[Ignitamis]], collected the items the guards had been holding, and flew for [[Phandalin]].** *(Which items, and the gnome's bill, aren't recorded.)*
+
 ### Getting There *(S69)*
 
 **Yartar is a node on the [[Harpers|Harper teleportation-circle network]]** that [[Krowen Valharrow]] opened to us — **500 gp of diamond dust puts six of us in the city**, attendant present. **Relevant now for leaving and coming back**, not for arriving.
@@ -165,10 +172,11 @@ Per [[Malkyn Serpentwind]] at the [[Tavern Misty Beard]] (S57), **[[Ilin Cotton]
 - ✅ **Get past the anti-magic knight at the prison block** *(S75)* — **S76: Var dismissed it, disguised as Cardon.** Where it went isn't recorded.
 - ✅ **Where is [[Cardon Malefic|Cardon]]?** *(S75)* — **S76: northeast of the city, per [[Jarlaxle|Jarlaxle Baenre]].** We're inside what we think is [[Other Locations#Cardon's Hideout (working name)|Cardon's hideout]].
 - ✅ **Where did [[Doctor Hadol]] dimension-door to?** *(S73)* — **S76: he's with Cardon, northeast of the city, per Jarlaxle.**
-- ⭐ **The [[Track the Red Mages|Red Mages]] are looking for us** — about [[Goldenfields]] *(S71)*. Meet them on our terms or not at all. **S72: they are searching the streets on foot and nearly caught [[Estelle Moonglow Platinum|Estelle]] near our inn; we are in disguise.** **S76: they caught us in our room, took the ward locations from Var's mind, and offered a deal**
+- ⭐ **The [[Track the Red Mages|Red Mages]] are looking for us** — about [[Goldenfields]] *(S71)*. Meet them on our terms or not at all. **S72: they are searching the streets on foot and nearly caught [[Estelle Moonglow Platinum|Estelle]] near our inn; we are in disguise.** **S76: they caught us in our room, took the ward locations from Var's mind, and offered a deal.** **✅ S78: deal paid with a sussur extract; temporary truce**
 - ⬜ **Who warned us at Through and Through, and about what?** *(S71)*
-- ⬜ **"Zephros," wanted by "S"** — the wanted poster *(S71)*
-- ⬜ **Get the [[Ignitamis]] back** — with a **full tank** and a **repair bill** we haven't been quoted
+- ⬜ **"Zephros," wanted by "S"** — the wanted poster *(S71)*. **S78: Var asks whether Zephros is at the flying castle in the Evermoors**
+- ✅ **Get the [[Ignitamis]] back** — **done S78.** **The gnome's bill and what a full tank buys still aren't recorded**
+- ⬜ **Which items were the guards holding?** *(S78)* — we collected them on the way out; which ones, and when they were taken, isn't recorded
 - ⬜ **What is the gate ward screening for?** We passed carrying relics and a celestial sword. Something else is what it wants to catch
 - ⬜ **Approach the [[Harpers]] here as Bright Candles** — Yartar is their stronghold and we now have rank
 - ⬜ **Look for [[Clint]]'s red-and-white wagon** — he works out of Yartar, and he is the supplier behind [[The Cursed Seeds]]

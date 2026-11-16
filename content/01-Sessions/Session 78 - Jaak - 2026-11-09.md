@@ -16,7 +16,8 @@ session-number: 78 - Jaak
 
 ## Key Events
 
--
+- Extracted an anti-magic heart from a armored guy
+- 
 -
 
 ## NPCs Met

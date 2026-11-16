@@ -32,7 +32,7 @@ This file is the **reference** for *who's at each mound and how to approach them
 | **Beorunna's Well**   | Black Lions + Red Tigers   | —                                                                       | Half lost their way; Red Tigers wicked and cruel                                            | Mixed                |
 | **Stone Stand**       | Blue Bears                 | — *(none living seen)*                                                  | **The dead hold it.** Robbed by stealth **S69** — **✅ relic obtained**                      | ✅ Done *(the hard way)* |
 | **Shining White**     | Griffin                    | —                                                                       | Mostly abandoned                                                                            | **Easiest**          |
-| **Morgur's Mound**    | Thunder Beast              | Harthulk Hornspea                                                       | Never defeated; lizard-like skin                                                            | Hardest              |
+| **Morgur's Mound**    | Thunder Beast              | Harthulk Hornspea *(not seen S78)*                                      | Never defeated; lizard-like skin. **S78: digging woke a rune; giant lizard skeletons rose** | Hardest — **in progress (S78)** |
 | **Flint Rock**        | Elk *(spirits only)*       | — *(none living seen)*                                                  | **The Golden Stag's blessing, then the spirits'.** Asked our intentions — **✅ relic obtained (S70), freely**                        | ✅ Done               |
 | **Grandfather Tree**  | Tree Ghost                 | —                                                                       | **[[Interitus]] asked us not to go**; respected place that saved him; approach with respect | **Worst-case only**  |
 
@@ -68,6 +68,17 @@ Great Worm tribe. **Warmblood** is the brutal chieftain. Relic confirmed.
 
 ### Morgur's Mound
 **Thunder Beast tribe** — very powerful. **Harthulk Hornspea** never defeated. Monstrous man, lizard-like skin.
+
+**Visited S78.** We **parked the [[Ignitamis]]** and walked in.
+- **The mound looks like a buried dragon**, with **the traditional rock gravestones** we've seen at the other mound sites.
+- **The top of the hill has runes carved into the spines of the rocks. The centre one is magical.**
+- **The relic is up there**: we found it with **the relic finder** (its **second use**; the first was at Stone Stand, S69).
+- **⚠️ Digging sets it off.** **As we started digging, the centre rune flared and giant lizard skeletons came up from the ground**, ready to attack.
+- **No tribespeople, and no Harthulk, are recorded.**
+
+> **How this mound is guarded:** **a rune on the hilltop that raises the dead when someone digs for the relic.** Whether it can be read, broken, or talked past isn't known yet. Live state is on [[Gather Ulfgardian Relics]].
+
+**Still unknown:** what the runes say, whether the "buried dragon" is only a shape, and where the living Thunder Beasts are.
 
 ### Flint Rock
 **Elk tribe.** Most perished against giants years ago — and **S70 confirmed it**: **no living Elk tribespeople.** What remains is the **spirits of the Elk clan**, and unlike the Blue Bears at Stone Stand, **they talk.**
