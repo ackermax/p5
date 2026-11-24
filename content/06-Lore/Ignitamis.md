@@ -42,12 +42,14 @@ status: active
 - **S69 — grounded by fuel.** After collecting at [[Moongleam Tower]] we went to [[Ulfgardian Mounds|Stone Stand]] **on foot**: not enough oil to fly there and still make the following leg. **First time the ship's range has actually dictated the party's route.**
 - **S70 — [[Ulfgardian Mounds|Stone Stand]] → [[Ulfgardian Mounds|Flint Rock]] → [[Yartar]].** Loaded the **100 lb giant's skull** aboard and flew the leg the ship couldn't afford in S69. At Yartar, **handed over for fuel and repairs.**
 - **S78 — [[Yartar]] → [[Phandalin]] → [[Ulfgardian Mounds#Morgur's Mound|Morgur's Mound]]:** **back aboard after the gnome's work**, with **the items the guards had been holding**. Home to the manor, then out to the Thunder Beast mound, **parked nearby while we walked in.** **The bill, and how much range the tank had, aren't recorded.**
+- **S79 — [[Ulfgardian Mounds#Morgur's Mound|Morgur's Mound]] → [[Ulfgardian Mounds#Raven Rock|Raven Rock]]:** **flew out with the gold tooth relic and a thunder beast skull** Gotrek brought aboard. *(Where it's parked at Raven Rock isn't recorded.)*
 - **S66 — [[Ulfgardian Mounds|One Stone]] → [[Everlund]] → back:** carried the dying chieftain **[[Arnzan Vashk]]** to Everlund to be cured, then home again. **The ship is why that rescue was possible at all** — and why we could then return him and ask for the relic in person.
 
 ## What It Carries
 
 - The **[[Stronmaus]] statue** — [[Harrick Stonequill]]'s students loaded it aboard (S57)
 - Our accumulated relics and loot — see [[Gather Ulfgardian Relics]] and [[Items and References]]
+- **A thunder beast skull** *(S79)* — [[Gotrek Runehammer|Gotrek]] took it from Morgur's Mound **to leave on the ship**
 
 ## Open Questions
 

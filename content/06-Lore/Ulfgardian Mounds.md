@@ -12,7 +12,7 @@ tags: [lore, plot-critical]
 
 The Ulfgardians are descended from the followers of **Uthgar** (a.k.a. **Ulfguard**), who was a **farmer who fought nobles, then fought the frost giant [[Gurt]]**, and **killed each other in final combat**. Uthgar became the **god of strength**. After his death, his tribe was broken up into the **mounds** — each holds at least one **relic**.
 
-The clans are protectors of forests and antagonistic to civilization. They have historically been the front line against giant incursions. [[Interitus]] (the Black Wolf) is one of them — **specifically of the Gray Wolf tribe**, and is also a [[Force Grey]] member.
+The clans are protectors of forests and antagonistic to civilization. They have historically been the front line against giant incursions. [[Interitus]] (the Black Wolf) is one of them — **specifically of the Gray Wolf tribe**, and is also a [[Force Grey]] member. **S79: we believe his tribe has turned on him** and wants his head; see [[#Raven Rock]].
 
 ## Critical Update — The Oracles
 
@@ -24,22 +24,34 @@ This file is the **reference** for *who's at each mound and how to approach them
 
 ## The Nine Mounds — Quick Reference Table
 
-| Mound                 | Tribe(s)                   | Chieftain                                                               | Approach                                                                                    | Difficulty           |
-| --------------------- | -------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | -------------------- |
-| **Raven Rock**        | Black Ravens + Gray Wolves | **Ojin Voninsdottir** (BR) — **do NOT kill**; **Syken Nightblaze** (GW) | Diplomacy                                                                                   | Moderate             |
-| **Great Worm Cavern** | Great Worm                 | Warmblood                                                               | Unknown                                                                                     | Dangerous — assholes |
-| **One Stone**         | Sky Ponies                 | **[[Arnzan Vashk]]** — *cured S66; **allied***                          | Helped with his illness — **✅ relic obtained (S66)**                                        | ✅ Done               |
-| **Beorunna's Well**   | Black Lions + Red Tigers   | —                                                                       | Half lost their way; Red Tigers wicked and cruel                                            | Mixed                |
-| **Stone Stand**       | Blue Bears                 | — *(none living seen)*                                                  | **The dead hold it.** Robbed by stealth **S69** — **✅ relic obtained**                      | ✅ Done *(the hard way)* |
-| **Shining White**     | Griffin                    | —                                                                       | Mostly abandoned                                                                            | **Easiest**          |
-| **Morgur's Mound**    | Thunder Beast              | Harthulk Hornspea *(not seen S78)*                                      | Never defeated; lizard-like skin. **S78: digging woke a rune; giant lizard skeletons rose** | Hardest — **in progress (S78)** |
-| **Flint Rock**        | Elk *(spirits only)*       | — *(none living seen)*                                                  | **The Golden Stag's blessing, then the spirits'.** Asked our intentions — **✅ relic obtained (S70), freely**                        | ✅ Done               |
-| **Grandfather Tree**  | Tree Ghost                 | —                                                                       | **[[Interitus]] asked us not to go**; respected place that saved him; approach with respect | **Worst-case only**  |
+| Mound                 | Tribe(s)                   | Chieftain                                                               | Approach                                                                                                     | Difficulty                      |
+| --------------------- | -------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------- |
+| **Raven Rock**        | Black Ravens + Gray Wolves | **[[Ojin Voninsdottir]]** (BR) — **do NOT kill; met S79**; **Syken Nightblaze** (GW) | Diplomacy. **No magic in front of them (S79).** Ojin's price: **kill the monster on the mountain** | Moderate — **in progress (S79)** |
+| **Great Worm Cavern** | Great Worm                 | Warmblood                                                               | Unknown                                                                                                      | Dangerous — assholes            |
+| **One Stone**         | Sky Ponies                 | **[[Arnzan Vashk]]** — *cured S66; **allied***                          | Helped with his illness — **✅ relic obtained (S66)**                                                         | ✅ Done                          |
+| **Beorunna's Well**   | Black Lions + Red Tigers   | —                                                                       | Half lost their way; Red Tigers wicked and cruel                                                             | Mixed                           |
+| **Stone Stand**       | Blue Bears                 | — *(none living seen)*                                                  | **The dead hold it.** Robbed by stealth **S69** — **✅ relic obtained**                                       | ✅ Done *(the hard way)*         |
+| **Shining White**     | Griffin                    | —                                                                       | Mostly abandoned                                                                                             | **Easiest**                     |
+| **Morgur's Mound**    | Thunder Beast              | Harthulk Hornspea *(not seen S78–S79)*                                  | Digging wakes a hilltop rune and raises **skeleton thunder lizards**. **Killed them; ✅ relic obtained (S79)** | ✅ Done *(by force)*             |
+| **Flint Rock**        | Elk *(spirits only)*       | — *(none living seen)*                                                  | **The Golden Stag's blessing, then the spirits'.** Asked our intentions — **✅ relic obtained (S70), freely** | ✅ Done                          |
+| **Grandfather Tree**  | Tree Ghost                 | —                                                                       | **[[Interitus]] asked us not to go**; respected place that saved him; approach with respect                  | **Worst-case only**             |
 
 ## Per-Mound Notes
 
 ### Raven Rock
-**Oldest mound.** Shared between Black Ravens and Gray Wolves (two relics total). The Gray Wolves' leader was killed; **Syken Nightblaze** (his daughter) trying to claim chieftainship. Black Ravens led by **Ojin Voninsdottir** — cold, heartless, old. **Per the new notes: do NOT kill her.** She has a problem in the mountains — help her, get a relic.
+**Oldest mound.** Shared between Black Ravens and Gray Wolves (two relics total). The Gray Wolves' leader was killed; **Syken Nightblaze** (his daughter) trying to claim chieftainship. Black Ravens led by **[[Ojin Voninsdottir]]** — cold, heartless, old. **Per the new notes: do NOT kill her.** She has a problem in the mountains — help her, get a relic.
+
+**Visited S79.** We flew in on the [[Ignitamis]] from Morgur's Mound and **started with the Black Ravens.**
+- **⚠️ They really don't like magic.** We found out **after [[Jaak Greye|Jaak]] used a spell to communicate with them.** What it cost us isn't recorded. **Treat spellcasting in front of Raven Rock's people as a diplomatic risk.**
+- **We spoke with [[Ojin Voninsdottir|Ojin]], leader of the Black Ravens.** The "mountain problem" turned out to be **a monster at the top of the mountain**: **great white wings, and it kills deer.** **She sent us to fight it.**
+- **⚠️ Fight one tribe, fight both.** **The Black Ravens and the Gray Wolves are pacted**: if we get into a fight with either, the other joins in *(Var: "a pact to fight alongside the grey wolves if we get into a fight with them")*.
+- **⭐ The Gray Wolves want [[Interitus]] dead.** Var's note: **"Head of Interitus is the only thing the force grey will accept to not attack us."** **The party reads "force grey" as the Gray Wolves**, and the line as meaning **Interitus's own tribe has turned on him and only wants him dead.** That's our reading, not something stated outright. **Why they turned on him isn't recorded.**
+- **We traded the splint armor made in our [[Phandalin|bastion]] for hides** to protect us from the cold on the climb.
+- **Up the mountain:** we **fought ice elementals**, kept moving into the cave, and **saw kobolds riding frost wolves.** **Session ended on the edge of combat.**
+
+> **What's up there?** Everything pointed to **a dragon** — white wings, cold, a mountain lair. **Var's question:** is there really **a white dragon** here, given how much they **usually love their solitude**, and why are **kobolds on frost wolves** in its cave? **Not answered.**
+
+**Still unknown:** whether killing the monster earns **one relic or both**; whether there's **any price short of Interitus's head** that keeps the Gray Wolves off us; and whether **Syken Nightblaze** has been met.
 
 ### Great Worm Cavern
 Great Worm tribe. **Warmblood** is the brutal chieftain. Relic confirmed.
@@ -76,7 +88,9 @@ Great Worm tribe. **Warmblood** is the brutal chieftain. Relic confirmed.
 - **⚠️ Digging sets it off.** **As we started digging, the centre rune flared and giant lizard skeletons came up from the ground**, ready to attack.
 - **No tribespeople, and no Harthulk, are recorded.**
 
-> **How this mound is guarded:** **a rune on the hilltop that raises the dead when someone digs for the relic.** Whether it can be read, broken, or talked past isn't known yet. Live state is on [[Gather Ulfgardian Relics]].
+**Cleared S79.** **We killed the skeleton thunder lizards** *(Var's name for the S78 "giant lizard skeletons")*, **went back to digging, and found a single large gold tooth**, which **seems to be the relic** and **looks like it belonged to a cloud giant.** **[[Gotrek Runehammer|Gotrek]] took one of the thunder beast skulls** to leave on the ship. **Still no living tribespeople.**
+
+> **How this mound is actually cleared:** **dig, and fight what the rune raises.** No tribe to talk to, so no one to negotiate with. Live state is on [[Gather Ulfgardian Relics]].
 
 **Still unknown:** what the runes say, whether the "buried dragon" is only a shape, and where the living Thunder Beasts are.
 

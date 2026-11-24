@@ -16,7 +16,8 @@ session-number: 79 - Jaak
 
 ## Key Events
 
--
+- Defeated the lizard skeletons and got the relic, a gold tooth
+- Flew to raven rock and met Ojin
 -
 
 ## NPCs Met

@@ -127,10 +127,10 @@ Met during [[The Everlund Apparitions]] *(S67–S68)*. See [[Aasimar Temple|the 
 
 See [[Ulfgardian Mounds]] for full context.
 - **Syken Nightblaze** — daughter of the slain Gray Wolves leader, trying to claim chieftainship
-- **Ojin Voninsdottir** — cold, heartless, old. Leader of the Black Ravens at Raven Rock. **Do NOT kill.**
+- **[[Ojin Voninsdottir]]** — cold, heartless, old. Leader of the Black Ravens at Raven Rock. **Do NOT kill.** **Met S79; sent us after the monster on the mountain.** *Promoted to her own file.*
 - **Warmblood** — brutal chieftain of the Great Worm tribe
 - **[[Arnzan Vashk]]** — chieftain of the Sky Ponies; **cured and allied (S66)**. *Promoted to his own file.*
-- **Harthulk Hornspea** — great chief of the Thunder Beast tribe, **never defeated**
+- **Harthulk Hornspea** — great chief of the Thunder Beast tribe, **never defeated**. **Not seen at Morgur's Mound (S78–S79)**, even after we took its relic
 
 ## Giants Of Note (Beyond The Big Players)
 

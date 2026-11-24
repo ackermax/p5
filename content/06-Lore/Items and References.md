@@ -42,6 +42,7 @@ tags: [lore, items, index]
 - **A small stone from home** — possibly a piece of the cleft he was raised in (the [[Cradle of the Stonegiants|Cradle]])
 - **Potion of Resistance** *(Brawl reward, S61)* — uncommon; resistance to one damage type for 1 hour
 - **Periapt of Health** *(Brawl reward, S61)* — rare; immunity to disease while worn
+- **A thunder beast skull** *(new, S79)* — **one of the skeleton thunder lizards' skulls** from [[Ulfgardian Mounds#Morgur's Mound|Morgur's Mound]]. **Gotrek took it to leave on the ship** ([[Ignitamis]]). **Not a relic**: the relic is the gold tooth.
 
 ### Held By [[Sir Joseph Gordon Die Hard]]
 - **Necklace of Fireballs** *(Brawl reward, S61)* — rare; detach and throw beads as fireballs (DC 15), no attunement, no spell slot
@@ -49,6 +50,8 @@ tags: [lore, items, index]
 - **Magic tattoo** *(singles-champion prize, S61)* — force a creature to **roll a 1**, once per long rest, **3 uses total**
 
 ### Party Resources
+- **The Morgur's Mound relic — a single large gold tooth** *(new, S79)* — dug up at the Thunder Beast mound after we killed the skeleton thunder lizards. **Seems to be the relic; looks like it belonged to a cloud giant.** *(Relic inventory lives on [[Gather Ulfgardian Relics]].)*
+- **Cold-weather hides** *(new, S79)* — **traded for at [[Ulfgardian Mounds#Raven Rock|Raven Rock]]**, in exchange for **our bastion-made splint armor**, to protect us from the cold on the mountain. Count not recorded.
 - **[[Ilin Cotton]]'s belongings** *(new, S74)* — **a picture of [[The Traveling Wilmelons|Jaak's troupe]]** and **his notes about the [[Cult of Cyric|cult]] and his investigation.** **Read the notes.** *(We still have these; only his body went to a [[Harpers|Harper]] at the [[Through and Through Detective Agency]], S76.)*
 - **The Flint Rock relic — the tip of a mithral spear** *(S70)* — **only the tip.** Given **freely** by the **spirits of the Elk clan** at [[Ulfgardian Mounds|Flint Rock]] once we earned **[[The Golden Stag]]'s blessing**. *(**Mithral** — the D&D spelling for the metal. Players' files render it "mythral" / "Mythril".)* **Whether the tip is a usable item or purely a relic to spend is unrecorded** — see [[Gather Ulfgardian Relics]].
 - **⭐ Two blessings — symbolic, no mechanical effect** *(S70, confirmed)* — **[[The Golden Stag]]'s blessing** (given for being *"wanting, but far enough along"* on restoring nature's balance) and **the blessing of the spirits of the Elk Tribe** (given with the relic). **They don't *do* anything.** What they are is **standing with the Ulfgardian dead and with a power of nature** — worth invoking at [[Ulfgardian Mounds|Raven Rock]], not worth a line on a character sheet.
@@ -71,6 +74,8 @@ tags: [lore, items, index]
 - **[[King]]** — golden retriever. The Order of the Kraken sold him to the [[Waterdeep]] gambling den; we tracked him there via [[The Waterdeep Wazoo Issue 496|the Wazoo]]'s "FOUND!" ad and **rescued him**. Status: with the party. Very good boy.
 
 ## Spent / Inert
+
+- **Splint armor made in the bastion** *(traded away S79)* — **made in our [[Phandalin|bastion]]**, and **traded for hides** at [[Ulfgardian Mounds#Raven Rock|Raven Rock]] before the mountain climb. How many sets, and when the bastion made them, aren't recorded.
 
 - **One sussur extract** *(got and handed over S78)* — **what's inside an anti-magic knight**, taken from one in [[Other Locations#Cardon's Hideout (working name)|Cardon's bunker]]. *(Jaak: "extracted an anti-magic heart from an armored guy.")* **Given to the [[Track the Red Mages|Red Mages]] in [[Yartar]] as the price of [[Var Borgal|Var]]'s life.** **Gone.**
 - **Scroll of *Revivify*** *(used S75)* — [[Estelle Moonglow Platinum|Estelle]] was carrying it; **[[Sir Joseph Gordon Die Hard|Sir Joseph]] cast it to bring her back** after she died in the [[Cult of Cyric|cult]] dungeon under [[Yartar]]. **Gone.** *(Where she got it was never logged.)*

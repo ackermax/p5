@@ -18,6 +18,14 @@ A werewolf and **Force Grey member**, a wolf guardian belonging to the **gray wo
 
 To approach him: **speak Harshnag's name.**
 
+## ⭐ His Tribe Has Turned On Him *(S79)*
+
+At [[Ulfgardian Mounds#Raven Rock|Raven Rock]], Var logged: **"Head of Interitus is the only thing the force grey will accept to not attack us."** **The party reads "force grey" as the Gray Wolves**, Interitus's own tribe, and takes it to mean **they have turned on him and only want him dead at this point.** That is **our reading, not a stated fact.** He is still **[[Force Grey]]**, and still an ally of ours.
+
+**Why it matters:** the Gray Wolves are **pacted with [[Ojin Voninsdottir|Ojin]]'s Black Ravens (fight one, fight both)**, and Raven Rock holds **two relics.** **His head is their price for not attacking us.** What we do about that isn't decided.
+
+**Not recorded:** why the tribe turned on him, whether he knows, and whether this is tied to **Syken Nightblaze**'s bid for the chieftainship after **the Gray Wolves' leader was killed**.
+
 ## What He Wanted From Us
 
 He **asked us to kill the necromancer** in [[Kryptgarden Forest]]. We did — **before even meeting him**. The necromancer turned out to be running the [[The Death Knight Ritual]] for the [[Cult of Cyric]]. Interitus's tip was high-value intelligence.

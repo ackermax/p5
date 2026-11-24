@@ -12,7 +12,7 @@ tags: [lore, faction, ally]
 - **[[Thomas]]** — kobold; runs an underground network in the [[Waterdeep]] sewers with a guild ally
 - **[[Lady Morwen Daggerford]]** — woman fighter, Duchess of Daggerford
 - **Marlis** — human man who resembles a yeti
-- **[[Interitus]]** — werewolf, "the black wolf," wolf guardian of the gray wolf tribe ([[Ulfgardian Mounds]] connection)
+- **[[Interitus]]** — werewolf, "the black wolf," wolf guardian of the gray wolf tribe ([[Ulfgardian Mounds]] connection). **S79: we believe the Gray Wolves have turned on him and want his head**
 
 > *Marlis is also the name of the proprietor of an inn ([[Goldenfields]] arc) — different Marlis, presumably. Confirm with DM.*
 

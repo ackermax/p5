@@ -25,7 +25,7 @@ region: Sword Coast
 - **Miners Exchange** — Halia Thorton's
 - **Shrine of Luck** — town center, dedicated to **Lady Tymora**
 - **Tresendar Manor** — south of town; former [[The Red Brands|Red Brand]] base; **basement led down and to the side** with rot smell; **sword buried in orchard** (unexplored)
-- **The party's bastion** — at the manor; options walked through with [[Gundren Rockseeker]] in S63, **not all chosen yet**. **It has a [[Harpers|Harper teleportation circle]]** — [[Krowen Valharrow]]'s payment for [[The Everlund Apparitions]] (S69), **set up S78** — with **[[Droop]]** as the resident mage who attends it
+- **The party's bastion** — at the manor; options walked through with [[Gundren Rockseeker]] in S63, **not all chosen yet**. **It has a [[Harpers|Harper teleportation circle]]** — [[Krowen Valharrow]]'s payment for [[The Everlund Apparitions]] (S69), **set up S78** — with **[[Droop]]** as the resident mage who attends it. **It has made splint armor** — we **traded that armor for cold-weather hides** at [[Ulfgardian Mounds#Raven Rock|Raven Rock]] (S79). Which facility made it isn't recorded.
 - **Sleeping Giant Tavern** — former Red Brands hangout
 - **The orchard** — Daran Edermath lives here
 - **The Lion Shield Merchant Empire outpost** — emblem: lion on a shield

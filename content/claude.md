@@ -115,6 +115,13 @@ The standing weekly task:
   - **The bastion's teleportation circle is set up** (Phandalin is on the network). **The Ignitamis is back in the party's hands.**
   - **Morgur's Mound (S78):** a buried-dragon-shaped hill with rock gravestones; runes on the hilltop rocks, the centre one magical; **digging for the relic made the rune flare and giant lizard skeletons rose** (cliffhanger). Harthulk and the tribe not seen.
   - **"Evermoors is where the flying castle is. Zephros there?"** is logged as **Var's question**, not linked to [[Zephyros]] until the user confirms they're the same.
+- **S79 canon (Var's and Jaak's files; the three empty S79 files were deleted 2026-11-23). The two ⭐ rulings were confirmed by the user 2026-11-23:**
+  - **Morgur's Mound is done.** The relic is **a single large gold tooth** that **looks like it belonged to a cloud giant** (Var's read; write "looks like"). **Gotrek keeps a thunder beast skull on the [[Ignitamis]]**, which is **not** a relic. Var's "skeleton thunder lizards" are the S78 "giant lizard skeletons."
+  - **[[Ojin Voninsdottir]] now has her own NPC file** (met S79). **Raven Rock's people really don't like magic.** Ojin's job: **kill the monster at the top of the mountain** (great white wings, kills deer). **The relic as reward is presumed, not stated.**
+  - **⭐ The Black Ravens and Gray Wolves are pacted: fight one, fight both.**
+  - **⭐ "Head of Interitus is the only thing the force grey will accept to not attack us"**: **the party reads "force grey" as the Gray Wolves**, meaning **[[Interitus]]'s own tribe has turned on him and only wants him dead.** Write it as **the party's reading**, not a stated fact. **Interitus is still Force Grey and still our ally**; why the tribe turned isn't recorded.
+  - **The splint armor the bastion made was traded for cold-weather hides.** Which bastion facility made it isn't recorded.
+  - **"Is it really a white dragon?" is Var's question.** Ice elementals, then **kobolds on frost wolves** in the cave. Don't name a dragon until one appears.
 - **Working names for unnamed places** are allowed when the party has no true name yet — file them under the working name with an explicit callout that it's provisional, and rename when the real name surfaces. Current examples: the **Aasimar Temple** (S67, northeast of Everlund) and **Cardon's hideout** (S76, northeast of Yartar, in [[Other Locations]]; **"Cardon's bunker" is an equally fine working name**, per the user 2026-11-07, and Var calls it "the facility").
 
 ## Folder structure
